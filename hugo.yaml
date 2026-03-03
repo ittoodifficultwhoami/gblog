@@ -1,0 +1,68 @@
+baseURL: https://minweb.shop/
+languageCode: en-us
+title: MinWeb
+theme: PaperMod
+
+paginate: 10
+
+enableRobotsTXT: true
+buildDrafts: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+params:
+  env: production
+  description: "Practical guides backed by real data"
+  author: "MinWeb"
+
+  defaultTheme: auto
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowToc: true
+  TocOpen: false
+
+  homeInfoParams:
+    Title: "MinWeb"
+    Content: "Practical guides backed by real data"
+
+  socialIcons:
+    - name: rss
+      url: /index.xml
+
+  assets:
+    favicon: /favicon.ico
+
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+menu:
+  main:
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 10
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 20
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 30
