@@ -18,18 +18,38 @@ languages:
         Content: "Practical guides backed by real data"
     menu:
       main:
+        - identifier: finance
+          name: Finance
+          url: /en/categories/finance/
+          weight: 10
+        - identifier: tech
+          name: Tech
+          url: /en/categories/tech/
+          weight: 20
+        - identifier: health
+          name: Health
+          url: /en/categories/health/
+          weight: 30
+        - identifier: entertainment
+          name: Entertainment
+          url: /en/categories/entertainment/
+          weight: 40
+        - identifier: politics
+          name: Politics
+          url: /en/categories/politics/
+          weight: 50
+        - identifier: sports
+          name: Sports
+          url: /en/categories/sports/
+          weight: 60
+        - identifier: lifestyle
+          name: Lifestyle
+          url: /en/categories/lifestyle/
+          weight: 70
         - identifier: search
           name: Search
           url: /en/search/
-          weight: 10
-        - identifier: categories
-          name: Categories
-          url: /en/categories/
-          weight: 20
-        - identifier: tags
-          name: Tags
-          url: /en/tags/
-          weight: 30
+          weight: 80
   kr:
     languageCode: ko-kr
     languageName: 한국어
@@ -42,18 +62,38 @@ languages:
         Content: "데이터 기반 실용 가이드"
     menu:
       main:
+        - identifier: finance
+          name: 금융
+          url: /kr/categories/finance/
+          weight: 10
+        - identifier: tech
+          name: 기술
+          url: /kr/categories/tech/
+          weight: 20
+        - identifier: health
+          name: 건강
+          url: /kr/categories/health/
+          weight: 30
+        - identifier: entertainment
+          name: 엔터
+          url: /kr/categories/entertainment/
+          weight: 40
+        - identifier: politics
+          name: 정치
+          url: /kr/categories/politics/
+          weight: 50
+        - identifier: sports
+          name: 스포츠
+          url: /kr/categories/sports/
+          weight: 60
+        - identifier: lifestyle
+          name: 라이프
+          url: /kr/categories/lifestyle/
+          weight: 70
         - identifier: search
           name: 검색
           url: /kr/search/
-          weight: 10
-        - identifier: categories
-          name: 카테고리
-          url: /kr/categories/
-          weight: 20
-        - identifier: tags
-          name: 태그
-          url: /kr/tags/
-          weight: 30
+          weight: 80
   ch:
     languageCode: zh-cn
     languageName: 中文
@@ -66,18 +106,38 @@ languages:
         Content: "基于数据的实用指南"
     menu:
       main:
+        - identifier: finance
+          name: 财经
+          url: /ch/categories/finance/
+          weight: 10
+        - identifier: tech
+          name: 科技
+          url: /ch/categories/tech/
+          weight: 20
+        - identifier: health
+          name: 健康
+          url: /ch/categories/health/
+          weight: 30
+        - identifier: entertainment
+          name: 娱乐
+          url: /ch/categories/entertainment/
+          weight: 40
+        - identifier: politics
+          name: 政治
+          url: /ch/categories/politics/
+          weight: 50
+        - identifier: sports
+          name: 体育
+          url: /ch/categories/sports/
+          weight: 60
+        - identifier: lifestyle
+          name: 生活
+          url: /ch/categories/lifestyle/
+          weight: 70
         - identifier: search
           name: 搜索
           url: /ch/search/
-          weight: 10
-        - identifier: categories
-          name: 分类
-          url: /ch/categories/
-          weight: 20
-        - identifier: tags
-          name: 标签
-          url: /ch/tags/
-          weight: 30
+          weight: 80
 
 pagination:
   pagerSize: 10
