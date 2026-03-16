@@ -2,8 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://minweb.shop/en/tags/airline-industry/</loc>
+    <lastmod>2026-03-16T13:24:37+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/airlines/</loc>
+    <lastmod>2026-03-16T13:24:37+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/business-news/</loc>
+    <lastmod>2026-03-16T13:24:37+09:00</lastmod>
+  </url><url>
     <loc>https://minweb.shop/en/categories/</loc>
-    <lastmod>2026-03-16T11:06:55+09:00</lastmod>
+    <lastmod>2026-03-16T13:24:37+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko-kr"
@@ -20,14 +29,17 @@
                 href="https://minweb.shop/en/categories/"
                 />
   </url><url>
-    <loc>https://minweb.shop/en/categories/entertainment/</loc>
-    <lastmod>2026-03-16T11:06:55+09:00</lastmod>
+    <loc>https://minweb.shop/en/categories/finance/</loc>
+    <lastmod>2026-03-16T13:24:37+09:00</lastmod>
   </url><url>
-    <loc>https://minweb.shop/en/posts/entertainment/jason-s-16-year-absence-explained/</loc>
-    <lastmod>2026-03-16T11:06:55+09:00</lastmod>
+    <loc>https://minweb.shop/en/tags/finance/</loc>
+    <lastmod>2026-03-16T13:24:37+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/financial-performance/</loc>
+    <lastmod>2026-03-16T13:24:37+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/en/</loc>
-    <lastmod>2026-03-16T11:06:55+09:00</lastmod>
+    <lastmod>2026-03-16T13:24:37+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko-kr"
@@ -44,16 +56,20 @@
                 href="https://minweb.shop/en/"
                 />
   </url><url>
+    <loc>https://minweb.shop/en/tags/operational-changes/</loc>
+    <lastmod>2026-03-16T13:24:37+09:00</lastmod>
+  </url><url>
     <loc>https://minweb.shop/en/posts/</loc>
-    <lastmod>2026-03-16T11:06:55+09:00</lastmod>
+    <lastmod>2026-03-16T13:24:37+09:00</lastmod>
   </url><url>
-    <loc>https://minweb.shop/en/posts/finance/costco-vs-walmart-which-is-actually-cheaper/</loc>
-    <lastmod>2026-03-14T20:30:39+09:00</lastmod>
+    <loc>https://minweb.shop/en/tags/southwest-airlines/</loc>
+    <lastmod>2026-03-16T13:24:37+09:00</lastmod>
   </url><url>
-    <loc>https://minweb.shop/en/categories/finance/</loc>
-    <lastmod>2026-03-14T20:30:39+09:00</lastmod>
+    <loc>https://minweb.shop/en/posts/finance/southwest-s-biggest-change-in-53-years/</loc>
+    <lastmod>2026-03-16T13:24:37+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/en/tags/</loc>
+    <lastmod>2026-03-16T13:24:37+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko-kr"
@@ -69,5 +85,17 @@
                 hreflang="en-us"
                 href="https://minweb.shop/en/tags/"
                 />
+  </url><url>
+    <loc>https://minweb.shop/en/tags/travel/</loc>
+    <lastmod>2026-03-16T13:24:37+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/categories/entertainment/</loc>
+    <lastmod>2026-03-16T11:06:55+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/posts/entertainment/jason-s-16-year-absence-explained/</loc>
+    <lastmod>2026-03-16T11:06:55+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/posts/finance/costco-vs-walmart-which-is-actually-cheaper/</loc>
+    <lastmod>2026-03-14T20:30:39+09:00</lastmod>
   </url>
 </urlset>
