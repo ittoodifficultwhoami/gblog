@@ -18,31 +18,31 @@ languages:
         Content: "Practical guides backed by real data"
     menu:
       main:
-        - identifier: finance
+        - identifier: cat-finance
           name: Finance
           url: /en/categories/finance/
           weight: 10
-        - identifier: tech
+        - identifier: cat-tech
           name: Tech
           url: /en/categories/tech/
           weight: 20
-        - identifier: health
+        - identifier: cat-health
           name: Health
           url: /en/categories/health/
           weight: 30
-        - identifier: entertainment
+        - identifier: cat-entertainment
           name: Entertainment
           url: /en/categories/entertainment/
           weight: 40
-        - identifier: politics
+        - identifier: cat-politics
           name: Politics
           url: /en/categories/politics/
           weight: 50
-        - identifier: sports
+        - identifier: cat-sports
           name: Sports
           url: /en/categories/sports/
           weight: 60
-        - identifier: lifestyle
+        - identifier: cat-lifestyle
           name: Lifestyle
           url: /en/categories/lifestyle/
           weight: 70
@@ -62,31 +62,31 @@ languages:
         Content: "데이터 기반 실용 가이드"
     menu:
       main:
-        - identifier: finance
+        - identifier: cat-finance
           name: 금융
           url: /kr/categories/finance/
           weight: 10
-        - identifier: tech
+        - identifier: cat-tech
           name: 기술
           url: /kr/categories/tech/
           weight: 20
-        - identifier: health
+        - identifier: cat-health
           name: 건강
           url: /kr/categories/health/
           weight: 30
-        - identifier: entertainment
+        - identifier: cat-entertainment
           name: 엔터
           url: /kr/categories/entertainment/
           weight: 40
-        - identifier: politics
+        - identifier: cat-politics
           name: 정치
           url: /kr/categories/politics/
           weight: 50
-        - identifier: sports
+        - identifier: cat-sports
           name: 스포츠
           url: /kr/categories/sports/
           weight: 60
-        - identifier: lifestyle
+        - identifier: cat-lifestyle
           name: 라이프
           url: /kr/categories/lifestyle/
           weight: 70
@@ -106,31 +106,31 @@ languages:
         Content: "基于数据的实用指南"
     menu:
       main:
-        - identifier: finance
+        - identifier: cat-finance
           name: 财经
           url: /ch/categories/finance/
           weight: 10
-        - identifier: tech
+        - identifier: cat-tech
           name: 科技
           url: /ch/categories/tech/
           weight: 20
-        - identifier: health
+        - identifier: cat-health
           name: 健康
           url: /ch/categories/health/
           weight: 30
-        - identifier: entertainment
+        - identifier: cat-entertainment
           name: 娱乐
           url: /ch/categories/entertainment/
           weight: 40
-        - identifier: politics
+        - identifier: cat-politics
           name: 政治
           url: /ch/categories/politics/
           weight: 50
-        - identifier: sports
+        - identifier: cat-sports
           name: 体育
           url: /ch/categories/sports/
           weight: 60
-        - identifier: lifestyle
+        - identifier: cat-lifestyle
           name: 生活
           url: /ch/categories/lifestyle/
           weight: 70
