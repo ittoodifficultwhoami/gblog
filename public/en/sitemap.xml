@@ -2,11 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://minweb.shop/en/tags/best-actor-controversy/</loc>
-    <lastmod>2026-03-17T04:41:48+09:00</lastmod>
-  </url><url>
     <loc>https://minweb.shop/en/categories/</loc>
-    <lastmod>2026-03-17T04:41:48+09:00</lastmod>
+    <lastmod>2026-03-17T10:16:21+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko-kr"
@@ -23,20 +20,29 @@
                 href="https://minweb.shop/en/categories/"
                 />
   </url><url>
+    <loc>https://minweb.shop/en/tags/chalamet-dune-3-messiah/</loc>
+    <lastmod>2026-03-17T10:16:21+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/posts/entertainment/chalamet-s-dune-3-messiah-look-revealed/</loc>
+    <lastmod>2026-03-17T10:16:21+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/dune-3/</loc>
+    <lastmod>2026-03-17T10:16:21+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/dune-messiah/</loc>
+    <lastmod>2026-03-17T10:16:21+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/dune-movie/</loc>
+    <lastmod>2026-03-17T10:16:21+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/dune-part-three/</loc>
+    <lastmod>2026-03-17T10:16:21+09:00</lastmod>
+  </url><url>
     <loc>https://minweb.shop/en/categories/entertainment/</loc>
-    <lastmod>2026-03-17T04:41:48+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/en/tags/hollywood-divided/</loc>
-    <lastmod>2026-03-17T04:41:48+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/en/posts/entertainment/jordan-s-oscar-win-hollywood-divided/</loc>
-    <lastmod>2026-03-17T04:41:48+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/en/tags/michael-b-jordan/</loc>
-    <lastmod>2026-03-17T04:41:48+09:00</lastmod>
+    <lastmod>2026-03-17T10:16:21+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/en/</loc>
-    <lastmod>2026-03-17T04:41:48+09:00</lastmod>
+    <lastmod>2026-03-17T10:16:21+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko-kr"
@@ -53,23 +59,14 @@
                 href="https://minweb.shop/en/"
                 />
   </url><url>
-    <loc>https://minweb.shop/en/tags/oscar-win/</loc>
-    <lastmod>2026-03-17T04:41:48+09:00</lastmod>
+    <loc>https://minweb.shop/en/tags/paul-atreides/</loc>
+    <lastmod>2026-03-17T10:16:21+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/en/posts/</loc>
-    <lastmod>2026-03-17T04:41:48+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/en/tags/reddit-reactions/</loc>
-    <lastmod>2026-03-17T04:41:48+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/en/tags/sinners-movie/</loc>
-    <lastmod>2026-03-17T04:41:48+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/en/tags/social-media-debate/</loc>
-    <lastmod>2026-03-17T04:41:48+09:00</lastmod>
+    <lastmod>2026-03-17T10:16:21+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/en/tags/</loc>
-    <lastmod>2026-03-17T04:41:48+09:00</lastmod>
+    <lastmod>2026-03-17T10:16:21+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko-kr"
@@ -85,6 +82,33 @@
                 hreflang="en-us"
                 href="https://minweb.shop/en/tags/"
                 />
+  </url><url>
+    <loc>https://minweb.shop/en/tags/timoth%C3%A9e-chalamet/</loc>
+    <lastmod>2026-03-17T10:16:21+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/best-actor-controversy/</loc>
+    <lastmod>2026-03-17T04:41:48+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/hollywood-divided/</loc>
+    <lastmod>2026-03-17T04:41:48+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/posts/entertainment/jordan-s-oscar-win-hollywood-divided/</loc>
+    <lastmod>2026-03-17T04:41:48+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/michael-b-jordan/</loc>
+    <lastmod>2026-03-17T04:41:48+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/oscar-win/</loc>
+    <lastmod>2026-03-17T04:41:48+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/reddit-reactions/</loc>
+    <lastmod>2026-03-17T04:41:48+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/sinners-movie/</loc>
+    <lastmod>2026-03-17T04:41:48+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/social-media-debate/</loc>
+    <lastmod>2026-03-17T04:41:48+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/en/tags/academy-awards/</loc>
     <lastmod>2026-03-16T15:27:52+09:00</lastmod>
