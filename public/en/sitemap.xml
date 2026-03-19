@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://minweb.shop/en/categories/</loc>
-    <lastmod>2026-03-19T10:28:14+09:00</lastmod>
+    <lastmod>2026-03-19T10:56:01+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko-kr"
@@ -20,14 +20,14 @@
                 href="https://minweb.shop/en/categories/"
                 />
   </url><url>
-    <loc>https://minweb.shop/en/categories/entertainment/</loc>
-    <lastmod>2026-03-19T10:28:14+09:00</lastmod>
+    <loc>https://minweb.shop/en/posts/entertainment/duggar-son-arrested-on-child-molestation-charges/</loc>
+    <lastmod>2026-03-19T10:56:01+09:00</lastmod>
   </url><url>
-    <loc>https://minweb.shop/en/tags/marvel/</loc>
-    <lastmod>2026-03-19T10:28:14+09:00</lastmod>
+    <loc>https://minweb.shop/en/categories/entertainment/</loc>
+    <lastmod>2026-03-19T10:56:01+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/en/</loc>
-    <lastmod>2026-03-19T10:28:14+09:00</lastmod>
+    <lastmod>2026-03-19T10:56:01+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko-kr"
@@ -44,10 +44,13 @@
                 href="https://minweb.shop/en/"
                 />
   </url><url>
-    <loc>https://minweb.shop/en/tags/no-way-home-sequel/</loc>
+    <loc>https://minweb.shop/en/posts/</loc>
+    <lastmod>2026-03-19T10:56:01+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/marvel/</loc>
     <lastmod>2026-03-19T10:28:14+09:00</lastmod>
   </url><url>
-    <loc>https://minweb.shop/en/posts/</loc>
+    <loc>https://minweb.shop/en/tags/no-way-home-sequel/</loc>
     <lastmod>2026-03-19T10:28:14+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/en/tags/sadie-sink/</loc>
