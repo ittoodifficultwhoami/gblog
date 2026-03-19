@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://minweb.shop/en/categories/</loc>
-    <lastmod>2026-03-17T10:16:21+09:00</lastmod>
+    <lastmod>2026-03-19T10:28:14+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko-kr"
@@ -19,6 +19,75 @@
                 hreflang="en-us"
                 href="https://minweb.shop/en/categories/"
                 />
+  </url><url>
+    <loc>https://minweb.shop/en/categories/entertainment/</loc>
+    <lastmod>2026-03-19T10:28:14+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/marvel/</loc>
+    <lastmod>2026-03-19T10:28:14+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/</loc>
+    <lastmod>2026-03-19T10:28:14+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko-kr"
+                href="https://minweb.shop/kr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://minweb.shop/ch/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://minweb.shop/en/"
+                />
+  </url><url>
+    <loc>https://minweb.shop/en/tags/no-way-home-sequel/</loc>
+    <lastmod>2026-03-19T10:28:14+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/posts/</loc>
+    <lastmod>2026-03-19T10:28:14+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/sadie-sink/</loc>
+    <lastmod>2026-03-19T10:28:14+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/sony/</loc>
+    <lastmod>2026-03-19T10:28:14+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/spider-man/</loc>
+    <lastmod>2026-03-19T10:28:14+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/spider-man-brand-new-day/</loc>
+    <lastmod>2026-03-19T10:28:14+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/spider-man-trailer/</loc>
+    <lastmod>2026-03-19T10:28:14+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/posts/entertainment/spider-man-new-trailer-secrets/</loc>
+    <lastmod>2026-03-19T10:28:14+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/</loc>
+    <lastmod>2026-03-19T10:28:14+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko-kr"
+                href="https://minweb.shop/kr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://minweb.shop/ch/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://minweb.shop/en/tags/"
+                />
+  </url><url>
+    <loc>https://minweb.shop/en/tags/trailer-analysis/</loc>
+    <lastmod>2026-03-19T10:28:14+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/en/tags/chalamet-dune-3-messiah/</loc>
     <lastmod>2026-03-17T10:16:21+09:00</lastmod>
@@ -38,50 +107,8 @@
     <loc>https://minweb.shop/en/tags/dune-part-three/</loc>
     <lastmod>2026-03-17T10:16:21+09:00</lastmod>
   </url><url>
-    <loc>https://minweb.shop/en/categories/entertainment/</loc>
-    <lastmod>2026-03-17T10:16:21+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/en/</loc>
-    <lastmod>2026-03-17T10:16:21+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko-kr"
-                href="https://minweb.shop/kr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://minweb.shop/ch/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://minweb.shop/en/"
-                />
-  </url><url>
     <loc>https://minweb.shop/en/tags/paul-atreides/</loc>
     <lastmod>2026-03-17T10:16:21+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/en/posts/</loc>
-    <lastmod>2026-03-17T10:16:21+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/en/tags/</loc>
-    <lastmod>2026-03-17T10:16:21+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko-kr"
-                href="https://minweb.shop/kr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://minweb.shop/ch/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://minweb.shop/en/tags/"
-                />
   </url><url>
     <loc>https://minweb.shop/en/tags/timoth%C3%A9e-chalamet/</loc>
     <lastmod>2026-03-17T10:16:21+09:00</lastmod>
