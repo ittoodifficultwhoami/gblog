@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Politics on MinWeb</title>
-    <link>https://minweb.shop/en/categories/politics/</link>
-    <description>Recent content in Politics on MinWeb</description>
+    <title>Digital Exhaust on MinWeb</title>
+    <link>https://minweb.shop/en/tags/digital-exhaust/</link>
+    <description>Recent content in Digital Exhaust on MinWeb</description>
     <generator>Hugo -- 0.147.1</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 20 Mar 2026 13:00:36 +0900</lastBuildDate>
-    <atom:link href="https://minweb.shop/en/categories/politics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://minweb.shop/en/tags/digital-exhaust/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How a Strava Jog Exposed a French Warship’s Location</title>
       <link>https://minweb.shop/en/posts/politics/how-a-strava-jog-exposed-a-french-warship-s-location/</link>
@@ -16,15 +16,6 @@
       <description>&lt;p&gt;Your fitness tracker is a massive security risk, and it just exposed a billion-dollar warship. Journalists recently tracked the French aircraft carrier &lt;strong&gt;FS Charles de Gaulle&lt;/strong&gt; across the Mediterranean simply by looking at a sailor’s public Strava account. The jogger ran laps on the deck, and because their GPS data was set to public, the entire world could see exactly where the ship was hiding.&lt;/p&gt;
 &lt;p&gt;_&lt;em&gt;IMG_PLACEHOLDER&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;This is not a one-off story about one clumsy person. It is a masterclass in &lt;strong&gt;digital exhaust&lt;/strong&gt;—the trail of data you leave behind every time you use a wearable device. Your personal privacy settings are no longer just about your own data; they are a matter of global security.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Trump’s Pearl Harbor Joke: The Diplomatic Cost of a Quip</title>
-      <link>https://minweb.shop/en/posts/politics/trump-s-pearl-harbor-joke-the-diplomatic-cost-of-a-quip/</link>
-      <pubDate>Fri, 20 Mar 2026 12:48:46 +0900</pubDate>
-      <guid>https://minweb.shop/en/posts/politics/trump-s-pearl-harbor-joke-the-diplomatic-cost-of-a-quip/</guid>
-      <description>&lt;p&gt;If you have ever had a boss or colleague kill a deal by making an inappropriate joke at the worst possible moment, you understand exactly why the U.S.-Japan relationship is currently hitting a wall. On March 19, 2026, President Donald Trump turned a high-stakes diplomatic meeting into a public embarrassment by joking about Pearl Harbor to the Japanese Prime Minister.&lt;/p&gt;
-&lt;p&gt;_&lt;em&gt;IMG_PLACEHOLDER&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Diplomacy is about trust, and trust is built on consistency. When a world leader treats a historic trauma like a casual quip, they lose more than a punchline. They lose the leverage needed to secure military and economic cooperation.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
