@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://minweb.shop/en/categories/</loc>
-    <lastmod>2026-03-20T12:22:42+09:00</lastmod>
+    <lastmod>2026-03-20T12:27:01+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko-kr"
@@ -20,23 +20,29 @@
                 href="https://minweb.shop/en/categories/"
                 />
   </url><url>
-    <loc>https://minweb.shop/en/tags/cinema/</loc>
-    <lastmod>2026-03-20T12:22:42+09:00</lastmod>
+    <loc>https://minweb.shop/en/tags/economy/</loc>
+    <lastmod>2026-03-20T12:27:01+09:00</lastmod>
   </url><url>
-    <loc>https://minweb.shop/en/categories/entertainment/</loc>
-    <lastmod>2026-03-20T12:22:42+09:00</lastmod>
+    <loc>https://minweb.shop/en/tags/energy-prices/</loc>
+    <lastmod>2026-03-20T12:27:01+09:00</lastmod>
   </url><url>
-    <loc>https://minweb.shop/en/tags/entertainment/</loc>
-    <lastmod>2026-03-20T12:22:42+09:00</lastmod>
+    <loc>https://minweb.shop/en/tags/federal-reserve/</loc>
+    <lastmod>2026-03-20T12:27:01+09:00</lastmod>
   </url><url>
-    <loc>https://minweb.shop/en/tags/film-dialogue/</loc>
-    <lastmod>2026-03-20T12:22:42+09:00</lastmod>
+    <loc>https://minweb.shop/en/categories/finance/</loc>
+    <lastmod>2026-03-20T12:27:01+09:00</lastmod>
   </url><url>
-    <loc>https://minweb.shop/en/tags/iconic-lines/</loc>
-    <lastmod>2026-03-20T12:22:42+09:00</lastmod>
+    <loc>https://minweb.shop/en/tags/geopolitics/</loc>
+    <lastmod>2026-03-20T12:27:01+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/inflation/</loc>
+    <lastmod>2026-03-20T12:27:01+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/interest-rates/</loc>
+    <lastmod>2026-03-20T12:27:01+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/en/</loc>
-    <lastmod>2026-03-20T12:22:42+09:00</lastmod>
+    <lastmod>2026-03-20T12:27:01+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko-kr"
@@ -53,20 +59,17 @@
                 href="https://minweb.shop/en/"
                 />
   </url><url>
-    <loc>https://minweb.shop/en/tags/movie-analysis/</loc>
-    <lastmod>2026-03-20T12:22:42+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/en/tags/movie-quotes/</loc>
-    <lastmod>2026-03-20T12:22:42+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/en/tags/pop-culture/</loc>
-    <lastmod>2026-03-20T12:22:42+09:00</lastmod>
+    <loc>https://minweb.shop/en/tags/monetary-policy/</loc>
+    <lastmod>2026-03-20T12:27:01+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/en/posts/</loc>
-    <lastmod>2026-03-20T12:22:42+09:00</lastmod>
+    <lastmod>2026-03-20T12:27:01+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/stagflation/</loc>
+    <lastmod>2026-03-20T12:27:01+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/en/tags/</loc>
-    <lastmod>2026-03-20T12:22:42+09:00</lastmod>
+    <lastmod>2026-03-20T12:27:01+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko-kr"
@@ -82,6 +85,33 @@
                 hreflang="en-us"
                 href="https://minweb.shop/en/tags/"
                 />
+  </url><url>
+    <loc>https://minweb.shop/en/posts/finance/why-trump-s-demand-for-rate-cuts-won-t-fix-stagflation/</loc>
+    <lastmod>2026-03-20T12:27:01+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/cinema/</loc>
+    <lastmod>2026-03-20T12:22:42+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/categories/entertainment/</loc>
+    <lastmod>2026-03-20T12:22:42+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/entertainment/</loc>
+    <lastmod>2026-03-20T12:22:42+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/film-dialogue/</loc>
+    <lastmod>2026-03-20T12:22:42+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/iconic-lines/</loc>
+    <lastmod>2026-03-20T12:22:42+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/movie-analysis/</loc>
+    <lastmod>2026-03-20T12:22:42+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/movie-quotes/</loc>
+    <lastmod>2026-03-20T12:22:42+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/pop-culture/</loc>
+    <lastmod>2026-03-20T12:22:42+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/en/posts/entertainment/the-art-of-the-coldest-lines-in-cinema-history/</loc>
     <lastmod>2026-03-20T12:22:42+09:00</lastmod>
@@ -303,9 +333,6 @@
     <lastmod>2026-03-16T13:39:51+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/en/tags/corporate-strategy/</loc>
-    <lastmod>2026-03-16T13:39:51+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/en/categories/finance/</loc>
     <lastmod>2026-03-16T13:39:51+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/en/tags/financial-performance/</loc>
