@@ -2,8 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://minweb.shop/en/tags/afcon/</loc>
+    <lastmod>2026-03-20T13:05:09+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/african-football/</loc>
+    <lastmod>2026-03-20T13:05:09+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/boardroom-champions/</loc>
+    <lastmod>2026-03-20T13:05:09+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/caf/</loc>
+    <lastmod>2026-03-20T13:05:09+09:00</lastmod>
+  </url><url>
     <loc>https://minweb.shop/en/categories/</loc>
-    <lastmod>2026-03-20T13:00:36+09:00</lastmod>
+    <lastmod>2026-03-20T13:05:09+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko-kr"
@@ -18,6 +30,63 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://minweb.shop/en/categories/"
+                />
+  </url><url>
+    <loc>https://minweb.shop/en/tags/football-news/</loc>
+    <lastmod>2026-03-20T13:05:09+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/</loc>
+    <lastmod>2026-03-20T13:05:09+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko-kr"
+                href="https://minweb.shop/kr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://minweb.shop/ch/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://minweb.shop/en/"
+                />
+  </url><url>
+    <loc>https://minweb.shop/en/tags/morocco/</loc>
+    <lastmod>2026-03-20T13:05:09+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/posts/</loc>
+    <lastmod>2026-03-20T13:05:09+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/senegal/</loc>
+    <lastmod>2026-03-20T13:05:09+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/posts/sports/senegal-moves-afcon-trophy-to-military-base-amid-caf-dispute/</loc>
+    <lastmod>2026-03-20T13:05:09+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/categories/sports/</loc>
+    <lastmod>2026-03-20T13:05:09+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/sports-controversy/</loc>
+    <lastmod>2026-03-20T13:05:09+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/</loc>
+    <lastmod>2026-03-20T13:05:09+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko-kr"
+                href="https://minweb.shop/kr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://minweb.shop/ch/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://minweb.shop/en/tags/"
                 />
   </url><url>
     <loc>https://minweb.shop/en/tags/cybersecurity/</loc>
@@ -38,53 +107,14 @@
     <loc>https://minweb.shop/en/tags/military-security/</loc>
     <lastmod>2026-03-20T13:00:36+09:00</lastmod>
   </url><url>
-    <loc>https://minweb.shop/en/</loc>
-    <lastmod>2026-03-20T13:00:36+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko-kr"
-                href="https://minweb.shop/kr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://minweb.shop/ch/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://minweb.shop/en/"
-                />
-  </url><url>
     <loc>https://minweb.shop/en/tags/opsec/</loc>
     <lastmod>2026-03-20T13:00:36+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/en/categories/politics/</loc>
     <lastmod>2026-03-20T13:00:36+09:00</lastmod>
   </url><url>
-    <loc>https://minweb.shop/en/posts/</loc>
-    <lastmod>2026-03-20T13:00:36+09:00</lastmod>
-  </url><url>
     <loc>https://minweb.shop/en/tags/strava/</loc>
     <lastmod>2026-03-20T13:00:36+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/en/tags/</loc>
-    <lastmod>2026-03-20T13:00:36+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko-kr"
-                href="https://minweb.shop/kr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://minweb.shop/ch/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://minweb.shop/en/tags/"
-                />
   </url><url>
     <loc>https://minweb.shop/en/tags/warship-tracking/</loc>
     <lastmod>2026-03-20T13:00:36+09:00</lastmod>
