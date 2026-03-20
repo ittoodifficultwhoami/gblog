@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://minweb.shop/en/categories/</loc>
-    <lastmod>2026-03-20T12:48:46+09:00</lastmod>
+    <lastmod>2026-03-20T12:52:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko-kr"
@@ -20,20 +20,23 @@
                 href="https://minweb.shop/en/categories/"
                 />
   </url><url>
-    <loc>https://minweb.shop/en/tags/diplomacy/</loc>
-    <lastmod>2026-03-20T12:48:46+09:00</lastmod>
+    <loc>https://minweb.shop/en/tags/data-brokers/</loc>
+    <lastmod>2026-03-20T12:52:06+09:00</lastmod>
   </url><url>
-    <loc>https://minweb.shop/en/tags/donald-trump/</loc>
-    <lastmod>2026-03-20T12:48:46+09:00</lastmod>
+    <loc>https://minweb.shop/en/tags/digital-rights/</loc>
+    <lastmod>2026-03-20T12:52:06+09:00</lastmod>
   </url><url>
-    <loc>https://minweb.shop/en/tags/foreign-policy/</loc>
-    <lastmod>2026-03-20T12:48:46+09:00</lastmod>
+    <loc>https://minweb.shop/en/tags/fbi/</loc>
+    <lastmod>2026-03-20T12:52:06+09:00</lastmod>
   </url><url>
-    <loc>https://minweb.shop/en/tags/international-relations/</loc>
-    <lastmod>2026-03-20T12:48:46+09:00</lastmod>
+    <loc>https://minweb.shop/en/tags/fourth-amendment/</loc>
+    <lastmod>2026-03-20T12:52:06+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/location-data/</loc>
+    <lastmod>2026-03-20T12:52:06+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/en/</loc>
-    <lastmod>2026-03-20T12:48:46+09:00</lastmod>
+    <lastmod>2026-03-20T12:52:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko-kr"
@@ -50,23 +53,20 @@
                 href="https://minweb.shop/en/"
                 />
   </url><url>
-    <loc>https://minweb.shop/en/tags/pearl-harbor/</loc>
-    <lastmod>2026-03-20T12:48:46+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/en/tags/political-controversy/</loc>
-    <lastmod>2026-03-20T12:48:46+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/en/tags/political-news/</loc>
-    <lastmod>2026-03-20T12:48:46+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/en/categories/politics/</loc>
-    <lastmod>2026-03-20T12:48:46+09:00</lastmod>
-  </url><url>
     <loc>https://minweb.shop/en/posts/</loc>
-    <lastmod>2026-03-20T12:48:46+09:00</lastmod>
+    <lastmod>2026-03-20T12:52:06+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/privacy/</loc>
+    <lastmod>2026-03-20T12:52:06+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/smartphone-surveillance/</loc>
+    <lastmod>2026-03-20T12:52:06+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/surveillance-state/</loc>
+    <lastmod>2026-03-20T12:52:06+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/en/tags/</loc>
-    <lastmod>2026-03-20T12:48:46+09:00</lastmod>
+    <lastmod>2026-03-20T12:52:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko-kr"
@@ -82,6 +82,36 @@
                 hreflang="en-us"
                 href="https://minweb.shop/en/tags/"
                 />
+  </url><url>
+    <loc>https://minweb.shop/en/categories/tech/</loc>
+    <lastmod>2026-03-20T12:52:06+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/posts/tech/the-fbi-is-buying-your-location-data-and-won-t-stop/</loc>
+    <lastmod>2026-03-20T12:52:06+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/diplomacy/</loc>
+    <lastmod>2026-03-20T12:48:46+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/donald-trump/</loc>
+    <lastmod>2026-03-20T12:48:46+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/foreign-policy/</loc>
+    <lastmod>2026-03-20T12:48:46+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/international-relations/</loc>
+    <lastmod>2026-03-20T12:48:46+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/pearl-harbor/</loc>
+    <lastmod>2026-03-20T12:48:46+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/political-controversy/</loc>
+    <lastmod>2026-03-20T12:48:46+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/political-news/</loc>
+    <lastmod>2026-03-20T12:48:46+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/categories/politics/</loc>
+    <lastmod>2026-03-20T12:48:46+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/en/posts/politics/trump-s-pearl-harbor-joke-the-diplomatic-cost-of-a-quip/</loc>
     <lastmod>2026-03-20T12:48:46+09:00</lastmod>
@@ -170,25 +200,13 @@
     <loc>https://minweb.shop/en/posts/entertainment/why-abc-scrapped-the-bachelorette-over-vetting-failures/</loc>
     <lastmod>2026-03-20T12:33:59+09:00</lastmod>
   </url><url>
-    <loc>https://minweb.shop/en/tags/data-brokers/</loc>
-    <lastmod>2026-03-20T12:30:40+09:00</lastmod>
-  </url><url>
     <loc>https://minweb.shop/en/tags/digital-privacy/</loc>
-    <lastmod>2026-03-20T12:30:40+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/en/tags/fbi/</loc>
-    <lastmod>2026-03-20T12:30:40+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/en/tags/fourth-amendment/</loc>
     <lastmod>2026-03-20T12:30:40+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/en/tags/location-tracking/</loc>
     <lastmod>2026-03-20T12:30:40+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/en/tags/surveillance/</loc>
-    <lastmod>2026-03-20T12:30:40+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/en/categories/tech/</loc>
     <lastmod>2026-03-20T12:30:40+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/en/tags/tech-policy/</loc>
