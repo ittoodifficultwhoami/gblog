@@ -2,8 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://minweb.shop/en/tags/body-image/</loc>
+    <lastmod>2026-03-20T12:44:56+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/body-neutrality/</loc>
+    <lastmod>2026-03-20T12:44:56+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/body-positivity/</loc>
+    <lastmod>2026-03-20T12:44:56+09:00</lastmod>
+  </url><url>
     <loc>https://minweb.shop/en/categories/</loc>
-    <lastmod>2026-03-20T12:37:36+09:00</lastmod>
+    <lastmod>2026-03-20T12:44:56+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko-kr"
@@ -20,23 +29,20 @@
                 href="https://minweb.shop/en/categories/"
                 />
   </url><url>
-    <loc>https://minweb.shop/en/tags/donald-trump/</loc>
-    <lastmod>2026-03-20T12:37:36+09:00</lastmod>
+    <loc>https://minweb.shop/en/tags/eating-disorder-awareness/</loc>
+    <lastmod>2026-03-20T12:44:56+09:00</lastmod>
   </url><url>
-    <loc>https://minweb.shop/en/tags/federal-reserve/</loc>
-    <lastmod>2026-03-20T12:37:36+09:00</lastmod>
+    <loc>https://minweb.shop/en/categories/health/</loc>
+    <lastmod>2026-03-20T12:44:56+09:00</lastmod>
   </url><url>
-    <loc>https://minweb.shop/en/categories/finance/</loc>
-    <lastmod>2026-03-20T12:37:36+09:00</lastmod>
+    <loc>https://minweb.shop/en/tags/healthy-boundaries/</loc>
+    <lastmod>2026-03-20T12:44:56+09:00</lastmod>
   </url><url>
-    <loc>https://minweb.shop/en/tags/inflation/</loc>
-    <lastmod>2026-03-20T12:37:36+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/en/tags/interest-rates/</loc>
-    <lastmod>2026-03-20T12:37:36+09:00</lastmod>
+    <loc>https://minweb.shop/en/tags/mental-health/</loc>
+    <lastmod>2026-03-20T12:44:56+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/en/</loc>
-    <lastmod>2026-03-20T12:37:36+09:00</lastmod>
+    <lastmod>2026-03-20T12:44:56+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko-kr"
@@ -53,20 +59,11 @@
                 href="https://minweb.shop/en/"
                 />
   </url><url>
-    <loc>https://minweb.shop/en/tags/monetary-policy/</loc>
-    <lastmod>2026-03-20T12:37:36+09:00</lastmod>
-  </url><url>
     <loc>https://minweb.shop/en/posts/</loc>
-    <lastmod>2026-03-20T12:37:36+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/en/tags/stagflation/</loc>
-    <lastmod>2026-03-20T12:37:36+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/en/tags/supply-chain/</loc>
-    <lastmod>2026-03-20T12:37:36+09:00</lastmod>
+    <lastmod>2026-03-20T12:44:56+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/en/tags/</loc>
-    <lastmod>2026-03-20T12:37:36+09:00</lastmod>
+    <lastmod>2026-03-20T12:44:56+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko-kr"
@@ -82,6 +79,36 @@
                 hreflang="en-us"
                 href="https://minweb.shop/en/tags/"
                 />
+  </url><url>
+    <loc>https://minweb.shop/en/tags/weight-stigma/</loc>
+    <lastmod>2026-03-20T12:44:56+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/posts/health/why-you-should-stop-commenting-on-people-s-bodies/</loc>
+    <lastmod>2026-03-20T12:44:56+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/donald-trump/</loc>
+    <lastmod>2026-03-20T12:37:36+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/federal-reserve/</loc>
+    <lastmod>2026-03-20T12:37:36+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/categories/finance/</loc>
+    <lastmod>2026-03-20T12:37:36+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/inflation/</loc>
+    <lastmod>2026-03-20T12:37:36+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/interest-rates/</loc>
+    <lastmod>2026-03-20T12:37:36+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/monetary-policy/</loc>
+    <lastmod>2026-03-20T12:37:36+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/stagflation/</loc>
+    <lastmod>2026-03-20T12:37:36+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/supply-chain/</loc>
+    <lastmod>2026-03-20T12:37:36+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/en/posts/finance/trump-demands-rate-cuts-why-the-fed-is-paralyzed/</loc>
     <lastmod>2026-03-20T12:37:36+09:00</lastmod>
