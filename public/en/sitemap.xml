@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://minweb.shop/en/categories/</loc>
-    <lastmod>2026-03-20T12:27:01+09:00</lastmod>
+    <lastmod>2026-03-20T12:30:40+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko-kr"
@@ -19,6 +19,72 @@
                 hreflang="en-us"
                 href="https://minweb.shop/en/categories/"
                 />
+  </url><url>
+    <loc>https://minweb.shop/en/tags/data-brokers/</loc>
+    <lastmod>2026-03-20T12:30:40+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/digital-privacy/</loc>
+    <lastmod>2026-03-20T12:30:40+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/fbi/</loc>
+    <lastmod>2026-03-20T12:30:40+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/fourth-amendment/</loc>
+    <lastmod>2026-03-20T12:30:40+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/location-tracking/</loc>
+    <lastmod>2026-03-20T12:30:40+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/</loc>
+    <lastmod>2026-03-20T12:30:40+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko-kr"
+                href="https://minweb.shop/kr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://minweb.shop/ch/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://minweb.shop/en/"
+                />
+  </url><url>
+    <loc>https://minweb.shop/en/posts/</loc>
+    <lastmod>2026-03-20T12:30:40+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/surveillance/</loc>
+    <lastmod>2026-03-20T12:30:40+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/</loc>
+    <lastmod>2026-03-20T12:30:40+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko-kr"
+                href="https://minweb.shop/kr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://minweb.shop/ch/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://minweb.shop/en/tags/"
+                />
+  </url><url>
+    <loc>https://minweb.shop/en/categories/tech/</loc>
+    <lastmod>2026-03-20T12:30:40+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/tech-policy/</loc>
+    <lastmod>2026-03-20T12:30:40+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/posts/tech/the-fbi-s-data-broker-loophole-tracking-you-without-warrants/</loc>
+    <lastmod>2026-03-20T12:30:40+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/en/tags/economy/</loc>
     <lastmod>2026-03-20T12:27:01+09:00</lastmod>
@@ -41,50 +107,11 @@
     <loc>https://minweb.shop/en/tags/interest-rates/</loc>
     <lastmod>2026-03-20T12:27:01+09:00</lastmod>
   </url><url>
-    <loc>https://minweb.shop/en/</loc>
-    <lastmod>2026-03-20T12:27:01+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko-kr"
-                href="https://minweb.shop/kr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://minweb.shop/ch/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://minweb.shop/en/"
-                />
-  </url><url>
     <loc>https://minweb.shop/en/tags/monetary-policy/</loc>
-    <lastmod>2026-03-20T12:27:01+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/en/posts/</loc>
     <lastmod>2026-03-20T12:27:01+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/en/tags/stagflation/</loc>
     <lastmod>2026-03-20T12:27:01+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/en/tags/</loc>
-    <lastmod>2026-03-20T12:27:01+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko-kr"
-                href="https://minweb.shop/kr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://minweb.shop/ch/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://minweb.shop/en/tags/"
-                />
   </url><url>
     <loc>https://minweb.shop/en/posts/finance/why-trump-s-demand-for-rate-cuts-won-t-fix-stagflation/</loc>
     <lastmod>2026-03-20T12:27:01+09:00</lastmod>
