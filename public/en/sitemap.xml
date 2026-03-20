@@ -2,8 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://minweb.shop/en/tags/body-neutrality/</loc>
+    <lastmod>2026-03-20T12:57:09+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/body-positivity/</loc>
+    <lastmod>2026-03-20T12:57:09+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/body-shaming/</loc>
+    <lastmod>2026-03-20T12:57:09+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/body-silence/</loc>
+    <lastmod>2026-03-20T12:57:09+09:00</lastmod>
+  </url><url>
     <loc>https://minweb.shop/en/categories/</loc>
-    <lastmod>2026-03-20T12:52:06+09:00</lastmod>
+    <lastmod>2026-03-20T12:57:09+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko-kr"
@@ -20,23 +32,17 @@
                 href="https://minweb.shop/en/categories/"
                 />
   </url><url>
-    <loc>https://minweb.shop/en/tags/data-brokers/</loc>
-    <lastmod>2026-03-20T12:52:06+09:00</lastmod>
+    <loc>https://minweb.shop/en/categories/health/</loc>
+    <lastmod>2026-03-20T12:57:09+09:00</lastmod>
   </url><url>
-    <loc>https://minweb.shop/en/tags/digital-rights/</loc>
-    <lastmod>2026-03-20T12:52:06+09:00</lastmod>
+    <loc>https://minweb.shop/en/tags/health-at-every-size/</loc>
+    <lastmod>2026-03-20T12:57:09+09:00</lastmod>
   </url><url>
-    <loc>https://minweb.shop/en/tags/fbi/</loc>
-    <lastmod>2026-03-20T12:52:06+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/en/tags/fourth-amendment/</loc>
-    <lastmod>2026-03-20T12:52:06+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/en/tags/location-data/</loc>
-    <lastmod>2026-03-20T12:52:06+09:00</lastmod>
+    <loc>https://minweb.shop/en/tags/mental-health/</loc>
+    <lastmod>2026-03-20T12:57:09+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/en/</loc>
-    <lastmod>2026-03-20T12:52:06+09:00</lastmod>
+    <lastmod>2026-03-20T12:57:09+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko-kr"
@@ -54,19 +60,10 @@
                 />
   </url><url>
     <loc>https://minweb.shop/en/posts/</loc>
-    <lastmod>2026-03-20T12:52:06+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/en/tags/privacy/</loc>
-    <lastmod>2026-03-20T12:52:06+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/en/tags/smartphone-surveillance/</loc>
-    <lastmod>2026-03-20T12:52:06+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/en/tags/surveillance-state/</loc>
-    <lastmod>2026-03-20T12:52:06+09:00</lastmod>
+    <lastmod>2026-03-20T12:57:09+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/en/tags/</loc>
-    <lastmod>2026-03-20T12:52:06+09:00</lastmod>
+    <lastmod>2026-03-20T12:57:09+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko-kr"
@@ -82,6 +79,39 @@
                 hreflang="en-us"
                 href="https://minweb.shop/en/tags/"
                 />
+  </url><url>
+    <loc>https://minweb.shop/en/posts/health/the-case-for-body-silence-why-you-should-stop-commenting/</loc>
+    <lastmod>2026-03-20T12:57:09+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/weight-stigma/</loc>
+    <lastmod>2026-03-20T12:57:09+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/wellness/</loc>
+    <lastmod>2026-03-20T12:57:09+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/data-brokers/</loc>
+    <lastmod>2026-03-20T12:52:06+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/digital-rights/</loc>
+    <lastmod>2026-03-20T12:52:06+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/fbi/</loc>
+    <lastmod>2026-03-20T12:52:06+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/fourth-amendment/</loc>
+    <lastmod>2026-03-20T12:52:06+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/location-data/</loc>
+    <lastmod>2026-03-20T12:52:06+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/privacy/</loc>
+    <lastmod>2026-03-20T12:52:06+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/smartphone-surveillance/</loc>
+    <lastmod>2026-03-20T12:52:06+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/surveillance-state/</loc>
+    <lastmod>2026-03-20T12:52:06+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/en/categories/tech/</loc>
     <lastmod>2026-03-20T12:52:06+09:00</lastmod>
@@ -122,25 +152,10 @@
     <loc>https://minweb.shop/en/tags/body-image/</loc>
     <lastmod>2026-03-20T12:44:56+09:00</lastmod>
   </url><url>
-    <loc>https://minweb.shop/en/tags/body-neutrality/</loc>
-    <lastmod>2026-03-20T12:44:56+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/en/tags/body-positivity/</loc>
-    <lastmod>2026-03-20T12:44:56+09:00</lastmod>
-  </url><url>
     <loc>https://minweb.shop/en/tags/eating-disorder-awareness/</loc>
     <lastmod>2026-03-20T12:44:56+09:00</lastmod>
   </url><url>
-    <loc>https://minweb.shop/en/categories/health/</loc>
-    <lastmod>2026-03-20T12:44:56+09:00</lastmod>
-  </url><url>
     <loc>https://minweb.shop/en/tags/healthy-boundaries/</loc>
-    <lastmod>2026-03-20T12:44:56+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/en/tags/mental-health/</loc>
-    <lastmod>2026-03-20T12:44:56+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/en/tags/weight-stigma/</loc>
     <lastmod>2026-03-20T12:44:56+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/en/posts/health/why-you-should-stop-commenting-on-people-s-bodies/</loc>
