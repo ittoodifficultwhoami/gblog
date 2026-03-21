@@ -63,3 +63,10 @@ __IMG_PLACEHOLDER_
 *   **Protect your own peace:** If you are the target of body commentary, remember that their words reflect their lack of boundaries, not your worth. You are allowed to walk away, change the subject, or explicitly state that the topic is off-limits.
 
 Your value is in your character and your actions, not in the shape, size, or appearance of your body. Choosing to stop commenting on bodies is a small, daily act of kindness that creates a safer, more respectful world.
+
+---
+
+## Related Articles
+
+- [The Case for Body Silence: Why You Should Stop Commenting](/en/posts/health/the-case-for-body-silence-why-you-should-stop-commenting/)
+- [Why “Everything in Moderation” Fails Some People](/en/posts/health/why-everything-in-moderation-fails-some-people/)

@@ -62,3 +62,10 @@ The legal system is lagging, so you have to protect yourself by changing your di
 * **Stop assuming you are anonymous:** When your location is cross-referenced with your home address and digital footprint, you are not anonymous. Stop letting apps sell the map of your life to the highest bidder.
 
 The FBI is not going to stop buying this data. As long as it is for sale and the law stays murky, your movements will be treated as a product. Secure your settings and push for the oversight required to finally force the government to get a warrant before they start following you.
+
+---
+
+## Related Articles
+
+- [Windows 11 Update: Taskbar Freedom and No Forced Updates](/en/posts/tech/windows-11-update-taskbar-freedom-and-no-forced-updates/)
+- [The FBI Is Buying Your Location Data—And Won’t Stop](/en/posts/tech/the-fbi-is-buying-your-location-data-and-won-t-stop/)

@@ -51,3 +51,11 @@ Before you click buy on the next hyped-up release, keep these habits in mind to 
 * **Audit your library:** Check your Epic or Steam accounts. You probably have a dozen high-quality games you claimed for free years ago and forgot about. Play those first.
 
 The best games in the world are increasingly the ones that don't demand your credit card number the second you hit start. Choose those, and stop worrying about microtransactions.
+
+---
+
+## Related Articles
+
+- [The Best Free Games That Feel Like Full-Price Hits](/en/posts/entertainment/the-best-free-games-that-feel-like-full-price-hits/)
+- [Gilligan's 'Pluribus' Bomb Dilemma Explained](/en/posts/entertainment/gilligan-s-pluribus-bomb-dilemma-explained/)
+- [Chalamet's Dune 3 Messiah Look Revealed](/en/posts/entertainment/chalamet-s-dune-3-messiah-look-revealed/)

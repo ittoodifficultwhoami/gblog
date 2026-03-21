@@ -59,3 +59,10 @@ Assume everyone you meet is dealing with something you cannot see. You are not a
 If someone mentions their own diet, you do not have to mirror the conversation. Redirect the talk toward how they are feeling or what they are excited about. 
 
 Your interactions should leave people feeling seen for who they are, not for how they look. **Body Silence** is about respecting others enough to leave their physical form out of the conversation. It is a simple, free way to make your community a safer place for everyone.
+
+---
+
+## Related Articles
+
+- [Why You Should Stop Commenting on People’s Bodies](/en/posts/health/why-you-should-stop-commenting-on-people-s-bodies/)
+- [Why “Everything in Moderation” Fails Some People](/en/posts/health/why-everything-in-moderation-fails-some-people/)

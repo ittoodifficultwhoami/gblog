@@ -118,3 +118,11 @@ As one Reddit user put it: "Really happy to see MBJ's come-up to this moment! He
 Whether you think Jordan deserved this particular Oscar or not, he's cemented his place among Hollywood's elite actors. And honestly? This is probably just the beginning of what he and his creative partners will achieve.
 
 Next time you watch an acclaimed performance, remember what's behind every actor's moment of recognition: years of hard work, strategic choices, and usually some debate about whether they "deserved" it. That's the beautiful, messy, and fascinating world of film.
+
+---
+
+## Related Articles
+
+- [The Best Free Games That Feel Like Full-Price Hits](/en/posts/entertainment/the-best-free-games-that-feel-like-full-price-hits/)
+- [Gilligan's 'Pluribus' Bomb Dilemma Explained](/en/posts/entertainment/gilligan-s-pluribus-bomb-dilemma-explained/)
+- [Chalamet's Dune 3 Messiah Look Revealed](/en/posts/entertainment/chalamet-s-dune-3-messiah-look-revealed/)

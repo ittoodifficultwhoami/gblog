@@ -123,3 +123,11 @@ Jordan's journey from Fruitvale Station to Oscar winner reminds us that great ta
 If you haven't seen 'Sinners' yet, this might be the perfect time to watch and form your own opinion. And if you have seen it, maybe a second viewing is in order to see if Jordan's performance holds up under the scrutiny of Oscar winner status.
 
 Either way, one thing's for sure: Michael B. Jordan's Hollywood journey is far from over. The best, like many of the characters he plays, may be yet to come.
+
+---
+
+## Related Articles
+
+- [The Best Free Games That Feel Like Full-Price Hits](/en/posts/entertainment/the-best-free-games-that-feel-like-full-price-hits/)
+- [Gilligan's 'Pluribus' Bomb Dilemma Explained](/en/posts/entertainment/gilligan-s-pluribus-bomb-dilemma-explained/)
+- [Chalamet's Dune 3 Messiah Look Revealed](/en/posts/entertainment/chalamet-s-dune-3-messiah-look-revealed/)

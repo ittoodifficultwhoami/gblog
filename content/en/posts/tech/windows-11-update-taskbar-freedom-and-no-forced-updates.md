@@ -125,3 +125,10 @@ The recent boot failures were a brutal reminder that even a standard update can 
 Microsoft is actually rolling back features because enough people yelled about them. If something bothers you, use the Windows Feedback Hub. They are finally in a position where they have to listen to the user base to stop the bleeding, so you might as well tell them exactly what is broken.
 
 Microsoft is in a period of retreat, which is great for anyone who wants a computer to just work. They are moving away from the AI hype cycle and back toward functional computing. Your best strategy is to stay informed, keep your backups current, and wait for the software to act like a tool again instead of an AI science experiment.
+
+---
+
+## Related Articles
+
+- [The FBI Is Buying Your Location Data—And Won’t Stop](/en/posts/tech/the-fbi-is-buying-your-location-data-and-won-t-stop/)
+- [The FBI’s Data Broker Loophole: Tracking You Without Warrants](/en/posts/tech/the-fbi-s-data-broker-loophole-tracking-you-without-warrants/)

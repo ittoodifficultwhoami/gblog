@@ -66,3 +66,9 @@ You do not need to be a die-hard football fan to appreciate the lesson here. Whe
 **Expect the unexpected.** The 2027 tournament is already gaining massive hype because of this drama. If you want to see how sports politics unfold in real-time, keep an eye on the Court of Arbitration for Sport. Their decision will set a precedent for how these administrative reversals are handled in the future.
 
 This saga is a reminder that sports are rarely just about the game. They are about power, perception, and the rules we choose to follow. Whether you think the trophy belongs in Morocco or Senegal, the drama is unforgettable.
+
+---
+
+## Related Articles
+
+- [Why the 2025 NBA Champion Thunder Are Skipping the White House](/en/posts/sports/why-the-2025-nba-champion-thunder-are-skipping-the-white-house/)

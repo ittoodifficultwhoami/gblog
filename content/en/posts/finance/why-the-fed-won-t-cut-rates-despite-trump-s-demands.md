@@ -79,3 +79,11 @@ The Fed is in a no-win spot. If they cut rates, your gas and food prices get wor
 ![Simple cartoon illustration: A person holding a grocery bag, looking at a "Core PCE" chart showing a slow, steady downward slope.](/images/why-the-fed-won-t-cut-rates-despite-trump-s-demands_5.png)
 
 ![Simple cartoon illustration: A split-screen graphic showing one side with a lightning bolt ("Stimulate") and the other a solid anchor ("Stability").](/images/why-the-fed-won-t-cut-rates-despite-trump-s-demands_6.png)
+
+---
+
+## Related Articles
+
+- [Trump Demands Rate Cuts: Why the Fed Is Paralyzed](/en/posts/finance/trump-demands-rate-cuts-why-the-fed-is-paralyzed/)
+- [Costco vs Walmart: Which Is Actually Cheaper?](/en/posts/finance/costco-vs-walmart-which-is-actually-cheaper/)
+- [Why Your Landlord Should Sell to You at a Discount](/en/posts/finance/why-your-landlord-should-sell-to-you-at-a-discount/)

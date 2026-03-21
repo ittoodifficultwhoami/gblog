@@ -92,3 +92,9 @@ Sometimes, a polite excuse is the best way to handle a situation you cannot win.
 Whether it is a business meeting or a national event, trying to force an interaction with people who have fundamentally different views on respect usually ends in a headache. If the vibe is off and the values don't align, you are just setting yourself up for a bad experience.
 
 The next time you are asked to participate in something that does not fit your professional brand or your personal values, think of the Thunder. You have every right to be "too busy" when the math just does not add up.
+
+---
+
+## Related Articles
+
+- [Senegal Moves AFCON Trophy to Military Base Amid CAF Dispute](/en/posts/sports/senegal-moves-afcon-trophy-to-military-base-amid-caf-dispute/)

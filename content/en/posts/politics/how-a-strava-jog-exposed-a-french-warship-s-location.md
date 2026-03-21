@@ -62,3 +62,10 @@ You do not need to tag your location in every app. Check your phone settings tod
 Every time a service offers "fitness gains" or "social connection" for free, remember that your data is the product. You are trading your physical location for a few likes on a screen. Decide if that trade is actually worth it.
 
 The **FS Charles de Gaulle** incident is a loud wake-up call. Our devices are not just toys; they are persistent sensors that map our routines and vulnerabilities. If a billion-dollar warship can be compromised by a fitness watch, your own digital footprint is almost certainly wider than you think. Lock down your settings now. It is the only way to turn off the faucet.
+
+---
+
+## Related Articles
+
+- [Trump’s 200-Year Life Claim: Political Hype vs. Reality](/en/posts/politics/trump-s-200-year-life-claim-political-hype-vs-reality/)
+- [Trump’s Pearl Harbor Joke: The Diplomatic Cost of a Quip](/en/posts/politics/trump-s-pearl-harbor-joke-the-diplomatic-cost-of-a-quip/)

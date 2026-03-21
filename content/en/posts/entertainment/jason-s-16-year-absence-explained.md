@@ -103,3 +103,11 @@ If you're a frustrated fan, here's what you can do:
 * Remember that even Jason Voorhees, the ultimate unstoppable killer, can be stopped by something as mundane as paperwork
 
 The next time Friday the 13th rolls around on the calendar, you'll have plenty of movies to marathon—and now you'll know exactly why we haven't gotten any new ones.
+
+---
+
+## Related Articles
+
+- [The Best Free Games That Feel Like Full-Price Hits](/en/posts/entertainment/the-best-free-games-that-feel-like-full-price-hits/)
+- [Gilligan's 'Pluribus' Bomb Dilemma Explained](/en/posts/entertainment/gilligan-s-pluribus-bomb-dilemma-explained/)
+- [Chalamet's Dune 3 Messiah Look Revealed](/en/posts/entertainment/chalamet-s-dune-3-messiah-look-revealed/)

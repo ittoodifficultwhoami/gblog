@@ -72,3 +72,11 @@ When you see a price tag of zero, do not assume it is low quality. We are in an 
 ![Simple cartoon illustration: A wilted potted plant being revived by a glowing watering can, representing continued updates for older games.](/images/the-best-free-games-that-feel-like-full-price-hits_4.png)
 
 ![Simple cartoon illustration: A magnifying glass hovering over a game shop menu, highlighting icons for "Cosmetics" and "Support Pack."](/images/the-best-free-games-that-feel-like-full-price-hits_5.png)
+
+---
+
+## Related Articles
+
+- [Gilligan's 'Pluribus' Bomb Dilemma Explained](/en/posts/entertainment/gilligan-s-pluribus-bomb-dilemma-explained/)
+- [Chalamet's Dune 3 Messiah Look Revealed](/en/posts/entertainment/chalamet-s-dune-3-messiah-look-revealed/)
+- [Duggar Son Arrested on Child Molestation Charges](/en/posts/entertainment/duggar-son-arrested-on-child-molestation-charges/)

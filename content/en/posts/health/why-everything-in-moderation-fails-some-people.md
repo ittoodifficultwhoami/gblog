@@ -144,3 +144,10 @@ Ignore the common advice to eat everything in moderation. That only works for pe
 Only about 20 percent of people keep the weight off for a year or more. The ones who succeed usually start with rigid rules to break the habit, then move to a more flexible lifestyle once their brain chemistry settles down. Don't worry about being flexible right now. Build your foundation first.
 
 The goal is to stop wasting your mental energy negotiating with a snack. When you remove the choice, you remove the struggle. You aren't broken for needing strict boundaries; you are simply managing your biology the way it was designed to function.
+
+---
+
+## Related Articles
+
+- [The Case for Body Silence: Why You Should Stop Commenting](/en/posts/health/the-case-for-body-silence-why-you-should-stop-commenting/)
+- [Why You Should Stop Commenting on People’s Bodies](/en/posts/health/why-you-should-stop-commenting-on-people-s-bodies/)

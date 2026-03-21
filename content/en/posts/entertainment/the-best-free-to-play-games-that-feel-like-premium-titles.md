@@ -163,3 +163,11 @@ Vote with your wallet. If you enjoy a free-to-play game, buy a cosmetic item or 
 Hunt for the legends. Play classics like the original freeware version of **Cave Story** or legacy browser games ported to Steam. They contain the raw DNA of what makes a game addictive, and they do not cost a dime.
 
 The best games of the year rarely have the biggest marketing budgets. Often, the best experiences are simply the ones happy to have you playing.
+
+---
+
+## Related Articles
+
+- [The Best Free Games That Feel Like Full-Price Hits](/en/posts/entertainment/the-best-free-games-that-feel-like-full-price-hits/)
+- [Gilligan's 'Pluribus' Bomb Dilemma Explained](/en/posts/entertainment/gilligan-s-pluribus-bomb-dilemma-explained/)
+- [Chalamet's Dune 3 Messiah Look Revealed](/en/posts/entertainment/chalamet-s-dune-3-messiah-look-revealed/)

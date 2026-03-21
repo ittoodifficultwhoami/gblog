@@ -149,3 +149,11 @@ Southwest is transforming, but they're still committed to low-cost, friendly air
 The airline industry never stops changing. Southwest's decision to adapt instead of staying the same shows they understand that. The layoffs and policy shifts might seem dramatic, but they're calculated moves for long-term success, not desperate survival tactics.
 
 Expect competitive prices and friendly service to continue – just with some new twists as Southwest joins the modern airline era.
+
+---
+
+## Related Articles
+
+- [Trump Demands Rate Cuts: Why the Fed Is Paralyzed](/en/posts/finance/trump-demands-rate-cuts-why-the-fed-is-paralyzed/)
+- [Why the Fed Won’t Cut Rates Despite Trump’s Demands](/en/posts/finance/why-the-fed-won-t-cut-rates-despite-trump-s-demands/)
+- [Costco vs Walmart: Which Is Actually Cheaper?](/en/posts/finance/costco-vs-walmart-which-is-actually-cheaper/)

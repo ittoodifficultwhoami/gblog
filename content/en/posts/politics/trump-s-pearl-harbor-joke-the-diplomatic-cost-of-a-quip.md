@@ -59,3 +59,10 @@ There is a lesson here that applies to everyone, whether you are managing a team
 *   **Efficiency is not effectiveness.** Trump likely viewed his remark as a clever way to shut down a reporter’s question. In the long run, it created more work for the State Department to fix the relationship and made the Japanese public more skeptical of the U.S.
 
 The next time you are tempted to use a sarcastic remark to win an argument, ask yourself if you are actually moving toward your goal, or if you are just burning capital you might need later. Being right is rarely worth the price of losing someone's trust.
+
+---
+
+## Related Articles
+
+- [Trump’s 200-Year Life Claim: Political Hype vs. Reality](/en/posts/politics/trump-s-200-year-life-claim-political-hype-vs-reality/)
+- [How a Strava Jog Exposed a French Warship’s Location](/en/posts/politics/how-a-strava-jog-exposed-a-french-warship-s-location/)

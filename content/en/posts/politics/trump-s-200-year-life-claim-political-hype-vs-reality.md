@@ -97,3 +97,10 @@ The administration manages visual perception aggressively. They use makeup to hi
 Talk of living for centuries keeps you from focusing on immediate failures. Remember that on January 10, 2025, the President received an unconditional discharge on 34 felony counts. The longevity narrative is a pivot. It moves the conversation from legal accountability to a mythical, high-tech future where those problems supposedly no longer matter.
 
 The next time you see a headline about a leader planning to live for two centuries, know that it is a calculated tactic. Do not let the allure of a sci-fi future blind you to the decisions being made with your money and your vote right now.
+
+---
+
+## Related Articles
+
+- [Trump’s Pearl Harbor Joke: The Diplomatic Cost of a Quip](/en/posts/politics/trump-s-pearl-harbor-joke-the-diplomatic-cost-of-a-quip/)
+- [How a Strava Jog Exposed a French Warship’s Location](/en/posts/politics/how-a-strava-jog-exposed-a-french-warship-s-location/)
