@@ -15,6 +15,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ja-JP"
+                href="https://minweb.shop/jp/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://minweb.shop/ch/categories/"
                 />
@@ -32,6 +37,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ja-JP"
+                href="https://minweb.shop/jp/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://minweb.shop/ch/"
                 />
@@ -46,6 +56,11 @@
                 rel="alternate"
                 hreflang="ko-kr"
                 href="https://minweb.shop/kr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://minweb.shop/jp/tags/"
                 />
     <xhtml:link
                 rel="alternate"
