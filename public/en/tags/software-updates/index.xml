@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Software Updates on MinWeb</title>
+    <link>https://minweb.shop/en/tags/software-updates/</link>
+    <description>Recent content in Software Updates on MinWeb</description>
+    <generator>Hugo -- 0.147.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 Mar 2026 03:43:33 +0900</lastBuildDate>
+    <atom:link href="https://minweb.shop/en/tags/software-updates/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Windows 11 Update: Taskbar Freedom and No Forced Updates</title>
+      <link>https://minweb.shop/en/posts/tech/windows-11-update-taskbar-freedom-and-no-forced-updates/</link>
+      <pubDate>Sat, 21 Mar 2026 03:43:33 +0900</pubDate>
+      <guid>https://minweb.shop/en/posts/tech/windows-11-update-taskbar-freedom-and-no-forced-updates/</guid>
+      <description>&lt;p&gt;If your computer feels more like an adversary than a tool lately, you are not imagining things. Microsoft is finally walking back years of aggressive AI pushes and rigid design choices because enough people told them to stop.&lt;/p&gt;
+&lt;p&gt;The bottom line is that Microsoft is launching a &lt;strong&gt;Quality Roadmap&lt;/strong&gt;. They are officially handing back some control over your desktop and easing up on the mandatory update cycle that has plagued Windows 11 since 2021. Honestly, it is about time.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

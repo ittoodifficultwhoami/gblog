@@ -2,11 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://minweb.shop/en/tags/buying-rental-property/</loc>
-    <lastmod>2026-03-21T03:37:35+09:00</lastmod>
-  </url><url>
     <loc>https://minweb.shop/en/categories/</loc>
-    <lastmod>2026-03-21T03:37:35+09:00</lastmod>
+    <lastmod>2026-03-21T03:43:33+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko-kr"
@@ -23,17 +20,11 @@
                 href="https://minweb.shop/en/categories/"
                 />
   </url><url>
-    <loc>https://minweb.shop/en/categories/finance/</loc>
-    <lastmod>2026-03-21T03:37:35+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/en/tags/home-buying-guide/</loc>
-    <lastmod>2026-03-21T03:37:35+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/en/tags/landlord-negotiation/</loc>
-    <lastmod>2026-03-21T03:37:35+09:00</lastmod>
+    <loc>https://minweb.shop/en/tags/microsoft/</loc>
+    <lastmod>2026-03-21T03:43:33+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/en/</loc>
-    <lastmod>2026-03-21T03:37:35+09:00</lastmod>
+    <lastmod>2026-03-21T03:43:33+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko-kr"
@@ -50,23 +41,20 @@
                 href="https://minweb.shop/en/"
                 />
   </url><url>
-    <loc>https://minweb.shop/en/tags/off-market-property/</loc>
-    <lastmod>2026-03-21T03:37:35+09:00</lastmod>
+    <loc>https://minweb.shop/en/tags/operating-systems/</loc>
+    <lastmod>2026-03-21T03:43:33+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/pc-optimization/</loc>
+    <lastmod>2026-03-21T03:43:33+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/en/posts/</loc>
-    <lastmod>2026-03-21T03:37:35+09:00</lastmod>
+    <lastmod>2026-03-21T03:43:33+09:00</lastmod>
   </url><url>
-    <loc>https://minweb.shop/en/tags/property-investment-tips/</loc>
-    <lastmod>2026-03-21T03:37:35+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/en/tags/real-estate-investing/</loc>
-    <lastmod>2026-03-21T03:37:35+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/en/tags/real-estate-transaction-costs/</loc>
-    <lastmod>2026-03-21T03:37:35+09:00</lastmod>
+    <loc>https://minweb.shop/en/tags/software-updates/</loc>
+    <lastmod>2026-03-21T03:43:33+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/en/tags/</loc>
-    <lastmod>2026-03-21T03:37:35+09:00</lastmod>
+    <lastmod>2026-03-21T03:43:33+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko-kr"
@@ -82,6 +70,48 @@
                 hreflang="en-us"
                 href="https://minweb.shop/en/tags/"
                 />
+  </url><url>
+    <loc>https://minweb.shop/en/categories/tech/</loc>
+    <lastmod>2026-03-21T03:43:33+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/tech-news/</loc>
+    <lastmod>2026-03-21T03:43:33+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/windows-11/</loc>
+    <lastmod>2026-03-21T03:43:33+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/windows-11-tips/</loc>
+    <lastmod>2026-03-21T03:43:33+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/posts/tech/windows-11-update-taskbar-freedom-and-no-forced-updates/</loc>
+    <lastmod>2026-03-21T03:43:33+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/windows-update/</loc>
+    <lastmod>2026-03-21T03:43:33+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/buying-rental-property/</loc>
+    <lastmod>2026-03-21T03:37:35+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/categories/finance/</loc>
+    <lastmod>2026-03-21T03:37:35+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/home-buying-guide/</loc>
+    <lastmod>2026-03-21T03:37:35+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/landlord-negotiation/</loc>
+    <lastmod>2026-03-21T03:37:35+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/off-market-property/</loc>
+    <lastmod>2026-03-21T03:37:35+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/property-investment-tips/</loc>
+    <lastmod>2026-03-21T03:37:35+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/real-estate-investing/</loc>
+    <lastmod>2026-03-21T03:37:35+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/real-estate-transaction-costs/</loc>
+    <lastmod>2026-03-21T03:37:35+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/en/posts/finance/why-your-landlord-should-sell-to-you-at-a-discount/</loc>
     <lastmod>2026-03-21T03:37:35+09:00</lastmod>
@@ -363,9 +393,6 @@
     <lastmod>2026-03-20T12:52:06+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/en/tags/surveillance-state/</loc>
-    <lastmod>2026-03-20T12:52:06+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/en/categories/tech/</loc>
     <lastmod>2026-03-20T12:52:06+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/en/posts/tech/the-fbi-is-buying-your-location-data-and-won-t-stop/</loc>
