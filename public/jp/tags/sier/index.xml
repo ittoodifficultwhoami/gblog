@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>記事一覧 on MinWeb</title>
-    <link>https://minweb.shop/jp/posts/</link>
-    <description>Recent content in 記事一覧 on MinWeb</description>
+    <title>Sier on MinWeb</title>
+    <link>https://minweb.shop/jp/tags/sier/</link>
+    <description>Recent content in Sier on MinWeb</description>
     <generator>Hugo -- 0.147.1</generator>
     <language>ja-JP</language>
     <lastBuildDate>Sat, 21 Mar 2026 12:03:18 +0900</lastBuildDate>
-    <atom:link href="https://minweb.shop/jp/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://minweb.shop/jp/tags/sier/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI開発で変わるシステム開発の常識：800万円が3日50万円になる理由</title>
       <link>https://minweb.shop/jp/posts/tech/ai-800-3-50/</link>

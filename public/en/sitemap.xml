@@ -209,6 +209,16 @@
   </url><url>
     <loc>https://minweb.shop/en/categories/tech/</loc>
     <lastmod>2026-03-21T03:43:33+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://minweb.shop/jp/categories/tech/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://minweb.shop/en/categories/tech/"
+                />
   </url><url>
     <loc>https://minweb.shop/en/tags/tech-news/</loc>
     <lastmod>2026-03-21T03:43:33+09:00</lastmod>
