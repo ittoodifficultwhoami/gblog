@@ -2,8 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://minweb.shop/en/tags/ai-in-gaming/</loc>
+    <lastmod>2026-03-21T01:10:49+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/ai-generated-art/</loc>
+    <lastmod>2026-03-21T01:10:49+09:00</lastmod>
+  </url><url>
     <loc>https://minweb.shop/en/categories/</loc>
-    <lastmod>2026-03-21T00:57:12+09:00</lastmod>
+    <lastmod>2026-03-21T01:10:49+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko-kr"
@@ -20,26 +26,23 @@
                 href="https://minweb.shop/en/categories/"
                 />
   </url><url>
-    <loc>https://minweb.shop/en/tags/celebrity-legacy/</loc>
-    <lastmod>2026-03-21T00:57:12+09:00</lastmod>
+    <loc>https://minweb.shop/en/tags/crimson-desert/</loc>
+    <lastmod>2026-03-21T01:10:49+09:00</lastmod>
   </url><url>
-    <loc>https://minweb.shop/en/tags/chuck-norris/</loc>
-    <lastmod>2026-03-21T00:57:12+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/en/tags/chuck-norris-death/</loc>
-    <lastmod>2026-03-21T00:57:12+09:00</lastmod>
+    <loc>https://minweb.shop/en/posts/entertainment/crimson-desert-faces-backlash-over-ai-generated-art-errors/</loc>
+    <lastmod>2026-03-21T01:10:49+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/en/categories/entertainment/</loc>
-    <lastmod>2026-03-21T00:57:12+09:00</lastmod>
+    <lastmod>2026-03-21T01:10:49+09:00</lastmod>
   </url><url>
-    <loc>https://minweb.shop/en/tags/entertainment-news/</loc>
-    <lastmod>2026-03-21T00:57:12+09:00</lastmod>
+    <loc>https://minweb.shop/en/tags/gaming-backlash/</loc>
+    <lastmod>2026-03-21T01:10:49+09:00</lastmod>
   </url><url>
-    <loc>https://minweb.shop/en/tags/martial-arts/</loc>
-    <lastmod>2026-03-21T00:57:12+09:00</lastmod>
+    <loc>https://minweb.shop/en/tags/gaming-controversy/</loc>
+    <lastmod>2026-03-21T01:10:49+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/en/</loc>
-    <lastmod>2026-03-21T00:57:12+09:00</lastmod>
+    <lastmod>2026-03-21T01:10:49+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko-kr"
@@ -56,17 +59,14 @@
                 href="https://minweb.shop/en/"
                 />
   </url><url>
-    <loc>https://minweb.shop/en/tags/pop-culture/</loc>
-    <lastmod>2026-03-21T00:57:12+09:00</lastmod>
+    <loc>https://minweb.shop/en/tags/pearl-abyss/</loc>
+    <lastmod>2026-03-21T01:10:49+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/en/posts/</loc>
-    <lastmod>2026-03-21T00:57:12+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/en/posts/entertainment/remembering-chuck-norris-a-legend-s-life-and-legacy/</loc>
-    <lastmod>2026-03-21T00:57:12+09:00</lastmod>
+    <lastmod>2026-03-21T01:10:49+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/en/tags/</loc>
-    <lastmod>2026-03-21T00:57:12+09:00</lastmod>
+    <lastmod>2026-03-21T01:10:49+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko-kr"
@@ -82,6 +82,30 @@
                 hreflang="en-us"
                 href="https://minweb.shop/en/tags/"
                 />
+  </url><url>
+    <loc>https://minweb.shop/en/tags/video-game-news/</loc>
+    <lastmod>2026-03-21T01:10:49+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/celebrity-legacy/</loc>
+    <lastmod>2026-03-21T00:57:12+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/chuck-norris/</loc>
+    <lastmod>2026-03-21T00:57:12+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/chuck-norris-death/</loc>
+    <lastmod>2026-03-21T00:57:12+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/entertainment-news/</loc>
+    <lastmod>2026-03-21T00:57:12+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/martial-arts/</loc>
+    <lastmod>2026-03-21T00:57:12+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/pop-culture/</loc>
+    <lastmod>2026-03-21T00:57:12+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/posts/entertainment/remembering-chuck-norris-a-legend-s-life-and-legacy/</loc>
+    <lastmod>2026-03-21T00:57:12+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/en/tags/walker-texas-ranger/</loc>
     <lastmod>2026-03-21T00:57:12+09:00</lastmod>
