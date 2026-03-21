@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://minweb.shop/en/categories/</loc>
-    <lastmod>2026-03-21T02:00:16+09:00</lastmod>
+    <lastmod>2026-03-21T02:14:12+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko-kr"
@@ -19,6 +19,72 @@
                 hreflang="en-us"
                 href="https://minweb.shop/en/categories/"
                 />
+  </url><url>
+    <loc>https://minweb.shop/en/categories/entertainment/</loc>
+    <lastmod>2026-03-21T02:14:12+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/f2p/</loc>
+    <lastmod>2026-03-21T02:14:12+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/free-games/</loc>
+    <lastmod>2026-03-21T02:14:12+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/free-to-play/</loc>
+    <lastmod>2026-03-21T02:14:12+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/gaming/</loc>
+    <lastmod>2026-03-21T02:14:12+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/gaming-recommendations/</loc>
+    <lastmod>2026-03-21T02:14:12+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/</loc>
+    <lastmod>2026-03-21T02:14:12+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko-kr"
+                href="https://minweb.shop/kr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://minweb.shop/ch/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://minweb.shop/en/"
+                />
+  </url><url>
+    <loc>https://minweb.shop/en/tags/pc-games/</loc>
+    <lastmod>2026-03-21T02:14:12+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/posts/</loc>
+    <lastmod>2026-03-21T02:14:12+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/</loc>
+    <lastmod>2026-03-21T02:14:12+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko-kr"
+                href="https://minweb.shop/kr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://minweb.shop/ch/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://minweb.shop/en/tags/"
+                />
+  </url><url>
+    <loc>https://minweb.shop/en/posts/entertainment/the-best-free-games-that-feel-like-premium-titles/</loc>
+    <lastmod>2026-03-21T02:14:12+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/video-games/</loc>
+    <lastmod>2026-03-21T02:14:12+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/en/tags/economy/</loc>
     <lastmod>2026-03-21T02:00:16+09:00</lastmod>
@@ -41,50 +107,11 @@
     <loc>https://minweb.shop/en/tags/jerome-powell/</loc>
     <lastmod>2026-03-21T02:00:16+09:00</lastmod>
   </url><url>
-    <loc>https://minweb.shop/en/</loc>
-    <lastmod>2026-03-21T02:00:16+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko-kr"
-                href="https://minweb.shop/kr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://minweb.shop/ch/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://minweb.shop/en/"
-                />
-  </url><url>
     <loc>https://minweb.shop/en/tags/monetary-policy/</loc>
-    <lastmod>2026-03-21T02:00:16+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/en/posts/</loc>
     <lastmod>2026-03-21T02:00:16+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/en/tags/stagflation/</loc>
     <lastmod>2026-03-21T02:00:16+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/en/tags/</loc>
-    <lastmod>2026-03-21T02:00:16+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko-kr"
-                href="https://minweb.shop/kr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://minweb.shop/ch/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://minweb.shop/en/tags/"
-                />
   </url><url>
     <loc>https://minweb.shop/en/posts/finance/why-the-fed-won-t-cut-rates-despite-trump-s-demands/</loc>
     <lastmod>2026-03-21T02:00:16+09:00</lastmod>
@@ -92,28 +119,10 @@
     <loc>https://minweb.shop/en/tags/best-free-games/</loc>
     <lastmod>2026-03-21T01:53:54+09:00</lastmod>
   </url><url>
-    <loc>https://minweb.shop/en/categories/entertainment/</loc>
-    <lastmod>2026-03-21T01:53:54+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/en/tags/f2p/</loc>
-    <lastmod>2026-03-21T01:53:54+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/en/tags/free-games/</loc>
-    <lastmod>2026-03-21T01:53:54+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/en/tags/free-to-play/</loc>
-    <lastmod>2026-03-21T01:53:54+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/en/tags/gaming/</loc>
-    <lastmod>2026-03-21T01:53:54+09:00</lastmod>
-  </url><url>
     <loc>https://minweb.shop/en/tags/pc-gaming/</loc>
     <lastmod>2026-03-21T01:53:54+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/en/posts/entertainment/the-best-free-games-that-feel-like-full-price-hits/</loc>
-    <lastmod>2026-03-21T01:53:54+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/en/tags/video-games/</loc>
     <lastmod>2026-03-21T01:53:54+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/en/tags/free-to-play-games/</loc>
