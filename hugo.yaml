@@ -94,11 +94,11 @@ languages:
           name: 검색
           url: /kr/search/
           weight: 80
-  ja:
-    languageCode: ja-jp
+  jp:
+    languageCode: ja-JP
     languageName: 日本語
     weight: 3
-    contentDir: content/ja
+    contentDir: content/jp
     params:
       description: "データに基づく実用ガイド"
       homeInfoParams:
@@ -108,31 +108,31 @@ languages:
       main:
         - identifier: cat-finance
           name: 経済
-          url: /ja/categories/finance/
+          url: /jp/categories/finance/
           weight: 10
         - identifier: cat-tech
           name: テクノロジー
-          url: /ja/categories/tech/
+          url: /jp/categories/tech/
           weight: 20
         - identifier: cat-health
           name: 健康
-          url: /ja/categories/health/
+          url: /jp/categories/health/
           weight: 30
         - identifier: cat-entertainment
           name: エンタメ
-          url: /ja/categories/entertainment/
+          url: /jp/categories/entertainment/
           weight: 40
         - identifier: cat-politics
           name: 政治
-          url: /ja/categories/politics/
+          url: /jp/categories/politics/
           weight: 50
         - identifier: cat-lifestyle
           name: ライフ
-          url: /ja/categories/lifestyle/
+          url: /jp/categories/lifestyle/
           weight: 60
         - identifier: search
           name: 検索
-          url: /ja/search/
+          url: /jp/search/
           weight: 70
   ch:
     languageCode: zh-cn
