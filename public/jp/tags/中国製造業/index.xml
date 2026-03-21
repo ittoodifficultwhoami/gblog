@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>中国製造業 on MinWeb</title>
+    <link>https://minweb.shop/jp/tags/%E4%B8%AD%E5%9B%BD%E8%A3%BD%E9%80%A0%E6%A5%AD/</link>
+    <description>Recent content in 中国製造業 on MinWeb</description>
+    <generator>Hugo -- 0.147.1</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Sat, 21 Mar 2026 15:20:53 +0900</lastBuildDate>
+    <atom:link href="https://minweb.shop/jp/tags/%E4%B8%AD%E5%9B%BD%E8%A3%BD%E9%80%A0%E6%A5%AD/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>なぜ中国はボールペン技術をビジネスにできないのか？日中の構造的差</title>
+      <link>https://minweb.shop/jp/posts/tech/-/</link>
+      <pubDate>Sat, 21 Mar 2026 15:20:53 +0900</pubDate>
+      <guid>https://minweb.shop/jp/posts/tech/-/</guid>
+      <description>&lt;h2 id=&#34;ボールペン製造における技術的課題とビジネス構造の乖離&#34;&gt;ボールペン製造における技術的課題とビジネス構造の乖離&lt;/h2&gt;
+&lt;p&gt;&lt;img alt=&#34;Simple cartoon illustration: A puzzled cartoon figure standing next to a giant rocket and a tiny pen, with a speech bubble showing a magnifying glass over a pen tip.&#34; loading=&#34;lazy&#34; src=&#34;https://minweb.shop/images/-_0.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;中国におけるボールペン生産は、長年「国家の威信」をかけた重要課題として扱われてきた。2016年、当時の李克強首相が「宇宙船を打ち上げられる中国が、なぜボールペンの芯を自国で作れないのか」と発言したことは「李克強の問い」として広く知られている。この指摘は、当時の中国製造業が抱えていた「基礎素材や微細部品の精度において先進国に依存せざるを得ない」という構造的弱点を象徴していた。&lt;/p&gt;
+&lt;p&gt;2017年、国有企業の太原鋼鉄集団（TISCO）がペン先用特殊ステンレス鋼の国産化を達成し、2024年には同鋼材を100%使用した完全国産ボールペンが市場投入されるに至った。しかし、技術的なブレイクスルーと、国際市場で戦える持続可能なビジネスモデルの構築は、依然として別次元の課題である。ボールペンの書き味を決定づける超硬合金ボールの加工技術や、インクの粘度制御といった周辺技術には、依然として蓄積されたノウハウの格差が存在するからだ。本稿では、ボールペン産業における日中の現状を、生産統計と技術哲学の観点から分析する。&lt;/p&gt;
+&lt;h2 id=&#34;生産規模と市場構造の分析&#34;&gt;生産規模と市場構造の分析&lt;/h2&gt;
+&lt;p&gt;中国は世界最大のボールペン生産国であり、その輸出量は膨大である。しかし、製造現場を精査すると、依然として付加価値の低い「組み立て加工」が主軸を占めている。ここで日中の対比を理解するため、以下の主要指標を参照する必要がある。&lt;/p&gt;
+&lt;h3 id=&#34;ボールペン産業における主要データ&#34;&gt;ボールペン産業における主要データ&lt;/h3&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;項目&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;中国（現状）&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;日本（現状）&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;主力製品&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;大量生産品（低価格帯）&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;高機能品（高付加価値帯）&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;素材調達&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;国産化が進展中&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;国内外のサプライチェーンで完結&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;技術的優位性&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;コスト競争力&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;潤滑技術・微細加工技術&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;市場戦略&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;市場シェアの拡大&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;ブランド価値と製品寿命の訴求&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;中国の製造業は、これまで急速なキャッチアップを実現してきたが、ボールペンという一見単純な製品においても、その「書き味」という主観的な品質を規定する加工精度においては、日本のメーカーが数十年にわたり積み上げた経験則が未だに高い壁となっている。特にペン先先端の球体と、それを保持するホルダーのクリアランス（隙間）をミクロン単位で制御する技術は、単なる工作機械のスペック以上に、長年の現場での試行錯誤が不可欠である。国産化達成という目標が「政治的成果」として処理される一方で、グローバル市場でいかに日本製品に対抗する品質を安定的に供給し続けるかという問いに対する回答は、まだ出揃っていない。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Simple cartoon illustration: A split-screen graphic. Left side shows a huge pile of pens labeled &amp;ldquo;80% Global Share.&amp;rdquo; Right side shows a balance scale tilting with a small, high-quality Japanese pen icon weighing down the side.&#34; loading=&#34;lazy&#34; src=&#34;https://minweb.shop/images/-_1.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
