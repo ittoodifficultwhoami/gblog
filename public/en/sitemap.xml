@@ -171,6 +171,16 @@
   </url><url>
     <loc>https://minweb.shop/en/categories/politics/</loc>
     <lastmod>2026-03-21T03:56:48+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://minweb.shop/jp/categories/politics/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://minweb.shop/en/categories/politics/"
+                />
   </url><url>
     <loc>https://minweb.shop/en/posts/politics/trump-s-200-year-life-claim-political-hype-vs-reality/</loc>
     <lastmod>2026-03-21T03:56:48+09:00</lastmod>
