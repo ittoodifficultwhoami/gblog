@@ -2,8 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://minweb.shop/jp/tags/ai%E9%96%8B%E7%99%BA/</loc>
+    <lastmod>2026-03-22T09:39:01+09:00</lastmod>
+  </url><url>
     <loc>https://minweb.shop/jp/categories/</loc>
-    <lastmod>2026-03-22T08:47:16+09:00</lastmod>
+    <lastmod>2026-03-22T09:39:01+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -25,14 +28,14 @@
                 href="https://minweb.shop/jp/categories/"
                 />
   </url><url>
-    <loc>https://minweb.shop/jp/tags/google-stitch/</loc>
-    <lastmod>2026-03-22T08:47:16+09:00</lastmod>
+    <loc>https://minweb.shop/jp/tags/graphrag/</loc>
+    <lastmod>2026-03-22T09:39:01+09:00</lastmod>
   </url><url>
-    <loc>https://minweb.shop/jp/tags/material-design/</loc>
-    <lastmod>2026-03-22T08:47:16+09:00</lastmod>
+    <loc>https://minweb.shop/jp/tags/llm/</loc>
+    <lastmod>2026-03-22T09:39:01+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/jp/</loc>
-    <lastmod>2026-03-22T08:47:16+09:00</lastmod>
+    <lastmod>2026-03-22T09:39:01+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -54,8 +57,14 @@
                 href="https://minweb.shop/jp/"
                 />
   </url><url>
+    <loc>https://minweb.shop/jp/tags/rag/</loc>
+    <lastmod>2026-03-22T09:39:01+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/jp/posts/tech/rag-graphrag-llm/</loc>
+    <lastmod>2026-03-22T09:39:01+09:00</lastmod>
+  </url><url>
     <loc>https://minweb.shop/jp/tags/</loc>
-    <lastmod>2026-03-22T08:47:16+09:00</lastmod>
+    <lastmod>2026-03-22T09:39:01+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -78,7 +87,7 @@
                 />
   </url><url>
     <loc>https://minweb.shop/jp/categories/tech/</loc>
-    <lastmod>2026-03-22T08:47:16+09:00</lastmod>
+    <lastmod>2026-03-22T09:39:01+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -89,6 +98,37 @@
                 hreflang="ja-JP"
                 href="https://minweb.shop/jp/categories/tech/"
                 />
+  </url><url>
+    <loc>https://minweb.shop/jp/tags/%E3%83%8A%E3%83%AC%E3%83%83%E3%82%B8%E3%82%B0%E3%83%A9%E3%83%95/</loc>
+    <lastmod>2026-03-22T09:39:01+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/jp/tags/%E3%83%99%E3%82%AF%E3%83%88%E3%83%AB%E6%A4%9C%E7%B4%A2/</loc>
+    <lastmod>2026-03-22T09:39:01+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/jp/tags/%E7%94%9F%E6%88%90ai/</loc>
+    <lastmod>2026-03-22T09:39:01+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/jp/tags/%E8%87%AA%E7%84%B6%E8%A8%80%E8%AA%9E%E5%87%A6%E7%90%86/</loc>
+    <lastmod>2026-03-22T09:39:01+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/jp/posts/</loc>
+    <lastmod>2026-03-22T09:39:01+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://minweb.shop/en/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://minweb.shop/jp/posts/"
+                />
+  </url><url>
+    <loc>https://minweb.shop/jp/tags/google-stitch/</loc>
+    <lastmod>2026-03-22T08:47:16+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/jp/tags/material-design/</loc>
+    <lastmod>2026-03-22T08:47:16+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/jp/tags/ui%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/</loc>
     <lastmod>2026-03-22T08:47:16+09:00</lastmod>
@@ -104,22 +144,6 @@
   </url><url>
     <loc>https://minweb.shop/jp/tags/%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88/</loc>
     <lastmod>2026-03-22T08:47:16+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/jp/tags/%E7%94%9F%E6%88%90ai/</loc>
-    <lastmod>2026-03-22T08:47:16+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/jp/posts/</loc>
-    <lastmod>2026-03-22T08:47:16+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://minweb.shop/en/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja-JP"
-                href="https://minweb.shop/jp/posts/"
-                />
   </url><url>
     <loc>https://minweb.shop/jp/posts/tech/google-stitch-ui/</loc>
     <lastmod>2026-03-22T08:47:16+09:00</lastmod>
@@ -201,9 +225,6 @@
   </url><url>
     <loc>https://minweb.shop/jp/tags/%E3%82%BF%E3%82%B9%E3%82%AF%E3%83%90%E3%83%BC/</loc>
     <lastmod>2026-03-21T13:18:02+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/jp/tags/ai%E9%96%8B%E7%99%BA/</loc>
-    <lastmod>2026-03-21T12:03:18+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/jp/posts/tech/ai-800-3-50/</loc>
     <lastmod>2026-03-21T12:03:18+09:00</lastmod>

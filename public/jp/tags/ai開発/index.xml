@@ -6,8 +6,73 @@
     <description>Recent content in Ai開発 on MinWeb</description>
     <generator>Hugo -- 0.147.1</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sat, 21 Mar 2026 12:03:18 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 09:39:01 +0900</lastBuildDate>
     <atom:link href="https://minweb.shop/jp/tags/ai%E9%96%8B%E7%99%BA/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RAGの限界を突破する「GraphRAG」実践入門：構造化でLLMを賢くする</title>
+      <link>https://minweb.shop/jp/posts/tech/rag-graphrag-llm/</link>
+      <pubDate>Sun, 22 Mar 2026 09:39:01 +0900</pubDate>
+      <guid>https://minweb.shop/jp/posts/tech/rag-graphrag-llm/</guid>
+      <description>&lt;p&gt;生成AIを活用した企業内システムの構築において、ベクトル検索を中核とする標準的なRAG（Retrieval-Augmented Generation）は、初期のPoC導入フェーズで急速に普及しました。しかし、実運用への移行に伴い、セマンティック検索のみに依存する手法の限界が浮き彫りになっています。2026年3月19日に刊行された技術書籍『LLMをもっと賢くする：ナレッジグラフ実践入門』（著者：takanorisuzuki氏）は、生成AIのパイロット案件のうち95%がROIを達成できずに頓挫しているという実態を報告しました。&lt;/p&gt;
+&lt;p&gt;なぜ多くのRAGプロジェクトが停滞するのか、そしてナレッジグラフ（KG）を組み合わせた「GraphRAG」がどのような技術的優位性を持つのかを解説します。&lt;/p&gt;
+&lt;h2 id=&#34;なぜ標準的なragは失敗するのか&#34;&gt;なぜ標準的なRAGは失敗するのか&lt;/h2&gt;
+&lt;p&gt;標準的なRAGが直面する主要な課題は、情報の断片化と文脈理解の不足です。ベクトル検索は、単語や文章の「意味的な近さ」をコサイン類似度などで計算しますが、これはあくまで統計的な分布に基づく手法です。&lt;/p&gt;
+&lt;p&gt;以下の表に、標準的RAGとGraphRAGの構造的な差異をまとめます。&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;比較項目&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;標準的RAG（ベクトル検索）&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;GraphRAG（知識グラフ併用）&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;データ保持構造&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;非構造化データのベクトル埋め込み&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;エンティティとリレーションのグラフ構造&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;検索手法&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;類似度検索による近傍探索&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;グラフ走査による関連性の抽出&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;複雑な質問への対応&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;低い（回答が断片化しやすい）&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;高い（推論パスの特定が可能）&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;構造的理解&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;不可（文脈の断絶が起きる）&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;可能（因果関係や系統の保持）&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;1-意味的検索の限界&#34;&gt;1. 意味的検索の限界&lt;/h3&gt;
+&lt;p&gt;標準的RAGは文書をチャンク単位で分割し、ベクトル化してデータベースに格納します。しかし、このプロセスで元の文書が持つ構造的な文脈が失われます。例えば「Aプロジェクトの予算超過の原因」を検索する場合、関連する会議録や報告書がそれぞれ別個のチャンクとして扱われるため、LLMは点と点を結ぶ論理的な推論を自力で行う必要があります。これはハルシネーション（幻覚）を誘発する最大の要因です。&lt;/p&gt;
+&lt;h3 id=&#34;2-検索の再現性における乖離&#34;&gt;2. 検索の再現性における乖離&lt;/h3&gt;
+&lt;p&gt;ベクトル検索は「ベクトル空間上での類似」を優先するため、業務上重要度の高いキーワードや特定の固有名詞の関連性を無視する傾向があります。現場のエンジニアが直面する課題は、検索エンジンが「似ている文章」を持ってくるだけで、「正解に必要な証拠」を網羅できていない点にあります。&lt;/p&gt;
+&lt;h3 id=&#34;3-graphragによる解決策&#34;&gt;3. GraphRAGによる解決策&lt;/h3&gt;
+&lt;p&gt;GraphRAGは、エンティティ（人、物、概念）をノードとし、それらの関係性をエッジとして記述します。これにより、以下のメリットが生まれます。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;到達可能性の担保：エンティティ間のつながりを直接追跡できるため、ベクトル検索では拾えない「間接的な関係性」を抽出できる。&lt;/li&gt;
+&lt;li&gt;グローバルな視点の統合：グラフ全体を要約するクエリを投げることで、文書群全体を俯瞰した回答を生成できる。&lt;/li&gt;
+&lt;li&gt;根拠の透明性：回答の根拠となったグラフ上のパスを明示できるため、ブラックボックス化を防ぎやすい。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;ナレッジグラフの構築には初期コストとスキーマ定義という手間がかかります。しかし、単なる検索エンジンの代替としてAIを導入するのではなく、企業が持つ暗黙知を構造化するデータ基盤として捉え直すことが、プロジェクトを成功させるための必須条件となります。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Simple cartoon illustration: A sad robot holding a broken puzzle piece labeled &amp;ldquo;Context&amp;rdquo;. Five red warning signs float around it, representing missing links, hallucination clouds, and vague data silos.&#34; loading=&#34;lazy&#34; src=&#34;https://minweb.shop/images/rag-graphrag-llm-_0.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;RAG（Retrieval-Augmented Generation）システムの実装において直面する課題は、単なる検索精度の問題に留まりません。本書が指摘するRAG失敗の5大要因は、ベクトル検索が「文字列の近傍性」を扱う性質に対し、実務現場が「実体と関係性」の論理性を求めているという構造的なミスマッチを浮き彫りにしています。&lt;/p&gt;
+&lt;h3 id=&#34;rag失敗の5大要因と技術的背景&#34;&gt;RAG失敗の5大要因と技術的背景&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;説明可能性（XAI）の欠如&lt;/strong&gt;
+AIが出力した回答の根拠を遡及的に特定できない状況が、ビジネス現場での導入障壁となっています。ブラックボックス化した推論過程は、監査や正確性が重視される領域では致命的な欠陥となります。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;回答の一貫性の欠如&lt;/strong&gt;
+複数の文書に跨る長大なデータセットを扱う際、コンテキストの断絶が生じます。これにより、事実に基づかないハルシネーションが発生し、回答の整合性を維持できません。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>AI開発で変わるシステム開発の常識：800万円が3日50万円になる理由</title>
       <link>https://minweb.shop/jp/posts/tech/ai-800-3-50/</link>
