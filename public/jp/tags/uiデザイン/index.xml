@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Uiデザイン on MinWeb</title>
+    <link>https://minweb.shop/jp/tags/ui%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/</link>
+    <description>Recent content in Uiデザイン on MinWeb</description>
+    <generator>Hugo -- 0.147.1</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Sun, 22 Mar 2026 08:47:16 +0900</lastBuildDate>
+    <atom:link href="https://minweb.shop/jp/tags/ui%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>非デザイナー必見！Google Stitchで実現するUI制作入門</title>
+      <link>https://minweb.shop/jp/posts/tech/google-stitch-ui/</link>
+      <pubDate>Sun, 22 Mar 2026 08:47:16 +0900</pubDate>
+      <guid>https://minweb.shop/jp/posts/tech/google-stitch-ui/</guid>
+      <description>&lt;p&gt;UI/UXデザインの領域は、生成AIの進化に伴い、描画スキルを直接的に必要としないフェーズへ急速に移行しています。2025年5月にGoogle Labsから公開され、2026年3月に大規模なアップデートを果たした「Google Stitch」は、非デザイナーがプロダクトのコンセプトを即座に視覚化するためのエンジンとして実用段階に達しました。&lt;/p&gt;
+&lt;p&gt;本稿では、Stitchの機能的背景と、AI駆動型プロダクトマネージャー（PM）がこのツールを自身のワークフローにどう実装すべきか、実務的な観点から詳説します。&lt;/p&gt;
+&lt;h3 id=&#34;google-stitchの技術的背景と位置づけ&#34;&gt;Google Stitchの技術的背景と位置づけ&lt;/h3&gt;
+&lt;p&gt;Google Stitchは、従来のプロトタイピングツールとは異なり、階層的なコンポーネントライブラリを「意味論的（セマンティック）」に解釈するモデルです。設計思想の根幹には、Material Design 3のガイドラインを基盤とした構造解析アルゴリズムが存在します。&lt;/p&gt;
+&lt;h4 id=&#34;主要スペック比較表&#34;&gt;主要スペック比較表&lt;/h4&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;項目&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;従来型ツール（Figma等）&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Google Stitch&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;入力形式&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;手動配置（ドラッグ＆ドロップ）&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;自然言語およびラフスケッチ&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;構造管理&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;レイヤーベース&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;セマンティックグラフベース&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;デザインシステム&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;手動適用&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;自動適用（Material 3準拠）&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;出力データ&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;デザインデータのみ&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;実装用React/Swiftコード&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;実装ステップai駆動型pmによる活用術&#34;&gt;実装ステップ：AI駆動型PMによる活用術&lt;/h3&gt;
+&lt;p&gt;PMがStitchを活用して生産性を最大化するためのプロセスは以下の通りです。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;概念の構造化（Intent Definition）
+PMは、ユーザー要件を「ユーザーの目的」と「画面の機能要素」に言語化します。抽象的な要件を避け、例えば「ログイン後のダッシュボードにおいて、未読メッセージの通知を最優先で視認させる」といった具体的コンテキストをStitchに入力します。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;プロンプトによる論理生成
+Stitchのエンジンは、入力された自然言語をMaterial Designの設計原則に基づき、セマンティックグラフへと変換します。ここで重要なのは、余計な装飾を指示するのではなく、機能の優先順位を論理的に伝えることです。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;自動最適化とコード書き出し
+生成されたインターフェースに対し、Stitchはアクセシビリティ基準（WCAG 2.1）を満たすよう自動調整を施します。PMはこの段階でUX上のボトルネックを確認し、必要に応じてトグルを操作することで構成を微調整します。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;専門的知見ai時代におけるデザインの定義&#34;&gt;専門的知見：AI時代におけるデザインの定義&lt;/h3&gt;
+&lt;p&gt;現在、実務の現場で発生している変化は「描画」の消失ではなく「構造設計」への権限移行です。かつてデザイナーが担っていた「配置の調整」という作業がAIによって自動化される一方で、プロダクトマネージャーに求められる能力は、どの機能をどの文脈で提示すべきかという「論理的骨格」の策定へとシフトしました。&lt;/p&gt;
+&lt;p&gt;熟練のUIデザイナーがこれまで経験則で処理していた「情報の優先度」が、AIによって客観的なアルゴリズムとして提示されるようになったことで、PMとエンジニア間のコミュニケーションコストは劇的に低下しています。ツールそのものに習熟するよりも、Stitchの出力を評価するためのデザインシステムへの深い理解が、今後のプロダクト開発における競争優位を決定づけます。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Simple cartoon illustration: A central glowing core labeled &amp;ldquo;Stitch&amp;rdquo; connected to two gears: one labeled &amp;ldquo;Gemini 3.0 Flash&amp;rdquo; (Fast) and &amp;ldquo;3.1 Pro&amp;rdquo; (Logic).&#34; loading=&#34;lazy&#34; src=&#34;https://minweb.shop/images/-google-stitch-ui-_0.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Stitchは、単なるデザイン生成ツールではありません。かつて注目された「Galileo AI」の技術的系譜を継承し、Googleの基盤モデルと統合されたAIネイティブなUI制作環境です。&lt;/p&gt;
+&lt;h3 id=&#34;基本スペック一覧&#34;&gt;基本スペック一覧&lt;/h3&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;項目&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;詳細情報&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;リリース日&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;2025年5月（2026年3月にメジャーアップデート）&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;基盤モデル&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Gemini 3.0 Flash / Gemini 3.1 Pro/Thinking&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;公式URL&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;stitch.withgoogle.com&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;月間生成制限&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;標準モード：約350回 / プロモード：約200回&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;主要出力形式&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;HTML, Tailwind CSS v4, React/JSX, DESIGN.md&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Gemini 3.0 Flashによる高速なプロトタイピングと、推論能力に優れたGemini 3.1 Pro/Thinkingによる複雑なUXロジックの構築が、ノンデザイナーの思考を即座にUIとして出力することを可能にしています。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
