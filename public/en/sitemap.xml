@@ -196,6 +196,16 @@
   </url><url>
     <loc>https://minweb.shop/en/categories/health/</loc>
     <lastmod>2026-03-21T03:49:35+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://minweb.shop/jp/categories/health/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://minweb.shop/en/categories/health/"
+                />
   </url><url>
     <loc>https://minweb.shop/en/tags/healthy-habits/</loc>
     <lastmod>2026-03-21T03:49:35+09:00</lastmod>
