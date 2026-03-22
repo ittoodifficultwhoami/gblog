@@ -178,6 +178,314 @@ languages:
           name: 搜索
           url: /ch/search/
           weight: 80
+  de:
+    languageCode: de-DE
+    languageName: Deutsch
+    weight: 5
+    contentDir: content/de
+    params:
+      description: "Datenbasierte Praxisratgeber"
+      homeInfoParams:
+        Title: "MinWeb"
+        Content: "Datenbasierte Praxisratgeber"
+    menu:
+      main:
+        - identifier: cat-finance
+          name: Finanzen
+          url: /de/categories/finance/
+          weight: 10
+        - identifier: cat-tech
+          name: Technik
+          url: /de/categories/tech/
+          weight: 20
+        - identifier: cat-health
+          name: Gesundheit
+          url: /de/categories/health/
+          weight: 30
+        - identifier: cat-entertainment
+          name: Unterhaltung
+          url: /de/categories/entertainment/
+          weight: 40
+        - identifier: cat-politics
+          name: Politik
+          url: /de/categories/politics/
+          weight: 50
+        - identifier: cat-sports
+          name: Sport
+          url: /de/categories/sport/
+          weight: 60
+        - identifier: cat-lifestyle
+          name: Lifestyle
+          url: /de/categories/lifestyle/
+          weight: 70
+        - identifier: search
+          name: Suche
+          url: /de/search/
+          weight: 80
+  ar:
+    languageCode: ar
+    languageName: العربية
+    weight: 6
+    contentDir: content/ar
+    params:
+      description: "أدلة عملية مبنية على البيانات"
+      homeInfoParams:
+        Title: "MinWeb"
+        Content: "أدلة عملية مبنية على البيانات"
+    menu:
+      main:
+        - identifier: cat-finance
+          name: اقتصاد
+          url: /ar/categories/finance/
+          weight: 10
+        - identifier: cat-tech
+          name: تكنولوجيا
+          url: /ar/categories/tech/
+          weight: 20
+        - identifier: cat-health
+          name: صحة
+          url: /ar/categories/health/
+          weight: 30
+        - identifier: cat-entertainment
+          name: ترفيه
+          url: /ar/categories/entertainment/
+          weight: 40
+        - identifier: cat-politics
+          name: سياسة
+          url: /ar/categories/politics/
+          weight: 50
+        - identifier: cat-sports
+          name: رياضة
+          url: /ar/categories/sports/
+          weight: 60
+        - identifier: cat-lifestyle
+          name: أسلوب حياة
+          url: /ar/categories/lifestyle/
+          weight: 70
+        - identifier: search
+          name: بحث
+          url: /ar/search/
+          weight: 80
+  ru:
+    languageCode: ru
+    languageName: Русский
+    weight: 7
+    contentDir: content/ru
+    params:
+      description: "Практические руководства на основе данных"
+      homeInfoParams:
+        Title: "MinWeb"
+        Content: "Практические руководства на основе данных"
+    menu:
+      main:
+        - identifier: cat-finance
+          name: Финансы
+          url: /ru/categories/finance/
+          weight: 10
+        - identifier: cat-tech
+          name: Технологии
+          url: /ru/categories/tech/
+          weight: 20
+        - identifier: cat-health
+          name: Здоровье
+          url: /ru/categories/health/
+          weight: 30
+        - identifier: cat-entertainment
+          name: Развлечения
+          url: /ru/categories/entertainment/
+          weight: 40
+        - identifier: cat-politics
+          name: Политика
+          url: /ru/categories/politics/
+          weight: 50
+        - identifier: cat-sports
+          name: Спорт
+          url: /ru/categories/sports/
+          weight: 60
+        - identifier: cat-lifestyle
+          name: Стиль жизни
+          url: /ru/categories/lifestyle/
+          weight: 70
+        - identifier: search
+          name: Поиск
+          url: /ru/search/
+          weight: 80
+  hi:
+    languageCode: hi
+    languageName: हिन्दी
+    weight: 8
+    contentDir: content/hi
+    params:
+      description: "डेटा-आधारित व्यावहारिक मार्गदर्शिकाएँ"
+      homeInfoParams:
+        Title: "MinWeb"
+        Content: "डेटा-आधारित व्यावहारिक मार्गदर्शिकाएँ"
+    menu:
+      main:
+        - identifier: cat-finance
+          name: वित्त
+          url: /hi/categories/finance/
+          weight: 10
+        - identifier: cat-tech
+          name: तकनीक
+          url: /hi/categories/tech/
+          weight: 20
+        - identifier: cat-health
+          name: स्वास्थ्य
+          url: /hi/categories/health/
+          weight: 30
+        - identifier: cat-entertainment
+          name: मनोरंजन
+          url: /hi/categories/entertainment/
+          weight: 40
+        - identifier: cat-politics
+          name: राजनीति
+          url: /hi/categories/politics/
+          weight: 50
+        - identifier: cat-sports
+          name: खेल
+          url: /hi/categories/sports/
+          weight: 60
+        - identifier: cat-lifestyle
+          name: जीवनशैली
+          url: /hi/categories/lifestyle/
+          weight: 70
+        - identifier: search
+          name: खोज
+          url: /hi/search/
+          weight: 80
+  es:
+    languageCode: es
+    languageName: Español
+    weight: 9
+    contentDir: content/es
+    params:
+      description: "Guías prácticas basadas en datos"
+      homeInfoParams:
+        Title: "MinWeb"
+        Content: "Guías prácticas basadas en datos"
+    menu:
+      main:
+        - identifier: cat-finance
+          name: Finanzas
+          url: /es/categories/finance/
+          weight: 10
+        - identifier: cat-tech
+          name: Tecnología
+          url: /es/categories/tech/
+          weight: 20
+        - identifier: cat-health
+          name: Salud
+          url: /es/categories/health/
+          weight: 30
+        - identifier: cat-entertainment
+          name: Entretenimiento
+          url: /es/categories/entertainment/
+          weight: 40
+        - identifier: cat-politics
+          name: Política
+          url: /es/categories/politics/
+          weight: 50
+        - identifier: cat-sports
+          name: Deportes
+          url: /es/categories/sports/
+          weight: 60
+        - identifier: cat-lifestyle
+          name: Estilo de vida
+          url: /es/categories/lifestyle/
+          weight: 70
+        - identifier: search
+          name: Buscar
+          url: /es/search/
+          weight: 80
+  fr:
+    languageCode: fr
+    languageName: Français
+    weight: 10
+    contentDir: content/fr
+    params:
+      description: "Guides pratiques basés sur les données"
+      homeInfoParams:
+        Title: "MinWeb"
+        Content: "Guides pratiques basés sur les données"
+    menu:
+      main:
+        - identifier: cat-finance
+          name: Finance
+          url: /fr/categories/finance/
+          weight: 10
+        - identifier: cat-tech
+          name: Technologie
+          url: /fr/categories/tech/
+          weight: 20
+        - identifier: cat-health
+          name: Santé
+          url: /fr/categories/health/
+          weight: 30
+        - identifier: cat-entertainment
+          name: Divertissement
+          url: /fr/categories/entertainment/
+          weight: 40
+        - identifier: cat-politics
+          name: Politique
+          url: /fr/categories/politics/
+          weight: 50
+        - identifier: cat-sports
+          name: Sports
+          url: /fr/categories/sports/
+          weight: 60
+        - identifier: cat-lifestyle
+          name: Art de vivre
+          url: /fr/categories/lifestyle/
+          weight: 70
+        - identifier: search
+          name: Rechercher
+          url: /fr/search/
+          weight: 80
+  it:
+    languageCode: it
+    languageName: Italiano
+    weight: 11
+    contentDir: content/it
+    params:
+      description: "Guide pratiche basate sui dati"
+      homeInfoParams:
+        Title: "MinWeb"
+        Content: "Guide pratiche basate sui dati"
+    menu:
+      main:
+        - identifier: cat-finance
+          name: Finanza
+          url: /it/categories/finance/
+          weight: 10
+        - identifier: cat-tech
+          name: Tecnologia
+          url: /it/categories/tech/
+          weight: 20
+        - identifier: cat-health
+          name: Salute
+          url: /it/categories/health/
+          weight: 30
+        - identifier: cat-entertainment
+          name: Intrattenimento
+          url: /it/categories/entertainment/
+          weight: 40
+        - identifier: cat-politics
+          name: Politica
+          url: /it/categories/politics/
+          weight: 50
+        - identifier: cat-sports
+          name: Sport
+          url: /it/categories/sports/
+          weight: 60
+        - identifier: cat-lifestyle
+          name: Stile di vita
+          url: /it/categories/lifestyle/
+          weight: 70
+        - identifier: search
+          name: Cerca
+          url: /it/search/
+          weight: 80
 
 pagination:
   pagerSize: 10

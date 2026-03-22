@@ -21,6 +21,41 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="de-DE"
+                href="https://minweb.shop/de/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://minweb.shop/ar/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://minweb.shop/ru/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hi"
+                href="https://minweb.shop/hi/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://minweb.shop/es/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://minweb.shop/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://minweb.shop/it/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ja-JP"
                 href="https://minweb.shop/jp/categories/"
                 />
@@ -57,6 +92,41 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="de-DE"
+                href="https://minweb.shop/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://minweb.shop/ar/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://minweb.shop/ru/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hi"
+                href="https://minweb.shop/hi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://minweb.shop/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://minweb.shop/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://minweb.shop/it/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ja-JP"
                 href="https://minweb.shop/jp/"
                 />
@@ -77,6 +147,41 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://minweb.shop/ch/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://minweb.shop/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://minweb.shop/ar/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://minweb.shop/ru/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hi"
+                href="https://minweb.shop/hi/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://minweb.shop/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://minweb.shop/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://minweb.shop/it/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -114,6 +219,41 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://minweb.shop/en/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://minweb.shop/de/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://minweb.shop/ar/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://minweb.shop/ru/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hi"
+                href="https://minweb.shop/hi/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://minweb.shop/es/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://minweb.shop/fr/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://minweb.shop/it/posts/"
                 />
     <xhtml:link
                 rel="alternate"
