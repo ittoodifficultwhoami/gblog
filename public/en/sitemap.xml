@@ -39,6 +39,16 @@
   </url><url>
     <loc>https://minweb.shop/en/categories/lifestyle/</loc>
     <lastmod>2026-03-21T04:08:31+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://minweb.shop/jp/categories/lifestyle/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://minweb.shop/en/categories/lifestyle/"
+                />
   </url><url>
     <loc>https://minweb.shop/en/</loc>
     <lastmod>2026-03-21T04:08:31+09:00</lastmod>

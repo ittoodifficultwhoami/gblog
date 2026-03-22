@@ -2,8 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://minweb.shop/jp/posts/lifestyle/-/</loc>
+    <lastmod>2026-03-22T12:40:33+09:00</lastmod>
+  </url><url>
     <loc>https://minweb.shop/jp/categories/</loc>
-    <lastmod>2026-03-22T12:33:33+09:00</lastmod>
+    <lastmod>2026-03-22T12:40:33+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -25,21 +28,21 @@
                 href="https://minweb.shop/jp/categories/"
                 />
   </url><url>
-    <loc>https://minweb.shop/jp/categories/entertainment/</loc>
-    <lastmod>2026-03-22T12:33:33+09:00</lastmod>
+    <loc>https://minweb.shop/jp/categories/lifestyle/</loc>
+    <lastmod>2026-03-22T12:40:33+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://minweb.shop/en/categories/entertainment/"
+                href="https://minweb.shop/en/categories/lifestyle/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://minweb.shop/jp/categories/entertainment/"
+                href="https://minweb.shop/jp/categories/lifestyle/"
                 />
   </url><url>
     <loc>https://minweb.shop/jp/</loc>
-    <lastmod>2026-03-22T12:33:33+09:00</lastmod>
+    <lastmod>2026-03-22T12:40:33+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -61,8 +64,11 @@
                 href="https://minweb.shop/jp/"
                 />
   </url><url>
+    <loc>https://minweb.shop/jp/tags/sf%E5%B0%8F%E8%AA%AC/</loc>
+    <lastmod>2026-03-22T12:40:33+09:00</lastmod>
+  </url><url>
     <loc>https://minweb.shop/jp/tags/</loc>
-    <lastmod>2026-03-22T12:33:33+09:00</lastmod>
+    <lastmod>2026-03-22T12:40:33+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -82,6 +88,50 @@
                 rel="alternate"
                 hreflang="ja-JP"
                 href="https://minweb.shop/jp/tags/"
+                />
+  </url><url>
+    <loc>https://minweb.shop/jp/tags/%E3%82%A2%E3%83%B3%E3%83%87%E3%82%A3%E3%82%A6%E3%82%A3%E3%82%A2%E3%83%BC/</loc>
+    <lastmod>2026-03-22T12:40:33+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/jp/tags/%E3%82%A8%E3%83%AA%E3%83%87%E3%82%A3%E3%82%A2%E3%83%B3/</loc>
+    <lastmod>2026-03-22T12:40:33+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/jp/tags/%E3%83%8F%E3%83%BC%E3%83%89sf/</loc>
+    <lastmod>2026-03-22T12:40:33+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/jp/tags/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%83%98%E3%82%A4%E3%83%AB%E3%83%A1%E3%82%A2%E3%83%AA%E3%83%BC/</loc>
+    <lastmod>2026-03-22T12:40:33+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/jp/tags/%E3%83%AD%E3%83%83%E3%82%AD%E3%83%BC/</loc>
+    <lastmod>2026-03-22T12:40:33+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/jp/tags/%E6%98%A0%E7%94%BB%E8%80%83%E5%AF%9F/</loc>
+    <lastmod>2026-03-22T12:40:33+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/jp/posts/</loc>
+    <lastmod>2026-03-22T12:40:33+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://minweb.shop/en/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://minweb.shop/jp/posts/"
+                />
+  </url><url>
+    <loc>https://minweb.shop/jp/categories/entertainment/</loc>
+    <lastmod>2026-03-22T12:33:33+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://minweb.shop/en/categories/entertainment/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://minweb.shop/jp/categories/entertainment/"
                 />
   </url><url>
     <loc>https://minweb.shop/jp/tags/%E3%82%A2%E3%83%8B%E3%83%A1%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9/</loc>
@@ -107,19 +157,6 @@
   </url><url>
     <loc>https://minweb.shop/jp/tags/%E7%B5%B1%E8%A8%88%E3%83%87%E3%83%BC%E3%82%BF/</loc>
     <lastmod>2026-03-22T12:33:33+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/jp/posts/</loc>
-    <lastmod>2026-03-22T12:33:33+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://minweb.shop/en/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja-JP"
-                href="https://minweb.shop/jp/posts/"
-                />
   </url><url>
     <loc>https://minweb.shop/jp/tags/excel/</loc>
     <lastmod>2026-03-22T12:24:36+09:00</lastmod>
