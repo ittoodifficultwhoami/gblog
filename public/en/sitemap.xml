@@ -306,6 +306,16 @@
   </url><url>
     <loc>https://minweb.shop/en/tags/donald-trump/</loc>
     <lastmod>2026-03-21T03:56:48+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://minweb.shop/de/tags/donald-trump/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://minweb.shop/en/tags/donald-trump/"
+                />
   </url><url>
     <loc>https://minweb.shop/en/tags/health-equity/</loc>
     <lastmod>2026-03-21T03:56:48+09:00</lastmod>
@@ -325,6 +335,11 @@
                 rel="alternate"
                 hreflang="ja-JP"
                 href="https://minweb.shop/jp/categories/politics/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://minweb.shop/de/categories/politics/"
                 />
     <xhtml:link
                 rel="alternate"

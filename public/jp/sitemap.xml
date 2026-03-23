@@ -291,6 +291,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="de-DE"
+                href="https://minweb.shop/de/categories/politics/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ja-JP"
                 href="https://minweb.shop/jp/categories/politics/"
                 />
