@@ -4,10 +4,19 @@
     <title>MinWeb</title>
     <link>https://minweb.shop/de/</link>
     <description>Recent content on MinWeb</description>
-    <generator>Hugo -- 0.158.0</generator>
+    <generator>Hugo -- 0.147.1</generator>
     <language>de-DE</language>
-    <lastBuildDate>Mon, 23 Mar 2026 03:10:44 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 07:10:05 +0900</lastBuildDate>
     <atom:link href="https://minweb.shop/de/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Artemis 2: Warum fehlt das Echo?</title>
+      <link>https://minweb.shop/de/posts/tech/artemis-2-warum-fehlt-das-echo/</link>
+      <pubDate>Mon, 23 Mar 2026 07:10:05 +0900</pubDate>
+      <guid>https://minweb.shop/de/posts/tech/artemis-2-warum-fehlt-das-echo/</guid>
+      <description>&lt;p&gt;Das Artemis-Programm der NASA, insbesondere die bevorstehende Artemis-2-Mission, befindet sich in einem Spannungsfeld zwischen ambitionierten technischen Zielen und einer volatilen öffentlichen Wahrnehmung. Während das Apollo-Programm der 1960er Jahre kollektiv als einigendes, historisches Ereignis begriffen wurde, begegnet die heutige Gesellschaft der Rückkehr zum Mond mit einer ausgeprägten Mischung aus Skepsis, technokratischem Desinteresse und der Kritik an den wiederholten Zeitplanverschiebungen.&lt;/p&gt;
+&lt;h3 id=&#34;kontext-und-aktuelle-lage&#34;&gt;Kontext und aktuelle Lage&lt;/h3&gt;
+&lt;p&gt;Die technologische Architektur von Artemis unterscheidet sich grundlegend von der Ära der Saturn-V-Raketen. Der Fokus liegt nicht mehr auf einem rein geopolitischen Wettlauf, sondern auf der Etablierung einer permanenten Präsenz im cislunaren Raum. Diese Strategie erfordert eine signifikant höhere Komplexität, da sie die Kooperation zwischen privaten Raumfahrtunternehmen wie SpaceX und staatlichen Institutionen voraussetzt.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Destilliertes Wasser im Check</title>
       <link>https://minweb.shop/de/posts/tech/destilliertes-wasser-im-check/</link>
