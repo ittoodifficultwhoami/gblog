@@ -116,6 +116,63 @@
                 href="https://minweb.shop/kr/"
                 />
   </url><url>
+    <loc>https://minweb.shop/kr/posts/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://minweb.shop/en/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://minweb.shop/jp/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://minweb.shop/ch/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://minweb.shop/de/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://minweb.shop/ar/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://minweb.shop/ru/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hi"
+                href="https://minweb.shop/hi/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://minweb.shop/es/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://minweb.shop/fr/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://minweb.shop/it/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko-kr"
+                href="https://minweb.shop/kr/posts/"
+                />
+  </url><url>
     <loc>https://minweb.shop/kr/tags/</loc>
     <xhtml:link
                 rel="alternate"

@@ -147,8 +147,18 @@
     <lastmod>2026-03-21T04:08:31+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="ko-kr"
+                href="https://minweb.shop/kr/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ja-JP"
                 href="https://minweb.shop/jp/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://minweb.shop/ch/posts/"
                 />
     <xhtml:link
                 rel="alternate"
