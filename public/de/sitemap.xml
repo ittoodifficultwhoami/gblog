@@ -2,7 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://minweb.shop/de/tags/b%C3%BCrosoftware/</loc>
+    <lastmod>2026-03-23T13:54:06+09:00</lastmod>
+  </url><url>
     <loc>https://minweb.shop/de/categories/</loc>
+    <lastmod>2026-03-23T13:54:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -59,7 +63,11 @@
                 href="https://minweb.shop/de/categories/"
                 />
   </url><url>
+    <loc>https://minweb.shop/de/tags/libreoffice/</loc>
+    <lastmod>2026-03-23T13:54:06+09:00</lastmod>
+  </url><url>
     <loc>https://minweb.shop/de/</loc>
+    <lastmod>2026-03-23T13:54:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -116,7 +124,20 @@
                 href="https://minweb.shop/de/"
                 />
   </url><url>
+    <loc>https://minweb.shop/de/tags/office-software/</loc>
+    <lastmod>2026-03-23T13:54:06+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/tags/open-source/</loc>
+    <lastmod>2026-03-23T13:54:06+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/tags/openoffice/</loc>
+    <lastmod>2026-03-23T13:54:06+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/posts/tech/openoffice-probleme-warum-du-jetzt-zu-libreoffice-wechseln-solltest/</loc>
+    <lastmod>2026-03-23T13:54:06+09:00</lastmod>
+  </url><url>
     <loc>https://minweb.shop/de/posts/</loc>
+    <lastmod>2026-03-23T13:54:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -173,7 +194,17 @@
                 href="https://minweb.shop/de/posts/"
                 />
   </url><url>
+    <loc>https://minweb.shop/de/tags/produktivit%C3%A4t/</loc>
+    <lastmod>2026-03-23T13:54:06+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/tags/software-update/</loc>
+    <lastmod>2026-03-23T13:54:06+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/tags/software-wechsel/</loc>
+    <lastmod>2026-03-23T13:54:06+09:00</lastmod>
+  </url><url>
     <loc>https://minweb.shop/de/tags/</loc>
+    <lastmod>2026-03-23T13:54:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -228,6 +259,24 @@
                 rel="alternate"
                 hreflang="de-DE"
                 href="https://minweb.shop/de/tags/"
+                />
+  </url><url>
+    <loc>https://minweb.shop/de/categories/tech/</loc>
+    <lastmod>2026-03-23T13:54:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://minweb.shop/en/categories/tech/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://minweb.shop/jp/categories/tech/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://minweb.shop/de/categories/tech/"
                 />
   </url>
 </urlset>
