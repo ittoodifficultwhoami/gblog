@@ -4,8 +4,17 @@
     <title>Posts on MinWeb</title>
     <link>https://minweb.shop/hi/posts/</link>
     <description>Recent content in Posts on MinWeb</description>
-    <generator>Hugo -- 0.147.1</generator>
+    <generator>Hugo -- 0.158.0</generator>
     <language>hi</language>
+    <lastBuildDate>Mon, 23 Mar 2026 14:00:00 +0900</lastBuildDate>
     <atom:link href="https://minweb.shop/hi/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>स्वागत है – सामग्री जल्द आ रही है</title>
+      <link>https://minweb.shop/hi/posts/general/welcome/</link>
+      <pubDate>Mon, 23 Mar 2026 14:00:00 +0900</pubDate>
+      <guid>https://minweb.shop/hi/posts/general/welcome/</guid>
+      <description>&lt;p&gt;यह पृष्ठ निर्माणाधीन है। जल्द ही यहाँ प्रौद्योगिकी, वित्त, स्वास्थ्य, मनोरंजन, राजनीति, खेल और जीवनशैली पर शोधपूर्ण लेख उपलब्ध होंगे।&lt;/p&gt;
+&lt;p&gt;हम हिंदी में गुणवत्तापूर्ण सामग्री तैयार कर रहे हैं। कृपया शीघ्र पुनः पधारें।&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

@@ -4,8 +4,17 @@
     <title>MinWeb</title>
     <link>https://minweb.shop/es/</link>
     <description>Recent content on MinWeb</description>
-    <generator>Hugo -- 0.147.1</generator>
+    <generator>Hugo -- 0.158.0</generator>
     <language>es</language>
+    <lastBuildDate>Mon, 23 Mar 2026 14:00:00 +0900</lastBuildDate>
     <atom:link href="https://minweb.shop/es/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bienvenidos – Contenido próximamente</title>
+      <link>https://minweb.shop/es/posts/general/bienvenidos/</link>
+      <pubDate>Mon, 23 Mar 2026 14:00:00 +0900</pubDate>
+      <guid>https://minweb.shop/es/posts/general/bienvenidos/</guid>
+      <description>&lt;p&gt;Esta página está en construcción. Próximamente encontrarás artículos cuidadosamente investigados sobre tecnología, finanzas, salud, entretenimiento, política, deportes y estilo de vida.&lt;/p&gt;
+&lt;p&gt;Estamos trabajando para ofrecerte contenido de calidad en español. Vuelve pronto.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

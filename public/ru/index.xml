@@ -4,8 +4,17 @@
     <title>MinWeb</title>
     <link>https://minweb.shop/ru/</link>
     <description>Recent content on MinWeb</description>
-    <generator>Hugo -- 0.147.1</generator>
+    <generator>Hugo -- 0.158.0</generator>
     <language>ru</language>
+    <lastBuildDate>Mon, 23 Mar 2026 14:00:00 +0900</lastBuildDate>
     <atom:link href="https://minweb.shop/ru/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Добро пожаловать – контент скоро появится</title>
+      <link>https://minweb.shop/ru/posts/general/welcome/</link>
+      <pubDate>Mon, 23 Mar 2026 14:00:00 +0900</pubDate>
+      <guid>https://minweb.shop/ru/posts/general/welcome/</guid>
+      <description>&lt;p&gt;Эта страница находится в разработке. Скоро здесь появятся тщательно подготовленные статьи о технологиях, финансах, здоровье, развлечениях, политике, спорте и образе жизни.&lt;/p&gt;
+&lt;p&gt;Мы работаем над качественным контентом на русском языке. Заходите снова.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

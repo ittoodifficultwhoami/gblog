@@ -4,8 +4,23 @@
     <title>Tags on MinWeb</title>
     <link>https://minweb.shop/fr/tags/</link>
     <description>Recent content in Tags on MinWeb</description>
-    <generator>Hugo -- 0.147.1</generator>
+    <generator>Hugo -- 0.158.0</generator>
     <language>fr</language>
+    <lastBuildDate>Mon, 23 Mar 2026 14:00:00 +0900</lastBuildDate>
     <atom:link href="https://minweb.shop/fr/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bienvenue</title>
+      <link>https://minweb.shop/fr/tags/bienvenue/</link>
+      <pubDate>Mon, 23 Mar 2026 14:00:00 +0900</pubDate>
+      <guid>https://minweb.shop/fr/tags/bienvenue/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Prochainement</title>
+      <link>https://minweb.shop/fr/tags/prochainement/</link>
+      <pubDate>Mon, 23 Mar 2026 14:00:00 +0900</pubDate>
+      <guid>https://minweb.shop/fr/tags/prochainement/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

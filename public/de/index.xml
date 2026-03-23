@@ -4,10 +4,18 @@
     <title>MinWeb</title>
     <link>https://minweb.shop/de/</link>
     <description>Recent content on MinWeb</description>
-    <generator>Hugo -- 0.147.1</generator>
+    <generator>Hugo -- 0.158.0</generator>
     <language>de-DE</language>
-    <lastBuildDate>Mon, 23 Mar 2026 07:10:05 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 14:00:00 +0900</lastBuildDate>
     <atom:link href="https://minweb.shop/de/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Willkommen – Inhalte folgen in Kürze</title>
+      <link>https://minweb.shop/de/posts/general/willkommen/</link>
+      <pubDate>Mon, 23 Mar 2026 14:00:00 +0900</pubDate>
+      <guid>https://minweb.shop/de/posts/general/willkommen/</guid>
+      <description>&lt;p&gt;Diese Seite befindet sich im Aufbau. In Kürze finden Sie hier sorgfältig recherchierte Artikel zu Technologie, Finanzen, Gesundheit, Unterhaltung, Politik, Sport und Lifestyle.&lt;/p&gt;
+&lt;p&gt;Wir arbeiten daran, Ihnen fundierte und gut strukturierte Inhalte auf Deutsch bereitzustellen. Schauen Sie bald wieder vorbei.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Artemis 2: Warum fehlt das Echo?</title>
       <link>https://minweb.shop/de/posts/tech/artemis-2-warum-fehlt-das-echo/</link>
