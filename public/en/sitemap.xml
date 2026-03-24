@@ -2,14 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://minweb.shop/en/tags/billionaire/</loc>
-    <lastmod>2026-03-24T06:34:40+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/en/tags/business-leadership/</loc>
-    <lastmod>2026-03-24T06:34:40+09:00</lastmod>
-  </url><url>
     <loc>https://minweb.shop/en/categories/</loc>
-    <lastmod>2026-03-24T06:34:40+09:00</lastmod>
+    <lastmod>2026-03-24T10:00:02+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko-kr"
@@ -66,20 +60,17 @@
                 href="https://minweb.shop/en/categories/"
                 />
   </url><url>
-    <loc>https://minweb.shop/en/tags/creator-economy/</loc>
-    <lastmod>2026-03-24T06:34:40+09:00</lastmod>
+    <loc>https://minweb.shop/en/tags/clean-energy/</loc>
+    <lastmod>2026-03-24T10:00:02+09:00</lastmod>
   </url><url>
-    <loc>https://minweb.shop/en/tags/digital-media/</loc>
-    <lastmod>2026-03-24T06:34:40+09:00</lastmod>
+    <loc>https://minweb.shop/en/tags/climate-policy/</loc>
+    <lastmod>2026-03-24T10:00:02+09:00</lastmod>
   </url><url>
-    <loc>https://minweb.shop/en/tags/leonid-radvinsky/</loc>
-    <lastmod>2026-03-24T06:34:40+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/en/posts/tech/leonid-radvinsky-dies-at-43-what-s-next-for-onlyfans/</loc>
-    <lastmod>2026-03-24T06:34:40+09:00</lastmod>
+    <loc>https://minweb.shop/en/tags/energy-infrastructure/</loc>
+    <lastmod>2026-03-24T10:00:02+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/en/</loc>
-    <lastmod>2026-03-24T06:34:40+09:00</lastmod>
+    <lastmod>2026-03-24T10:00:02+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko-kr"
@@ -136,11 +127,11 @@
                 href="https://minweb.shop/en/"
                 />
   </url><url>
-    <loc>https://minweb.shop/en/tags/onlyfans/</loc>
-    <lastmod>2026-03-24T06:34:40+09:00</lastmod>
+    <loc>https://minweb.shop/en/tags/offshore-wind/</loc>
+    <lastmod>2026-03-24T10:00:02+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/en/posts/</loc>
-    <lastmod>2026-03-24T06:34:40+09:00</lastmod>
+    <lastmod>2026-03-24T10:00:02+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko-kr"
@@ -197,8 +188,11 @@
                 href="https://minweb.shop/en/posts/"
                 />
   </url><url>
+    <loc>https://minweb.shop/en/tags/renewable-energy/</loc>
+    <lastmod>2026-03-24T10:00:02+09:00</lastmod>
+  </url><url>
     <loc>https://minweb.shop/en/tags/</loc>
-    <lastmod>2026-03-24T06:34:40+09:00</lastmod>
+    <lastmod>2026-03-24T10:00:02+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko-kr"
@@ -256,7 +250,7 @@
                 />
   </url><url>
     <loc>https://minweb.shop/en/categories/tech/</loc>
-    <lastmod>2026-03-24T06:34:40+09:00</lastmod>
+    <lastmod>2026-03-24T10:00:02+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
@@ -272,6 +266,39 @@
                 hreflang="en-us"
                 href="https://minweb.shop/en/categories/tech/"
                 />
+  </url><url>
+    <loc>https://minweb.shop/en/tags/totalenergies/</loc>
+    <lastmod>2026-03-24T10:00:02+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/us-energy-policy/</loc>
+    <lastmod>2026-03-24T10:00:02+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/posts/tech/us-pays-totalenergies-1b-to-scrap-offshore-wind-projects/</loc>
+    <lastmod>2026-03-24T10:00:02+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/wind-power/</loc>
+    <lastmod>2026-03-24T10:00:02+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/billionaire/</loc>
+    <lastmod>2026-03-24T06:34:40+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/business-leadership/</loc>
+    <lastmod>2026-03-24T06:34:40+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/creator-economy/</loc>
+    <lastmod>2026-03-24T06:34:40+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/digital-media/</loc>
+    <lastmod>2026-03-24T06:34:40+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/leonid-radvinsky/</loc>
+    <lastmod>2026-03-24T06:34:40+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/posts/tech/leonid-radvinsky-dies-at-43-what-s-next-for-onlyfans/</loc>
+    <lastmod>2026-03-24T06:34:40+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/onlyfans/</loc>
+    <lastmod>2026-03-24T06:34:40+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/en/tags/tech-news/</loc>
     <lastmod>2026-03-24T06:34:40+09:00</lastmod>
