@@ -6,8 +6,16 @@
     <description>Recent content in Posts on MinWeb</description>
     <generator>Hugo -- 0.147.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Mar 2026 10:00:02 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 09:21:06 +0900</lastBuildDate>
     <atom:link href="https://minweb.shop/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why OpenAI Is Shutting Down Sora: The Economics of Failure</title>
+      <link>https://minweb.shop/en/posts/tech/why-openai-is-shutting-down-sora-the-economics-of-failure/</link>
+      <pubDate>Wed, 25 Mar 2026 09:21:06 +0900</pubDate>
+      <guid>https://minweb.shop/en/posts/tech/why-openai-is-shutting-down-sora-the-economics-of-failure/</guid>
+      <description>&lt;p&gt;If you’ve been following the AI space, you’ve felt a distinct sense of whiplash lately. Yesterday, every tech company was racing to show off physics-defying video generation. Today, the headlines are all about a massive retreat.&lt;/p&gt;
+&lt;p&gt;On March 24, 2026, OpenAI pulled the plug on Sora. The shutdown is total: the standalone app, the developer API, and every video feature baked into ChatGPT are gone. For a product hyped as the &amp;ldquo;future of cinema,&amp;rdquo; its death feels shockingly sudden. But if you look past the slick marketing, the writing was on the wall for a long time.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>US Pays TotalEnergies $1B to Scrap Offshore Wind Projects</title>
       <link>https://minweb.shop/en/posts/tech/us-pays-totalenergies-1b-to-scrap-offshore-wind-projects/</link>
