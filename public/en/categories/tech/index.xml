@@ -6,8 +6,15 @@
     <description>Recent content in Tech on MinWeb</description>
     <generator>Hugo -- 0.159.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Mar 2026 06:39:07 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 11:21:54 +0900</lastBuildDate>
     <atom:link href="https://minweb.shop/en/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>He said &#34;hello&#34; test</title>
+      <link>https://minweb.shop/en/posts/tech/test-quote-escape/</link>
+      <pubDate>Sun, 29 Mar 2026 11:21:54 +0900</pubDate>
+      <guid>https://minweb.shop/en/posts/tech/test-quote-escape/</guid>
+      <description>&lt;p&gt;test body&lt;/p&gt;</description>
+    </item>
     <item>
       <title>The Dodgers&#39; Digital-Only Policy Excludes Loyal Seniors</title>
       <link>https://minweb.shop/en/posts/tech/the-dodgers-digital-only-policy-excludes-loyal-seniors/</link>

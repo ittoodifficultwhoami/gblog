@@ -4,19 +4,16 @@
     <title>Software on MinWeb</title>
     <link>https://minweb.shop/en/tags/software/</link>
     <description>Recent content in Software on MinWeb</description>
-    <generator>Hugo -- 0.147.1</generator>
+    <generator>Hugo -- 0.159.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Mar 2026 09:15:45 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 11:21:54 +0900</lastBuildDate>
     <atom:link href="https://minweb.shop/en/tags/software/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Technik: Fortschritt oder Komplexitätsfalle?</title>
-      <link>https://minweb.shop/en/posts/tech/technik-fortschritt-oder-komplexit-tsfalle/</link>
-      <pubDate>Mon, 23 Mar 2026 09:15:45 +0900</pubDate>
-      <guid>https://minweb.shop/en/posts/tech/technik-fortschritt-oder-komplexit-tsfalle/</guid>
-      <description>&lt;p&gt;Technik macht unser Leben gleichzeitig gesünder und stressiger, effizienter und frustrierender. Wenn Sie sich fragen, warum Sie für einfache Aufgaben heute länger brauchen als vor zehn Jahren, dann liegt das nicht an Ihnen. Es liegt am Design. Die Bilanz zwischen Fortschritt und Überlastung ist ein zweischneidiges Schwert.&lt;/p&gt;
-&lt;p&gt;Hier ist die Wahrheit darüber, wo Technik uns wirklich nach vorne bringt und wo sie uns unnötig ausbremst.&lt;/p&gt;
-&lt;h2 id=&#34;der-stille-sieger-hardware-und-haushalt&#34;&gt;Der stille Sieger: Hardware und Haushalt&lt;/h2&gt;
-&lt;p&gt;In diesem Bereich hat sich unser Leben massiv verbessert. Der Fortschritt ist hier meistens messbar und direkt.&lt;/p&gt;</description>
+      <title>He said &#34;hello&#34; test</title>
+      <link>https://minweb.shop/en/posts/tech/test-quote-escape/</link>
+      <pubDate>Sun, 29 Mar 2026 11:21:54 +0900</pubDate>
+      <guid>https://minweb.shop/en/posts/tech/test-quote-escape/</guid>
+      <description>&lt;p&gt;test body&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
