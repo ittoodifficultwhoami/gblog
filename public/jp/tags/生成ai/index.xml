@@ -4,10 +4,82 @@
     <title>生成ai on MinWeb</title>
     <link>https://minweb.shop/jp/tags/%E7%94%9F%E6%88%90ai/</link>
     <description>Recent content in 生成ai on MinWeb</description>
-    <generator>Hugo -- 0.147.1</generator>
+    <generator>Hugo -- 0.159.1</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 22 Mar 2026 09:39:01 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 07:50:00 +0900</lastBuildDate>
     <atom:link href="https://minweb.shop/jp/tags/%E7%94%9F%E6%88%90ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ChatGPTが重い時！会話をリセットする「引き継ぎプロンプト」活用術</title>
+      <link>https://minweb.shop/jp/posts/tech/chatgpt/</link>
+      <pubDate>Sun, 29 Mar 2026 07:50:00 +0900</pubDate>
+      <guid>https://minweb.shop/jp/posts/tech/chatgpt/</guid>
+      <description>&lt;p&gt;「またChatGPTが前の話を忘れてる……」「チャットが長すぎてAIの回答が変になった」。そんな経験はありませんか？&lt;/p&gt;
+&lt;p&gt;AIを相棒として使いこなすほど、避けて通れないのが「チャットの肥大化」です。便利に使っていたはずが、履歴が長くなるにつれてAIの反応が鈍くなったり、的外れな回答を繰り返したりする。これはAI業界で「コンテキストの腐敗（Context Rot）」と呼ばれる現象です。&lt;/p&gt;
+&lt;p&gt;今回は、Qiitaで話題になった「引き継ぎプロンプト」の知恵と2026年現在のAI事情を紐解きながら、重くなったチャットをリセットし、賢く次へつなげる方法を解説します。&lt;/p&gt;
+&lt;h2 id=&#34;なぜチャットは長くなるとボケるのか&#34;&gt;なぜチャットは長くなると「ボケる」のか？&lt;/h2&gt;
+&lt;p&gt;まずは技術的な限界を知っておきましょう。ChatGPT Plusなどで日常的にやり取りしていると忘れがちですが、AIには「一度に記憶できる容量（コンテキストウィンドウ）」の制限があります。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;ChatGPT（Plus/Team）の実効コンテキスト:&lt;/strong&gt; 約32,000トークン&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Perplexityの制限:&lt;/strong&gt; 約32,000トークンに達すると「新しいスレッドを開始してください」と警告が出る&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;この限界を超えると、AIは古い会話から順に忘れていきます。さらに、重要な情報が会話の中間に埋もれてしまい、最初と最後しか覚えていない「中間喪失」という現象も起こります。&lt;/p&gt;
+&lt;p&gt;長すぎる会話は、ただのノイズの塊です。AIは過去の不必要なやり取りまでコンテキストとして読み込むため、推論の精度が落ち、答えが凝り固まってしまうんです。正直、ダラダラと続く会話はAIにとっても負担なんですよ。&lt;/p&gt;
+&lt;h2 id=&#34;引き継ぎプロンプトで賢くリセットする&#34;&gt;「引き継ぎプロンプト」で賢くリセットする&lt;/h2&gt;
+&lt;p&gt;限界を迎えたとき、強制終了するのではなく「脳の入れ替え」を行うのが「引き継ぎプロンプト」です。SatoRyota_zvc氏が提唱したこの手法は、現在の会話を整理して新しいチャットに情報を転送するテンプレートです。&lt;/p&gt;
+&lt;p&gt;以下の8項目をAIに出力させ、その要約を新しいスレッドに貼り付けるだけで、コンテキストがクリーンな状態で再スタートできます。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;背景:&lt;/strong&gt; 何のために始めた会話か&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;目的:&lt;/strong&gt; ゴールは何か&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;経緯:&lt;/strong&gt; これまでどんな議論をしたか&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;決定事項:&lt;/strong&gt; 確定した方針や結論&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;未解決事項・課題:&lt;/strong&gt; まだ残っている問題点&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;共有すべきコードやドキュメント:&lt;/strong&gt; 最新の成果物&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;次に依頼すべき内容:&lt;/strong&gt; 次のチャットでやるべきこと&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;引き継ぎ本文:&lt;/strong&gt; 上記をまとめた、新しいAIへの依頼メッセージ&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;なぜこれが今も有効なのか&#34;&gt;なぜこれが今も有効なのか？&lt;/h3&gt;
+&lt;p&gt;2025年4月にOpenAIが「Universal Memory」を導入したことで、文脈を自動的に引き継ぐ場面は増えました。それでも「記憶の断捨離」は重要です。&lt;/p&gt;
+&lt;p&gt;Perplexityの統計（2026年時点）では、セッションの約75％が「新しいスレッド」での開始を選択しています。AIも人間と同じで、古い記憶を整理して新しい環境で再起動する方が、パフォーマンスは最大化します。&lt;/p&gt;
+&lt;h2 id=&#34;2026年のaiライフ引き継ぎの最新トレンド&#34;&gt;2026年のAIライフ：引き継ぎの最新トレンド&lt;/h2&gt;
+&lt;p&gt;プロンプトを手打ちするのはもう古い手法になりつつあります。2026年現在、私たちが活用すべきは、進化するツールとの付き合い方です。&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;手法・ツール&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;特徴と活用法&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;AIST Protocol&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;セッション終了時に「未来の自分」への引き継ぎ文を作る習慣。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;NotebookLM&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;関連資料を「情報源」として固定し、腐敗を防ぐ。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Agentic AI&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;手順書よりも「目標（ゴール）」を渡して自律的に考えさせる。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;MCP&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;AIが直接外部データベースを参照し、情報を渡す手間を減らす。&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;「まだプロンプトで消耗してるの？」と言われそうですが、チャットの分量を監視させて、一定量を超えたら警告を出させるステータス文を組み込んでおくのが最も効率的です。&lt;/p&gt;
+&lt;h2 id=&#34;今日からできる賢い引き継ぎのコツ&#34;&gt;今日からできる、賢い引き継ぎのコツ&lt;/h2&gt;
+&lt;p&gt;「いちいちまとめるのが面倒くさい」と感じる方は、まずは以下の3ステップを試してみてください。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;「プロジェクト」で管理する:&lt;/strong&gt; 関連性が高いやり取りは1つのスレッドに固め、それ以外は迷わずスレッドを切り分ける。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;要約は「ファイル」で渡す:&lt;/strong&gt; 長い仕様や履歴は、毎回AIに読ませるのではなく、テキストファイルにまとめて添付する。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;忘却を恐れない:&lt;/strong&gt; 必要以上に過去の文脈を引きずると、AIの回答は保守的になり、創造性が失われます。一度リセットした方が、むしろ新鮮で鋭い回答が返ってくるものです。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;2026年3月、Claudeの世界的障害でPerplexityまで止まった際、多くのユーザーが「手元に情報を整理して保存しておく重要性」を痛感しました。&lt;/p&gt;
+&lt;p&gt;AIに頼り切るのではなく、自分という人間が司令塔となり、情報を整理して引き継ぐ。このプロセスこそが、最も生産性を高めるAI活用の極意です。&lt;/p&gt;
+&lt;p&gt;さあ、あなたのチャット履歴はもう限界サインを出していませんか？ 新しいチャットを立ち上げる前に、今の成果をアーカイブしてみてください。あなたの脳内と同じくらい、AIもスッキリするはずです。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>RAGの限界を突破する「GraphRAG」実践入門：構造化でLLMを賢くする</title>
       <link>https://minweb.shop/jp/posts/tech/rag-graphrag-llm/</link>

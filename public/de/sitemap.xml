@@ -2,11 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://minweb.shop/de/tags/b%C3%BCrosoftware/</loc>
-    <lastmod>2026-03-23T13:54:06+09:00</lastmod>
-  </url><url>
     <loc>https://minweb.shop/de/categories/</loc>
-    <lastmod>2026-03-23T13:54:06+09:00</lastmod>
+    <lastmod>2026-03-28T00:24:50+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -63,11 +60,23 @@
                 href="https://minweb.shop/de/categories/"
                 />
   </url><url>
-    <loc>https://minweb.shop/de/tags/libreoffice/</loc>
-    <lastmod>2026-03-23T13:54:06+09:00</lastmod>
+    <loc>https://minweb.shop/de/tags/energiepreise/</loc>
+    <lastmod>2026-03-28T00:24:50+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/tags/geopolitik/</loc>
+    <lastmod>2026-03-28T00:24:50+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/tags/irankrieg/</loc>
+    <lastmod>2026-03-28T00:24:50+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/posts/politics/irankrieg-was-der-konflikt-wirklich-kostet/</loc>
+    <lastmod>2026-03-28T00:24:50+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/tags/milit%C3%A4rpolitik/</loc>
+    <lastmod>2026-03-28T00:24:50+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/de/</loc>
-    <lastmod>2026-03-23T13:54:06+09:00</lastmod>
+    <lastmod>2026-03-28T00:24:50+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -124,20 +133,32 @@
                 href="https://minweb.shop/de/"
                 />
   </url><url>
-    <loc>https://minweb.shop/de/tags/office-software/</loc>
-    <lastmod>2026-03-23T13:54:06+09:00</lastmod>
+    <loc>https://minweb.shop/de/tags/nahostkonflikt/</loc>
+    <lastmod>2026-03-28T00:24:50+09:00</lastmod>
   </url><url>
-    <loc>https://minweb.shop/de/tags/open-source/</loc>
-    <lastmod>2026-03-23T13:54:06+09:00</lastmod>
+    <loc>https://minweb.shop/de/tags/operation-epic-fury/</loc>
+    <lastmod>2026-03-28T00:24:50+09:00</lastmod>
   </url><url>
-    <loc>https://minweb.shop/de/tags/openoffice/</loc>
-    <lastmod>2026-03-23T13:54:06+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/de/posts/tech/openoffice-probleme-warum-du-jetzt-zu-libreoffice-wechseln-solltest/</loc>
-    <lastmod>2026-03-23T13:54:06+09:00</lastmod>
+    <loc>https://minweb.shop/de/categories/politics/</loc>
+    <lastmod>2026-03-28T00:24:50+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://minweb.shop/en/categories/politics/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://minweb.shop/jp/categories/politics/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://minweb.shop/de/categories/politics/"
+                />
   </url><url>
     <loc>https://minweb.shop/de/posts/</loc>
-    <lastmod>2026-03-23T13:54:06+09:00</lastmod>
+    <lastmod>2026-03-28T00:24:50+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -194,17 +215,11 @@
                 href="https://minweb.shop/de/posts/"
                 />
   </url><url>
-    <loc>https://minweb.shop/de/tags/produktivit%C3%A4t/</loc>
-    <lastmod>2026-03-23T13:54:06+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/de/tags/software-update/</loc>
-    <lastmod>2026-03-23T13:54:06+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/de/tags/software-wechsel/</loc>
-    <lastmod>2026-03-23T13:54:06+09:00</lastmod>
+    <loc>https://minweb.shop/de/tags/r%C3%BCstungsausgaben/</loc>
+    <lastmod>2026-03-28T00:24:50+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/de/tags/</loc>
-    <lastmod>2026-03-23T13:54:06+09:00</lastmod>
+    <lastmod>2026-03-28T00:24:50+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -261,8 +276,247 @@
                 href="https://minweb.shop/de/tags/"
                 />
   </url><url>
+    <loc>https://minweb.shop/de/tags/wirtschaftliche-folgen/</loc>
+    <lastmod>2026-03-28T00:24:50+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/tags/fitness/</loc>
+    <lastmod>2026-03-28T00:14:35+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/tags/fitness-trends/</loc>
+    <lastmod>2026-03-28T00:14:35+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/tags/gesundheit/</loc>
+    <lastmod>2026-03-28T00:14:35+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/posts/sports/ist-ein-trainierter-k-rper-wirklich-wichtig-fakten-trends/</loc>
+    <lastmod>2026-03-28T00:14:35+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/tags/k%C3%B6rperbild/</loc>
+    <lastmod>2026-03-28T00:14:35+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/tags/krafttraining/</loc>
+    <lastmod>2026-03-28T00:14:35+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/tags/muskelaufbau/</loc>
+    <lastmod>2026-03-28T00:14:35+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/tags/sportmotivation/</loc>
+    <lastmod>2026-03-28T00:14:35+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/categories/sports/</loc>
+    <lastmod>2026-03-28T00:14:35+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://minweb.shop/en/categories/sports/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://minweb.shop/de/categories/sports/"
+                />
+  </url><url>
+    <loc>https://minweb.shop/de/tags/training/</loc>
+    <lastmod>2026-03-28T00:14:35+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/posts/entertainment/endlich-sonne-was-wir-bei-sch-nem-wetter-wirklich-tun/</loc>
+    <lastmod>2026-03-28T00:00:42+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/categories/entertainment/</loc>
+    <lastmod>2026-03-28T00:00:42+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://minweb.shop/en/categories/entertainment/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://minweb.shop/jp/categories/entertainment/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://minweb.shop/de/categories/entertainment/"
+                />
+  </url><url>
+    <loc>https://minweb.shop/de/tags/freizeitgestaltung/</loc>
+    <lastmod>2026-03-28T00:00:42+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/tags/fr%C3%BChling/</loc>
+    <lastmod>2026-03-28T00:00:42+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/tags/fr%C3%BChlingsgef%C3%BChle/</loc>
+    <lastmod>2026-03-28T00:00:42+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/tags/lifestyle/</loc>
+    <lastmod>2026-03-28T00:00:42+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/tags/natur/</loc>
+    <lastmod>2026-03-28T00:00:42+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/tags/outdoor-aktivit%C3%A4ten/</loc>
+    <lastmod>2026-03-28T00:00:42+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/tags/sonnenschein/</loc>
+    <lastmod>2026-03-28T00:00:42+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/tags/wetter/</loc>
+    <lastmod>2026-03-28T00:00:42+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/tags/altersvorsorge/</loc>
+    <lastmod>2026-03-27T23:51:10+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/tags/demografischer-wandel/</loc>
+    <lastmod>2026-03-27T23:51:10+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/tags/gesetzliche-rente/</loc>
+    <lastmod>2026-03-27T23:51:10+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/tags/gesundheit-im-alter/</loc>
+    <lastmod>2026-03-27T23:51:10+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/categories/health/</loc>
+    <lastmod>2026-03-27T23:51:10+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://minweb.shop/en/categories/health/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://minweb.shop/jp/categories/health/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://minweb.shop/de/categories/health/"
+                />
+  </url><url>
+    <loc>https://minweb.shop/de/tags/rente/</loc>
+    <lastmod>2026-03-27T23:51:10+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/tags/rente-mit-70/</loc>
+    <lastmod>2026-03-27T23:51:10+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/posts/health/rente-mit-70-realistische-l-sung-oder-soziale-sackgasse/</loc>
+    <lastmod>2026-03-27T23:51:10+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/tags/renteneintrittsalter/</loc>
+    <lastmod>2026-03-27T23:51:10+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/tags/drei-elemente-lehre/</loc>
+    <lastmod>2026-03-27T23:40:27+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/tags/eigenes-land-gr%C3%BCnden/</loc>
+    <lastmod>2026-03-27T23:40:27+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/posts/lifestyle/ein-eigenes-land-gr-nden-warum-das-rechtlich-unm-glich-ist/</loc>
+    <lastmod>2026-03-27T23:40:27+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/tags/lebensstil/</loc>
+    <lastmod>2026-03-27T23:40:27+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/categories/lifestyle/</loc>
+    <lastmod>2026-03-27T23:40:27+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://minweb.shop/en/categories/lifestyle/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://minweb.shop/jp/categories/lifestyle/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://minweb.shop/de/categories/lifestyle/"
+                />
+  </url><url>
+    <loc>https://minweb.shop/de/tags/rechtliche-grundlagen/</loc>
+    <lastmod>2026-03-27T23:40:27+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/tags/souver%C3%A4nit%C3%A4t/</loc>
+    <lastmod>2026-03-27T23:40:27+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/tags/staat-gr%C3%BCnden/</loc>
+    <lastmod>2026-03-27T23:40:27+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/tags/staatsrecht/</loc>
+    <lastmod>2026-03-27T23:40:27+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/tags/deutschland/</loc>
+    <lastmod>2026-03-27T23:30:41+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/posts/finance/eigene-staatsgr-ndung-warum-man-sein-land-nicht-trennen-kann/</loc>
+    <lastmod>2026-03-27T23:30:41+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/tags/eigentum/</loc>
+    <lastmod>2026-03-27T23:30:41+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/categories/finance/</loc>
+    <lastmod>2026-03-27T23:30:41+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://minweb.shop/en/categories/finance/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://minweb.shop/jp/categories/finance/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://minweb.shop/de/categories/finance/"
+                />
+  </url><url>
+    <loc>https://minweb.shop/de/tags/grundgesetz/</loc>
+    <lastmod>2026-03-27T23:30:41+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/tags/privatrecht/</loc>
+    <lastmod>2026-03-27T23:30:41+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/tags/staatsgr%C3%BCndung/</loc>
+    <lastmod>2026-03-27T23:30:41+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/tags/gaming-kultur/</loc>
+    <lastmod>2026-03-27T23:19:56+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/tags/gaming-statistik/</loc>
+    <lastmod>2026-03-27T23:19:56+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/tags/gaming-trends/</loc>
+    <lastmod>2026-03-27T23:19:56+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/tags/nostalgie/</loc>
+    <lastmod>2026-03-27T23:19:56+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/tags/pc-gaming/</loc>
+    <lastmod>2026-03-27T23:19:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://minweb.shop/en/tags/pc-gaming/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://minweb.shop/de/tags/pc-gaming/"
+                />
+  </url><url>
+    <loc>https://minweb.shop/de/tags/retrogaming/</loc>
+    <lastmod>2026-03-27T23:19:56+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/tags/steam/</loc>
+    <lastmod>2026-03-27T23:19:56+09:00</lastmod>
+  </url><url>
     <loc>https://minweb.shop/de/categories/tech/</loc>
-    <lastmod>2026-03-23T13:54:06+09:00</lastmod>
+    <lastmod>2026-03-27T23:19:56+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -278,5 +532,72 @@
                 hreflang="de-DE"
                 href="https://minweb.shop/de/categories/tech/"
                 />
+  </url><url>
+    <loc>https://minweb.shop/de/tags/videospiele/</loc>
+    <lastmod>2026-03-27T23:19:56+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/posts/tech/warum-wir-heute-lieber-alte-spiele-statt-neuheiten-spielen/</loc>
+    <lastmod>2026-03-27T23:19:56+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/tags/amerikanische-politik/</loc>
+    <lastmod>2026-03-27T00:40:10+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/tags/donald-trump/</loc>
+    <lastmod>2026-03-27T00:40:10+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://minweb.shop/en/tags/donald-trump/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://minweb.shop/de/tags/donald-trump/"
+                />
+  </url><url>
+    <loc>https://minweb.shop/de/posts/politics/donald-trump-berlebt-er-politisch-und-gesundheitlich-2026/</loc>
+    <lastmod>2026-03-27T00:40:10+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/tags/gesundheitszustand-trump/</loc>
+    <lastmod>2026-03-27T00:40:10+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/tags/politische-zukunft/</loc>
+    <lastmod>2026-03-27T00:40:10+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/tags/pr%C3%A4sidentschaft-2026/</loc>
+    <lastmod>2026-03-27T00:40:10+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/tags/us-politik/</loc>
+    <lastmod>2026-03-27T00:40:10+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/tags/us-wahlen/</loc>
+    <lastmod>2026-03-27T00:40:10+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/tags/b%C3%BCrosoftware/</loc>
+    <lastmod>2026-03-23T13:54:06+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/tags/libreoffice/</loc>
+    <lastmod>2026-03-23T13:54:06+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/tags/office-software/</loc>
+    <lastmod>2026-03-23T13:54:06+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/tags/open-source/</loc>
+    <lastmod>2026-03-23T13:54:06+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/tags/openoffice/</loc>
+    <lastmod>2026-03-23T13:54:06+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/posts/tech/openoffice-probleme-warum-du-jetzt-zu-libreoffice-wechseln-solltest/</loc>
+    <lastmod>2026-03-23T13:54:06+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/tags/produktivit%C3%A4t/</loc>
+    <lastmod>2026-03-23T13:54:06+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/tags/software-update/</loc>
+    <lastmod>2026-03-23T13:54:06+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/tags/software-wechsel/</loc>
+    <lastmod>2026-03-23T13:54:06+09:00</lastmod>
   </url>
 </urlset>

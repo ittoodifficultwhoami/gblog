@@ -1,5 +1,5 @@
 ---
-title: "Why Your "Conservative" Retirement Fund Lost $21,000"
+title: "Why Your Conservative Retirement Fund Lost $21,000"
 date: 2026-03-27T21:19:40+09:00
 draft: false
 categories: ["finance"]

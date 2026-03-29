@@ -4,10 +4,90 @@
     <title>プロダクトマネジメント on MinWeb</title>
     <link>https://minweb.shop/jp/tags/%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88/</link>
     <description>Recent content in プロダクトマネジメント on MinWeb</description>
-    <generator>Hugo -- 0.147.1</generator>
+    <generator>Hugo -- 0.159.1</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 22 Mar 2026 08:47:16 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 22:40:45 +0900</lastBuildDate>
     <atom:link href="https://minweb.shop/jp/tags/%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Claude Codeでグロース業務を一人で回す！AIチーム活用術</title>
+      <link>https://minweb.shop/jp/posts/lifestyle/claude-code-ai/</link>
+      <pubDate>Fri, 27 Mar 2026 22:40:45 +0900</pubDate>
+      <guid>https://minweb.shop/jp/posts/lifestyle/claude-code-ai/</guid>
+      <description>&lt;p&gt;「チームの人数は増やせない、でも仕事は山積み……」&lt;/p&gt;
+&lt;p&gt;そんな悩みを抱えるプロダクトオーナー（PO）やマーケティング担当者は多いはずです。日々のデータ分析、戦略の立案、施策の配信設定、そして効果検証。これらを一人で回すのは、もう限界ですよね。&lt;/p&gt;
+&lt;p&gt;ところが、その「一人多役」の壁を突き破った事例があります。dely株式会社の小川大介氏は、最新のAIツール「Claude Code」を使いこなし、&lt;strong&gt;たった一人でグロース業務を完遂する体制&lt;/strong&gt;を構築しました。&lt;/p&gt;
+&lt;p&gt;彼がいかにしてAIを「最強のチームメイト」に変え、業務フローを劇的に進化させたのか。その全貌を解き明かします。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;1-なぜ一人で回せるのかaiエージェントの仕組み&#34;&gt;1. なぜ「一人で」回せるのか？：AIエージェントの仕組み&lt;/h2&gt;
+&lt;p&gt;小川氏の取り組みは、単なるツールの導入ではありません。「AIに丸投げする」のではなく、**「人間が指揮官となり、AIが実行部隊として動く」**という役割分担を徹底しています。&lt;/p&gt;
+&lt;h3 id=&#34;aiの組織構成エージェントとスキルの分離&#34;&gt;AIの組織構成：エージェントとスキルの分離&lt;/h3&gt;
+&lt;p&gt;小川氏のシステムでは、AIの役割を2つに分けています。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Agent（役割）&lt;/strong&gt;: 全体を見渡す司令塔。分析担当（Analyzer）や、論理の穴を突く批判者（Critic）などがこれにあたります。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Skill（特定のタスク）&lt;/strong&gt;: 戦略立案や効果検証といった専門作業を担うユニット。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;これを支えているのが、2026年3月に実装された「Agent Teams」という機能です。&lt;code&gt;CLAUDE_CODE_EXPERIMENTAL_AGENT_TEAMS=1&lt;/code&gt; をオンにすれば、&lt;strong&gt;2〜16人のAIエージェントが連携し、複雑な業務を分担する&lt;/strong&gt;ことが可能になります。&lt;/p&gt;
+&lt;p&gt;人間が細かい作業手順を指示する必要はありません。「売上のボトルネックを見つけて解決策を提案して」と投げるだけで、AIチームが勝手に協力して作業を完了させてくれるのです。正直、ここまでスムーズに動くのかと驚かされます。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;2-実績が証明するai-firstの威力&#34;&gt;2. 実績が証明する「AI First」の威力&lt;/h2&gt;
+&lt;p&gt;この手法で、どれほどの効率化が実現したのでしょうか。2026年3月時点で明かされた成果の一部を紹介します。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;驚異の処理スピード&lt;/strong&gt;: PO一人が、一日数十件のプルリクエスト（PR）を処理するスループットを実現。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;精緻なデータ分析&lt;/strong&gt;: 過去のデータから「1回購入したユーザーのリピート率が3分の1に低下している」という事実をAIが自動検知。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;戦略の最適化&lt;/strong&gt;: AIが分析した結果、「特定のA商品は、他の商品に比べて初回から2回目の購入率が3倍高い」という事実を突き止め、即座に施策へ反映。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;特に注目すべきは、dely社が2025年7月から導入している「AI First」制度です。会社が社員一人当たり月額最大10万円のAIエージェント利用料を補助しており、こうした環境が個人の限界突破を後押ししています。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;3-属人化の恐怖をどう克服するか&#34;&gt;3. 「属人化」の恐怖をどう克服するか？&lt;/h2&gt;
+&lt;p&gt;「AIに頼り切ると、自分しかやり方がわからなくなり、退職した瞬間に破綻するのでは？」という不安はもっともです。しかし小川氏は、**「AIによる標準化で、属人化のリスクはむしろ減る」**と断言します。&lt;/p&gt;
+&lt;h3 id=&#34;秘伝のタレをmdファイルへ&#34;&gt;「秘伝のタレ」をMDファイルへ&lt;/h3&gt;
+&lt;p&gt;小川氏は以下のファイルを活用し、暗黙知を形式知化しています。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;code&gt;CLAUDE.md&lt;/code&gt; / &lt;code&gt;GEMINI.md&lt;/code&gt;&lt;/strong&gt;: 業務のルール、推奨される思考プロセス、制約事項を記述。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;code&gt;MEMORY.md&lt;/code&gt;&lt;/strong&gt;: 過去の施策の成功と失敗という経験則を記録。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;人間が手順書を書くのではなく、&lt;strong&gt;AIがこれらのルールを読んで実行するため、誰が引き継いでも同じクオリティで業務が再現できる&lt;/strong&gt;のです。AIがナレッジベースを参照しながら動くため、個人の頭の中にある経験則をAIが代行してくれる仕組みと言えます。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;4-押さえておきたい最新トレンド指標2026年3月時点&#34;&gt;4. 押さえておきたい最新トレンド・指標（2026年3月時点）&lt;/h2&gt;
+&lt;p&gt;現在、AIエージェントの世界は急速に進化しています。以下の数値を参考にしてみてください。&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;項目&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;内容&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Claude Codeの精度&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;SWE-benchスコア 80.9%（AIコーディングエージェントとして世界1位）&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;処理能力&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;コンテキストウィンドウ 100万トークン（Claude 4.6 Opus）&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;連携ツール&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;code&gt;tmux&lt;/code&gt; を使用してターミナルを分割し、複数のエージェントを同時監視&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;最新の操作性&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;DiscordやTelegramを通じた「Claude Code Channels」での遠隔操作が可能&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;5-私たちが今日からできること&#34;&gt;5. 私たちが今日からできること&lt;/h2&gt;
+&lt;p&gt;この事例から学ぶべきは、「いきなりすべてを自動化しない」という姿勢です。小川氏も言及していますが、**「ポケモンのパーティ構築は、最初の一匹を抜くところから始まる」**のです。&lt;/p&gt;
+&lt;p&gt;まずは今の業務の中から「ここならAIに任せられるかも？」という小さなタスクを見つけ、そこから最適化を始めましょう。&lt;/p&gt;
+&lt;h3 id=&#34;今すぐ取り組むべきステップ&#34;&gt;今すぐ取り組むべきステップ&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;知識の形式知化&lt;/strong&gt;: 普段の手順をMarkdownに書き出すことから始めます。これがAIへの指示書のベースになります。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AIエージェントとの対話&lt;/strong&gt;: 自分が何に悩んでいるのかAIに相談し、批判者（Critic）としてフィードバックをもらう環境を作ってください。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;リスク管理&lt;/strong&gt;: AIに任せすぎてスキルが空洞化しないよう、AIが出した結果の「ロジック」を理解する習慣を維持しましょう。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;小川氏の事例は、決して「AIに仕事を奪われる」という話ではありません。&lt;strong&gt;「AIという強力なチームメイトを率いて、これまでの一人分以上の成果を出す」という新しい働き方の提示&lt;/strong&gt;です。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>非デザイナー必見！Google Stitchで実現するUI制作入門</title>
       <link>https://minweb.shop/jp/posts/tech/google-stitch-ui/</link>
