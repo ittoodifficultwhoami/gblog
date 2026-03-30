@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>クラウドファンディング on MinWeb</title>
+    <link>https://minweb.shop/jp/tags/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0/</link>
+    <description>Recent content in クラウドファンディング on MinWeb</description>
+    <generator>Hugo -- 0.147.0</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Mon, 30 Mar 2026 17:45:44 +0900</lastBuildDate>
+    <atom:link href="https://minweb.shop/jp/tags/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>うぶごえ未払い騒動：5500万円の支援金はどこへ消えたのか</title>
+      <link>https://minweb.shop/jp/posts/entertainment/5500/</link>
+      <pubDate>Mon, 30 Mar 2026 17:45:44 +0900</pubDate>
+      <guid>https://minweb.shop/jp/posts/entertainment/5500/</guid>
+      <description>&lt;p&gt;「自分が送ったお金は、ちゃんと作り手に届いているのか？」&lt;/p&gt;
+&lt;p&gt;そう不安になるのは、ちっとも大げさな話じゃありません。今、ゲーム業界を揺るがしている「うぶごえ」の未払い問題は、私たちが当たり前に使っているクラウドファンディングの裏側に、とんでもないリスクが潜んでいることを突きつけました。&lt;/p&gt;
+&lt;p&gt;集まった5500万円のうち、約2700万円が支払われないまま滞っているという前代未聞の事態。正直、金額を聞いて耳を疑いました。一体何が起きているのか。信頼していたはずの場所で起きたこの「見えない穴」について、整理してみます。&lt;/p&gt;
+&lt;h2 id=&#34;騒動の核心5500万円のゆくえ&#34;&gt;騒動の核心：5500万円のゆくえ&lt;/h2&gt;
+&lt;p&gt;&lt;img alt=&#34;Simple cartoon illustration: A large coin bag labeled &amp;ldquo;55M&amp;rdquo; with a giant hole, showing 27M coins spilling out onto the floor.&#34; loading=&#34;lazy&#34; src=&#34;https://minweb.shop/images/-5500-_0.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;今回の騒動の震源地は、ゲームクリエイター・イシイジロウ氏が手掛けたプロジェクト『シブヤスクランブルストーリーズ（SSS）』です。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;支援総額:&lt;/strong&gt; 約5,475万円（目標比1095%）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;未払い金額:&lt;/strong&gt; 約2,775万円&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;本来の支払日:&lt;/strong&gt; 2025年9月1日&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;問題は、運営会社「うぶごえ」の岡田一男社長による対応です。9月以降、イシイ氏側が直談判を重ねた結果、明かされた理由は耳を疑うものでした。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;「別の取引先に全額振り込んでしまった」&lt;/strong&gt;（9月2日）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;「振込額の桁を間違えた」&lt;/strong&gt;（9月16日）&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;正直、小学生の言い訳レベルで呆れてしまいます。&lt;/p&gt;
+&lt;p&gt;事態はさらに悪化します。イシイ氏と弁護士が直接訪問し、「誤送金先の口座」を証明するよう求めたところ、岡田社長はこれを拒否。11月には社長個人の連帯保証をつけた公正証書まで結びましたが、それでも支払いは一切行われていません。&lt;/p&gt;
+&lt;h2 id=&#34;なぜ預かったお金が消えるのか&#34;&gt;なぜ、「預かったお金」が消えるのか？&lt;/h2&gt;
+&lt;p&gt;&lt;img alt=&#34;Simple cartoon illustration: A split-screen comparison table. Left side &amp;ldquo;Licensed&amp;rdquo;: a strong safe box. Right side &amp;ldquo;Proxy&amp;rdquo;: a leaking, flimsy bucket.&#34; loading=&#34;lazy&#34; src=&#34;https://minweb.shop/images/-5500-_1.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;多くの人が抱くのは「なぜプラットフォームが預かっているはずのお金がなくなるのか？」という純粋な疑問でしょう。これには、現行法の「スキマ」が深く関わっています。&lt;/p&gt;
+&lt;p&gt;うぶごえは「資金移動業」の登録をしておらず、「収納代行」という枠組みで運営されています。この両者には、安全性において決定的な違いがあります。&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;項目&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;資金移動業&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;収納代行&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;資産保全義務&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;あり（供託が必要）&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;なし&lt;/strong&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;安全性&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;厳格に管理される&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;会社の資金と混同されやすい&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;法的な立ち位置&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;お金を預かるプロ&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;あくまで支払いの仲介役&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;収納代行モデルには、集めたお金を会社側の運営資金と明確に分ける法的な強制力がほとんどありません。会社が火の車になれば、支援者からのお金に手をつけてしまう。そんな最悪の事態が構造的にあり得るのです。正直、この仕組みは利用者からするとかなり不安ですよね。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
