@@ -2,8 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://minweb.shop/en/tags/alexa-grasso/</loc>
+    <lastmod>2026-03-30T16:55:38+09:00</lastmod>
+  </url><url>
     <loc>https://minweb.shop/en/categories/</loc>
-    <lastmod>2026-03-30T16:45:21+09:00</lastmod>
+    <lastmod>2026-03-30T16:55:38+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko-kr"
@@ -60,23 +63,20 @@
                 href="https://minweb.shop/en/categories/"
                 />
   </url><url>
-    <loc>https://minweb.shop/en/tags/defense-industry/</loc>
-    <lastmod>2026-03-30T16:45:21+09:00</lastmod>
+    <loc>https://minweb.shop/en/tags/combat-sports/</loc>
+    <lastmod>2026-03-30T16:55:38+09:00</lastmod>
   </url><url>
-    <loc>https://minweb.shop/en/tags/drone-warfare/</loc>
-    <lastmod>2026-03-30T16:45:21+09:00</lastmod>
+    <loc>https://minweb.shop/en/posts/sports/inside-alexa-grasso-s-brutal-knockout-of-maycee-barber/</loc>
+    <lastmod>2026-03-30T16:55:38+09:00</lastmod>
   </url><url>
-    <loc>https://minweb.shop/en/tags/geopolitics/</loc>
-    <lastmod>2026-03-30T16:45:21+09:00</lastmod>
+    <loc>https://minweb.shop/en/tags/knockout/</loc>
+    <lastmod>2026-03-30T16:55:38+09:00</lastmod>
   </url><url>
-    <loc>https://minweb.shop/en/tags/innovation/</loc>
-    <lastmod>2026-03-30T16:45:21+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/en/tags/military-technology/</loc>
-    <lastmod>2026-03-30T16:45:21+09:00</lastmod>
+    <loc>https://minweb.shop/en/tags/maycee-barber/</loc>
+    <lastmod>2026-03-30T16:55:38+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/en/</loc>
-    <lastmod>2026-03-30T16:45:21+09:00</lastmod>
+    <lastmod>2026-03-30T16:55:38+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko-kr"
@@ -133,26 +133,11 @@
                 href="https://minweb.shop/en/"
                 />
   </url><url>
-    <loc>https://minweb.shop/en/categories/politics/</loc>
-    <lastmod>2026-03-30T16:45:21+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja-JP"
-                href="https://minweb.shop/jp/categories/politics/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="https://minweb.shop/de/categories/politics/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://minweb.shop/en/categories/politics/"
-                />
+    <loc>https://minweb.shop/en/tags/mma/</loc>
+    <lastmod>2026-03-30T16:55:38+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/en/posts/</loc>
-    <lastmod>2026-03-30T16:45:21+09:00</lastmod>
+    <lastmod>2026-03-30T16:55:38+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko-kr"
@@ -209,8 +194,21 @@
                 href="https://minweb.shop/en/posts/"
                 />
   </url><url>
+    <loc>https://minweb.shop/en/categories/sports/</loc>
+    <lastmod>2026-03-30T16:55:38+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://minweb.shop/de/categories/sports/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://minweb.shop/en/categories/sports/"
+                />
+  </url><url>
     <loc>https://minweb.shop/en/tags/</loc>
-    <lastmod>2026-03-30T16:45:21+09:00</lastmod>
+    <lastmod>2026-03-30T16:55:38+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko-kr"
@@ -265,6 +263,45 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://minweb.shop/en/tags/"
+                />
+  </url><url>
+    <loc>https://minweb.shop/en/tags/ufc/</loc>
+    <lastmod>2026-03-30T16:55:38+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/ufc-fight-night/</loc>
+    <lastmod>2026-03-30T16:55:38+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/defense-industry/</loc>
+    <lastmod>2026-03-30T16:45:21+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/drone-warfare/</loc>
+    <lastmod>2026-03-30T16:45:21+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/geopolitics/</loc>
+    <lastmod>2026-03-30T16:45:21+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/innovation/</loc>
+    <lastmod>2026-03-30T16:45:21+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/military-technology/</loc>
+    <lastmod>2026-03-30T16:45:21+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/categories/politics/</loc>
+    <lastmod>2026-03-30T16:45:21+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://minweb.shop/jp/categories/politics/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://minweb.shop/de/categories/politics/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://minweb.shop/en/categories/politics/"
                 />
   </url><url>
     <loc>https://minweb.shop/en/tags/uav-manufacturing/</loc>
@@ -459,46 +496,6 @@
   </url><url>
     <loc>https://minweb.shop/en/tags/workplace-security/</loc>
     <lastmod>2026-03-30T08:36:31+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/en/tags/alexa-grasso/</loc>
-    <lastmod>2026-03-30T07:28:53+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/en/tags/combat-sports/</loc>
-    <lastmod>2026-03-30T07:28:53+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/en/posts/sports/inside-alexa-grasso-s-brutal-knockout-of-maycee-barber/</loc>
-    <lastmod>2026-03-30T07:28:53+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/en/tags/maycee-barber/</loc>
-    <lastmod>2026-03-30T07:28:53+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/en/tags/mma/</loc>
-    <lastmod>2026-03-30T07:28:53+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/en/categories/sports/</loc>
-    <lastmod>2026-03-30T07:28:53+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="https://minweb.shop/de/categories/sports/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://minweb.shop/en/categories/sports/"
-                />
-  </url><url>
-    <loc>https://minweb.shop/en/tags/ufc-fight-night/</loc>
-    <lastmod>2026-03-30T07:28:53+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/en/tags/ufc-knockout/</loc>
-    <lastmod>2026-03-30T07:28:53+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/en/tags/ufc-seattle/</loc>
-    <lastmod>2026-03-30T07:28:53+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/en/tags/womens-ufc/</loc>
-    <lastmod>2026-03-30T07:28:53+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/en/tags/console-gaming/</loc>
     <lastmod>2026-03-30T07:11:30+09:00</lastmod>
