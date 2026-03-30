@@ -2,14 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://minweb.shop/jp/tags/ai%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0/</loc>
-    <lastmod>2026-03-30T07:40:30+09:00</lastmod>
+    <loc>https://minweb.shop/jp/tags/ai%E3%83%90%E3%83%96%E3%83%AB/</loc>
+    <lastmod>2026-03-30T17:04:07+09:00</lastmod>
   </url><url>
-    <loc>https://minweb.shop/jp/tags/ai%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0/</loc>
-    <lastmod>2026-03-30T07:40:30+09:00</lastmod>
+    <loc>https://minweb.shop/jp/tags/ai%E5%89%AF%E6%A5%AD/</loc>
+    <lastmod>2026-03-30T17:04:07+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/jp/tags/ai%E6%B4%BB%E7%94%A8/</loc>
+    <lastmod>2026-03-30T17:04:07+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/jp/categories/</loc>
-    <lastmod>2026-03-30T07:40:30+09:00</lastmod>
+    <lastmod>2026-03-30T17:04:07+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -66,14 +69,11 @@
                 href="https://minweb.shop/jp/categories/"
                 />
   </url><url>
-    <loc>https://minweb.shop/jp/tags/claude-code/</loc>
-    <lastmod>2026-03-30T07:40:30+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/jp/posts/tech/claude-code/</loc>
-    <lastmod>2026-03-30T07:40:30+09:00</lastmod>
+    <loc>https://minweb.shop/jp/tags/dx/</loc>
+    <lastmod>2026-03-30T17:04:07+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/jp/</loc>
-    <lastmod>2026-03-30T07:40:30+09:00</lastmod>
+    <lastmod>2026-03-30T17:04:07+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -131,7 +131,7 @@
                 />
   </url><url>
     <loc>https://minweb.shop/jp/tags/</loc>
-    <lastmod>2026-03-30T07:40:30+09:00</lastmod>
+    <lastmod>2026-03-30T17:04:07+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -189,7 +189,7 @@
                 />
   </url><url>
     <loc>https://minweb.shop/jp/categories/tech/</loc>
-    <lastmod>2026-03-30T07:40:30+09:00</lastmod>
+    <lastmod>2026-03-30T17:04:07+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -206,17 +206,23 @@
                 href="https://minweb.shop/jp/categories/tech/"
                 />
   </url><url>
-    <loc>https://minweb.shop/jp/tags/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E9%96%8B%E7%99%BA/</loc>
-    <lastmod>2026-03-30T07:40:30+09:00</lastmod>
+    <loc>https://minweb.shop/jp/tags/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC/</loc>
+    <lastmod>2026-03-30T17:04:07+09:00</lastmod>
   </url><url>
-    <loc>https://minweb.shop/jp/tags/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%84%E3%83%BC%E3%83%AB/</loc>
-    <lastmod>2026-03-30T07:40:30+09:00</lastmod>
+    <loc>https://minweb.shop/jp/tags/%E6%83%85%E5%BC%B1%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9/</loc>
+    <lastmod>2026-03-30T17:04:07+09:00</lastmod>
   </url><url>
-    <loc>https://minweb.shop/jp/tags/%E3%83%99%E3%82%B9%E3%83%88%E3%83%97%E3%83%A9%E3%82%AF%E3%83%86%E3%82%A3%E3%82%B9/</loc>
-    <lastmod>2026-03-30T07:40:30+09:00</lastmod>
+    <loc>https://minweb.shop/jp/tags/%E6%A5%AD%E5%8B%99%E5%8A%B9%E7%8E%87%E5%8C%96/</loc>
+    <lastmod>2026-03-30T17:04:07+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/jp/tags/%E7%94%9F%E6%88%90ai/</loc>
+    <lastmod>2026-03-30T17:04:07+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/jp/posts/tech/ai/</loc>
+    <lastmod>2026-03-30T17:04:07+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/jp/posts/</loc>
-    <lastmod>2026-03-30T07:40:30+09:00</lastmod>
+    <lastmod>2026-03-30T17:04:07+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -273,6 +279,27 @@
                 href="https://minweb.shop/jp/posts/"
                 />
   </url><url>
+    <loc>https://minweb.shop/jp/tags/ai%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0/</loc>
+    <lastmod>2026-03-30T07:40:30+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/jp/tags/ai%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0/</loc>
+    <lastmod>2026-03-30T07:40:30+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/jp/tags/claude-code/</loc>
+    <lastmod>2026-03-30T07:40:30+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/jp/posts/tech/claude-code/</loc>
+    <lastmod>2026-03-30T07:40:30+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/jp/tags/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E9%96%8B%E7%99%BA/</loc>
+    <lastmod>2026-03-30T07:40:30+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/jp/tags/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%84%E3%83%BC%E3%83%AB/</loc>
+    <lastmod>2026-03-30T07:40:30+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/jp/tags/%E3%83%99%E3%82%B9%E3%83%88%E3%83%97%E3%83%A9%E3%82%AF%E3%83%86%E3%82%A3%E3%82%B9/</loc>
+    <lastmod>2026-03-30T07:40:30+09:00</lastmod>
+  </url><url>
     <loc>https://minweb.shop/jp/tags/%E9%96%8B%E7%99%BA%E5%8A%B9%E7%8E%87%E5%8C%96/</loc>
     <lastmod>2026-03-30T07:40:30+09:00</lastmod>
   </url><url>
@@ -318,9 +345,6 @@
     <loc>https://minweb.shop/jp/tags/%E7%B5%8C%E6%B8%88%E6%94%BF%E7%AD%96/</loc>
     <lastmod>2026-03-29T07:57:16+09:00</lastmod>
   </url><url>
-    <loc>https://minweb.shop/jp/tags/ai%E6%B4%BB%E7%94%A8/</loc>
-    <lastmod>2026-03-29T07:50:00+09:00</lastmod>
-  </url><url>
     <loc>https://minweb.shop/jp/tags/chatgpt/</loc>
     <lastmod>2026-03-29T07:50:00+09:00</lastmod>
   </url><url>
@@ -334,12 +358,6 @@
     <lastmod>2026-03-29T07:50:00+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/jp/tags/%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0/</loc>
-    <lastmod>2026-03-29T07:50:00+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/jp/tags/%E6%A5%AD%E5%8B%99%E5%8A%B9%E7%8E%87%E5%8C%96/</loc>
-    <lastmod>2026-03-29T07:50:00+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/jp/tags/%E7%94%9F%E6%88%90ai/</loc>
     <lastmod>2026-03-29T07:50:00+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/jp/categories/politics/</loc>

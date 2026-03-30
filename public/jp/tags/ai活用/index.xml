@@ -6,8 +6,29 @@
     <description>Recent content in Ai活用 on MinWeb</description>
     <generator>Hugo -- 0.147.0</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 29 Mar 2026 07:50:00 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 17:04:07 +0900</lastBuildDate>
     <atom:link href="https://minweb.shop/jp/tags/ai%E6%B4%BB%E7%94%A8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>生成AIブームは「情弱ビジネス」で終わるのか？実態を検証</title>
+      <link>https://minweb.shop/jp/posts/tech/ai/</link>
+      <pubDate>Mon, 30 Mar 2026 17:04:07 +0900</pubDate>
+      <guid>https://minweb.shop/jp/posts/tech/ai/</guid>
+      <description>&lt;p&gt;またSNSを見て「はいはい、またAIの煽り記事ね」とウンザリしていませんか？&lt;/p&gt;
+&lt;p&gt;「AIで月収100万円」「未経験からAIエンジニアへ」。そんな景気のいい言葉が飛び交う裏で、現場からは「効率化なんて微々たるもの」「結局、AIに何ができるのかサッパリわからない」という冷めた声が聞こえてきます。正直、僕も最近の熱狂ぶりには少し食傷気味です。&lt;/p&gt;
+&lt;p&gt;生成AIブームは、ただの「情弱ビジネス」で終わるのでしょうか？ それとも、僕たちが気づかないうちに社会の構造が着実に書き換わっているのでしょうか。&lt;/p&gt;
+&lt;p&gt;今回はマスクド・アナライズ氏のレポートをベースに、生成AIを取り巻く光と影を数字で整理します。この大きな波を、どうすれば「乗りこなせる」のか。そのヒントを一緒に探っていきましょう。&lt;/p&gt;
+&lt;h2 id=&#34;ai市場はバブルなのか革命なのか&#34;&gt;AI市場は「バブル」なのか「革命」なのか&lt;/h2&gt;
+&lt;p&gt;&lt;img alt=&#34;Simple cartoon illustration: A bar chart showing two bars. One short bar labeled &amp;ldquo;2024: 1,000億円&amp;rdquo; and a much taller bar labeled &amp;ldquo;2030: 1兆円&amp;rdquo; with an upward arrow.&#34; loading=&#34;lazy&#34; src=&#34;https://minweb.shop/images/-ai-_0.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;まずは現実を数字で直視してみましょう。生成AIブームは、いまや正気とは思えないほどの熱狂に包まれています。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;市場規模:&lt;/strong&gt; 日本国内の市場は、2024年の約1,016億円（IDC Japan調べ）から、2030年には1兆円を超える見込みです（ICT総研）。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;格差:&lt;/strong&gt; 大企業の導入率が50〜80%超に達する一方で、中小企業はわずか15.7%（総務省/JUAS）。この差は、もはや笑いごとではありません。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;これらの数字が突きつけている現実は、「やる企業はすでに血眼で使いこなしている」ということです。さらに個人の利用率を見れば、日本の26.7%（令和6年版 情報通信白書）に対し、米国は68.8%、中国は81.2%と、国際的な遅れは決定的です。正直、この数字を見て危機感を覚えない人の方が少数派でしょう。&lt;/p&gt;
+&lt;p&gt;「AIで簡単に稼げる」といったSNSの甘い言葉に踊らされている間に、世界はもっと先に行っています。彼らがやっているのはお小遣い稼ぎではなく、AIを使った「業務プロセスそのものの根本的な再設計」です。&lt;/p&gt;
+&lt;h2 id=&#34;情弱ビジネスの正体とリスク&#34;&gt;「情弱ビジネス」の正体とリスク&lt;/h2&gt;
+&lt;p&gt;&lt;img alt=&#34;Simple cartoon illustration: A table-like graphic showing a person holding a coin bag. Beside them, a label &amp;ldquo;2020年: 28万円&amp;rdquo; vs &amp;ldquo;2024年: 105万円&amp;rdquo; with a red warning exclamation mark.&#34; loading=&#34;lazy&#34; src=&#34;https://minweb.shop/images/-ai-_1.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>ChatGPTが重い時！会話をリセットする「引き継ぎプロンプト」活用術</title>
       <link>https://minweb.shop/jp/posts/tech/chatgpt/</link>
