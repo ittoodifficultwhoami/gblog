@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://minweb.shop/de/categories/</loc>
-    <lastmod>2026-03-30T18:08:22+09:00</lastmod>
+    <lastmod>2026-03-30T18:20:50+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -60,17 +60,38 @@
                 href="https://minweb.shop/de/categories/"
                 />
   </url><url>
-    <loc>https://minweb.shop/de/tags/datenschutz/</loc>
-    <lastmod>2026-03-30T18:08:22+09:00</lastmod>
+    <loc>https://minweb.shop/de/tags/christentum/</loc>
+    <lastmod>2026-03-30T18:20:50+09:00</lastmod>
   </url><url>
-    <loc>https://minweb.shop/de/tags/digitale-grundrechte/</loc>
-    <lastmod>2026-03-30T18:08:22+09:00</lastmod>
+    <loc>https://minweb.shop/de/categories/finance/</loc>
+    <lastmod>2026-03-30T18:20:50+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://minweb.shop/en/categories/finance/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://minweb.shop/jp/categories/finance/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://minweb.shop/de/categories/finance/"
+                />
   </url><url>
-    <loc>https://minweb.shop/de/tags/internet%C3%BCberwachung/</loc>
-    <lastmod>2026-03-30T18:08:22+09:00</lastmod>
+    <loc>https://minweb.shop/de/tags/fr%C3%BChlingsfest/</loc>
+    <lastmod>2026-03-30T18:20:50+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/tags/heidnische-wurzeln/</loc>
+    <lastmod>2026-03-30T18:20:50+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/tags/kulturgeschichte/</loc>
+    <lastmod>2026-03-30T18:20:50+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/de/</loc>
-    <lastmod>2026-03-30T18:08:22+09:00</lastmod>
+    <lastmod>2026-03-30T18:20:50+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -127,11 +148,20 @@
                 href="https://minweb.shop/de/"
                 />
   </url><url>
-    <loc>https://minweb.shop/de/tags/netzpolitik/</loc>
-    <lastmod>2026-03-30T18:08:22+09:00</lastmod>
+    <loc>https://minweb.shop/de/tags/osterbr%C3%A4uche/</loc>
+    <lastmod>2026-03-30T18:20:50+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/tags/osterhase/</loc>
+    <lastmod>2026-03-30T18:20:50+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/tags/ostern/</loc>
+    <lastmod>2026-03-30T18:20:50+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/posts/finance/ostern-religion-und-heidnische-br-uche-im-mix/</loc>
+    <lastmod>2026-03-30T18:20:50+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/de/posts/</loc>
-    <lastmod>2026-03-30T18:08:22+09:00</lastmod>
+    <lastmod>2026-03-30T18:20:50+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -188,17 +218,11 @@
                 href="https://minweb.shop/de/posts/"
                 />
   </url><url>
-    <loc>https://minweb.shop/de/tags/privatsph%C3%A4re/</loc>
-    <lastmod>2026-03-30T18:08:22+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/de/tags/staatliche-%C3%BCberwachung/</loc>
-    <lastmod>2026-03-30T18:08:22+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/de/posts/tech/staatliche-berwachung-wie-gl-sern-sind-wir-im-netz/</loc>
-    <lastmod>2026-03-30T18:08:22+09:00</lastmod>
+    <loc>https://minweb.shop/de/tags/religionsgeschichte/</loc>
+    <lastmod>2026-03-30T18:20:50+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/de/tags/</loc>
-    <lastmod>2026-03-30T18:08:22+09:00</lastmod>
+    <lastmod>2026-03-30T18:20:50+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -254,6 +278,27 @@
                 hreflang="de-DE"
                 href="https://minweb.shop/de/tags/"
                 />
+  </url><url>
+    <loc>https://minweb.shop/de/tags/datenschutz/</loc>
+    <lastmod>2026-03-30T18:08:22+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/tags/digitale-grundrechte/</loc>
+    <lastmod>2026-03-30T18:08:22+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/tags/internet%C3%BCberwachung/</loc>
+    <lastmod>2026-03-30T18:08:22+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/tags/netzpolitik/</loc>
+    <lastmod>2026-03-30T18:08:22+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/tags/privatsph%C3%A4re/</loc>
+    <lastmod>2026-03-30T18:08:22+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/tags/staatliche-%C3%BCberwachung/</loc>
+    <lastmod>2026-03-30T18:08:22+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/de/posts/tech/staatliche-berwachung-wie-gl-sern-sind-wir-im-netz/</loc>
+    <lastmod>2026-03-30T18:08:22+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/de/categories/tech/</loc>
     <lastmod>2026-03-30T18:08:22+09:00</lastmod>
@@ -498,24 +543,6 @@
   </url><url>
     <loc>https://minweb.shop/de/tags/eigentum/</loc>
     <lastmod>2026-03-27T23:30:41+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/de/categories/finance/</loc>
-    <lastmod>2026-03-27T23:30:41+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://minweb.shop/en/categories/finance/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja-JP"
-                href="https://minweb.shop/jp/categories/finance/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="https://minweb.shop/de/categories/finance/"
-                />
   </url><url>
     <loc>https://minweb.shop/de/tags/grundgesetz/</loc>
     <lastmod>2026-03-27T23:30:41+09:00</lastmod>
