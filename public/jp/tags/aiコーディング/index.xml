@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Aiコーディング on MinWeb</title>
+    <link>https://minweb.shop/jp/tags/ai%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0/</link>
+    <description>Recent content in Aiコーディング on MinWeb</description>
+    <generator>Hugo -- 0.147.0</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Mon, 30 Mar 2026 07:40:30 +0900</lastBuildDate>
+    <atom:link href="https://minweb.shop/jp/tags/ai%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Claude Codeで開発を加速する！最強のベストプラクティス</title>
+      <link>https://minweb.shop/jp/posts/tech/claude-code/</link>
+      <pubDate>Mon, 30 Mar 2026 07:40:30 +0900</pubDate>
+      <guid>https://minweb.shop/jp/posts/tech/claude-code/</guid>
+      <description>&lt;p&gt;「AIが全部やってくれるはずじゃなかったの？」&lt;/p&gt;
+&lt;p&gt;エンジニアなら一度はそう思ったはずです。現実はといえば、プロンプトをこねくり回し、期待外れのコードを直して、結局自分で書く羽目になる。AI時代と騒がれながら、手作業の山に埋もれて疲弊しているのが現実ですよね。正直、あの虚しさは筆舌に尽くしがたい。&lt;/p&gt;
+&lt;p&gt;しかし、2026年3月の今、Claude Codeはそんな甘い期待を置き去りにし、冷徹かつ強力な「職人芸」の領域へ突入しています。GitHubの全コミットの4%を担い、開発速度を2〜3倍に引き上げ、手戻りを30%削減する。断言しますが、これは魔法ではありません。使いこなすための「作法」が必要な、極めて優秀な新しい道具です。&lt;/p&gt;
+&lt;p&gt;半年後には業界標準になるであろう、Claude Codeを最強の相棒にするための「作法」を解き明かします。&lt;/p&gt;
+&lt;h2 id=&#34;なぜ今claude-codeなのか2026年の勢力図&#34;&gt;なぜ今、Claude Codeなのか：2026年の勢力図&lt;/h2&gt;
+&lt;p&gt;&lt;img alt=&#34;Simple cartoon illustration: A bar chart showing &amp;ldquo;Claude Code&amp;rdquo; rising above &amp;ldquo;Others&amp;rdquo;. A stylized robot character standing at the top of the bar, labeled &amp;ldquo;80.9% Score&amp;rdquo;.&#34; loading=&#34;lazy&#34; src=&#34;https://minweb.shop/images/claude-code-_0.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;まずは現状を直視しましょう。2025年2月にターミナルツールとして登場したClaude Codeは、わずか1年で開発現場のインフラに成り上がりました。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;市場シェア:&lt;/strong&gt; GitHub CopilotやCursorを抜き、いま最も使われるAIコーディングツールです。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;実力:&lt;/strong&gt; 最新の「Opus 4.6」はSWE-bench Verifiedで80.9%を記録。GPT-5.4（80.0%）を退け、課題解決能力では名実ともに首位です。正直、ここまで速く進化するとは思いませんでした。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;企業導入:&lt;/strong&gt; すでに30万社以上が導入済み。DeloitteやCognizantといった大手コンサルも、業務の基幹に組み込んでいます。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;もはや「AIを使うかどうか」なんて議論は無意味です。勝負は「どう使いこなして圧倒的な差をつけるか」のフェーズに入りました。&lt;/p&gt;
+&lt;h2 id=&#34;成功するチームがやっている4つの作法&#34;&gt;成功するチームがやっている「4つの作法」&lt;/h2&gt;
+&lt;p&gt;&lt;img alt=&#34;Simple cartoon illustration: A clipboard with a checklist of 4 items titled &amp;ldquo;Pro Workflow&amp;rdquo;. A smiling character holding a checklist, pointing to a gear icon.&#34; loading=&#34;lazy&#34; src=&#34;https://minweb.shop/images/claude-code-_1.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

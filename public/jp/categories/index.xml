@@ -4,22 +4,22 @@
     <title>Categories on MinWeb</title>
     <link>https://minweb.shop/jp/categories/</link>
     <description>Recent content in Categories on MinWeb</description>
-    <generator>Hugo -- 0.159.1</generator>
+    <generator>Hugo -- 0.147.0</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 29 Mar 2026 07:57:16 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 07:40:30 +0900</lastBuildDate>
     <atom:link href="https://minweb.shop/jp/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tech</title>
+      <link>https://minweb.shop/jp/categories/tech/</link>
+      <pubDate>Mon, 30 Mar 2026 07:40:30 +0900</pubDate>
+      <guid>https://minweb.shop/jp/categories/tech/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Finance</title>
       <link>https://minweb.shop/jp/categories/finance/</link>
       <pubDate>Sun, 29 Mar 2026 07:57:16 +0900</pubDate>
       <guid>https://minweb.shop/jp/categories/finance/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tech</title>
-      <link>https://minweb.shop/jp/categories/tech/</link>
-      <pubDate>Sun, 29 Mar 2026 07:50:00 +0900</pubDate>
-      <guid>https://minweb.shop/jp/categories/tech/</guid>
       <description></description>
     </item>
     <item>

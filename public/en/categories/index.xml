@@ -4,22 +4,36 @@
     <title>Categories on MinWeb</title>
     <link>https://minweb.shop/en/categories/</link>
     <description>Recent content in Categories on MinWeb</description>
-    <generator>Hugo -- 0.159.1</generator>
+    <generator>Hugo -- 0.147.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Mar 2026 10:36:41 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 08:36:31 +0900</lastBuildDate>
     <atom:link href="https://minweb.shop/en/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Finance</title>
-      <link>https://minweb.shop/en/categories/finance/</link>
-      <pubDate>Sun, 29 Mar 2026 10:36:41 +0900</pubDate>
-      <guid>https://minweb.shop/en/categories/finance/</guid>
+      <title>Tech</title>
+      <link>https://minweb.shop/en/categories/tech/</link>
+      <pubDate>Mon, 30 Mar 2026 08:36:31 +0900</pubDate>
+      <guid>https://minweb.shop/en/categories/tech/</guid>
       <description></description>
     </item>
     <item>
       <title>Sports</title>
       <link>https://minweb.shop/en/categories/sports/</link>
-      <pubDate>Sun, 29 Mar 2026 07:37:51 +0900</pubDate>
+      <pubDate>Mon, 30 Mar 2026 07:28:53 +0900</pubDate>
       <guid>https://minweb.shop/en/categories/sports/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Entertainment</title>
+      <link>https://minweb.shop/en/categories/entertainment/</link>
+      <pubDate>Mon, 30 Mar 2026 07:11:30 +0900</pubDate>
+      <guid>https://minweb.shop/en/categories/entertainment/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Finance</title>
+      <link>https://minweb.shop/en/categories/finance/</link>
+      <pubDate>Mon, 30 Mar 2026 06:46:26 +0900</pubDate>
+      <guid>https://minweb.shop/en/categories/finance/</guid>
       <description></description>
     </item>
     <item>
@@ -27,13 +41,6 @@
       <link>https://minweb.shop/en/categories/politics/</link>
       <pubDate>Sun, 29 Mar 2026 07:25:22 +0900</pubDate>
       <guid>https://minweb.shop/en/categories/politics/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Entertainment</title>
-      <link>https://minweb.shop/en/categories/entertainment/</link>
-      <pubDate>Sun, 29 Mar 2026 07:14:18 +0900</pubDate>
-      <guid>https://minweb.shop/en/categories/entertainment/</guid>
       <description></description>
     </item>
     <item>
@@ -48,13 +55,6 @@
       <link>https://minweb.shop/en/categories/lifestyle/</link>
       <pubDate>Sun, 29 Mar 2026 06:56:39 +0900</pubDate>
       <guid>https://minweb.shop/en/categories/lifestyle/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tech</title>
-      <link>https://minweb.shop/en/categories/tech/</link>
-      <pubDate>Sun, 29 Mar 2026 06:39:07 +0900</pubDate>
-      <guid>https://minweb.shop/en/categories/tech/</guid>
       <description></description>
     </item>
   </channel>
