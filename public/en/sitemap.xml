@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://minweb.shop/en/categories/</loc>
-    <lastmod>2026-03-31T03:12:32+09:00</lastmod>
+    <lastmod>2026-03-31T06:44:00+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko-kr"
@@ -60,32 +60,14 @@
                 href="https://minweb.shop/en/categories/"
                 />
   </url><url>
-    <loc>https://minweb.shop/en/tags/diet-soda/</loc>
-    <lastmod>2026-03-31T03:12:32+09:00</lastmod>
+    <loc>https://minweb.shop/en/tags/microsoft/</loc>
+    <lastmod>2026-03-31T06:44:00+09:00</lastmod>
   </url><url>
-    <loc>https://minweb.shop/en/categories/health/</loc>
-    <lastmod>2026-03-31T03:12:32+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja-JP"
-                href="https://minweb.shop/jp/categories/health/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="https://minweb.shop/de/categories/health/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://minweb.shop/en/categories/health/"
-                />
-  </url><url>
-    <loc>https://minweb.shop/en/tags/health-risks/</loc>
-    <lastmod>2026-03-31T03:12:32+09:00</lastmod>
+    <loc>https://minweb.shop/en/posts/tech/microsoft-pivots-back-to-native-apps-to-fix-windows-bloat/</loc>
+    <lastmod>2026-03-31T06:44:00+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/en/</loc>
-    <lastmod>2026-03-31T03:12:32+09:00</lastmod>
+    <lastmod>2026-03-31T06:44:00+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko-kr"
@@ -142,11 +124,14 @@
                 href="https://minweb.shop/en/"
                 />
   </url><url>
-    <loc>https://minweb.shop/en/tags/nutrition-science/</loc>
-    <lastmod>2026-03-31T03:12:32+09:00</lastmod>
+    <loc>https://minweb.shop/en/tags/native-apps/</loc>
+    <lastmod>2026-03-31T06:44:00+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/pc-performance/</loc>
+    <lastmod>2026-03-31T06:44:00+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/en/posts/</loc>
-    <lastmod>2026-03-31T03:12:32+09:00</lastmod>
+    <lastmod>2026-03-31T06:44:00+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko-kr"
@@ -203,20 +188,11 @@
                 href="https://minweb.shop/en/posts/"
                 />
   </url><url>
-    <loc>https://minweb.shop/en/tags/soda-consumption/</loc>
-    <lastmod>2026-03-31T03:12:32+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/en/tags/sugar-addiction/</loc>
-    <lastmod>2026-03-31T03:12:32+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/en/tags/sugar-cravings/</loc>
-    <lastmod>2026-03-31T03:12:32+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/en/tags/sugar-sweetened-beverages/</loc>
-    <lastmod>2026-03-31T03:12:32+09:00</lastmod>
+    <loc>https://minweb.shop/en/tags/software-bloat/</loc>
+    <lastmod>2026-03-31T06:44:00+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/en/tags/</loc>
-    <lastmod>2026-03-31T03:12:32+09:00</lastmod>
+    <lastmod>2026-03-31T06:44:00+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko-kr"
@@ -272,6 +248,72 @@
                 hreflang="en-us"
                 href="https://minweb.shop/en/tags/"
                 />
+  </url><url>
+    <loc>https://minweb.shop/en/categories/tech/</loc>
+    <lastmod>2026-03-31T06:44:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://minweb.shop/jp/categories/tech/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://minweb.shop/de/categories/tech/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://minweb.shop/en/categories/tech/"
+                />
+  </url><url>
+    <loc>https://minweb.shop/en/tags/tech-news/</loc>
+    <lastmod>2026-03-31T06:44:00+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/windows-11/</loc>
+    <lastmod>2026-03-31T06:44:00+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/windows-development/</loc>
+    <lastmod>2026-03-31T06:44:00+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/diet-soda/</loc>
+    <lastmod>2026-03-31T03:12:32+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/categories/health/</loc>
+    <lastmod>2026-03-31T03:12:32+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://minweb.shop/jp/categories/health/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://minweb.shop/de/categories/health/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://minweb.shop/en/categories/health/"
+                />
+  </url><url>
+    <loc>https://minweb.shop/en/tags/health-risks/</loc>
+    <lastmod>2026-03-31T03:12:32+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/nutrition-science/</loc>
+    <lastmod>2026-03-31T03:12:32+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/soda-consumption/</loc>
+    <lastmod>2026-03-31T03:12:32+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/sugar-addiction/</loc>
+    <lastmod>2026-03-31T03:12:32+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/sugar-cravings/</loc>
+    <lastmod>2026-03-31T03:12:32+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/sugar-sweetened-beverages/</loc>
+    <lastmod>2026-03-31T03:12:32+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/en/posts/health/why-we-re-still-hooked-on-full-sugar-soda/</loc>
     <lastmod>2026-03-31T03:12:32+09:00</lastmod>
@@ -386,24 +428,6 @@
   </url><url>
     <loc>https://minweb.shop/en/tags/patient-rights/</loc>
     <lastmod>2026-03-31T02:30:04+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/en/categories/tech/</loc>
-    <lastmod>2026-03-31T02:30:04+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja-JP"
-                href="https://minweb.shop/jp/categories/tech/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="https://minweb.shop/de/categories/tech/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://minweb.shop/en/categories/tech/"
-                />
   </url><url>
     <loc>https://minweb.shop/en/tags/alexa-grasso/</loc>
     <lastmod>2026-03-30T16:55:38+09:00</lastmod>
@@ -528,9 +552,6 @@
     <lastmod>2026-03-30T16:32:39+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/en/tags/ps5/</loc>
-    <lastmod>2026-03-30T16:32:39+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/en/tags/tech-news/</loc>
     <lastmod>2026-03-30T16:32:39+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/en/tags/video-game-hardware/</loc>
@@ -1206,9 +1227,6 @@
     <loc>https://minweb.shop/en/tags/willpower/</loc>
     <lastmod>2026-03-21T03:49:35+09:00</lastmod>
   </url><url>
-    <loc>https://minweb.shop/en/tags/microsoft/</loc>
-    <lastmod>2026-03-21T03:43:33+09:00</lastmod>
-  </url><url>
     <loc>https://minweb.shop/en/tags/operating-systems/</loc>
     <lastmod>2026-03-21T03:43:33+09:00</lastmod>
   </url><url>
@@ -1216,9 +1234,6 @@
     <lastmod>2026-03-21T03:43:33+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/en/tags/software-updates/</loc>
-    <lastmod>2026-03-21T03:43:33+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/en/tags/windows-11/</loc>
     <lastmod>2026-03-21T03:43:33+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/en/tags/windows-11-tips/</loc>

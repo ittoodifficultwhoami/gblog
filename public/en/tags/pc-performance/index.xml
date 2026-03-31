@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Pc Performance on MinWeb</title>
+    <link>https://minweb.shop/en/tags/pc-performance/</link>
+    <description>Recent content in Pc Performance on MinWeb</description>
+    <generator>Hugo -- 0.147.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Mar 2026 06:44:00 +0900</lastBuildDate>
+    <atom:link href="https://minweb.shop/en/tags/pc-performance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Microsoft Pivots Back to Native Apps to Fix Windows Bloat</title>
+      <link>https://minweb.shop/en/posts/tech/microsoft-pivots-back-to-native-apps-to-fix-windows-bloat/</link>
+      <pubDate>Tue, 31 Mar 2026 06:44:00 +0900</pubDate>
+      <guid>https://minweb.shop/en/posts/tech/microsoft-pivots-back-to-native-apps-to-fix-windows-bloat/</guid>
+      <description>&lt;p&gt;If your computer feels sluggish lately—even with decent hardware—you aren&amp;rsquo;t imagining things. We’ve all been stuck in a frustrating cycle: Microsoft rolls out a &amp;ldquo;new and improved&amp;rdquo; version of a core app, and it immediately feels heavier, slower, and disconnected from the rest of the OS.&lt;/p&gt;
+&lt;p&gt;For power users, this is a broken record. We watched the transition from native apps like the original Mail and Calendar to the clunky &amp;ldquo;New Outlook.&amp;rdquo; Then came the heavy, web-based components stuffed into the Start Menu and Widgets. The result is a Windows 11 experience where idle memory usage regularly hits 10 GB on a 16 GB system. Your PC is essentially running a dozen miniature web browsers just to show you a weather icon or a calendar notification. It’s overkill, frankly.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
