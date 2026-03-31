@@ -6,8 +6,15 @@
     <description>Recent content in Categories on MinWeb</description>
     <generator>Hugo -- 0.147.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Mar 2026 03:08:25 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 03:12:32 +0900</lastBuildDate>
     <atom:link href="https://minweb.shop/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Health</title>
+      <link>https://minweb.shop/en/categories/health/</link>
+      <pubDate>Tue, 31 Mar 2026 03:12:32 +0900</pubDate>
+      <guid>https://minweb.shop/en/categories/health/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Lifestyle</title>
       <link>https://minweb.shop/en/categories/lifestyle/</link>
@@ -48,13 +55,6 @@
       <link>https://minweb.shop/en/categories/entertainment/</link>
       <pubDate>Mon, 30 Mar 2026 16:32:39 +0900</pubDate>
       <guid>https://minweb.shop/en/categories/entertainment/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Health</title>
-      <link>https://minweb.shop/en/categories/health/</link>
-      <pubDate>Sun, 29 Mar 2026 07:06:00 +0900</pubDate>
-      <guid>https://minweb.shop/en/categories/health/</guid>
       <description></description>
     </item>
   </channel>
