@@ -2,8 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://minweb.shop/en/tags/beginner-fitness/</loc>
+    <lastmod>2026-03-31T07:32:29+09:00</lastmod>
+  </url><url>
     <loc>https://minweb.shop/en/categories/</loc>
-    <lastmod>2026-03-31T07:04:54+09:00</lastmod>
+    <lastmod>2026-03-31T07:32:29+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko-kr"
@@ -60,47 +63,47 @@
                 href="https://minweb.shop/en/categories/"
                 />
   </url><url>
-    <loc>https://minweb.shop/en/tags/economic-outlook/</loc>
-    <lastmod>2026-03-31T07:04:54+09:00</lastmod>
+    <loc>https://minweb.shop/en/tags/fitness-culture/</loc>
+    <lastmod>2026-03-31T07:32:29+09:00</lastmod>
   </url><url>
-    <loc>https://minweb.shop/en/tags/fed-policy/</loc>
-    <lastmod>2026-03-31T07:04:54+09:00</lastmod>
+    <loc>https://minweb.shop/en/tags/fitness-motivation/</loc>
+    <lastmod>2026-03-31T07:32:29+09:00</lastmod>
   </url><url>
-    <loc>https://minweb.shop/en/tags/federal-reserve/</loc>
-    <lastmod>2026-03-31T07:04:54+09:00</lastmod>
+    <loc>https://minweb.shop/en/tags/gym-anxiety/</loc>
+    <lastmod>2026-03-31T07:32:29+09:00</lastmod>
   </url><url>
-    <loc>https://minweb.shop/en/categories/finance/</loc>
-    <lastmod>2026-03-31T07:04:54+09:00</lastmod>
+    <loc>https://minweb.shop/en/tags/gym-etiquette/</loc>
+    <lastmod>2026-03-31T07:32:29+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/gym-stories/</loc>
+    <lastmod>2026-03-31T07:32:29+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/posts/health/gym-story-saturday-why-your-gym-anxiety-is-normal/</loc>
+    <lastmod>2026-03-31T07:32:29+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/categories/health/</loc>
+    <lastmod>2026-03-31T07:32:29+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://minweb.shop/jp/categories/finance/"
+                href="https://minweb.shop/jp/categories/health/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-DE"
-                href="https://minweb.shop/de/categories/finance/"
+                href="https://minweb.shop/de/categories/health/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://minweb.shop/en/categories/finance/"
+                href="https://minweb.shop/en/categories/health/"
                 />
   </url><url>
-    <loc>https://minweb.shop/en/tags/finance/</loc>
-    <lastmod>2026-03-31T07:04:54+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/en/tags/inflation/</loc>
-    <lastmod>2026-03-31T07:04:54+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/en/tags/interest-rates/</loc>
-    <lastmod>2026-03-31T07:04:54+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/en/tags/market-analysis/</loc>
-    <lastmod>2026-03-31T07:04:54+09:00</lastmod>
+    <loc>https://minweb.shop/en/tags/health-and-wellness/</loc>
+    <lastmod>2026-03-31T07:32:29+09:00</lastmod>
   </url><url>
     <loc>https://minweb.shop/en/</loc>
-    <lastmod>2026-03-31T07:04:54+09:00</lastmod>
+    <lastmod>2026-03-31T07:32:29+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko-kr"
@@ -157,11 +160,8 @@
                 href="https://minweb.shop/en/"
                 />
   </url><url>
-    <loc>https://minweb.shop/en/tags/monetary-policy/</loc>
-    <lastmod>2026-03-31T07:04:54+09:00</lastmod>
-  </url><url>
     <loc>https://minweb.shop/en/posts/</loc>
-    <lastmod>2026-03-31T07:04:54+09:00</lastmod>
+    <lastmod>2026-03-31T07:32:29+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko-kr"
@@ -219,7 +219,7 @@
                 />
   </url><url>
     <loc>https://minweb.shop/en/tags/</loc>
-    <lastmod>2026-03-31T07:04:54+09:00</lastmod>
+    <lastmod>2026-03-31T07:32:29+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko-kr"
@@ -276,6 +276,51 @@
                 href="https://minweb.shop/en/tags/"
                 />
   </url><url>
+    <loc>https://minweb.shop/en/tags/workout-tips/</loc>
+    <lastmod>2026-03-31T07:32:29+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/economic-outlook/</loc>
+    <lastmod>2026-03-31T07:04:54+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/fed-policy/</loc>
+    <lastmod>2026-03-31T07:04:54+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/federal-reserve/</loc>
+    <lastmod>2026-03-31T07:04:54+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/categories/finance/</loc>
+    <lastmod>2026-03-31T07:04:54+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://minweb.shop/jp/categories/finance/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://minweb.shop/de/categories/finance/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://minweb.shop/en/categories/finance/"
+                />
+  </url><url>
+    <loc>https://minweb.shop/en/tags/finance/</loc>
+    <lastmod>2026-03-31T07:04:54+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/inflation/</loc>
+    <lastmod>2026-03-31T07:04:54+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/interest-rates/</loc>
+    <lastmod>2026-03-31T07:04:54+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/market-analysis/</loc>
+    <lastmod>2026-03-31T07:04:54+09:00</lastmod>
+  </url><url>
+    <loc>https://minweb.shop/en/tags/monetary-policy/</loc>
+    <lastmod>2026-03-31T07:04:54+09:00</lastmod>
+  </url><url>
     <loc>https://minweb.shop/en/posts/finance/why-fed-rate-cuts-are-off-the-table-for-2026/</loc>
     <lastmod>2026-03-31T07:04:54+09:00</lastmod>
   </url><url>
@@ -323,24 +368,6 @@
   </url><url>
     <loc>https://minweb.shop/en/tags/diet-soda/</loc>
     <lastmod>2026-03-31T03:12:32+09:00</lastmod>
-  </url><url>
-    <loc>https://minweb.shop/en/categories/health/</loc>
-    <lastmod>2026-03-31T03:12:32+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja-JP"
-                href="https://minweb.shop/jp/categories/health/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="https://minweb.shop/de/categories/health/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://minweb.shop/en/categories/health/"
-                />
   </url><url>
     <loc>https://minweb.shop/en/tags/health-risks/</loc>
     <lastmod>2026-03-31T03:12:32+09:00</lastmod>
