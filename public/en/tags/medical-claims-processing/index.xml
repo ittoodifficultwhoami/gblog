@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Medical Claims Processing on MinWeb</title>
+    <link>https://minweb.shop/en/tags/medical-claims-processing/</link>
+    <description>Recent content in Medical Claims Processing on MinWeb</description>
+    <generator>Hugo -- 0.147.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Mar 2026 02:30:04 +0900</lastBuildDate>
+    <atom:link href="https://minweb.shop/en/tags/medical-claims-processing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Insurance Denials: When Algorithms Decide Your Care</title>
+      <link>https://minweb.shop/en/posts/tech/ai-insurance-denials-when-algorithms-decide-your-care/</link>
+      <pubDate>Tue, 31 Mar 2026 02:30:04 +0900</pubDate>
+      <guid>https://minweb.shop/en/posts/tech/ai-insurance-denials-when-algorithms-decide-your-care/</guid>
+      <description>&lt;p&gt;Ever received that gut-wrenching letter in the mail? The one telling you your insurance company decided your doctor’s recommended treatment isn’t &amp;ldquo;medically necessary&amp;rdquo;? You’re left wondering how someone who has never met you, never examined you, and never looked at your full history can make a life-altering decision in the blink of an eye.&lt;/p&gt;
+&lt;p&gt;For many Americans, this isn&amp;rsquo;t just a bad experience. It’s the result of a massive, controversial shift in how healthcare is run. Insurance companies are increasingly using AI to churn through mountains of claims. They promise &amp;ldquo;efficiency&amp;rdquo; and &amp;ldquo;streamlined processes,&amp;rdquo; but that’s just corporate speak for cost-cutting. The reality is a system where algorithms decide your fate with terrifying speed and, frankly, questionable accuracy.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
