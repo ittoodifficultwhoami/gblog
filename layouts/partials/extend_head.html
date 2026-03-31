@@ -1,0 +1,10 @@
+{{- /* noindex for tag pages (taxonomy + term) — thin content hurts crawl budget */ -}}
+{{- if eq .Kind "taxonomy" }}
+{{- if eq .Data.Plural "tags" }}
+<meta name="robots" content="noindex, follow">
+{{- end }}
+{{- else if eq .Kind "term" }}
+{{- if eq .Data.Plural "tags" }}
+<meta name="robots" content="noindex, follow">
+{{- end }}
+{{- end }}

@@ -1,3 +1,4 @@
 User-agent: *
-Disallow:
+Disallow: /*/tags/
+Disallow: /*/categories/
 Sitemap: https://minweb.shop/sitemap.xml
