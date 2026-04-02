@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://minweb.shop/de/</loc>
-    <lastmod>2026-04-02T09:27:44+09:00</lastmod>
+    <lastmod>2026-04-02T09:51:49+09:00</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -19,7 +19,7 @@
   </url>
   <url>
     <loc>https://minweb.shop/de/posts/</loc>
-    <lastmod>2026-04-02T09:27:44+09:00</lastmod>
+    <lastmod>2026-04-02T09:51:49+09:00</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -32,6 +32,10 @@
       rel="alternate"
       hreflang="de"
       href="https://minweb.shop/de/posts/" />
+  </url>
+  <url>
+    <loc>https://minweb.shop/de/posts/entertainment/warum-wir-heute-noch-serien-der-80er-90er-schauen/</loc>
+    <lastmod>2026-04-02T09:51:49+09:00</lastmod>
   </url>
   <url>
     <loc>https://minweb.shop/de/posts/lifestyle/sinken-die-spritpreise-wieder-ein-blick-auf-die-fakten/</loc>
