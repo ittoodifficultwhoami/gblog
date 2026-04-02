@@ -6,8 +6,16 @@
     <description>Recent content in プロンプトエンジニアリング on MinWeb</description>
     <generator>Hugo -- 0.147.0</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 29 Mar 2026 07:50:00 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 07:52:27 +0900</lastBuildDate>
     <atom:link href="https://minweb.shop/jp/tags/%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>なぜCLAUDE.mdは100行より35行が最強なのか？公式仕様で解説</title>
+      <link>https://minweb.shop/jp/posts/tech/claude-md-100-35/</link>
+      <pubDate>Thu, 02 Apr 2026 07:52:27 +0900</pubDate>
+      <guid>https://minweb.shop/jp/posts/tech/claude-md-100-35/</guid>
+      <description>&lt;p&gt;Ever feel like you’re writing a constitution for your AI, only to have it ignore half the rules? You spend hours crafting a detailed &lt;code&gt;CLAUDE.md&lt;/code&gt;, meticulously defining every architectural pattern and directory structure, convinced that more is better. Then you send a prompt, and the AI immediately reverts to generic habits, completely ignoring the specific library versions or formatting styles you spent all afternoon codifying.&lt;/p&gt;
+&lt;p&gt;If this sounds familiar, you aren&amp;rsquo;t alone. You’ve fallen victim to the &amp;ldquo;AI Ritual&amp;rdquo;—the tendency to over-engineer prompts to appease an AI that is already smarter than we give it credit for. Honestly, I’ve been guilty of this more times than I care to admit.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>ChatGPTが重い時！会話をリセットする「引き継ぎプロンプト」活用術</title>
       <link>https://minweb.shop/jp/posts/tech/chatgpt/</link>
