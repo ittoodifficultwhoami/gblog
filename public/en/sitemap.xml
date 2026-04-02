@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://minweb.shop/en/</loc>
-    <lastmod>2026-03-31T07:46:56+09:00</lastmod>
+    <lastmod>2026-04-02T06:42:24+09:00</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="jp"
@@ -19,7 +19,7 @@
   </url>
   <url>
     <loc>https://minweb.shop/en/posts/</loc>
-    <lastmod>2026-03-31T07:46:56+09:00</lastmod>
+    <lastmod>2026-04-02T06:42:24+09:00</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="jp"
@@ -32,6 +32,10 @@
       rel="alternate"
       hreflang="en"
       href="https://minweb.shop/en/posts/" />
+  </url>
+  <url>
+    <loc>https://minweb.shop/en/posts/tech/why-gabe-newell-stepped-back-from-making-valve-games/</loc>
+    <lastmod>2026-04-02T06:42:24+09:00</lastmod>
   </url>
   <url>
     <loc>https://minweb.shop/en/posts/entertainment/tomb-raider-production-paused-following-sophie-turner-injury/</loc>
