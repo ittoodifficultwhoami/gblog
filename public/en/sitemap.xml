@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://minweb.shop/en/</loc>
-    <lastmod>2026-04-03T07:48:52+09:00</lastmod>
+    <lastmod>2026-04-06T02:42:27+09:00</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="jp"
@@ -19,7 +19,7 @@
   </url>
   <url>
     <loc>https://minweb.shop/en/posts/</loc>
-    <lastmod>2026-04-03T07:48:52+09:00</lastmod>
+    <lastmod>2026-04-06T02:42:27+09:00</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="jp"
@@ -32,6 +32,10 @@
       rel="alternate"
       hreflang="en"
       href="https://minweb.shop/en/posts/" />
+  </url>
+  <url>
+    <loc>https://minweb.shop/en/posts/tech/the-5-billion-analog-rebellion-why-gen-z-is-going-offline/</loc>
+    <lastmod>2026-04-06T02:42:27+09:00</lastmod>
   </url>
   <url>
     <loc>https://minweb.shop/en/posts/politics/trump-fires-ag-bondi-todd-blanche-named-new-attorney-general/</loc>
