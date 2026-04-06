@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Javascript on MinWeb</title>
+    <link>https://minweb.shop/jp/tags/javascript/</link>
+    <description>Recent content in Javascript on MinWeb</description>
+    <generator>Hugo -- 0.147.0</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Mon, 06 Apr 2026 09:30:58 +0900</lastBuildDate>
+    <atom:link href="https://minweb.shop/jp/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Axios Hijacked: The 39-Minute Supply Chain Attack Explained</title>
+      <link>https://minweb.shop/jp/posts/tech/axios-hijacked-the-39-minute-supply-chain-attack-explained/</link>
+      <pubDate>Mon, 06 Apr 2026 09:30:58 +0900</pubDate>
+      <guid>https://minweb.shop/jp/posts/tech/axios-hijacked-the-39-minute-supply-chain-attack-explained/</guid>
+      <description>&lt;p&gt;Imagine waking up to news that a core piece of your software stack—a tool used by millions—has turned into a digital Trojan horse. You didn’t touch a single line of code, yet your servers are compromised.&lt;/p&gt;
+&lt;p&gt;This isn&amp;rsquo;t some cyberpunk movie plot. It’s exactly what happened on March 31, 2026, when the popular JavaScript library &lt;strong&gt;Axios&lt;/strong&gt; was hijacked.&lt;/p&gt;
+&lt;p&gt;For 39 harrowing minutes, a malicious version of Axios sat in the npm registry, waiting to infect any developer or CI/CD pipeline that pulled it. By the time the dust settled, nearly 600,000 downloads had occurred. Honestly, I still get a pit in my stomach thinking about how easily that happens. If you rely on open-source software, this incident is a mandatory wake-up call for your supply chain security.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
