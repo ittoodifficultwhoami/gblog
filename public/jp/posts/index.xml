@@ -6,8 +6,23 @@
     <description>Recent content in 記事一覧 on MinWeb</description>
     <generator>Hugo -- 0.147.0</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 06 Apr 2026 10:37:19 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 08:15:47 +0900</lastBuildDate>
     <atom:link href="https://minweb.shop/jp/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AIに個人情報を入力して人生終了？やってはいけないNG行動</title>
+      <link>https://minweb.shop/jp/posts/tech/ai-ng/</link>
+      <pubDate>Tue, 07 Apr 2026 08:15:47 +0900</pubDate>
+      <guid>https://minweb.shop/jp/posts/tech/ai-ng/</guid>
+      <description>&lt;p&gt;「AIに聞けば何でも解決！」と、業務効率化のために生成AIを使いこなすのは今の時代の賢いやり方です。でも、その便利さの裏で「人生が終わりかけた」という背筋が凍るような実話をご存知でしょうか。&lt;/p&gt;
+&lt;p&gt;最近、ネット上で「AIに個人情報を流しすぎて懲戒解雇の危機になった」という34歳エンジニアの告白が話題になりました。これ、決して他人事じゃありません。正直、他人事だと思っている人が一番危ない。&lt;/p&gt;
+&lt;p&gt;今回は、生成AIを安全に使うために知っておくべき技術的な落とし穴と、絶対に守るべき境界線を解説します。&lt;/p&gt;
+&lt;h2 id=&#34;なぜ人生終了の危機が訪れたのか&#34;&gt;なぜ「人生終了」の危機が訪れたのか？&lt;/h2&gt;
+&lt;p&gt;&lt;img alt=&#34;Simple cartoon illustration: An office worker sits at a desk with a glowing computer screen showing a warning sign. A giant red &amp;ldquo;X&amp;rdquo; overlays a file labeled &amp;ldquo;Confidential,&amp;rdquo; symbolizing the danger of leaking private data.&#34; loading=&#34;lazy&#34; src=&#34;https://minweb.shop/images/ai-ng-_0.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;2026年4月、ある中堅システム開発会社でゾッとするような事件が起きました。一人のエンジニアが、転職の相談から未発表プロジェクトの詳細、さらには源泉徴収票に至るまで、すべてを丸裸のままChatGPTに入力してしまったのです。&lt;/p&gt;
+&lt;p&gt;結果は残酷でした。社内のセキュリティ監視システム（CASB）が即座に反応し、彼は懲戒解雇の危機に追い込まれました。正直、ここまでやっちゃうのはさすがに正気を疑いますが、なぜこれほど大きな衝撃を与えたのでしょうか。それは、多くのビジネスパーソンが**「AI＝自分だけの秘密基地」だと勘違いしているから**です。&lt;/p&gt;
+&lt;h2 id=&#34;急増するシャドーaiという死角&#34;&gt;急増する「シャドーAI」という死角&lt;/h2&gt;
+&lt;p&gt;&lt;img alt=&#34;Simple cartoon illustration: A bar chart showing two bars. One bar labeled &amp;ldquo;2025&amp;rdquo; is at 29%, and the second bar labeled &amp;ldquo;2026&amp;rdquo; is at 54.7%, with a rising arrow pointing to the increase.&#34; loading=&#34;lazy&#34; src=&#34;https://minweb.shop/images/ai-ng-_1.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>なぜテレビは衰退したのか？「Qカット」が招いた信頼の崩壊</title>
       <link>https://minweb.shop/jp/posts/entertainment/q/</link>
