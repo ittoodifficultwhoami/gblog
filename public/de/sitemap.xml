@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://minweb.shop/de/</loc>
-    <lastmod>2026-04-08T10:09:45+09:00</lastmod>
+    <lastmod>2026-04-08T10:28:03+09:00</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -19,7 +19,7 @@
   </url>
   <url>
     <loc>https://minweb.shop/de/posts/</loc>
-    <lastmod>2026-04-08T10:09:45+09:00</lastmod>
+    <lastmod>2026-04-08T10:28:03+09:00</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -32,6 +32,10 @@
       rel="alternate"
       hreflang="de"
       href="https://minweb.shop/de/posts/" />
+  </url>
+  <url>
+    <loc>https://minweb.shop/de/posts/politics/trumps-iran-politik-strategischer-erfolg-oder-scheitern/</loc>
+    <lastmod>2026-04-08T10:28:03+09:00</lastmod>
   </url>
   <url>
     <loc>https://minweb.shop/de/posts/sports/war-jesus-fit-die-bioarch-ologische-wahrheit-ber-sein-leben/</loc>
