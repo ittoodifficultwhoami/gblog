@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://minweb.shop/jp/</loc>
-    <lastmod>2026-04-08T08:48:53+09:00</lastmod>
+    <lastmod>2026-04-09T08:23:12+09:00</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -18,12 +18,12 @@
       href="https://minweb.shop/jp/" />
   </url>
   <url>
-    <loc>https://minweb.shop/jp/posts/entertainment/-/</loc>
-    <lastmod>2026-04-08T08:48:53+09:00</lastmod>
+    <loc>https://minweb.shop/jp/posts/tech/-/</loc>
+    <lastmod>2026-04-09T08:23:12+09:00</lastmod>
   </url>
   <url>
     <loc>https://minweb.shop/jp/posts/</loc>
-    <lastmod>2026-04-08T08:48:53+09:00</lastmod>
+    <lastmod>2026-04-09T08:23:12+09:00</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -36,6 +36,10 @@
       rel="alternate"
       hreflang="jp"
       href="https://minweb.shop/jp/posts/" />
+  </url>
+  <url>
+    <loc>https://minweb.shop/jp/posts/entertainment/-/</loc>
+    <lastmod>2026-04-08T08:48:53+09:00</lastmod>
   </url>
   <url>
     <loc>https://minweb.shop/jp/posts/health/10/</loc>
@@ -160,10 +164,6 @@
   <url>
     <loc>https://minweb.shop/jp/posts/tech/google-stitch-ui/</loc>
     <lastmod>2026-03-22T08:47:16+09:00</lastmod>
-  </url>
-  <url>
-    <loc>https://minweb.shop/jp/posts/tech/-/</loc>
-    <lastmod>2026-03-22T05:46:59+09:00</lastmod>
   </url>
   <url>
     <loc>https://minweb.shop/jp/posts/tech/ios-27-xcode-27/</loc>
