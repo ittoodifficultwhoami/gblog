@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Macos Apps on MinWeb</title>
+    <link>https://minweb.shop/jp/tags/macos-apps/</link>
+    <description>Recent content in Macos Apps on MinWeb</description>
+    <generator>Hugo -- 0.147.0</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Sat, 11 Apr 2026 07:47:38 +0900</lastBuildDate>
+    <atom:link href="https://minweb.shop/jp/tags/macos-apps/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Maestri: A Spatial Leap Beyond the Standard Terminal</title>
+      <link>https://minweb.shop/jp/posts/tech/maestri-a-spatial-leap-beyond-the-standard-terminal/</link>
+      <pubDate>Sat, 11 Apr 2026 07:47:38 +0900</pubDate>
+      <guid>https://minweb.shop/jp/posts/tech/maestri-a-spatial-leap-beyond-the-standard-terminal/</guid>
+      <description>&lt;p&gt;Ever looked at your screen after a long day of coding and felt like you were drowning in a sea of overlapping windows? You’ve got your terminal, a code editor, a browser for docs, and a chat app for your AI assistant—all fighting for the same sliver of space.&lt;/p&gt;
+&lt;p&gt;For a decade, we’ve tried to fix this with &amp;ldquo;tiled&amp;rdquo; window managers and complex keyboard shortcuts. But let’s be real: we aren&amp;rsquo;t managing our work; we’re just organizing digital clutter.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
