@@ -2,12 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://minweb.shop/en/posts/finance/inherited-money-and-ccrcs-how-to-protect-your-mil-s-future/</loc>
-    <lastmod>2026-04-11T06:50:53+09:00</lastmod>
-  </url>
-  <url>
     <loc>https://minweb.shop/en/</loc>
-    <lastmod>2026-04-11T06:50:53+09:00</lastmod>
+    <lastmod>2026-04-11T06:59:39+09:00</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="jp"
@@ -23,7 +19,7 @@
   </url>
   <url>
     <loc>https://minweb.shop/en/posts/</loc>
-    <lastmod>2026-04-11T06:50:53+09:00</lastmod>
+    <lastmod>2026-04-11T06:59:39+09:00</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="jp"
@@ -36,6 +32,14 @@
       rel="alternate"
       hreflang="en"
       href="https://minweb.shop/en/posts/" />
+  </url>
+  <url>
+    <loc>https://minweb.shop/en/posts/lifestyle/stop-overspending-the-noticeability-rule-for-purchases/</loc>
+    <lastmod>2026-04-11T06:59:39+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://minweb.shop/en/posts/finance/inherited-money-and-ccrcs-how-to-protect-your-mil-s-future/</loc>
+    <lastmod>2026-04-11T06:50:53+09:00</lastmod>
   </url>
   <url>
     <loc>https://minweb.shop/en/posts/tech/why-gen-z-is-sabotaging-corporate-ai-rollouts/</loc>
