@@ -6,8 +6,57 @@
     <description>Recent content in Tags on MinWeb</description>
     <generator>Hugo -- 0.147.0</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sat, 11 Apr 2026 08:28:13 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 07:45:56 +0900</lastBuildDate>
     <atom:link href="https://minweb.shop/jp/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ai効率化</title>
+      <link>https://minweb.shop/jp/tags/ai%E5%8A%B9%E7%8E%87%E5%8C%96/</link>
+      <pubDate>Sun, 12 Apr 2026 07:45:56 +0900</pubDate>
+      <guid>https://minweb.shop/jp/tags/ai%E5%8A%B9%E7%8E%87%E5%8C%96/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Claude</title>
+      <link>https://minweb.shop/jp/tags/claude/</link>
+      <pubDate>Sun, 12 Apr 2026 07:45:56 +0900</pubDate>
+      <guid>https://minweb.shop/jp/tags/claude/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Claude Code</title>
+      <link>https://minweb.shop/jp/tags/claude-code/</link>
+      <pubDate>Sun, 12 Apr 2026 07:45:56 +0900</pubDate>
+      <guid>https://minweb.shop/jp/tags/claude-code/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>エンジニアリング</title>
+      <link>https://minweb.shop/jp/tags/%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0/</link>
+      <pubDate>Sun, 12 Apr 2026 07:45:56 +0900</pubDate>
+      <guid>https://minweb.shop/jp/tags/%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>トークン削減</title>
+      <link>https://minweb.shop/jp/tags/%E3%83%88%E3%83%BC%E3%82%AF%E3%83%B3%E5%89%8A%E6%B8%9B/</link>
+      <pubDate>Sun, 12 Apr 2026 07:45:56 +0900</pubDate>
+      <guid>https://minweb.shop/jp/tags/%E3%83%88%E3%83%BC%E3%82%AF%E3%83%B3%E5%89%8A%E6%B8%9B/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>プロンプトエンジニアリング</title>
+      <link>https://minweb.shop/jp/tags/%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0/</link>
+      <pubDate>Sun, 12 Apr 2026 07:45:56 +0900</pubDate>
+      <guid>https://minweb.shop/jp/tags/%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>生成ai</title>
+      <link>https://minweb.shop/jp/tags/%E7%94%9F%E6%88%90ai/</link>
+      <pubDate>Sun, 12 Apr 2026 07:45:56 +0900</pubDate>
+      <guid>https://minweb.shop/jp/tags/%E7%94%9F%E6%88%90ai/</guid>
+      <description></description>
+    </item>
     <item>
       <title>インフラ整備</title>
       <link>https://minweb.shop/jp/tags/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E6%95%B4%E5%82%99/</link>
@@ -590,13 +639,6 @@
       <description></description>
     </item>
     <item>
-      <title>生成ai</title>
-      <link>https://minweb.shop/jp/tags/%E7%94%9F%E6%88%90ai/</link>
-      <pubDate>Tue, 07 Apr 2026 08:15:47 +0900</pubDate>
-      <guid>https://minweb.shop/jp/tags/%E7%94%9F%E6%88%90ai/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Cmまたぎ</title>
       <link>https://minweb.shop/jp/tags/cm%E3%81%BE%E3%81%9F%E3%81%8E/</link>
       <pubDate>Mon, 06 Apr 2026 10:37:19 +0900</pubDate>
@@ -870,13 +912,6 @@
       <description></description>
     </item>
     <item>
-      <title>Claude</title>
-      <link>https://minweb.shop/jp/tags/claude/</link>
-      <pubDate>Mon, 06 Apr 2026 08:15:39 +0900</pubDate>
-      <guid>https://minweb.shop/jp/tags/claude/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Mcp</title>
       <link>https://minweb.shop/jp/tags/mcp/</link>
       <pubDate>Mon, 06 Apr 2026 08:15:39 +0900</pubDate>
@@ -1045,13 +1080,6 @@
       <description></description>
     </item>
     <item>
-      <title>Claude Code</title>
-      <link>https://minweb.shop/jp/tags/claude-code/</link>
-      <pubDate>Fri, 03 Apr 2026 08:26:50 +0900</pubDate>
-      <guid>https://minweb.shop/jp/tags/claude-code/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Coding Tools</title>
       <link>https://minweb.shop/jp/tags/coding-tools/</link>
       <pubDate>Fri, 03 Apr 2026 08:26:50 +0900</pubDate>
@@ -1210,13 +1238,6 @@
       <link>https://minweb.shop/jp/tags/llm/</link>
       <pubDate>Thu, 02 Apr 2026 07:52:27 +0900</pubDate>
       <guid>https://minweb.shop/jp/tags/llm/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>プロンプトエンジニアリング</title>
-      <link>https://minweb.shop/jp/tags/%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0/</link>
-      <pubDate>Thu, 02 Apr 2026 07:52:27 +0900</pubDate>
-      <guid>https://minweb.shop/jp/tags/%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0/</guid>
       <description></description>
     </item>
     <item>

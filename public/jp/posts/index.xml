@@ -6,8 +6,31 @@
     <description>Recent content in 記事一覧 on MinWeb</description>
     <generator>Hugo -- 0.147.0</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sat, 11 Apr 2026 08:28:13 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 07:45:56 +0900</lastBuildDate>
     <atom:link href="https://minweb.shop/jp/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Claudeのトークンを80%削減！「原始人プロンプト」活用術</title>
+      <link>https://minweb.shop/jp/posts/tech/claude-80/</link>
+      <pubDate>Sun, 12 Apr 2026 07:45:56 +0900</pubDate>
+      <guid>https://minweb.shop/jp/posts/tech/claude-80/</guid>
+      <description>&lt;p&gt;「Claudeとの会話、長すぎて疲れる」「返信が丁寧すぎて、かえって本質が見えにくい」。そんなふうに感じたことはありませんか？&lt;/p&gt;
+&lt;p&gt;特にClaude Codeでバリバリ開発している人や、APIを触るエンジニアにとって、AIの「礼儀正しさ」は単なるノイズです。今、海外で**「原始人プロンプト（Caveman Prompt）」**という手法が密かにブームになっています。&lt;/p&gt;
+&lt;p&gt;これを使うだけで、&lt;strong&gt;出力トークンを最大80%も削減できる&lt;/strong&gt;んです。なぜ「原始人」になることが最強の効率化なのか。その正体を解説します。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;そもそも原始人プロンプトとは&#34;&gt;そもそも「原始人プロンプト」とは？&lt;/h2&gt;
+&lt;p&gt;&lt;img alt=&#34;Simple cartoon illustration: A split screen comparing a robot in a tuxedo (labeled &amp;ldquo;Normal AI&amp;rdquo;) and a simple robot with a club (labeled &amp;ldquo;Caveman AI&amp;rdquo;).&#34; loading=&#34;lazy&#34; src=&#34;https://minweb.shop/images/claude-80-_0.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;「原始人プロンプト（Caveman Prompt）」は、Claude CodeのコミュニティでJulius Brussee氏が考案したテクニックです。&lt;/p&gt;
+&lt;p&gt;やり方は拍子抜けするほど簡単。システム設定か&lt;code&gt;CLAUDE.md&lt;/code&gt;に、たった一行の英語を書き込むだけ。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&amp;ldquo;Respond terse like smart caveman. All technical substance stay. Only fluff die. No greetings, no preamble.&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;日本語に訳すとこんな感じ。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;「原始人のように喋れ。中身は全部残せ。無駄だけ消せ。敬語、挨拶、前置き、丁寧な助詞、すべて不要。技術的な核心のみを最短で伝えろ。」&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;誤解しないでほしいのは、これは「オレサマ、オマエ、マルカジリ」みたいなロールプレイング遊びじゃないってこと。目的は、人間らしい丁寧なコミュニケーションという「無駄」を削ぎ落として、情報の密度を限界まで高めることにあります。AIの饒舌さに疲れた時、これが意外と効くんですよ。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;なぜトークンが5分の1になるのか&#34;&gt;なぜトークンが「5分の1」になるのか&lt;/h2&gt;
+&lt;p&gt;&lt;img alt=&#34;Simple cartoon illustration: A bar chart showing a long, heavy stack of &amp;ldquo;Fluff&amp;rdquo; blocks next to a tiny, dense stack of &amp;ldquo;Core Data&amp;rdquo; blocks.&#34; loading=&#34;lazy&#34; src=&#34;https://minweb.shop/images/claude-80-_1.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>配送中の駐禁問題：物流の危機が招く「国民生活」への影響</title>
       <link>https://minweb.shop/jp/posts/politics/-/</link>
