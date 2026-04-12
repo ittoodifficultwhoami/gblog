@@ -2,8 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://minweb.shop/jp/posts/health/36/</loc>
+    <lastmod>2026-04-12T08:15:20+09:00</lastmod>
+  </url>
+  <url>
     <loc>https://minweb.shop/jp/</loc>
-    <lastmod>2026-04-12T08:05:10+09:00</lastmod>
+    <lastmod>2026-04-12T08:15:20+09:00</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -18,12 +22,8 @@
       href="https://minweb.shop/jp/" />
   </url>
   <url>
-    <loc>https://minweb.shop/jp/posts/lifestyle/36/</loc>
-    <lastmod>2026-04-12T08:05:10+09:00</lastmod>
-  </url>
-  <url>
     <loc>https://minweb.shop/jp/posts/</loc>
-    <lastmod>2026-04-12T08:05:10+09:00</lastmod>
+    <lastmod>2026-04-12T08:15:20+09:00</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -36,6 +36,10 @@
       rel="alternate"
       hreflang="jp"
       href="https://minweb.shop/jp/posts/" />
+  </url>
+  <url>
+    <loc>https://minweb.shop/jp/posts/lifestyle/36/</loc>
+    <lastmod>2026-04-12T08:05:10+09:00</lastmod>
   </url>
   <url>
     <loc>https://minweb.shop/jp/posts/finance/2-20/</loc>
