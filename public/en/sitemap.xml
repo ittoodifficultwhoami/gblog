@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://minweb.shop/en/posts/finance/how-the-trump-family-s-150m-dolomite-loan-trapped-users/</loc>
-    <lastmod>2026-04-12T06:51:21+09:00</lastmod>
+    <loc>https://minweb.shop/en/posts/lifestyle/don-t-quit-your-job-before-using-your-vacation-days/</loc>
+    <lastmod>2026-04-12T06:59:45+09:00</lastmod>
   </url>
   <url>
     <loc>https://minweb.shop/en/</loc>
-    <lastmod>2026-04-12T06:51:21+09:00</lastmod>
+    <lastmod>2026-04-12T06:59:45+09:00</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="jp"
@@ -23,7 +23,7 @@
   </url>
   <url>
     <loc>https://minweb.shop/en/posts/</loc>
-    <lastmod>2026-04-12T06:51:21+09:00</lastmod>
+    <lastmod>2026-04-12T06:59:45+09:00</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="jp"
@@ -36,6 +36,10 @@
       rel="alternate"
       hreflang="en"
       href="https://minweb.shop/en/posts/" />
+  </url>
+  <url>
+    <loc>https://minweb.shop/en/posts/finance/how-the-trump-family-s-150m-dolomite-loan-trapped-users/</loc>
+    <lastmod>2026-04-12T06:51:21+09:00</lastmod>
   </url>
   <url>
     <loc>https://minweb.shop/en/posts/tech/rockstar-games-data-breach-what-actually-happened/</loc>
