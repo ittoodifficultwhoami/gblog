@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://minweb.shop/de/</loc>
-    <lastmod>2026-04-12T09:15:35+09:00</lastmod>
+    <lastmod>2026-04-12T09:20:57+09:00</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -19,7 +19,7 @@
   </url>
   <url>
     <loc>https://minweb.shop/de/posts/</loc>
-    <lastmod>2026-04-12T09:15:35+09:00</lastmod>
+    <lastmod>2026-04-12T09:20:57+09:00</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -32,6 +32,10 @@
       rel="alternate"
       hreflang="de"
       href="https://minweb.shop/de/posts/" />
+  </url>
+  <url>
+    <loc>https://minweb.shop/de/posts/entertainment/warum-wir-mit-dingen-sprechen-psychologie-hinter-dem-verhalten/</loc>
+    <lastmod>2026-04-12T09:20:57+09:00</lastmod>
   </url>
   <url>
     <loc>https://minweb.shop/de/posts/health/wellness-mehr-als-nur-ein-trend-alles-zum-milliardenmarkt/</loc>
