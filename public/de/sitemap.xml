@@ -2,12 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://minweb.shop/de/posts/entertainment/astrologie-alles-nur-aberglaube-oder-steckt-mehr-dahinter/</loc>
-    <lastmod>2026-04-13T10:03:41+09:00</lastmod>
-  </url>
-  <url>
     <loc>https://minweb.shop/de/</loc>
-    <lastmod>2026-04-13T10:03:41+09:00</lastmod>
+    <lastmod>2026-04-13T10:09:52+09:00</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -23,7 +19,7 @@
   </url>
   <url>
     <loc>https://minweb.shop/de/posts/</loc>
-    <lastmod>2026-04-13T10:03:41+09:00</lastmod>
+    <lastmod>2026-04-13T10:09:52+09:00</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -36,6 +32,14 @@
       rel="alternate"
       hreflang="de"
       href="https://minweb.shop/de/posts/" />
+  </url>
+  <url>
+    <loc>https://minweb.shop/de/posts/sports/stylisch-oder-prollig-so-tr-gt-man-muskelshirts-heute-richtig/</loc>
+    <lastmod>2026-04-13T10:09:52+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://minweb.shop/de/posts/entertainment/astrologie-alles-nur-aberglaube-oder-steckt-mehr-dahinter/</loc>
+    <lastmod>2026-04-13T10:03:41+09:00</lastmod>
   </url>
   <url>
     <loc>https://minweb.shop/de/posts/health/wie-oft-ist-normal-erk-ltungen-richtig-einsch-tzen/</loc>
