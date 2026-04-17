@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>1人マーケティング on MinWeb</title>
+    <link>https://minweb.shop/jp/tags/1%E4%BA%BA%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0/</link>
+    <description>Recent content in 1人マーケティング on MinWeb</description>
+    <generator>Hugo -- 0.147.0</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Fri, 17 Apr 2026 08:28:48 +0900</lastBuildDate>
+    <atom:link href="https://minweb.shop/jp/tags/1%E4%BA%BA%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Claude Codeで1人マーケ部：炎上の真相とAI活用の現実</title>
+      <link>https://minweb.shop/jp/posts/health/claude-code-1-ai/</link>
+      <pubDate>Fri, 17 Apr 2026 08:28:48 +0900</pubDate>
+      <guid>https://minweb.shop/jp/posts/health/claude-code-1-ai/</guid>
+      <description>&lt;p&gt;「AIを使えば、たった一人でマーケティング部門の仕事を完結できる」。そんな夢のような見出しを目にしたら、あなたはどう思いますか？&lt;/p&gt;
+&lt;p&gt;2026年4月、SNSで一つの記事が大きな話題になりました。SHIFT AIの川合卓也氏が公開した「Claude Codeで1人マーケ部門を作った全記録」です。この記事はあっという間に拡散されましたが、同時に激しい「プチ炎上」も引き起こしました。&lt;/p&gt;
+&lt;p&gt;なぜこれほど議論が白熱したのか。そして、この事例から私たちが本当に学ぶべき「AI活用の現実」とは何か。騒動の裏側にある技術的な真相と、現代のビジネスパーソンが直視すべきAIの限界について解説します。（正直、みんな魔法を期待しすぎなんですよね）&lt;/p&gt;
+&lt;h2 id=&#34;有料級の看板が招いた波紋&#34;&gt;「有料級」の看板が招いた波紋&lt;/h2&gt;
+&lt;p&gt;&lt;img alt=&#34;Simple cartoon illustration: A puzzled person looking at a giant megaphone labeled &amp;ldquo;FREE VALUABLE INFO&amp;rdquo; while skeptical crowd members point at a pile of generic, repetitive-looking digital document icons.&#34; loading=&#34;lazy&#34; src=&#34;https://minweb.shop/images/claude-code-1-ai-_0.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;この記事の主張はシンプルです。「Claude Code」というAIツールを使ってリサーチや記事執筆、デザインなどの21業務を自動化し、毎日の作業を60分まで削ったというもの。これだけ聞くと夢のような話ですが、SNSでは猛反発を食らっていました。&lt;/p&gt;
+&lt;p&gt;なぜここまで批判されたのか。原因は「有料級」という言葉のチョイスと、手法の目新しさにありました。&lt;/p&gt;
+&lt;p&gt;批判の主なポイントは以下の3点です。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;「有料級」のハードルが高すぎた&lt;/strong&gt;：業務を分解して&lt;code&gt;CLAUDE.md&lt;/code&gt;にまとめるのは、AI活用の基本中の基本です。正直、これを「有料級」と呼ぶのは少し無理があるかもしれません。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;「AI Slop」への懸念&lt;/strong&gt;：AIで質の低いコンテンツを大量生産するだけでは、世の中をゴミで溢れさせるのと同じです。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ビジネスとしての本質&lt;/strong&gt;：表面的な効率化で満足して、肝心の売上や、クライアントとの丁寧なコミュニケーションが疎かになっては本末転倒ですよね。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;効率化の裏には、こうした「甘い罠」が潜んでいます。2026年の今、技術をどう使いこなすかが問われています。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Simple cartoon illustration: A graph showing a tall bar for &amp;ldquo;Single Task Efficiency&amp;rdquo; (20x) next to a very short bar for &amp;ldquo;End-to-End Workflow&amp;rdquo; (1x) due to a large block labeled &amp;ldquo;Human Review Cost.&amp;rdquo;&#34; loading=&#34;lazy&#34; src=&#34;https://minweb.shop/images/claude-code-1-ai-_1.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
