@@ -6,8 +6,25 @@
     <description>Recent content in 記事一覧 on MinWeb</description>
     <generator>Hugo -- 0.147.0</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 16 Apr 2026 08:28:44 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 07:46:18 +0900</lastBuildDate>
     <atom:link href="https://minweb.shop/jp/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1.58ビットでAIが激変！8GBメモリで動く「Bonsai」を検証</title>
+      <link>https://minweb.shop/jp/posts/tech/1-58-ai-8gb-bonsai/</link>
+      <pubDate>Fri, 17 Apr 2026 07:46:18 +0900</pubDate>
+      <guid>https://minweb.shop/jp/posts/tech/1-58-ai-8gb-bonsai/</guid>
+      <description>&lt;p&gt;「AIを使いたいけど、メモリ不足でPCが重くなる」「高性能なAIはクラウド経由じゃないと動かない」……そんな悩みに終止符を打つ日が、ついに現実味を帯びてきました。&lt;/p&gt;
+&lt;p&gt;2026年4月16日に公開された新モデル**「Ternary Bonsai」**は、AI界の常識を覆します。これまで数十GBのメモリを食っていた高性能AIが、8GBメモリのノートPCやiPhoneでもサクサク動いてしまうんです。正直、この軽さはちょっとした衝撃ですよ。&lt;/p&gt;
+&lt;p&gt;一体、何が起きているのでしょうか。ここからは「1.58ビット」という、AIの常識を変える魔法の技術について解説します。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;158ビット革命aiの贅肉を削ぎ落とす&#34;&gt;1.58ビット革命：AIの「贅肉」を削ぎ落とす&lt;/h2&gt;
+&lt;p&gt;&lt;img alt=&#34;Simple cartoon illustration: A heavy, sweating robot carrying a giant weight labeled &amp;ldquo;16-bit&amp;rdquo; is being transformed by a pair of scissors into a slim, happy robot holding a tiny weight labeled &amp;ldquo;1.58-bit&amp;rdquo;.&#34; loading=&#34;lazy&#34; src=&#34;https://minweb.shop/images/1-58-ai-8gb-bonsai-_0.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;これまで、高性能なAI（LLM）は「パラメータ」という膨大な数値を抱え込むのが常識でした。一つひとつの数値を細かく記録していたせいで、とにかくメモリを食う。おまけに動かすだけで莫大な電気代がかかる厄介な代物でした。&lt;/p&gt;
+&lt;p&gt;ところが、PrismML社が発表した「Ternary Bonsai」は違います。ここで使われている「BitNet b1.58」という技術は、パラメータを「-1, 0, +1」のたった3つの値だけで表現してしまいます。&lt;/p&gt;
+&lt;p&gt;数学的に見ると、3つの状態を表現するのに必要なのは &lt;code&gt;log₂(3) ≈ 1.585&lt;/code&gt;。つまり、1ウェイトあたりわずか1.58ビットで済むんです。これは正直、やりすぎなほど効率的です。&lt;/p&gt;
+&lt;h3 id=&#34;どれくらい軽くなったのか&#34;&gt;どれくらい軽くなったのか？&lt;/h3&gt;
+&lt;p&gt;&lt;img alt=&#34;Simple cartoon illustration: A side-by-side bar chart comparison. The left bar is a massive tower labeled &amp;ldquo;16.38 GB&amp;rdquo;, while the right bar is a tiny, compact stack labeled &amp;ldquo;1.75 GB&amp;rdquo;.&#34; loading=&#34;lazy&#34; src=&#34;https://minweb.shop/images/1-58-ai-8gb-bonsai-_1.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>「要はバランス」と言い出す人が嫌われる本当の理由</title>
       <link>https://minweb.shop/jp/posts/politics/-/</link>
