@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://minweb.shop/de/posts/health/brauchen-deutsche-krankenh-user-ausl-ndisches-personal/</loc>
-    <lastmod>2026-04-17T09:38:06+09:00</lastmod>
+    <loc>https://minweb.shop/de/posts/sports/20-klimmz-ge-t-glich-bringt-das-wirklich-muskelaufbau/</loc>
+    <lastmod>2026-04-17T09:53:19+09:00</lastmod>
   </url>
   <url>
     <loc>https://minweb.shop/de/</loc>
-    <lastmod>2026-04-17T09:38:06+09:00</lastmod>
+    <lastmod>2026-04-17T09:53:19+09:00</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -23,7 +23,7 @@
   </url>
   <url>
     <loc>https://minweb.shop/de/posts/</loc>
-    <lastmod>2026-04-17T09:38:06+09:00</lastmod>
+    <lastmod>2026-04-17T09:53:19+09:00</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -36,6 +36,10 @@
       rel="alternate"
       hreflang="de"
       href="https://minweb.shop/de/posts/" />
+  </url>
+  <url>
+    <loc>https://minweb.shop/de/posts/health/brauchen-deutsche-krankenh-user-ausl-ndisches-personal/</loc>
+    <lastmod>2026-04-17T09:38:06+09:00</lastmod>
   </url>
   <url>
     <loc>https://minweb.shop/de/posts/lifestyle/vystopie-warum-erzeugt-veganismus-oft-so-viel-ablehnung/</loc>
