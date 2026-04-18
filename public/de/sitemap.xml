@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://minweb.shop/de/posts/finance/inflationsausgleichspr-mie-f-r-beamte-wann-kommt-das-geld/</loc>
-    <lastmod>2026-04-18T09:21:20+09:00</lastmod>
+    <loc>https://minweb.shop/de/posts/lifestyle/dienst-an-der-waffe-oder-zivildienst-was-ist-sinnvoller/</loc>
+    <lastmod>2026-04-18T09:29:14+09:00</lastmod>
   </url>
   <url>
     <loc>https://minweb.shop/de/</loc>
-    <lastmod>2026-04-18T09:21:20+09:00</lastmod>
+    <lastmod>2026-04-18T09:29:14+09:00</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -23,7 +23,7 @@
   </url>
   <url>
     <loc>https://minweb.shop/de/posts/</loc>
-    <lastmod>2026-04-18T09:21:20+09:00</lastmod>
+    <lastmod>2026-04-18T09:29:14+09:00</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -36,6 +36,10 @@
       rel="alternate"
       hreflang="de"
       href="https://minweb.shop/de/posts/" />
+  </url>
+  <url>
+    <loc>https://minweb.shop/de/posts/finance/inflationsausgleichspr-mie-f-r-beamte-wann-kommt-das-geld/</loc>
+    <lastmod>2026-04-18T09:21:20+09:00</lastmod>
   </url>
   <url>
     <loc>https://minweb.shop/de/posts/tech/smartwatch-oder-mechanische-uhr-ein-vergleich-f-r-2026/</loc>
