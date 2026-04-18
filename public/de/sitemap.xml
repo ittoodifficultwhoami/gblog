@@ -2,12 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://minweb.shop/de/posts/politics/72-rejection-why-fans-are-turning-away-from-the-2026-wc/</loc>
-    <lastmod>2026-04-17T10:02:12+09:00</lastmod>
-  </url>
-  <url>
     <loc>https://minweb.shop/de/</loc>
-    <lastmod>2026-04-17T10:02:12+09:00</lastmod>
+    <lastmod>2026-04-18T09:13:19+09:00</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -23,7 +19,7 @@
   </url>
   <url>
     <loc>https://minweb.shop/de/posts/</loc>
-    <lastmod>2026-04-17T10:02:12+09:00</lastmod>
+    <lastmod>2026-04-18T09:13:19+09:00</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -36,6 +32,14 @@
       rel="alternate"
       hreflang="de"
       href="https://minweb.shop/de/posts/" />
+  </url>
+  <url>
+    <loc>https://minweb.shop/de/posts/tech/smartwatch-oder-mechanische-uhr-ein-vergleich-f-r-2026/</loc>
+    <lastmod>2026-04-18T09:13:19+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://minweb.shop/de/posts/politics/72-rejection-why-fans-are-turning-away-from-the-2026-wc/</loc>
+    <lastmod>2026-04-17T10:02:12+09:00</lastmod>
   </url>
   <url>
     <loc>https://minweb.shop/de/posts/sports/20-klimmz-ge-t-glich-bringt-das-wirklich-muskelaufbau/</loc>
