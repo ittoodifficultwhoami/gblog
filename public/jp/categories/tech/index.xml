@@ -6,8 +6,29 @@
     <description>Recent content in Tech on MinWeb</description>
     <generator>Hugo -- 0.147.0</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Fri, 17 Apr 2026 07:46:18 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 07:58:50 +0900</lastBuildDate>
     <atom:link href="https://minweb.shop/jp/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AIに全て書かせてみた：NTTデータが挑んだ開発の半年間</title>
+      <link>https://minweb.shop/jp/posts/tech/ai-ntt/</link>
+      <pubDate>Sat, 18 Apr 2026 07:58:50 +0900</pubDate>
+      <guid>https://minweb.shop/jp/posts/tech/ai-ntt/</guid>
+      <description>&lt;p&gt;「AIにコードを書かせてみた」なんて記事は、もう見飽きるほど溢れています。でも、そのほとんどは「補助ツールとして賢く使ってみた」というレベルの話ですよね。&lt;/p&gt;
+&lt;p&gt;じゃあ、もっと極端なことをしたらどうなるのか。&lt;/p&gt;
+&lt;p&gt;「設計からテストまで、人間が1行もコードを書かずにシステムを作ったらどうなるのか？」&lt;/p&gt;
+&lt;p&gt;NTTデータの茂呂範氏率いるチームが、半年間かけてこの問いにガチンコで挑みました。これは単なる生産性向上の記録ではありません。システム開発の「あり方」そのものを根底から覆す、とんでもなく示唆に富んだ実験です。&lt;/p&gt;
+&lt;h3 id=&#34;aiネイティブ開発という実験&#34;&gt;「AIネイティブ開発」という実験&lt;/h3&gt;
+&lt;p&gt;&lt;img alt=&#34;Simple cartoon illustration: A small robot and a human high-five in front of a giant digital bar chart. The chart shows &amp;ldquo;46% Reduction&amp;rdquo; in big bold numbers.&#34; loading=&#34;lazy&#34; src=&#34;https://minweb.shop/images/ai-ntt-_0.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;2025年10月から半年間、NTTデータの開発チームが商用システムのサブシステム開発で「AIネイティブ開発」を試しました。メンバーは30年以上のベテラン、茂呂氏と若手エンジニア3名の計4人。正直、この布陣で挑むのには少し驚きました。&lt;/p&gt;
+&lt;p&gt;成果は圧巻です。開発の全工程で、人間は設計書、ソースコード、テストケースを1行も書いていません。すべてAI任せです。その結果、従来のやり方と比べて全体の工数を約46％も削減しました。ほぼ半分。これはとんでもない数字です。&lt;/p&gt;
+&lt;h3 id=&#34;なぜnttデータでうまくいったのか&#34;&gt;なぜNTTデータでうまくいったのか？&lt;/h3&gt;
+&lt;p&gt;&lt;img alt=&#34;Simple cartoon illustration: A robot building a wall with bricks labeled &amp;ldquo;Strict Rules.&amp;rdquo; Outside the wall, a stormy cloud represents &amp;ldquo;Ambiguity,&amp;rdquo; which cannot enter.&#34; loading=&#34;lazy&#34; src=&#34;https://minweb.shop/images/ai-ntt-_1.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;「Web系のスピード感とは違う、公共システムの厳しい現場でそんなことができるのか？」そう思う方もいるはずです。でも、実はその厳格さこそがAIとの相性を高める最大の武器でした。&lt;/p&gt;
+&lt;p&gt;今回採用したのは「Terasoluna（テラソルナ）」です。NTTデータの標準であるSpringベースのフレームワークで、とにかくルールが厳しい。でも、この「厳しい規約」がAIへの指示において、曖昧さを排除する最高の共通言語になってくれたんです。ぶっちゃけ、ここまで相性がいいとは最初は思いもしませんでした。&lt;/p&gt;
+&lt;p&gt;AIは自由度が高いとすぐ迷走しますが、制約（ガードレール）が明確であればあるほど、驚くほどの精度を発揮します。e-taxをはじめとする大規模システムで培われた「品質管理のノウハウ」は、AIによる自動生成と抜群の親和性を誇ります。&lt;/p&gt;
+&lt;h3 id=&#34;ハーネスエンジニアリングaiを使いこなすための武器&#34;&gt;「ハーネスエンジニアリング」：AIを使いこなすための武器&lt;/h3&gt;
+&lt;p&gt;&lt;img alt=&#34;Simple cartoon illustration: An AI gear mechanism connected to three levers labeled &amp;ldquo;Context Control,&amp;rdquo; &amp;ldquo;Guardrails,&amp;rdquo; and &amp;ldquo;Feedback Loop.&amp;rdquo;&#34; loading=&#34;lazy&#34; src=&#34;https://minweb.shop/images/ai-ntt-_2.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>1.58ビットでAIが激変！8GBメモリで動く「Bonsai」を検証</title>
       <link>https://minweb.shop/jp/posts/tech/1-58-ai-8gb-bonsai/</link>
