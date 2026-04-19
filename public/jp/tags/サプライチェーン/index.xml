@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>サプライチェーン on MinWeb</title>
+    <link>https://minweb.shop/jp/tags/%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3/</link>
+    <description>Recent content in サプライチェーン on MinWeb</description>
+    <generator>Hugo -- 0.147.0</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Sun, 19 Apr 2026 07:56:30 +0900</lastBuildDate>
+    <atom:link href="https://minweb.shop/jp/tags/%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ナフサショック：住宅設備や食品が消える理由と今後の展望</title>
+      <link>https://minweb.shop/jp/posts/finance/-/</link>
+      <pubDate>Sun, 19 Apr 2026 07:56:30 +0900</pubDate>
+      <guid>https://minweb.shop/jp/posts/finance/-/</guid>
+      <description>&lt;p&gt;「スーパーの納豆が最近少ない気がする」「リフォームしようとしたら、トイレの納期が未定だって言われた」。最近、日常生活のあちこちでこんな「異変」を感じませんか？&lt;/p&gt;
+&lt;p&gt;単なる一時的な在庫不足だと思ったら大間違いです。今、日本の産業を支える「ナフサ（粗製ガソリン）」がかつてない危機に瀕しています。中東情勢の悪化が引き金となり、住宅設備や塗料、さらには食卓の食品トレーにまで影響が広がっているんです。これ、正直かなりマズい状況ですよ。&lt;/p&gt;
+&lt;p&gt;一体なぜこんな事態になったのか。次に何が起きるのか。複雑に絡み合った「ナフサ・ショック」の全貌を、最新データから紐解きます。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;全ての始まり：ホルムズ海峡の封鎖と「薄すぎる」在庫&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;2026年2月28日、中東情勢の急激な悪化でホルムズ海峡が封鎖されました。これが日本にとって致命的なのは、ナフサ輸入の約74%をこの海峡に頼っているからです。命綱を断たれたも同然です。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Simple cartoon illustration: A narrow sea strait blocked by large ships, with a map showing &amp;ldquo;74%&amp;rdquo; and a small sand timer labeled &amp;ldquo;14 days.&amp;rdquo;&#34; loading=&#34;lazy&#34; src=&#34;https://minweb.shop/images/-_0.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;ナフサは「石油化学の米」と呼ばれます。プラスチックから合成ゴム、洗剤に至るまで、私たちの身の回りのほとんどの製品は、これがないと作れません。そんな現代生活の根幹をなす物質の輸入ルートが、突然途絶えました。&lt;/p&gt;
+&lt;p&gt;ここで露呈した最大の弱点が、国内の「在庫の薄さ」です。&lt;/p&gt;
+&lt;p&gt;国内のナフサ商業在庫は、通常たったの「約2週間分」。&lt;/p&gt;
+&lt;p&gt;このあまりに心もとない在庫管理が、サプライチェーンに直撃しました。政府は3月中旬から下旬にかけて、民間備蓄と国家備蓄の放出に踏み切りました。しかし、北米やアフリカから喜望峰を経由して代替品を調達するには、45日以上かかります。どう考えても日数が足りませんよね。この「空白の1ヶ月」が、日本の製造現場を容赦なく締め上げました。&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;ドミノ倒しのように広がる供給制限の波及&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img alt=&#34;Simple cartoon illustration: Giant falling dominoes labeled &amp;ldquo;Raw Materials,&amp;rdquo; &amp;ldquo;Plastics,&amp;rdquo; and &amp;ldquo;Housing/Food,&amp;rdquo; with a price tag showing &amp;ldquo;+90 yen/kg.&amp;rdquo;&#34; loading=&#34;lazy&#34; src=&#34;https://minweb.shop/images/-_1.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;ナフサの供給が止まると、製品は「上流」から「下流」へドミノ倒しのように生産が止まっていきます。今回の混乱がどう広がったのか、時系列で整理しました。&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;時期&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;影響を受ける段階&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;具体的な動き&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;3月前半&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;上流（原料）&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;国内エチレンプラント12基のうち、半数の6基が減産。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;3月後半&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;中流（素材）&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;塩化ビニルやポリエチレン樹脂が値上げ・出荷制限へ。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;4月中旬〜&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;下流（最終製品）&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;住宅設備、塗料、食品包装まで影響が拡大。&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;4月に入り、原料価格は一気に跳ね上がりました。ポリスチレンやポリエチレンといった主要な樹脂原料は、4月出荷分から1kgあたり90円以上、つまり約4割もの値上げです。正直、ここまで急激だとメーカー側の現場は対応しきれないでしょうね。これだけのコスト増が最終製品の価格にどう転嫁されていくのか、今後の動向から目が離せません。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Simple cartoon illustration: A cartoon worker looking at an empty bathtub and toilet with a large sign saying &amp;ldquo;Delivery Date: Unknown&amp;rdquo; in bold red.&#34; loading=&#34;lazy&#34; src=&#34;https://minweb.shop/images/-_2.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
