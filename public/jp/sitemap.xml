@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://minweb.shop/jp/</loc>
-    <lastmod>2026-04-20T07:42:16+09:00</lastmod>
+    <lastmod>2026-04-20T07:55:17+09:00</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -18,12 +18,12 @@
       href="https://minweb.shop/jp/" />
   </url>
   <url>
-    <loc>https://minweb.shop/jp/posts/finance/-/</loc>
-    <lastmod>2026-04-20T07:42:16+09:00</lastmod>
+    <loc>https://minweb.shop/jp/posts/lifestyle/-/</loc>
+    <lastmod>2026-04-20T07:55:17+09:00</lastmod>
   </url>
   <url>
     <loc>https://minweb.shop/jp/posts/</loc>
-    <lastmod>2026-04-20T07:42:16+09:00</lastmod>
+    <lastmod>2026-04-20T07:55:17+09:00</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -36,6 +36,10 @@
       rel="alternate"
       hreflang="jp"
       href="https://minweb.shop/jp/posts/" />
+  </url>
+  <url>
+    <loc>https://minweb.shop/jp/posts/finance/-/</loc>
+    <lastmod>2026-04-20T07:42:16+09:00</lastmod>
   </url>
   <url>
     <loc>https://minweb.shop/jp/posts/tech/claude-code-45/</loc>
@@ -52,10 +56,6 @@
   <url>
     <loc>https://minweb.shop/jp/posts/health/1/</loc>
     <lastmod>2026-04-18T08:35:29+09:00</lastmod>
-  </url>
-  <url>
-    <loc>https://minweb.shop/jp/posts/lifestyle/-/</loc>
-    <lastmod>2026-04-18T08:27:22+09:00</lastmod>
   </url>
   <url>
     <loc>https://minweb.shop/jp/posts/tech/ai-ntt/</loc>
