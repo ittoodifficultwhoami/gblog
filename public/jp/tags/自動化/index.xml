@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>自動化 on MinWeb</title>
+    <link>https://minweb.shop/jp/tags/%E8%87%AA%E5%8B%95%E5%8C%96/</link>
+    <description>Recent content in 自動化 on MinWeb</description>
+    <generator>Hugo -- 0.147.0</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Mon, 20 Apr 2026 07:34:32 +0900</lastBuildDate>
+    <atom:link href="https://minweb.shop/jp/tags/%E8%87%AA%E5%8B%95%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Claude Codeで雑務を45個自動化！東大院生の全記録</title>
+      <link>https://minweb.shop/jp/posts/tech/claude-code-45/</link>
+      <pubDate>Mon, 20 Apr 2026 07:34:32 +0900</pubDate>
+      <guid>https://minweb.shop/jp/posts/tech/claude-code-45/</guid>
+      <description>&lt;p&gt;「またこのメールの返信か…」「似たような事務作業で一日が終わる…」&lt;/p&gt;
+&lt;p&gt;パソコンの前に座っているのに、気づけば「作業」に追われ、肝心の研究や創作に手がつけられない。そんなフラストレーションを感じたことはありませんか？&lt;/p&gt;
+&lt;p&gt;いまIT界隈で、東大大学院生のshunyaさん（@shunya_sudo）がZennで公開した**「Claude Codeで日常のタスクを45個自動化した東大院生の全記録」&lt;strong&gt;という記事が話題です。彼は半年かけて、なんと&lt;/strong&gt;45個もの「面倒な雑務」を自動化**してしまいました。正直、ここまでやりきると一種の清々しさすらありますよね。&lt;/p&gt;
+&lt;p&gt;「なぜわざわざそこまで？」と思うかもしれません。メールの仕分けならツールでも十分ですから。ただ、彼の実践には私たちが明日から真似できる「自動化の極意」が詰まっています。&lt;/p&gt;
+&lt;h2 id=&#34;東大院生の執念半年間の全記録&#34;&gt;東大院生の執念：半年間の全記録&lt;/h2&gt;
+&lt;p&gt;&lt;img alt=&#34;Simple cartoon illustration: A clean infographic showing a bar chart with 45 bars, a clock showing &amp;ldquo;1 hour saved&amp;rdquo;, and a glowing icon representing a personal backend server.&#34; loading=&#34;lazy&#34; src=&#34;https://minweb.shop/images/claude-code-45-_0.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;まずは、このプロジェクトがどれほど本格的なものか、数字で見てみましょう。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;自動化したタスク：&lt;/strong&gt; 45個&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;開発期間：&lt;/strong&gt; 6ヶ月&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;スクリプト数：&lt;/strong&gt; 132本&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AIエージェント数：&lt;/strong&gt; 36個&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;運用コスト：&lt;/strong&gt; 月額100ドル（Claude Code Max料金）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;浮いた時間：&lt;/strong&gt; 1日あたり30分〜60分&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;彼が作ったのは、単なる「ショートカット」ではありません。Gmailの監視、arXivの論文通知、Discordの履歴からToDoを抽出する仕組み、さらには日程調整の返信ドラフト作成まで。これらをmacOSのcronで自動的に回す、本格的な「個人用バックエンド」です。ここまで来ると、もはや執念ですね。&lt;/p&gt;
+&lt;h2 id=&#34;なぜaiを使う必要があるのか&#34;&gt;なぜ「AI」を使う必要があるのか？&lt;/h2&gt;
+&lt;p&gt;&lt;img alt=&#34;Simple cartoon illustration: A split screen. Left side: A simple arrow sorting paper into folders. Right side: A friendly robot character analyzing a document with a magnifying glass and a lightbulb icon.&#34; loading=&#34;lazy&#34; src=&#34;https://minweb.shop/images/claude-code-45-_1.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
