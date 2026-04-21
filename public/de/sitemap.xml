@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://minweb.shop/de/</loc>
-    <lastmod>2026-04-19T10:03:05+09:00</lastmod>
+    <lastmod>2026-04-21T09:39:00+09:00</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -19,7 +19,7 @@
   </url>
   <url>
     <loc>https://minweb.shop/de/posts/</loc>
-    <lastmod>2026-04-19T10:03:05+09:00</lastmod>
+    <lastmod>2026-04-21T09:39:00+09:00</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -32,6 +32,10 @@
       rel="alternate"
       hreflang="de"
       href="https://minweb.shop/de/posts/" />
+  </url>
+  <url>
+    <loc>https://minweb.shop/de/posts/finance/soziale-ungleichheit-ist-unser-zinssystem-wirklich-schuld/</loc>
+    <lastmod>2026-04-21T09:39:00+09:00</lastmod>
   </url>
   <url>
     <loc>https://minweb.shop/de/posts/politics/spritsteuer-f-r-den-iran-wiederaufbau-eine-kritische-analyse/</loc>
