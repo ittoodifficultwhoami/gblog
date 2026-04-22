@@ -5,6 +5,7 @@ draft: false
 categories: ["finance"]
 tags: ["vereinbarkeit", "kind und karriere", "gender care gap", "elternschaft", "karriereplanung", "deutschland", "work-life-balance", "familienpolitik"]
 slug: "kind-und-karriere-was-sich-in-deutschland-ndern-muss"
+description: "Kind und Karriere in Deutschland: Erfahren Sie, warum strukturelle Defizite und der Betreuungsnotstand echte Hürden sind und was sich endlich ändern muss."
 ---
 
 „Das bisschen Haushalt macht sich von allein“, singt der Schlagerklassiker. Wer heute eine Familie gründet und gleichzeitig Karriere machen will, weiß längst: Dieser Satz ist nicht nur veraltet, er ist ein echter Karrierekiller. Wenn Sie das Gefühl haben, dass das „Modell Familie“ in Deutschland gerade gegen eine unsichtbare Wand läuft, liegen Sie richtig. Wir stecken in einem strukturellen Dilemma fest – und das geht weit über Ihr persönliches Zeitmanagement hinaus.

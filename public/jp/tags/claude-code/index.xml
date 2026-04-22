@@ -13,177 +13,42 @@
       <link>https://minweb.shop/jp/posts/tech/claude-code-45/</link>
       <pubDate>Mon, 20 Apr 2026 07:34:32 +0900</pubDate>
       <guid>https://minweb.shop/jp/posts/tech/claude-code-45/</guid>
-      <description>&lt;p&gt;「またこのメールの返信か…」「似たような事務作業で一日が終わる…」&lt;/p&gt;
-&lt;p&gt;パソコンの前に座っているのに、気づけば「作業」に追われ、肝心の研究や創作に手がつけられない。そんなフラストレーションを感じたことはありませんか？&lt;/p&gt;
-&lt;p&gt;いまIT界隈で、東大大学院生のshunyaさん（@shunya_sudo）がZennで公開した**「Claude Codeで日常のタスクを45個自動化した東大院生の全記録」&lt;strong&gt;という記事が話題です。彼は半年かけて、なんと&lt;/strong&gt;45個もの「面倒な雑務」を自動化**してしまいました。正直、ここまでやりきると一種の清々しさすらありますよね。&lt;/p&gt;
-&lt;p&gt;「なぜわざわざそこまで？」と思うかもしれません。メールの仕分けならツールでも十分ですから。ただ、彼の実践には私たちが明日から真似できる「自動化の極意」が詰まっています。&lt;/p&gt;
-&lt;h2 id=&#34;東大院生の執念半年間の全記録&#34;&gt;東大院生の執念：半年間の全記録&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&#34;Simple cartoon illustration: A clean infographic showing a bar chart with 45 bars, a clock showing &amp;ldquo;1 hour saved&amp;rdquo;, and a glowing icon representing a personal backend server.&#34; loading=&#34;lazy&#34; src=&#34;https://minweb.shop/images/claude-code-45-_0.png&#34;&gt;&lt;/p&gt;
-&lt;p&gt;まずは、このプロジェクトがどれほど本格的なものか、数字で見てみましょう。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;自動化したタスク：&lt;/strong&gt; 45個&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;開発期間：&lt;/strong&gt; 6ヶ月&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;スクリプト数：&lt;/strong&gt; 132本&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;AIエージェント数：&lt;/strong&gt; 36個&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;運用コスト：&lt;/strong&gt; 月額100ドル（Claude Code Max料金）&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;浮いた時間：&lt;/strong&gt; 1日あたり30分〜60分&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;彼が作ったのは、単なる「ショートカット」ではありません。Gmailの監視、arXivの論文通知、Discordの履歴からToDoを抽出する仕組み、さらには日程調整の返信ドラフト作成まで。これらをmacOSのcronで自動的に回す、本格的な「個人用バックエンド」です。ここまで来ると、もはや執念ですね。&lt;/p&gt;
-&lt;h2 id=&#34;なぜaiを使う必要があるのか&#34;&gt;なぜ「AI」を使う必要があるのか？&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&#34;Simple cartoon illustration: A split screen. Left side: A simple arrow sorting paper into folders. Right side: A friendly robot character analyzing a document with a magnifying glass and a lightbulb icon.&#34; loading=&#34;lazy&#34; src=&#34;https://minweb.shop/images/claude-code-45-_1.png&#34;&gt;&lt;/p&gt;</description>
+      <description>Claude Codeを活用して日常の雑務45個を自動化した東大院生の全記録。AIによる「思考」を伴う自動化で、日々の面倒な作業を効率化する極意を解説します。</description>
     </item>
     <item>
       <title>Claude Codeで1人マーケ部：炎上の真相とAI活用の現実</title>
       <link>https://minweb.shop/jp/posts/health/claude-code-1-ai/</link>
       <pubDate>Fri, 17 Apr 2026 08:28:48 +0900</pubDate>
       <guid>https://minweb.shop/jp/posts/health/claude-code-1-ai/</guid>
-      <description>&lt;p&gt;「AIを使えば、たった一人でマーケティング部門の仕事を完結できる」。そんな夢のような見出しを目にしたら、あなたはどう思いますか？&lt;/p&gt;
-&lt;p&gt;2026年4月、SNSで一つの記事が大きな話題になりました。SHIFT AIの川合卓也氏が公開した「Claude Codeで1人マーケ部門を作った全記録」です。この記事はあっという間に拡散されましたが、同時に激しい「プチ炎上」も引き起こしました。&lt;/p&gt;
-&lt;p&gt;なぜこれほど議論が白熱したのか。そして、この事例から私たちが本当に学ぶべき「AI活用の現実」とは何か。騒動の裏側にある技術的な真相と、現代のビジネスパーソンが直視すべきAIの限界について解説します。（正直、みんな魔法を期待しすぎなんですよね）&lt;/p&gt;
-&lt;h2 id=&#34;有料級の看板が招いた波紋&#34;&gt;「有料級」の看板が招いた波紋&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&#34;Simple cartoon illustration: A puzzled person looking at a giant megaphone labeled &amp;ldquo;FREE VALUABLE INFO&amp;rdquo; while skeptical crowd members point at a pile of generic, repetitive-looking digital document icons.&#34; loading=&#34;lazy&#34; src=&#34;https://minweb.shop/images/claude-code-1-ai-_0.png&#34;&gt;&lt;/p&gt;
-&lt;p&gt;この記事の主張はシンプルです。「Claude Code」というAIツールを使ってリサーチや記事執筆、デザインなどの21業務を自動化し、毎日の作業を60分まで削ったというもの。これだけ聞くと夢のような話ですが、SNSでは猛反発を食らっていました。&lt;/p&gt;
-&lt;p&gt;なぜここまで批判されたのか。原因は「有料級」という言葉のチョイスと、手法の目新しさにありました。&lt;/p&gt;
-&lt;p&gt;批判の主なポイントは以下の3点です。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;「有料級」のハードルが高すぎた&lt;/strong&gt;：業務を分解して&lt;code&gt;CLAUDE.md&lt;/code&gt;にまとめるのは、AI活用の基本中の基本です。正直、これを「有料級」と呼ぶのは少し無理があるかもしれません。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;「AI Slop」への懸念&lt;/strong&gt;：AIで質の低いコンテンツを大量生産するだけでは、世の中をゴミで溢れさせるのと同じです。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;ビジネスとしての本質&lt;/strong&gt;：表面的な効率化で満足して、肝心の売上や、クライアントとの丁寧なコミュニケーションが疎かになっては本末転倒ですよね。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;効率化の裏には、こうした「甘い罠」が潜んでいます。2026年の今、技術をどう使いこなすかが問われています。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Simple cartoon illustration: A graph showing a tall bar for &amp;ldquo;Single Task Efficiency&amp;rdquo; (20x) next to a very short bar for &amp;ldquo;End-to-End Workflow&amp;rdquo; (1x) due to a large block labeled &amp;ldquo;Human Review Cost.&amp;rdquo;&#34; loading=&#34;lazy&#34; src=&#34;https://minweb.shop/images/claude-code-1-ai-_1.png&#34;&gt;&lt;/p&gt;</description>
+      <description>Claude Codeで一人マーケティングを実現した話題の事例を徹底検証。炎上の真相からMITの研究が示すAI活用の限界と、私たちが直視すべき現実を解説します。</description>
     </item>
     <item>
       <title>Claudeのトークンを80%削減！「原始人プロンプト」活用術</title>
       <link>https://minweb.shop/jp/posts/tech/claude-80/</link>
       <pubDate>Sun, 12 Apr 2026 07:45:56 +0900</pubDate>
       <guid>https://minweb.shop/jp/posts/tech/claude-80/</guid>
-      <description>&lt;p&gt;「Claudeとの会話、長すぎて疲れる」「返信が丁寧すぎて、かえって本質が見えにくい」。そんなふうに感じたことはありませんか？&lt;/p&gt;
-&lt;p&gt;特にClaude Codeでバリバリ開発している人や、APIを触るエンジニアにとって、AIの「礼儀正しさ」は単なるノイズです。今、海外で**「原始人プロンプト（Caveman Prompt）」**という手法が密かにブームになっています。&lt;/p&gt;
-&lt;p&gt;これを使うだけで、&lt;strong&gt;出力トークンを最大80%も削減できる&lt;/strong&gt;んです。なぜ「原始人」になることが最強の効率化なのか。その正体を解説します。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;そもそも原始人プロンプトとは&#34;&gt;そもそも「原始人プロンプト」とは？&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&#34;Simple cartoon illustration: A split screen comparing a robot in a tuxedo (labeled &amp;ldquo;Normal AI&amp;rdquo;) and a simple robot with a club (labeled &amp;ldquo;Caveman AI&amp;rdquo;).&#34; loading=&#34;lazy&#34; src=&#34;https://minweb.shop/images/claude-80-_0.png&#34;&gt;&lt;/p&gt;
-&lt;p&gt;「原始人プロンプト（Caveman Prompt）」は、Claude CodeのコミュニティでJulius Brussee氏が考案したテクニックです。&lt;/p&gt;
-&lt;p&gt;やり方は拍子抜けするほど簡単。システム設定か&lt;code&gt;CLAUDE.md&lt;/code&gt;に、たった一行の英語を書き込むだけ。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;&amp;ldquo;Respond terse like smart caveman. All technical substance stay. Only fluff die. No greetings, no preamble.&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;日本語に訳すとこんな感じ。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;「原始人のように喋れ。中身は全部残せ。無駄だけ消せ。敬語、挨拶、前置き、丁寧な助詞、すべて不要。技術的な核心のみを最短で伝えろ。」&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;誤解しないでほしいのは、これは「オレサマ、オマエ、マルカジリ」みたいなロールプレイング遊びじゃないってこと。目的は、人間らしい丁寧なコミュニケーションという「無駄」を削ぎ落として、情報の密度を限界まで高めることにあります。AIの饒舌さに疲れた時、これが意外と効くんですよ。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;なぜトークンが5分の1になるのか&#34;&gt;なぜトークンが「5分の1」になるのか&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&#34;Simple cartoon illustration: A bar chart showing a long, heavy stack of &amp;ldquo;Fluff&amp;rdquo; blocks next to a tiny, dense stack of &amp;ldquo;Core Data&amp;rdquo; blocks.&#34; loading=&#34;lazy&#34; src=&#34;https://minweb.shop/images/claude-80-_1.png&#34;&gt;&lt;/p&gt;</description>
+      <description>Claudeの応答から無駄を削ぎ落とし、トークン消費量を最大80%削減する「原始人プロンプト」の活用術を解説。AIの饒舌さに疲れたエンジニア必見の、コストを抑えて情報の密度を極限まで高めるための技術的アプローチです。</description>
     </item>
     <item>
       <title>Claude Code Mastery: Full Guide &amp; Top 10 Hidden Features</title>
       <link>https://minweb.shop/jp/posts/tech/claude-code-mastery-full-guide-top-10-hidden-features/</link>
       <pubDate>Fri, 03 Apr 2026 08:26:50 +0900</pubDate>
       <guid>https://minweb.shop/jp/posts/tech/claude-code-mastery-full-guide-top-10-hidden-features/</guid>
-      <description>&lt;p&gt;Does your browser’s &amp;ldquo;Bookmarked&amp;rdquo; folder look like a graveyard of &amp;ldquo;Ultimate Guides to Claude Code&amp;rdquo;? You aren’t alone. We’ve all been there: clicking &amp;ldquo;save&amp;rdquo; on a new tutorial, fully intending to read it, and then never touching it again. By the time you actually get around to that three-month-old article, the tool has already moved on without you. It’s annoying, but that’s the pace of things right now.&lt;/p&gt;
-&lt;p&gt;If you’re tired of &amp;ldquo;Beginner’s Guides&amp;rdquo; that do nothing but show you how to install the CLI, you’re in the right place. As of April 2026, Claude Code isn’t just a chatbot that spits out snippets—it’s an industrial-grade developer agent. Whether you’ve been &amp;ldquo;meaning to try it&amp;rdquo; or you’re a power user who didn&amp;rsquo;t realize it could handle complex, multi-step projects on its own, here is the reality of the ecosystem today.&lt;/p&gt;</description>
+      <description>Master Claude Code with this deep dive into 10 advanced features, moving beyond the basics to help you build complex, multi-step projects like a power user.</description>
     </item>
     <item>
       <title>Claude Codeで開発を加速する！最強のベストプラクティス</title>
       <link>https://minweb.shop/jp/posts/tech/claude-code/</link>
       <pubDate>Mon, 30 Mar 2026 07:40:30 +0900</pubDate>
       <guid>https://minweb.shop/jp/posts/tech/claude-code/</guid>
-      <description>&lt;p&gt;「AIが全部やってくれるはずじゃなかったの？」&lt;/p&gt;
-&lt;p&gt;エンジニアなら一度はそう思ったはずです。現実はといえば、プロンプトをこねくり回し、期待外れのコードを直して、結局自分で書く羽目になる。AI時代と騒がれながら、手作業の山に埋もれて疲弊しているのが現実ですよね。正直、あの虚しさは筆舌に尽くしがたい。&lt;/p&gt;
-&lt;p&gt;しかし、2026年3月の今、Claude Codeはそんな甘い期待を置き去りにし、冷徹かつ強力な「職人芸」の領域へ突入しています。GitHubの全コミットの4%を担い、開発速度を2〜3倍に引き上げ、手戻りを30%削減する。断言しますが、これは魔法ではありません。使いこなすための「作法」が必要な、極めて優秀な新しい道具です。&lt;/p&gt;
-&lt;p&gt;半年後には業界標準になるであろう、Claude Codeを最強の相棒にするための「作法」を解き明かします。&lt;/p&gt;
-&lt;h2 id=&#34;なぜ今claude-codeなのか2026年の勢力図&#34;&gt;なぜ今、Claude Codeなのか：2026年の勢力図&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&#34;Simple cartoon illustration: A bar chart showing &amp;ldquo;Claude Code&amp;rdquo; rising above &amp;ldquo;Others&amp;rdquo;. A stylized robot character standing at the top of the bar, labeled &amp;ldquo;80.9% Score&amp;rdquo;.&#34; loading=&#34;lazy&#34; src=&#34;https://minweb.shop/images/claude-code-_0.png&#34;&gt;&lt;/p&gt;
-&lt;p&gt;まずは現状を直視しましょう。2025年2月にターミナルツールとして登場したClaude Codeは、わずか1年で開発現場のインフラに成り上がりました。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;市場シェア:&lt;/strong&gt; GitHub CopilotやCursorを抜き、いま最も使われるAIコーディングツールです。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;実力:&lt;/strong&gt; 最新の「Opus 4.6」はSWE-bench Verifiedで80.9%を記録。GPT-5.4（80.0%）を退け、課題解決能力では名実ともに首位です。正直、ここまで速く進化するとは思いませんでした。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;企業導入:&lt;/strong&gt; すでに30万社以上が導入済み。DeloitteやCognizantといった大手コンサルも、業務の基幹に組み込んでいます。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;もはや「AIを使うかどうか」なんて議論は無意味です。勝負は「どう使いこなして圧倒的な差をつけるか」のフェーズに入りました。&lt;/p&gt;
-&lt;h2 id=&#34;成功するチームがやっている4つの作法&#34;&gt;成功するチームがやっている「4つの作法」&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&#34;Simple cartoon illustration: A clipboard with a checklist of 4 items titled &amp;ldquo;Pro Workflow&amp;rdquo;. A smiling character holding a checklist, pointing to a gear icon.&#34; loading=&#34;lazy&#34; src=&#34;https://minweb.shop/images/claude-code-_1.png&#34;&gt;&lt;/p&gt;</description>
+      <description>Claude Codeを活用して開発速度を最大化するベストプラクティスを解説。CLAUDE.mdの最適化など、現場で圧倒的な成果を出すための運用術を紹介します。</description>
     </item>
     <item>
       <title>Claude Codeでグロース業務を一人で回す！AIチーム活用術</title>
       <link>https://minweb.shop/jp/posts/lifestyle/claude-code-ai/</link>
       <pubDate>Fri, 27 Mar 2026 22:40:45 +0900</pubDate>
       <guid>https://minweb.shop/jp/posts/lifestyle/claude-code-ai/</guid>
-      <description>&lt;p&gt;「チームの人数は増やせない、でも仕事は山積み……」&lt;/p&gt;
-&lt;p&gt;そんな悩みを抱えるプロダクトオーナー（PO）やマーケティング担当者は多いはずです。日々のデータ分析、戦略の立案、施策の配信設定、そして効果検証。これらを一人で回すのは、もう限界ですよね。&lt;/p&gt;
-&lt;p&gt;ところが、その「一人多役」の壁を突き破った事例があります。dely株式会社の小川大介氏は、最新のAIツール「Claude Code」を使いこなし、&lt;strong&gt;たった一人でグロース業務を完遂する体制&lt;/strong&gt;を構築しました。&lt;/p&gt;
-&lt;p&gt;彼がいかにしてAIを「最強のチームメイト」に変え、業務フローを劇的に進化させたのか。その全貌を解き明かします。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;1-なぜ一人で回せるのかaiエージェントの仕組み&#34;&gt;1. なぜ「一人で」回せるのか？：AIエージェントの仕組み&lt;/h2&gt;
-&lt;p&gt;小川氏の取り組みは、単なるツールの導入ではありません。「AIに丸投げする」のではなく、**「人間が指揮官となり、AIが実行部隊として動く」**という役割分担を徹底しています。&lt;/p&gt;
-&lt;h3 id=&#34;aiの組織構成エージェントとスキルの分離&#34;&gt;AIの組織構成：エージェントとスキルの分離&lt;/h3&gt;
-&lt;p&gt;小川氏のシステムでは、AIの役割を2つに分けています。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Agent（役割）&lt;/strong&gt;: 全体を見渡す司令塔。分析担当（Analyzer）や、論理の穴を突く批判者（Critic）などがこれにあたります。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Skill（特定のタスク）&lt;/strong&gt;: 戦略立案や効果検証といった専門作業を担うユニット。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;これを支えているのが、2026年3月に実装された「Agent Teams」という機能です。&lt;code&gt;CLAUDE_CODE_EXPERIMENTAL_AGENT_TEAMS=1&lt;/code&gt; をオンにすれば、&lt;strong&gt;2〜16人のAIエージェントが連携し、複雑な業務を分担する&lt;/strong&gt;ことが可能になります。&lt;/p&gt;
-&lt;p&gt;人間が細かい作業手順を指示する必要はありません。「売上のボトルネックを見つけて解決策を提案して」と投げるだけで、AIチームが勝手に協力して作業を完了させてくれるのです。正直、ここまでスムーズに動くのかと驚かされます。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;2-実績が証明するai-firstの威力&#34;&gt;2. 実績が証明する「AI First」の威力&lt;/h2&gt;
-&lt;p&gt;この手法で、どれほどの効率化が実現したのでしょうか。2026年3月時点で明かされた成果の一部を紹介します。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;驚異の処理スピード&lt;/strong&gt;: PO一人が、一日数十件のプルリクエスト（PR）を処理するスループットを実現。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;精緻なデータ分析&lt;/strong&gt;: 過去のデータから「1回購入したユーザーのリピート率が3分の1に低下している」という事実をAIが自動検知。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;戦略の最適化&lt;/strong&gt;: AIが分析した結果、「特定のA商品は、他の商品に比べて初回から2回目の購入率が3倍高い」という事実を突き止め、即座に施策へ反映。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;特に注目すべきは、dely社が2025年7月から導入している「AI First」制度です。会社が社員一人当たり月額最大10万円のAIエージェント利用料を補助しており、こうした環境が個人の限界突破を後押ししています。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;3-属人化の恐怖をどう克服するか&#34;&gt;3. 「属人化」の恐怖をどう克服するか？&lt;/h2&gt;
-&lt;p&gt;「AIに頼り切ると、自分しかやり方がわからなくなり、退職した瞬間に破綻するのでは？」という不安はもっともです。しかし小川氏は、**「AIによる標準化で、属人化のリスクはむしろ減る」**と断言します。&lt;/p&gt;
-&lt;h3 id=&#34;秘伝のタレをmdファイルへ&#34;&gt;「秘伝のタレ」をMDファイルへ&lt;/h3&gt;
-&lt;p&gt;小川氏は以下のファイルを活用し、暗黙知を形式知化しています。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;code&gt;CLAUDE.md&lt;/code&gt; / &lt;code&gt;GEMINI.md&lt;/code&gt;&lt;/strong&gt;: 業務のルール、推奨される思考プロセス、制約事項を記述。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;code&gt;MEMORY.md&lt;/code&gt;&lt;/strong&gt;: 過去の施策の成功と失敗という経験則を記録。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;人間が手順書を書くのではなく、&lt;strong&gt;AIがこれらのルールを読んで実行するため、誰が引き継いでも同じクオリティで業務が再現できる&lt;/strong&gt;のです。AIがナレッジベースを参照しながら動くため、個人の頭の中にある経験則をAIが代行してくれる仕組みと言えます。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;4-押さえておきたい最新トレンド指標2026年3月時点&#34;&gt;4. 押さえておきたい最新トレンド・指標（2026年3月時点）&lt;/h2&gt;
-&lt;p&gt;現在、AIエージェントの世界は急速に進化しています。以下の数値を参考にしてみてください。&lt;/p&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;項目&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;内容&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Claude Codeの精度&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;SWE-benchスコア 80.9%（AIコーディングエージェントとして世界1位）&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;処理能力&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;コンテキストウィンドウ 100万トークン（Claude 4.6 Opus）&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;連携ツール&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;code&gt;tmux&lt;/code&gt; を使用してターミナルを分割し、複数のエージェントを同時監視&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;最新の操作性&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;DiscordやTelegramを通じた「Claude Code Channels」での遠隔操作が可能&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;5-私たちが今日からできること&#34;&gt;5. 私たちが今日からできること&lt;/h2&gt;
-&lt;p&gt;この事例から学ぶべきは、「いきなりすべてを自動化しない」という姿勢です。小川氏も言及していますが、**「ポケモンのパーティ構築は、最初の一匹を抜くところから始まる」**のです。&lt;/p&gt;
-&lt;p&gt;まずは今の業務の中から「ここならAIに任せられるかも？」という小さなタスクを見つけ、そこから最適化を始めましょう。&lt;/p&gt;
-&lt;h3 id=&#34;今すぐ取り組むべきステップ&#34;&gt;今すぐ取り組むべきステップ&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;知識の形式知化&lt;/strong&gt;: 普段の手順をMarkdownに書き出すことから始めます。これがAIへの指示書のベースになります。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;AIエージェントとの対話&lt;/strong&gt;: 自分が何に悩んでいるのかAIに相談し、批判者（Critic）としてフィードバックをもらう環境を作ってください。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;リスク管理&lt;/strong&gt;: AIに任せすぎてスキルが空洞化しないよう、AIが出した結果の「ロジック」を理解する習慣を維持しましょう。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;小川氏の事例は、決して「AIに仕事を奪われる」という話ではありません。&lt;strong&gt;「AIという強力なチームメイトを率いて、これまでの一人分以上の成果を出す」という新しい働き方の提示&lt;/strong&gt;です。&lt;/p&gt;</description>
+      <description>dely社の小川大介氏がClaude Codeを駆使し、AIエージェントチームを編成してグロース業務を一人で完遂する画期的な手法と活用術を解説します。</description>
     </item>
   </channel>
 </rss>

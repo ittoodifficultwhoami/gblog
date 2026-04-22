@@ -5,6 +5,7 @@ draft: false
 categories: ["entertainment"]
 tags: ["nostalgie", "serienklassiker", "80er jahre", "90er jahre", "streaming", "retro serien", "tv-geschichte", "unterhaltung"]
 slug: "warum-wir-heute-noch-serien-der-80er-90er-schauen"
+description: "Erfahren Sie, warum Serien der 80er und 90er Jahre heute einen Streaming-Boom erleben und welche psychologische Kraft hinter der Sehnsucht nach Klassikern..."
 ---
 
 Haben Sie sich jemals gefragt, warum wir uns durch die unendlichen Mediatheken von Netflix und Disney+ scrollen, nur um dann doch wieder bei einer Serie aus den 80ern oder 90ern zu landen? Eigentlich wollten wir etwas „Neues“ sehen. Am Ende schauen wir trotzdem wieder Al Bundy beim Sofa-Sitzen zu, verfolgen Mulder und Scully bei der Alien-Jagd oder lassen uns von einem sprechenden Auto aus den 80ern durch die Gegend chauffieren. 

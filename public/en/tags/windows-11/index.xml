@@ -13,16 +13,14 @@
       <link>https://minweb.shop/en/posts/tech/microsoft-pivots-back-to-native-apps-to-fix-windows-bloat/</link>
       <pubDate>Tue, 31 Mar 2026 06:44:00 +0900</pubDate>
       <guid>https://minweb.shop/en/posts/tech/microsoft-pivots-back-to-native-apps-to-fix-windows-bloat/</guid>
-      <description>&lt;p&gt;If your computer feels sluggish lately—even with decent hardware—you aren&amp;rsquo;t imagining things. We’ve all been stuck in a frustrating cycle: Microsoft rolls out a &amp;ldquo;new and improved&amp;rdquo; version of a core app, and it immediately feels heavier, slower, and disconnected from the rest of the OS.&lt;/p&gt;
-&lt;p&gt;For power users, this is a broken record. We watched the transition from native apps like the original Mail and Calendar to the clunky &amp;ldquo;New Outlook.&amp;rdquo; Then came the heavy, web-based components stuffed into the Start Menu and Widgets. The result is a Windows 11 experience where idle memory usage regularly hits 10 GB on a 16 GB system. Your PC is essentially running a dozen miniature web browsers just to show you a weather icon or a calendar notification. It’s overkill, frankly.&lt;/p&gt;</description>
+      <description>Microsoft is shifting back to native Windows applications to replace resource-heavy web wrappers, aiming to reduce system bloat and improve performance.</description>
     </item>
     <item>
       <title>Windows 11 Update: Taskbar Freedom and No Forced Updates</title>
       <link>https://minweb.shop/en/posts/tech/windows-11-update-taskbar-freedom-and-no-forced-updates/</link>
       <pubDate>Sat, 21 Mar 2026 03:43:33 +0900</pubDate>
       <guid>https://minweb.shop/en/posts/tech/windows-11-update-taskbar-freedom-and-no-forced-updates/</guid>
-      <description>&lt;p&gt;If your computer feels more like an adversary than a tool lately, you are not imagining things. Microsoft is finally walking back years of aggressive AI pushes and rigid design choices because enough people told them to stop.&lt;/p&gt;
-&lt;p&gt;The bottom line is that Microsoft is launching a &lt;strong&gt;Quality Roadmap&lt;/strong&gt;. They are officially handing back some control over your desktop and easing up on the mandatory update cycle that has plagued Windows 11 since 2021. Honestly, it is about time.&lt;/p&gt;</description>
+      <description>Microsoft is shifting its Windows 11 strategy with a new Quality Roadmap that prioritizes user control, system performance, and flexible update scheduling.</description>
     </item>
   </channel>
 </rss>

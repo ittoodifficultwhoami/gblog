@@ -5,6 +5,7 @@ draft: false
 categories: ["lifestyle"]
 tags: ["shimbashi", "tokyo dining", "japan lifestyle", "tokyo food guide", "living in tokyo", "japanese urban life", "new shimbashi building"]
 slug: "living-in-shimbashi-a-tokyo-doctor-s-local-dining-guide"
+description: "Discover the unique dining scene of Tokyo's Shimbashi district through the eyes of a local doctor who lives and works entirely within one iconic city building."
 ---
 
 Ever wondered what it’s like to live, work, and eat in the exact same building? Most of us waste hours commuting, battling train delays and dreaming of cutting the distance between our desks and our beds. For one doctor in Tokyo, that’s not a fantasy. It’s reality. He spends over 97% of his life inside a single structure.

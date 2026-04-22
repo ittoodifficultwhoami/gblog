@@ -5,6 +5,7 @@ draft: false
 categories: ["politics"]
 tags: ["donald trump", "us-japan relations", "diplomacy", "international relations", "pearl harbor", "political news", "foreign policy", "political controversy"]
 slug: "trump-s-pearl-harbor-joke-the-diplomatic-cost-of-a-quip"
+description: "President Trump’s recent Pearl Harbor joke during a high-stakes meeting with Japan risks critical diplomatic ties and undermines vital U.S.-Japan cooperation."
 ---
 
 If you have ever had a boss or colleague kill a deal by making an inappropriate joke at the worst possible moment, you understand exactly why the U.S.-Japan relationship is currently hitting a wall. On March 19, 2026, President Donald Trump turned a high-stakes diplomatic meeting into a public embarrassment by joking about Pearl Harbor to the Japanese Prime Minister. 

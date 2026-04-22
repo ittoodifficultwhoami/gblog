@@ -5,6 +5,7 @@ draft: false
 categories: ["politics"]
 tags: ["irankrieg", "geopolitik", "operation epic fury", "rüstungsausgaben", "wirtschaftliche folgen", "energiepreise", "militärpolitik", "nahostkonflikt"]
 slug: "irankrieg-was-der-konflikt-wirklich-kostet"
+description: "Erfahren Sie, welche realen finanziellen Auswirkungen der Iran-Konflikt auf die Weltwirtschaft hat und warum die immensen Rüstungsausgaben jeden treffen."
 ---
 
 Haben Sie sich in den letzten Wochen auch gefragt, warum die Benzinpreise an der Zapfsäule klettern, während in den Nachrichten täglich neue Milliardenbeträge für den Iran-Konflikt genannt werden? Viele von uns beobachten die aktuelle Situation mit einer Mischung aus Sorge, Frustration und schierer Fassungslosigkeit. Man schaut auf die Schlagzeilen über "Operation Epic Fury" und fragt sich: Wo führt das eigentlich alles hin? Ist das noch Politik oder schon ein finanzielles Fass ohne Boden?

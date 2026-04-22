@@ -5,6 +5,7 @@ draft: false
 categories: ["finance"]
 tags: ["staatsschulden", "westeuropa", "haushaltspolitik", "schuldenbremse", "wirtschaftswachstum", "eu-finanzen", "investitionen", "staatsverschuldung"]
 slug: "westeuropas-schulden-sparen-oder-investieren-"
+description: "Westeuropas Staaten stehen vor einem Dilemma: Ist striktes Sparen der richtige Weg oder riskieren wir durch fehlende Investitionen den wirtschaftlichen Verfall?"
 ---
 
 „Wenn wir doch alle privat so wirtschaften würden wie der Staat, säßen wir schon längst auf der Straße.“ Diesen Satz hören wir ständig am Stammtisch oder in Kommentarspalten. Die Frustration ist absolut verständlich. Während Familien ihr Budget diszipliniert planen, stecken viele europäische Staaten in einem endlosen Kreislauf aus Defiziten und steigenden Zinslasten fest. Doch ist die Antwort wirklich so simpel wie „keine neuen Schulden“? Ehrlich gesagt: Ich bezweifle das stark.

@@ -5,6 +5,7 @@ draft: false
 categories: ["sports"]
 tags: ["luka doncic", "nba injury news", "hamstring strain", "sports medicine", "lakers", "nba playoffs", "athlete rehab"]
 slug: "luka-don-i-heads-to-germany-can-he-rush-his-hamstring-rehab-"
+description: "Luka Dončić is traveling to Germany for specialized hamstring treatment, but can medical technology truly accelerate his recovery before the NBA playoffs begin?"
 ---
 
 If you’ve been doom-scrolling NBA Twitter since April 2, you’ve seen the same cycle of panic, conspiracy theories, and desperate prayers. Luka Dončić, the engine of the Lakers and the league’s leading scorer (33.5 PPG), went down in the third quarter against the Oklahoma City Thunder. The diagnosis: a Grade 2 left hamstring strain. 

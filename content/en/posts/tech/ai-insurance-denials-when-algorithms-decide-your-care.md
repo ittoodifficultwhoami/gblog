@@ -5,6 +5,7 @@ draft: false
 categories: ["tech"]
 tags: ["ai in healthcare", "health insurance denials", "medical claims processing", "algorithmic bias", "healthcare technology", "insurance industry", "patient rights"]
 slug: "ai-insurance-denials-when-algorithms-decide-your-care"
+description: "Learn how insurance companies are using AI algorithms to rapidly deny medical claims and what this shift means for your access to necessary healthcare coverage."
 ---
 
 Ever received that gut-wrenching letter in the mail? The one telling you your insurance company decided your doctor’s recommended treatment isn’t "medically necessary"? You’re left wondering how someone who has never met you, never examined you, and never looked at your full history can make a life-altering decision in the blink of an eye. 

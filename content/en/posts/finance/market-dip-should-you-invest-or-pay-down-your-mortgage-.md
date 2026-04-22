@@ -5,6 +5,7 @@ draft: false
 categories: ["finance"]
 tags: ["investing", "personal finance", "market dip", "mortgage payoff", "stock market", "wealth management", "financial planning", "debt vs investing"]
 slug: "market-dip-should-you-invest-or-pay-down-your-mortgage-"
+description: "Deciding between investing during a market dip or paying down your mortgage? Use our data-driven guide to determine which move best secures your financial..."
 ---
 
 It’s a feeling every investor knows: you open your brokerage app, see a sea of red, and feel a pit in your stomach. You look at your bank account and wonder, *“Should I keep throwing good money into these volatile stocks, or just pay down my mortgage and get a guaranteed return?”*

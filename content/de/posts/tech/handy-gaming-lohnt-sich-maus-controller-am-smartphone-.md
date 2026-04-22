@@ -5,6 +5,7 @@ draft: false
 categories: ["tech"]
 tags: ["handygaming", "smartphone gaming", "controller am handy", "gaming maus smartphone", "mobile gaming tipps", "zubehör für smartphones", "gaming peripherie"]
 slug: "handy-gaming-lohnt-sich-maus-controller-am-smartphone-"
+description: "Möchten Sie Maus oder Controller am Smartphone nutzen? Erfahren Sie, ob sich der Aufwand für Handy-Gaming lohnt und wie Sie den Technik-Dschungel meistern."
 ---
 
 Kennen Sie das? Sie sitzen in der Bahn, zocken eine Runde auf dem Handy und die Touch-Steuerung treibt Sie in den Wahnsinn. Ihre Finger verdecken das halbe Display, und im entscheidenden Moment drücken Sie natürlich daneben. Sie denken sich: „Wenn ich jetzt einfach meine Maus oder einen Controller anschließen könnte, wäre das ein Kinderspiel!“

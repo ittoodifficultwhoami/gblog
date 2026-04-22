@@ -5,6 +5,7 @@ draft: false
 categories: ["entertainment"]
 tags: ["pluribus", "vince gilligan", "nuclear bomb", "cliffhanger", "apple tv", "unsolved dilemma"]
 slug: "gilligan-s-pluribus-bomb-dilemma-explained"
+description: "Vince Gilligan opens up about the creative uncertainty behind Pluribus and the struggle to resolve that explosive Season One cliffhanger for Carol Sturka."
 ---
 
 Ever had that frustrating experience of waiting months (or years!) for a TV show to resolve a massive cliffhanger—only to find out even the creator isn't sure what to do about it? Welcome to the club, "Pluribus" fans.

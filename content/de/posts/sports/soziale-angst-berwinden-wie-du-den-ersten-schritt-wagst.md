@@ -5,6 +5,7 @@ draft: false
 categories: ["sports"]
 tags: ["soziale angst", "soziale phobie", "angst überwinden", "mentale gesundheit", "psychologie", "selbsthilfe", "sportpsychologie", "angststörung"]
 slug: "soziale-angst-berwinden-wie-du-den-ersten-schritt-wagst"
+description: "Erfahre, wie du soziale Ängste durch wissenschaftlich fundierte Strategien schrittweise überwindest und den Teufelskreis der Vermeidung endlich durchbrichst."
 ---
 
 „Kann ich mir das zutrauen?“ – Diese Frage hallt oft leise in uns nach, wenn wir vor einer Situation stehen, die uns eigentlich gut tun würde, sich aber wie ein unüberwindbarer Berg anfühlt. Ob es der neue Sportverein, ein Firmen-Event oder der einfache Gang in eine Umkleidekabine ist: Wenn dir bei dem Gedanken daran der Puls rast, bist du damit längst nicht allein.

@@ -5,6 +5,7 @@ draft: false
 categories: ["tech"]
 tags: ["allbirds", "newbird ai", "gpu-as-a-service", "gpuaas", "corporate pivot", "tech industry", "stock market", "artificial intelligence"]
 slug: "allbirds-pivots-to-ai-stock-soars-300-after-gpu-shift"
+description: "Allbirds has stunned the market by ditching sustainable footwear to become a GPU-as-a-Service provider, resulting in a dramatic 300% surge in its stock price."
 ---
 
 If you’ve been feeling lately like you’ve accidentally slipped into a simulation written by a bored screenwriter who has run out of ideas, you aren’t alone. Just when we thought we’d seen the most bizarre corporate pivots in history, Allbirds—the brand famous for making cozy, sustainable wool sneakers—decided to hang up its shoelaces and chase the AI gold rush.

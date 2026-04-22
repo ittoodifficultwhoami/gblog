@@ -5,6 +5,7 @@ draft: false
 categories: ["entertainment"]
 tags: ["tomb raider", "sophie turner", "lara croft", "amazon mgm studios", "entertainment news", "tv production", "celebrity injury"]
 slug: "tomb-raider-production-paused-following-sophie-turner-injury"
+description: "The live-action Tomb Raider series is on hold after Sophie Turner sustained a back injury, raising questions about production timelines and stunt safety."
 ---
 
 If you’ve been eagerly awaiting the new live-action *Tomb Raider* series, you likely felt a collective groan ripple through the internet on March 30, 2026. For months, we’ve been riding high on the excitement of that first-look image of Sophie Turner looking iconic in Lara Croft’s signature tank top. Then, the production hit a brick wall. The shoot is officially on pause.

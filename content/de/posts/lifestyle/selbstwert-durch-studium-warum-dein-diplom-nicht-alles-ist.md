@@ -5,6 +5,7 @@ draft: false
 categories: ["lifestyle"]
 tags: ["selbstwert", "studium", "karriere", "persönlichkeitsentwicklung", "akademischer druck", "mentale gesundheit", "erfolgsdruck", "lebenszufriedenheit"]
 slug: "selbstwert-durch-studium-warum-dein-diplom-nicht-alles-ist"
+description: "Fühlst du dich durch dein Studium unter Druck gesetzt? Erfahre, warum dein Selbstwert nicht von einem Diplom abhängt und wie du dich vom Leistungsdruck löst."
 ---
 
 „Wenn du keinen Abschluss hast, wirst du es im Leben zu nichts bringen.“ Kennst du diesen Satz? Vielleicht hast du ihn so oft gehört, dass er sich regelrecht in dein Gehirn eingebrannt hat. Für viele ist das Diplom nicht nur ein Stück Papier, sondern das einzige Ticket für ein „wertvolles“ Leben. Während du dich gerade durch Prüfungen quälst oder dich fragst, warum du dich trotz Uni-Karriere eigentlich leer fühlst, stellt sich eine Frage: Ist es wirklich normal, den eigenen Selbstwert an einen Abschluss zu hängen?

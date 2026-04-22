@@ -5,6 +5,7 @@ draft: false
 categories: ["finance"]
 tags: ["staatsgründung", "privatrecht", "eigentum", "grundgesetz", "staatsrecht", "souveränität", "rechtliche grundlagen", "deutschland"]
 slug: "eigene-staatsgr-ndung-warum-man-sein-land-nicht-trennen-kann"
+description: "Warum die Gründung eines eigenen Staates auf dem eigenen Grundstück rechtlich unmöglich ist und warum Eigentum nicht mit staatlicher Souveränität gleichsteht."
 ---
 
 Haben Sie sich jemals geärgert, wenn Sie eine Steuererklärung ausfüllen, im Stau stehen oder den Kopf über eine behördliche Entscheidung schütteln? In solchen Momenten keimt bei vielen ein rebellischer Gedanke auf: „Wenn das alles hier nicht funktioniert, dann gründe ich eben meinen eigenen Staat. Mein Grundstück, meine Regeln!“

@@ -5,6 +5,7 @@ draft: false
 categories: ["entertainment"]
 tags: ["super mario galaxy movie", "nintendo cinematic universe", "ncu", "smash initiative", "fox mccloud", "super smash bros", "nintendo movies", "gaming news"]
 slug: "the-super-mario-galaxy-movie-poster-reveals-smash-initiative"
+description: "The new Super Mario Galaxy movie poster confirms the Smash Initiative by introducing Fox McCloud, signaling a massive expansion of the Nintendo Cinematic..."
 ---
 
 If you’ve spent the last few hours scrolling through social media, you’ve likely seen the collective "Wait, what?" moment rippling across the internet. When a new poster for *The Super Mario Galaxy Movie* dropped on March 26, 2026, most fans expected a look at the cosmic scenery or maybe Mario in his Luma-themed gear. Instead, the internet erupted in a mix of shock, delight, and—for some—genuine frustration.

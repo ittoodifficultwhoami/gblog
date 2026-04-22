@@ -5,6 +5,7 @@ draft: false
 categories: ["politics"]
 tags: ["donald trump", "pam bondi", "todd blanche", "attorney general", "department of justice", "politics", "white house shakeup", "us politics"]
 slug: "trump-fires-ag-bondi-todd-blanche-named-new-attorney-general"
+description: "President Trump has fired Attorney General Pam Bondi, appointing Todd Blanche to lead the DOJ amid a broader administration shakeup and internal policy shifts."
 ---
 
 If you feel like you need a spreadsheet just to keep track of who is running the U.S. government lately, you aren’t alone. On April 2, 2026, the political landscape shifted again when President Donald Trump fired Attorney General Pam Bondi after only 14 months in the job. Replacing her is Todd Blanche—a man already deeply embedded in both the President’s legal history and the most controversial chapters of this administration. Honestly, the turnover rate in this White House is enough to give anyone whiplash.

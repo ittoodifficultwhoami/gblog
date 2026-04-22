@@ -5,6 +5,7 @@ draft: false
 categories: ["entertainment"]
 tags: ["astrologie", "horoskop", "sternzeichen", "radix", "geburtshoroskop", "esoterik", "psychologie", "sternendeutung"]
 slug: "astrologie-alles-nur-aberglaube-oder-steckt-mehr-dahinter-"
+description: "Ist Astrologie bloßer Aberglaube oder steckt mehr dahinter? Erfahren Sie, warum die Lehre der Sterne trotz wissenschaftlicher Kritik Millionen Menschen..."
 ---
 
 Kennen Sie das? Sie lesen Ihr Horoskop und denken: „Stimmt absolut!“ – nur um im nächsten Moment festzustellen, dass dieselbe Beschreibung genauso gut auf Ihren Nachbarn, Ihren Ex-Partner oder Ihren Goldfisch hätte zutreffen können. Die Astrologie fasziniert, verwirrt und spaltet die Geister. Warum suchen wir unsere Persönlichkeit in den Sternen? Und ist da wirklich etwas dran, oder sind wir Opfer einer cleveren psychologischen Falle?

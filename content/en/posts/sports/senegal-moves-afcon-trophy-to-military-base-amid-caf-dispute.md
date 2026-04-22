@@ -5,6 +5,7 @@ draft: false
 categories: ["sports"]
 tags: ["senegal", "afcon", "caf", "african football", "sports controversy", "football news", "morocco", "boardroom champions"]
 slug: "senegal-moves-afcon-trophy-to-military-base-amid-caf-dispute"
+description: "Senegal is holding their AFCON trophy at a military base, refusing to surrender the title following a controversial administrative decision by the CAF."
 ---
 
 Senegal is currently guarding their AFCON football trophy with armed soldiers at a military base because they refuse to acknowledge a boardroom decision stripping them of their title. It is the most absurd story in sports right now, turning a piece of silverware into a matter of national sovereignty.

@@ -5,6 +5,7 @@ draft: false
 categories: ["health"]
 tags: ["nutrition myths", "healthy eating", "wellness culture", "nutrition advice", "diet confusion", "evidence-based nutrition", "health literacy", "food marketing"]
 slug: "why-you-re-confused-about-nutrition-it-s-not-your-fault"
+description: "Stop feeling guilty about your confusion in the grocery aisle; discover how manipulative wellness propaganda and social media algorithms drive your frustration."
 ---
 
 Ever spent twenty minutes in the grocery store aisle, staring at a label and feeling paralyzed? You’re trying to pick between two boxes of crackers—one says "natural," the other "organic"—while your brain cycles through a dozen conflicting TikToks you saw this morning. You’re worried about "hidden chemicals." You’re wondering if you should be doing carnivore, keto, or just eating the rainbow. Honestly, it’s enough to make you want to put the crackers down and just eat a handful of plain almonds.

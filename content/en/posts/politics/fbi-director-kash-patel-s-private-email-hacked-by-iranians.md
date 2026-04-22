@@ -5,6 +5,7 @@ draft: false
 categories: ["politics"]
 tags: ["fbi", "kash patel", "cybersecurity", "iran", "cyber warfare", "data breach", "opsec", "politics"]
 slug: "fbi-director-kash-patel-s-private-email-hacked-by-iranians"
+description: "The hack of FBI Director Kash Patel’s personal Gmail reveals critical lessons on state-sponsored cyber warfare and the importance of individual digital..."
 ---
 
 If the head of the FBI—the guy responsible for keeping America safe from cyber threats—can’t keep his own Gmail account locked down, what hope does the rest of us have?

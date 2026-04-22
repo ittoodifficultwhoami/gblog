@@ -5,6 +5,7 @@ draft: false
 categories: ["health"]
 tags: ["body positivity", "weight stigma", "mental health", "body neutrality", "eating disorder awareness", "body image", "healthy boundaries"]
 slug: "why-you-should-stop-commenting-on-people-s-bodies"
+description: "Learn why commenting on people's bodies—even with good intentions—can cause lasting harm and discover why choosing to mind your own business is better for all."
 ---
 
 The most important thing you can do for the people in your life is remarkably simple: mind your own business.

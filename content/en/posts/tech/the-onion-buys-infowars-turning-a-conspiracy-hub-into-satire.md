@@ -5,6 +5,7 @@ draft: false
 categories: ["tech"]
 tags: ["the onion", "infowars", "alex jones", "satire", "media news", "misinformation", "digital media", "bankruptcy"]
 slug: "the-onion-buys-infowars-turning-a-conspiracy-hub-into-satire"
+description: "Discover how The Onion is turning the notorious conspiracy site Infowars into a platform for satire in an audacious effort to dismantle misinformation today."
 ---
 
 If you’ve spent any time online lately, you’ve probably felt that nagging frustration: the sense that reality is being bent, twisted, or flat-out fabricated in front of your eyes. For years, misinformation and conspiracy theories have crawled from the dark corners of the internet right into the center of our daily lives.

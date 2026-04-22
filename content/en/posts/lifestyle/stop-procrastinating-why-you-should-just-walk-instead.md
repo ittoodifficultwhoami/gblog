@@ -5,6 +5,7 @@ draft: false
 categories: ["lifestyle"]
 tags: ["stop procrastinating", "walking for exercise", "fitness motivation", "healthy lifestyle", "exercise habit", "overcome procrastination", "daily habits", "fitness tips"]
 slug: "stop-procrastinating-why-you-should-just-walk-instead"
+description: "Stop procrastinating on your fitness goals by trading grueling runs for simple walks, a sustainable approach that builds consistency and lowers your resistance."
 ---
 
 We’ve all been there: staring at a pair of running shoes in the corner of the bedroom, feeling a mix of guilt and dread. You’ve told yourself *this* is the week you start a morning run routine. You’ve envisioned yourself hitting the pavement at 6:00 AM, looking focused, feeling energized, and finally becoming "that person" who exercises daily.

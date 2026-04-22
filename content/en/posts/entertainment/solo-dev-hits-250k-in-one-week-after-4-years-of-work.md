@@ -5,6 +5,7 @@ draft: false
 categories: ["entertainment"]
 tags: ["indie gaming", "solo developer", "tangy td", "steam games", "game development", "gaming success stories", "viral gaming", "indie dev"]
 slug: "solo-dev-hits-250k-in-one-week-after-4-years-of-work"
+description: "Discover how solo developer Cakez achieved $250k in one week with Tangy TD, proving that four years of dedicated, player-focused game design leads to success."
 ---
 
 Ever felt like modern gaming is just a hollow "money machine" designed to squeeze your wallet dry?

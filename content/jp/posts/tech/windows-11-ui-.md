@@ -5,6 +5,7 @@ draft: false
 categories: ["tech"]
 tags: ["windows11", "タスクバー", "windows k2", "ui刷新", "windowsアップデート", "osカスタマイズ", "pc効率化"]
 slug: "windows-11-ui-"
+description: "Windows 11にタスクバー配置変更機能が正式復活。大規模アップデート「Windows K2」によるUI刷新の内容と、最適化された描画エンジンがユーザー体験に与える影響を解説します。"
 ---
 
 Windows 11のリリース以降、多くのユーザーが要望してきた「タスクバーの自由な配置」が、ようやく実装される運びとなりました。2026年3月20日、MicrosoftはWindows Insider Blogにおいて、タスクバーの位置変更機能を正式に再導入したと発表しています。

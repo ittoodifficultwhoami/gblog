@@ -5,6 +5,7 @@ draft: false
 categories: ["lifestyle"]
 tags: ["staat gründen", "rechtliche grundlagen", "souveränität", "staatsrecht", "eigenes land gründen", "lebensstil", "drei-elemente-lehre"]
 slug: "ein-eigenes-land-gr-nden-warum-das-rechtlich-unm-glich-ist"
+description: "Warum die Gründung eines eigenen Landes auf dem eigenen Grundstück rechtlich unmöglich ist und woran der Traum vom privaten Königreich in Deutschland scheitert."
 ---
 
 Hast du dich bei einer Steuererklärung oder einer Baugenehmigung schon mal so geärgert, dass du dachtest: „Ach, wieso gründe ich nicht einfach mein eigenes Land? Dann mache ich meine eigenen Regeln!“ 

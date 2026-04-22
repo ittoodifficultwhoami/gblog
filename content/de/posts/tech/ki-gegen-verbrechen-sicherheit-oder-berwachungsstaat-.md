@@ -5,6 +5,7 @@ draft: false
 categories: ["tech"]
 tags: ["künstliche intelligenz", "überwachung", "predictive policing", "datenschutz", "sicherheitstechnik", "ethik", "gesellschaft", "technikfolgen"]
 slug: "ki-gegen-verbrechen-sicherheit-oder-berwachungsstaat-"
+description: "KI-gestützte Überwachung verspricht mehr Sicherheit durch präventive Polizeiarbeit, doch wie viel Freiheit sind wir bereit für diese Technologie zu opfern?"
 ---
 
 Haben Sie sich jemals gefragt, ob eine Welt ohne Verbrechen überhaupt möglich ist? Stellen Sie sich vor: Keine Einbrüche, keine Gewalt, eine Stadt, in der Algorithmen jeden Fehltritt stoppen, bevor er passiert. Die Technik dafür steht längst bereit. Kameras mit Gesichtserkennung, prädiktive Polizeisoftware und KI-Systeme, die in Echtzeit auf Bedrohungen reagieren, werden weltweit mit Milliardenbudgets implementiert.

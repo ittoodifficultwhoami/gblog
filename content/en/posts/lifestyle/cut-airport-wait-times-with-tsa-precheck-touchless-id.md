@@ -5,6 +5,7 @@ draft: false
 categories: ["lifestyle"]
 tags: ["tsa precheck", "touchless id", "airport security", "travel hacks", "biometric screening", "travel tips", "faster airport lines"]
 slug: "cut-airport-wait-times-with-tsa-precheck-touchless-id"
+description: "Cut your airport security time to under 10 seconds by enabling TSA PreCheck Touchless ID, a free biometric upgrade that eliminates the need for your ID or pass."
 ---
 
 You can cut your airport security time down to less than 10 seconds by switching to **TSA PreCheck Touchless ID**. If you already have PreCheck, this upgrade costs nothing and saves you from the frantic search for your boarding pass and ID.

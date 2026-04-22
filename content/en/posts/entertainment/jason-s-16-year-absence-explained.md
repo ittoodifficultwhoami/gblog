@@ -5,6 +5,7 @@ draft: false
 categories: ["entertainment"]
 tags: []
 slug: "jason-s-16-year-absence-explained"
+description: "Discover why Jason Voorhees has been absent from the big screen for 16 years and the complex legal battles that have kept the Friday the 13th franchise on ice."
 ---
 
 # Why We Haven't Seen a New Friday the 13th Movie in 16 Years

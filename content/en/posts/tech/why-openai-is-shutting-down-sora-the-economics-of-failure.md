@@ -5,6 +5,7 @@ draft: false
 categories: ["tech"]
 tags: ["openai", "sora", "artificial intelligence", "video generation", "tech economics", "ai industry", "machine learning", "tech news"]
 slug: "why-openai-is-shutting-down-sora-the-economics-of-failure"
+description: "OpenAI shuttered Sora due to unsustainable costs and poor revenue, proving that even revolutionary AI models must face the harsh reality of economic viability."
 ---
 
 If you’ve been following the AI space, you’ve felt a distinct sense of whiplash lately. Yesterday, every tech company was racing to show off physics-defying video generation. Today, the headlines are all about a massive retreat.

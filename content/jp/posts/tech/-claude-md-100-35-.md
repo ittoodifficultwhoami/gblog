@@ -5,6 +5,7 @@ draft: false
 categories: ["tech"]
 tags: ["claude.md", "aiプロンプト", "プロンプトエンジニアリング", "claude", "llm", "開発効率", "ai開発"]
 slug: "-claude-md-100-35-"
+description: "CLAUDE.mdを100行から35行へ減らすだけでAIの精度が上がる理由を解説。過剰な指示を削ぎ落とし、AIの注意力を最大化する最適化の秘訣を公式仕様に基づき紹介します。"
 ---
 
 Ever feel like you’re writing a constitution for your AI, only to have it ignore half the rules? You spend hours crafting a detailed `CLAUDE.md`, meticulously defining every architectural pattern and directory structure, convinced that more is better. Then you send a prompt, and the AI immediately reverts to generic habits, completely ignoring the specific library versions or formatting styles you spent all afternoon codifying.

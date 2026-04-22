@@ -5,6 +5,7 @@ draft: false
 categories: ["sports"]
 tags: ["schach", "denksport", "sportdefinition", "schach als sport", "wettbewerb", "mentale leistung", "sportwissenschaft"]
 slug: "ist-schach-echter-sport-die-fakten-hinter-dem-denksport"
+description: "Ist Schach ein echter Sport? Entdecken Sie die spannenden Fakten und institutionellen Hintergründe, die den Denksport offiziell als Hochleistungssport..."
 ---
 
 „Ist das überhaupt Sport?“ – diese Frage sorgt regelmäßig für hitzige Debatten. Ob in der Kneipe oder beim Familienessen: Die Fronten sind meist klar. Für die einen beginnt Sport erst, wenn das Trikot völlig durchgeschwitzt ist, der Puls rast und man am Ende erschöpft auf dem Boden liegt. Für andere zählt nicht der Schweiß, sondern Disziplin, Wettbewerb und systematisches Training.

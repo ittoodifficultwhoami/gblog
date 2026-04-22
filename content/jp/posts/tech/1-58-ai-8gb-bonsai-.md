@@ -5,6 +5,7 @@ draft: false
 categories: ["tech"]
 tags: ["ai", "1.58ビット", "ternary bonsai", "エッジai", "量子化", "大規模言語モデル", "llm", "軽量化"]
 slug: "1-58-ai-8gb-bonsai-"
+description: "8GBメモリのPCやスマホで高性能AIを動かす1.58ビット技術「Ternary Bonsai」の仕組みと、実機での驚異的な動作検証結果を解説します。"
 ---
 
 「AIを使いたいけど、メモリ不足でPCが重くなる」「高性能なAIはクラウド経由じゃないと動かない」……そんな悩みに終止符を打つ日が、ついに現実味を帯びてきました。

@@ -5,6 +5,7 @@ draft: false
 categories: ["health"]
 tags: ["nutrition", "fast food", "mcdonalds", "healthy eating", "dietitian", "nutritional tips", "road trip food", "healthy fast food hacks"]
 slug: "what-nutritionists-actually-order-at-mcdonald-s"
+description: "Curious what registered dietitians actually eat at McDonald's? Discover the simple, strategic hacks they use to order smarter fuel without the nutritional..."
 ---
 
 We’ve all been there. It’s 10:00 PM on a long road trip, you’re starving, and the only thing open for miles is those glowing golden arches. You pull into the drive-thru, guilt creeping in, wondering: if a real nutritionist were in the passenger seat, would they scream at you for ordering a Big Mac?

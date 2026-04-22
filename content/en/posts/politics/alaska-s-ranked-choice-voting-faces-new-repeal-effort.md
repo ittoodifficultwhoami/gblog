@@ -5,6 +5,7 @@ draft: false
 categories: ["politics"]
 tags: ["alaska politics", "ranked-choice voting", "electoral reform", "voting systems", "alaska elections", "political news", "election integrity"]
 slug: "alaska-s-ranked-choice-voting-faces-new-repeal-effort"
+description: "Alaska is heading to the polls again to decide the fate of ranked-choice voting; discover the core arguments behind the push to repeal this electoral system."
 ---
 
 Political fatigue is real. You finally get the hang of how your state runs its elections, and just like that, the rules change again. If you’ve been watching the news out of Alaska, you’re probably feeling a serious case of déjà vu. 

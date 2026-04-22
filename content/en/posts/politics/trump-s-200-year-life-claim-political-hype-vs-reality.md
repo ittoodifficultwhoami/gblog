@@ -5,6 +5,7 @@ draft: false
 categories: ["politics"]
 tags: ["donald trump", "longevity research", "political commentary", "healthcare policy", "biohacking", "aging science", "health equity"]
 slug: "trump-s-200-year-life-claim-political-hype-vs-reality"
+description: "Explore why claims of 200-year lifespans are political distractions that divert crucial funding from practical healthcare toward billionaire vanity projects."
 ---
 
 When a 79-year-old world leader claims they have discovered a secret to living to 200, stop listening to the policy talk and look at their hands instead. The current obsession with multi-century lifespans is not a medical revolution. It is a marketing tactic designed to sell a future where aging is treated like a software bug, shifting public funds away from everyday healthcare and into the pet projects of tech billionaires.

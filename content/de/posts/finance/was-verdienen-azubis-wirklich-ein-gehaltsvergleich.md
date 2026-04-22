@@ -5,6 +5,7 @@ draft: false
 categories: ["finance"]
 tags: ["ausbildungsvergütung", "azubi gehalt", "gehaltsvergleich", "ausbildung", "gehalt azubi", "ausbildungsgehalt 2024", "finanzen", "karrierestart"]
 slug: "was-verdienen-azubis-wirklich-ein-gehaltsvergleich"
+description: "Was verdienen Auszubildende heute wirklich? Wir analysieren aktuelle Vergütungstrends, historische Vergleiche und zeigen dir, was ein faires Gehalt ausmacht."
 ---
 
 „Was habt ihr eigentlich im ersten Lehrjahr verdient?“ – Diese Frage sorgt in Foren fast immer für Zündstoff. Da gibt es die einen, die stolz von ihrem Gehalt im dualen Studium berichten, und die anderen, die wehmütig an ihre Schlosserlehre in den 80ern zurückdenken. Damals gab es für harte Arbeit gerade mal ein paar hundert D-Mark. Zwischen Nostalgie, Inflationsfrust und der Frage, was heute überhaupt noch „normal“ ist, verliert man schnell den Überblick.

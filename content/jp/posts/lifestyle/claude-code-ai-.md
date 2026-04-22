@@ -5,6 +5,7 @@ draft: false
 categories: ["lifestyle"]
 tags: ["claude code", "aiエージェント", "グロースハック", "業務効率化", "ai活用", "プロダクトマネジメント", "プロダクティビティ", "aiチーム"]
 slug: "claude-code-ai-"
+description: "dely社の小川大介氏がClaude Codeを駆使し、AIエージェントチームを編成してグロース業務を一人で完遂する画期的な手法と活用術を解説します。"
 ---
 
 「チームの人数は増やせない、でも仕事は山積み……」

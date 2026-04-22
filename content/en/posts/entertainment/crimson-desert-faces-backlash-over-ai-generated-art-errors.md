@@ -5,6 +5,7 @@ draft: false
 categories: ["entertainment"]
 tags: ["crimson desert", "pearl abyss", "ai-generated art", "gaming controversy", "video game news", "ai in gaming", "gaming backlash"]
 slug: "crimson-desert-faces-backlash-over-ai-generated-art-errors"
+description: "Pearl Abyss faces backlash as players discover AI-generated art errors in Crimson Desert, sparking concerns over marketing transparency and studio trust."
 ---
 
 Pearl Abyss just sold 2 million copies of **Crimson Desert** in 24 hours, but they have a massive problem on their hands. Players are hunting down obvious AI-generated art hidden throughout the game, and the community is furious. If you feel like you are being sold a premium experience only to find low-effort mistakes, you are right to be annoyed. This is a masterclass in how to torch player trust.

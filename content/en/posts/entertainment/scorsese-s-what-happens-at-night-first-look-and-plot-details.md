@@ -5,6 +5,7 @@ draft: false
 categories: ["entertainment"]
 tags: ["martin scorsese", "what happens at night", "leonardo dicaprio", "psychological thriller", "peter cameron", "adoption thriller", "shutter island"]
 slug: "scorsese-s-what-happens-at-night-first-look-and-plot-details"
+description: "Discover the latest plot details and first look at Martin Scorsese’s psychological thriller What Happens at Night, featuring Leonardo DiCaprio in a dark, new..."
 ---
 
 If you were distracted by Leonardo DiCaprio’s thick, period-appropriate mustache at the Oscars, you weren't the only one.

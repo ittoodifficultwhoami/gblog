@@ -5,6 +5,7 @@ draft: false
 categories: ["tech"]
 tags: ["retro-gaming", "videospielgeschichte", "retro-hardware", "gaming-technik", "8-bit", "gaming-nostalgie", "videospielentwicklung"]
 slug: "warum-alte-spiele-keine-schrott-technik-waren"
+description: "Erfahre, warum Retro-Spiele trotz extremer technischer Limitierungen wahre Meisterwerke waren und wie Entwickler mit genialen Tricks die Basis für moderne..."
 ---
 
 Hast du dir jemals ein altes Videospiel aus den 80ern angesehen und dich gefragt: „Wie konnte das jemals jemandem Spaß machen?“ Wenn du heute 4K-Grafik, Raytracing und riesige Open-World-Szenarien gewohnt bist, wirken die klotzigen Pixel und piepsigen Soundtracks wie steinzeitliche Experimente. Man könnte den alten Kram schnell als „Schrott“ abtun. Ehrlich gesagt habe ich mich das früher auch oft gefragt.

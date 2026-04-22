@@ -5,6 +5,7 @@ draft: false
 categories: ["general"]
 tags: ["bienvenue", "prochainement"]
 slug: "bienvenue"
+description: "Découvrez prochainement des articles de qualité et soigneusement documentés sur la technologie, la finance, la santé, le divertissement et bien plus encore."
 ---
 
 Cette page est en cours de construction. Vous trouverez bientôt ici des articles soigneusement documentés sur la technologie, la finance, la santé, le divertissement, la politique, le sport et le mode de vie.

@@ -5,6 +5,7 @@ draft: false
 categories: ["health"]
 tags: ["krankenhauspersonal", "gesundheitssystem", "fachkräftemangel", "pflegenotstand", "ausländische pflegekräfte", "gesundheitspolitik", "klinikpersonal"]
 slug: "brauchen-deutsche-krankenh-user-ausl-ndisches-personal-"
+description: "Erfahren Sie, warum das deutsche Gesundheitssystem ohne ausländisches Personal kollabieren würde und welche strukturellen Probleme hinter dieser Krise stecken."
 ---
 
 „Wenn ich ins Krankenhaus komme, will ich versorgt werden – egal von wem.“ Diesen Satz hört man in Diskussionen über unser Gesundheitssystem ständig. Hinter dem Wunsch nach einer guten Behandlung steckt allerdings eine Realität, die viele Menschen täglich frustriert. Lange Wartezeiten, völlig überlastetes Personal und die berechtigte Sorge, dass die Qualität der Pflege den Bach runtergeht – das ist längst kein Einzelfall mehr.

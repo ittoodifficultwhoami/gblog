@@ -5,6 +5,7 @@ draft: false
 categories: ["sports"]
 tags: ["alexa grasso", "maycee barber", "ufc", "mma", "knockout", "combat sports", "ufc fight night"]
 slug: "inside-alexa-grasso-s-brutal-knockout-of-maycee-barber"
+description: "Analyze the tactical precision and medical concerns behind Alexa Grasso’s stunning knockout of Maycee Barber in this deep dive into the fight's brutal finish."
 ---
 
 If you were watching UFC Fight Night 271 in Seattle this past March, you felt that collective "gasp" ripple through the Climate Pledge Arena—and across the internet. When Alexa Grasso’s left hook landed flush on Maycee Barber’s chin, the fight didn’t just end. For a terrifying second, it looked like something had gone fundamentally wrong.

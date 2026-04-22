@@ -5,6 +5,7 @@ draft: false
 categories: ["tech"]
 tags: ["fbi", "location data", "privacy", "data brokers", "smartphone surveillance", "fourth amendment", "digital rights", "surveillance state"]
 slug: "the-fbi-is-buying-your-location-data-and-won-t-stop"
+description: "The FBI is bypassing warrant requirements by purchasing your mobile location data from commercial brokers, turning mass surveillance into a legal loophole."
 ---
 
 The FBI buys your location data from commercial brokers, and they do not plan to stop. If you believed your phone’s privacy settings or the Fourth Amendment kept your movements safe from government eyes, you are mistaken. The reality is far more invasive.

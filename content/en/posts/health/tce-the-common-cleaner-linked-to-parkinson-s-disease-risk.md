@@ -5,6 +5,7 @@ draft: false
 categories: ["health"]
 tags: ["tce", "trichloroethylene", "parkinson's disease", "environmental health", "chemical exposure", "toxic chemicals", "neurological health"]
 slug: "tce-the-common-cleaner-linked-to-parkinson-s-disease-risk"
+description: "Discover how the industrial solvent TCE, once common in household cleaners and adhesives, has been scientifically linked to an increased risk of Parkinson’s."
 ---
 
 Every week, there’s a new study claiming something in your kitchen—or the air you breathe—is sabotaging your health. If you’re feeling overwhelmed by this endless parade of "hidden dangers," you aren’t alone. It’s exhausting to navigate a world where common household items carry long-term risks that don't show up until decades later. Honestly, I think we’re all a little burnt out on the fear-mongering.

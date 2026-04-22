@@ -5,6 +5,7 @@ draft: false
 categories: ["finance"]
 tags: ["studium finanzieren", "unterhaltspflicht eltern", "bafög", "finanzierung studium", "düsseldorfer tabelle", "studienfinanzierung", "unterhaltsrecht"]
 slug: "studium-finanzieren-geiz-oder-gesetzliche-pflicht-"
+description: "Müssen Eltern das Studium finanzieren? Erfahre hier, was das Gesetz wirklich vorschreibt, wann Unterhaltspflicht besteht und wie die Düsseldorfer Tabelle hilft."
 ---
 
 „Sollten meine Eltern mein Studium bezahlen?“ – Diese Frage sorgt am Familientisch regelmäßig für Zoff. Die einen halten das Studium für eine Art Erbschaft oder natürliche Pflicht, die anderen pochen auf Eigenverantwortung und Nebenjobs. Ist das jetzt Geiz, wenn der Geldhahn zugedreht wird, oder einfach eine Lektion fürs Erwachsenwerden?

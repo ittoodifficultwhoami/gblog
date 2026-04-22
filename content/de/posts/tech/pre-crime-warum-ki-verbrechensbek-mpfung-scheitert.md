@@ -5,6 +5,7 @@ draft: false
 categories: ["tech"]
 tags: ["ki-ethik", "predictive policing", "künstliche intelligenz", "überwachung", "datenschutz", "verbrechensbekämpfung", "technologiekritik"]
 slug: "pre-crime-warum-ki-verbrechensbek-mpfung-scheitert"
+description: "Erfahren Sie, warum KI-gestützte Pre-Crime-Technologien in der Praxis oft scheitern, massiv fehleranfällig sind und unsere gesellschaftlichen Werte gefährden."
 ---
 
 Haben Sie sich jemals gewünscht, Kriminalität würde einfach verschwinden? Keine Einbrüche, keine Gewalt, keine Angst im Dunkeln. Eine Welt, in der eine „perfekte“ KI jedes Verbrechen stoppt, bevor es überhaupt passiert. Klingt nach einer utopischen Fantasie, oder? Genau an dieser Vision arbeiten Regierungen und Sicherheitsfirmen weltweit mit Hochdruck.

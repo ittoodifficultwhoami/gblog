@@ -5,6 +5,7 @@ draft: false
 categories: ["lifestyle"]
 tags: ["vystopie", "veganismus", "psychologie", "vegane ernährung", "gesellschaftskritik", "tierethik", "veganismus ablehnung"]
 slug: "vystopie-warum-erzeugt-veganismus-oft-so-viel-ablehnung-"
+description: "Erfahren Sie, was Vystopie ist, warum vegane Lebensweisen oft auf Ablehnung stoßen und wie die Wissenschaft diesen psychischen Druck heute messbar macht."
 ---
 
 Kennen Sie diesen Moment, wenn die Stimmung am Abendbrottisch plötzlich kippt? Sie sitzen bei Freunden oder Kollegen, jemand bemerkt Ihre vegetarische Wahl – und schon fühlen Sie sich wie auf der Anklagebank. Es hagelt Sprüche über „Kaninchenfutter“, „Mangelerscheinungen“ oder den „Missionierungsdrang“ der Veganer. Ehrlich gesagt nervt das auf Dauer ziemlich.

@@ -5,6 +5,7 @@ draft: false
 categories: ["tech"]
 tags: ["fbi", "data brokers", "digital privacy", "fourth amendment", "surveillance", "location tracking", "tech policy"]
 slug: "the-fbi-s-data-broker-loophole-tracking-you-without-warrants"
+description: "Discover how the FBI exploits a legal loophole by purchasing your location data from private brokers, effectively bypassing the Fourth Amendment and warrants."
 ---
 
 The FBI is buying your location history, and they have no intention of stopping.

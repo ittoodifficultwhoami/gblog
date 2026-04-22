@@ -5,6 +5,7 @@ draft: false
 categories: ["finance"]
 tags: ["federal reserve", "interest rates", "donald trump", "stagflation", "us economy", "inflation", "monetary policy", "supply chain"]
 slug: "trump-demands-rate-cuts-why-the-fed-is-paralyzed"
+description: "Discover why the Federal Reserve remains paralyzed on interest rates as they navigate the stagflation trap caused by global supply chain disruptions."
 ---
 
 The standoff between the White House and the Federal Reserve is not just a political spat; it is a signal that our economy is trapped between a rock and a hard place. No amount of interest rate maneuvering can fix a supply chain that is physically broken.

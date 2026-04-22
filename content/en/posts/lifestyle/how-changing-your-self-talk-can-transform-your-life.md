@@ -5,6 +5,7 @@ draft: false
 categories: ["lifestyle"]
 tags: ["self-talk", "personal development", "mindset", "mental health", "positivity", "growth mindset", "emotional intelligence", "self-improvement"]
 slug: "how-changing-your-self-talk-can-transform-your-life"
+description: "Learn how to break free from negative thought loops and harness the power of a growth mindset to rewire your brain and transform your life for the better."
 ---
 
 Ever replay a conversation from three years ago or spiral into a "what if" scenario at 3:00 AM? You aren’t alone. Your brain is a newsroom that never closes, processing around 60,000 to 80,000 thoughts every single day. 

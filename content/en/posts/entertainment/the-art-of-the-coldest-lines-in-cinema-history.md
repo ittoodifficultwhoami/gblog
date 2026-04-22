@@ -5,6 +5,7 @@ draft: false
 categories: ["entertainment"]
 tags: ["cinema", "movie quotes", "film dialogue", "movie analysis", "entertainment", "pop culture", "iconic lines"]
 slug: "the-art-of-the-coldest-lines-in-cinema-history"
+description: "Explore the psychological power behind cinema’s coldest lines and learn why modern audiences are drawn to characters who master detachment and surgical apathy."
 ---
 
 The most effective way to shut down a conversation is not to yell or throw an insult. It is to act as if the other person does not exist. 

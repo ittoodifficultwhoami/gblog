@@ -5,6 +5,7 @@ draft: false
 categories: ["tech"]
 tags: ["retrogaming", "gaming trends", "pc gaming", "videospiele", "steam", "gaming statistik", "nostalgie", "gaming kultur"]
 slug: "warum-wir-heute-lieber-alte-spiele-statt-neuheiten-spielen"
+description: "Warum wir trotz technischer Innovationen lieber Klassiker als neue Blockbuster spielen: Erfahren Sie, warum 67 % der Spielzeit auf über sechs Jahre alte Titel..."
 ---
 
 Haben Sie sich jemals gefragt, warum Ihr Steam-Account vor ungespielten Käufen überquillt, während Sie doch immer wieder bei Ihren alten Favoriten landen? Sie haben den neuesten Grafik-Blockbuster zum Vollpreis vorbestellt, zwei Wochen gespielt – und sind dann doch zu *Minecraft*, *Counter-Strike* oder *GTA V* zurückgekehrt. 

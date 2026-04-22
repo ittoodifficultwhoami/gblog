@@ -5,6 +5,7 @@ draft: false
 categories: ["entertainment"]
 tags: ["faa", "air traffic control", "gaming", "career development", "aviation", "recruitment", "flight simulation"]
 slug: "why-the-faa-is-actively-recruiting-gamers-for-atc-roles"
+description: "The FAA is actively recruiting gamers to fill critical air traffic controller shortages by leveraging the multitasking and spatial skills found in gaming."
 ---
 
 If you’ve spent your nights managing a chaotic multiplayer lobby, juggling 3D navigation in a flight sim, or tracking twenty targets while your screen glows neon with alerts, the FAA wants to talk to you.

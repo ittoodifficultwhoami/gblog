@@ -5,6 +5,7 @@ draft: false
 categories: ["health"]
 tags: ["rente mit 70", "renteneintrittsalter", "altersvorsorge", "gesetzliche rente", "demografischer wandel", "rente", "gesundheit im alter"]
 slug: "rente-mit-70-realistische-l-sung-oder-soziale-sackgasse-"
+description: "Ist die Rente mit 70 eine notwendige Lösung oder eine soziale Sackgasse? Wir analysieren die demografischen Fakten, die finanzielle Lage und die harte Realität."
 ---
 
 „Bis 70 arbeiten?“ – Wenn dieses Thema in der Mittagspause oder auf Social Media aufkommt, ist die Reaktion meist eindeutig: Kopfschütteln, Frust und die berechtigte Frage, ob das für irgendwen überhaupt machbar ist. Während in Berlin über das „Generationenkapital“ und steigende Beiträge gestritten wird, fragen sich Millionen Menschen: Macht mein Körper das bis 70 überhaupt mit?

@@ -5,6 +5,7 @@ draft: false
 categories: ["finance"]
 tags: ["yo-yo financing", "car loan rejection", "auto financing scams", "spot delivery", "car buying tips", "predatory lending", "auto loan advice", "consumer protection"]
 slug: "yo-yo-financing-what-to-do-if-your-car-loan-is-rejected"
+description: "Don't fall for the yo-yo financing trap. Learn how to protect your rights, recognize this predatory dealer scam, and take action if your car loan is rejected."
 ---
 
 Imagine this: You walk into a dealership, spend hours negotiating, sign a stack of papers, and drive home in your new car. You make your first payment, settle into the routine, and finally start enjoying your purchase. Then, out of nowhere, the phone rings. The dealer claims there was a "funding issue," your loan was rejected, and you need to come back to sign a "slightly different" contract—usually with a higher interest rate or a bigger down payment.

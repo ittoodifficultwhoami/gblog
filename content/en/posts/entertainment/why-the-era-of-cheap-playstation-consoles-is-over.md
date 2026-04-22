@@ -5,6 +5,7 @@ draft: false
 categories: ["entertainment"]
 tags: ["playstation", "gaming hardware", "console gaming", "gaming industry", "video game economics", "sony playstation", "gaming news"]
 slug: "why-the-era-of-cheap-playstation-consoles-is-over"
+description: "Discover why the reliable cycle of falling PlayStation console prices has ended and understand the economic shifts changing the cost of modern gaming hardware."
 ---
 
 If your gaming budget feels like it’s shrinking, you aren’t imagining it. Lately, everyone is asking the same question: how did console prices get this high? Whether you remember the glory days of the PlayStation 2 or you’re just tired of burning cash on hardware, the math feels wrong. It definitely isn't what it used to be.

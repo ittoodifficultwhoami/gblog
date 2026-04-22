@@ -5,6 +5,7 @@ draft: false
 categories: ["entertainment"]
 tags: ["mass effect", "amazon prime video", "video game adaptations", "sci-fi tv series", "bioware", "entertainment news", "mass effect show"]
 slug: "mass-effect-tv-series-rewrites-aim-for-non-gamer-appeal"
+description: "Amazon’s reported push to simplify the Mass Effect series for non-gamers risks stripping away the deep lore and complex politics that define the beloved..."
 ---
 
 If you’re a *Mass Effect* fan, you’ve spent years waiting for a high-budget show that actually nails the scale of the Milky Way. When Amazon officially confirmed the series on N7 Day in 2024, the hype was real.

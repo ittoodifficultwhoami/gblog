@@ -5,6 +5,7 @@ draft: false
 categories: ["politics"]
 tags: ["strait of hormuz", "donald trump", "middle east politics", "persian gulf", "energy policy", "geopolitical conflict", "us foreign policy"]
 slug: "trump-orders-strait-of-hormuz-blockade-after-talks-fail"
+description: "Understand the timeline and strategic escalation behind the U.S. naval blockade of the Strait of Hormuz following the collapse of high-stakes peace..."
 ---
 
 If you feel like you’re living in a disaster movie that keeps getting rewritten in real-time, you aren’t alone. Between the volatile market swings and the increasingly frantic headlines out of Washington and Islamabad, things are a mess. Everyone’s asking the same question: "Wait, wasn't the goal to *open* the Strait of Hormuz, not block it?"

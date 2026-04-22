@@ -5,6 +5,7 @@ draft: false
 categories: ["health"]
 tags: ["post-mastectomy pain syndrome", "pmps", "breast cancer recovery", "chronic pain", "mastectomy surgery", "breast cancer awareness", "nerve pain after surgery"]
 slug: "the-hidden-chronic-pain-after-mastectomy-surgery"
+description: "Learn the truth about Post-Mastectomy Pain Syndrome, a chronic condition affecting up to 60% of patients, and discover why this hidden struggle deserves..."
 ---
 
 For thousands of women, a mastectomy is a life-saving decision. It’s a courageous act to stop cancer and reclaim a future. But for a staggering number of these patients, the surgery isn’t the end of the battle; it’s the beginning of a silent, agonizing struggle that most surgeons never prepare them for.

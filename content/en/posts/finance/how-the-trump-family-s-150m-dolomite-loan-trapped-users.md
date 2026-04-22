@@ -5,6 +5,7 @@ draft: false
 categories: ["finance"]
 tags: ["world liberty financial", "wlfi", "dolomite", "defi", "crypto rug pull", "cryptocurrency", "decentralized finance", "trump family crypto"]
 slug: "how-the-trump-family-s-150m-dolomite-loan-trapped-users"
+description: "Discover how the Trump family’s World Liberty Financial used a massive $150 million loan to trigger a liquidity crisis that trapped users on the Dolomite..."
 ---
 
 If you’ve been tracking the chaos in Decentralized Finance lately, you’ve definitely seen the headlines about World Liberty Financial (WLFI). Whether you feel confused, angry, or just hit with a cynical "I saw this coming," you aren’t alone.

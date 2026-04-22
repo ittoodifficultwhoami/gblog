@@ -5,6 +5,7 @@ draft: false
 categories: ["tech"]
 tags: ["headlight glare", "night driving", "automotive safety", "led headlights", "car technology", "driving safety", "road safety", "vehicle regulations"]
 slug: "why-modern-headlights-are-blinding-drivers-it-s-not-just-you"
+description: "Are you tired of being blinded by oncoming traffic? Discover the real reasons behind the global headlight glare crisis and why modern cars feel so bright."
 ---
 
 If you’ve ever squinted into the abyss of an oncoming SUV, praying that the blinding white light searing your retinas is a car and not a supernova, you aren’t alone. Actually, 60% of drivers are right there with you. 

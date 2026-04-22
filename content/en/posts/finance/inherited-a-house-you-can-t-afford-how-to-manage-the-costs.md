@@ -5,6 +5,7 @@ draft: false
 categories: ["finance"]
 tags: ["inherited property", "real estate finance", "estate planning", "property taxes", "managing inherited homes", "homeownership costs", "selling inherited house"]
 slug: "inherited-a-house-you-can-t-afford-how-to-manage-the-costs"
+description: "Inheriting a home can be a financial burden rather than a gift; learn how to manage the hidden costs and navigate the complexities of owning an estate today."
 ---
 
 Inheriting a family home often feels less like a windfall and more like a crushing weight. You’re handed the keys while you're still processing grief, and suddenly, you’re not just an heir. You’re a property manager, a tax accountant, and the primary target for every unsolicited opinion in the family tree. 

@@ -5,6 +5,7 @@ draft: false
 categories: ["politics"]
 tags: ["afd", "wehrpflicht", "bundeswehr", "deutsche politik", "verteidigungspolitik", "parteienanalyse", "sicherheitspolitik"]
 slug: "afd-und-wehrpflicht-warum-die-partei-beim-milit-r-wankt"
+description: "Die AfD fordert lautstark die Wehrpflicht, weicht aber bei der Umsetzung zurück: Erfahren Sie alles über die internen Widersprüche der Partei bei der..."
 ---
 
 Sie haben es sicher mitbekommen: In der deutschen Politik sorgt kaum ein Thema für so viel Kopfschütteln wie der Kurs der AfD in der Verteidigungspolitik. Wer die Nachrichten verfolgt, könnte meinen, die Partei hätte eine klare Linie – schließlich forderte sie noch vor kurzem lautstark die Rückkehr zur Wehrpflicht. Doch hinter den Kulissen zeigt sich ein Bild voller Widersprüche, interner Grabenkämpfe und einer Strategie, die man am besten als „Hü und Hott“ bezeichnet.

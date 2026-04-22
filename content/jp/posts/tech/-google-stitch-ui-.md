@@ -5,6 +5,7 @@ draft: false
 categories: ["tech"]
 tags: ["google stitch", "uiデザイン", "生成ai", "プロダクトマネジメント", "ui制作", "デザインシステム", "ノーコード", "material design"]
 slug: "-google-stitch-ui-"
+description: "Google Stitchを活用し、非デザイナーのPMが自然言語から高品質なUIと実装コードを生成する、次世代のプロダクト開発ワークフローを解説します。"
 ---
 
 UI/UXデザインの領域は、生成AIの進化に伴い、描画スキルを直接的に必要としないフェーズへ急速に移行しています。2025年5月にGoogle Labsから公開され、2026年3月に大規模なアップデートを果たした「Google Stitch」は、非デザイナーがプロダクトのコンセプトを即座に視覚化するためのエンジンとして実用段階に達しました。

@@ -5,6 +5,7 @@ draft: false
 categories: ["politics"]
 tags: ["donald trump", "religion und politik", "us-wahlen", "politische rhetorik", "trump und jesus", "christliche wähler", "populismus"]
 slug: "trump-und-jesus-geniale-strategie-oder-reiner-gr-enwahn-"
+description: "Analysieren Sie Donald Trumps provokante Rhetorik: Ist die ständige Inszenierung als Messias-Figur eine kalkulierte politische Strategie oder purer Größenwahn?"
 ---
 
 Wenn wir über Donald Trumps politische Rhetorik sprechen, landen wir unweigerlich an einem Punkt, an dem viele nur noch den Kopf schütteln können. Es geht um einen Vergleich, der in der modernen Politik eigentlich als Tabubruch gelten muss: Trump und Jesus Christus. Ist das bloß plumpe PR, Größenwahn oder eine eiskalte Strategie, um religiöse Wähler an sich zu binden?

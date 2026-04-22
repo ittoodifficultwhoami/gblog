@@ -5,6 +5,7 @@ draft: false
 categories: ["entertainment"]
 tags: ["epic games", "tim sweeney", "gaming industry", "tech layoffs", "corporate culture", "industry news", "career advice"]
 slug: "why-tim-sweeney-s-comments-on-epic-layoffs-sparked-backlash"
+description: "Explore why Tim Sweeney’s comments on Epic Games' layoffs triggered industry backlash and what the reaction reveals about leadership and modern talent..."
 ---
 
 If you’ve spent any time on social media lately, you’ve seen the "corporate layoff announcement." It’s a predictable script: a CEO expresses deep regret, claims the decision was "incredibly difficult," and insists that the departing employees were "world-class talent."

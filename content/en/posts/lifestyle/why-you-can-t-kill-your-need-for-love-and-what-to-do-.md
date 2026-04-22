@@ -5,6 +5,7 @@ draft: false
 categories: ["lifestyle"]
 tags: ["human connection", "emotional health", "dating advice", "limerence", "self-growth", "psychology of love", "overcoming rejection"]
 slug: "why-you-can-t-kill-your-need-for-love-and-what-to-do-"
+description: "You cannot biologically erase your need for connection, but you can learn to manage the longing and stop letting the pursuit of love control your life."
 ---
 
 It feels like a glitch in your operating system. After one too many rejections or just feeling drained by the exhausting game of dating, you find yourself wishing for a simple, clean "off" switch. You want to kill the ache, the longing, and that nagging voice telling you your life is incomplete just because you’re single. (Honestly, I’ve been there—it’s exhausting.)

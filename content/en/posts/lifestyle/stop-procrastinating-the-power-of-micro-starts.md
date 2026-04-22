@@ -5,6 +5,7 @@ draft: false
 categories: ["lifestyle"]
 tags: ["procrastination", "productivity tips", "micro-habits", "time management", "personal growth", "overcoming procrastination", "habit formation"]
 slug: "stop-procrastinating-the-power-of-micro-starts"
+description: "Stop procrastinating for good by using the power of micro-starts to bypass your brain's fear response and turn overwhelming projects into manageable tasks."
 ---
 
 We’ve all been there. A massive project looms, the deadline is creeping closer, and yet, here you are—rearranging your desk, doom-scrolling, or suddenly feeling an urgent need to scrub the kitchen floor. 

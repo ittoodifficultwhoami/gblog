@@ -13,47 +13,14 @@
       <link>https://minweb.shop/jp/posts/tech/claude-code-45/</link>
       <pubDate>Mon, 20 Apr 2026 07:34:32 +0900</pubDate>
       <guid>https://minweb.shop/jp/posts/tech/claude-code-45/</guid>
-      <description>&lt;p&gt;「またこのメールの返信か…」「似たような事務作業で一日が終わる…」&lt;/p&gt;
-&lt;p&gt;パソコンの前に座っているのに、気づけば「作業」に追われ、肝心の研究や創作に手がつけられない。そんなフラストレーションを感じたことはありませんか？&lt;/p&gt;
-&lt;p&gt;いまIT界隈で、東大大学院生のshunyaさん（@shunya_sudo）がZennで公開した**「Claude Codeで日常のタスクを45個自動化した東大院生の全記録」&lt;strong&gt;という記事が話題です。彼は半年かけて、なんと&lt;/strong&gt;45個もの「面倒な雑務」を自動化**してしまいました。正直、ここまでやりきると一種の清々しさすらありますよね。&lt;/p&gt;
-&lt;p&gt;「なぜわざわざそこまで？」と思うかもしれません。メールの仕分けならツールでも十分ですから。ただ、彼の実践には私たちが明日から真似できる「自動化の極意」が詰まっています。&lt;/p&gt;
-&lt;h2 id=&#34;東大院生の執念半年間の全記録&#34;&gt;東大院生の執念：半年間の全記録&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&#34;Simple cartoon illustration: A clean infographic showing a bar chart with 45 bars, a clock showing &amp;ldquo;1 hour saved&amp;rdquo;, and a glowing icon representing a personal backend server.&#34; loading=&#34;lazy&#34; src=&#34;https://minweb.shop/images/claude-code-45-_0.png&#34;&gt;&lt;/p&gt;
-&lt;p&gt;まずは、このプロジェクトがどれほど本格的なものか、数字で見てみましょう。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;自動化したタスク：&lt;/strong&gt; 45個&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;開発期間：&lt;/strong&gt; 6ヶ月&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;スクリプト数：&lt;/strong&gt; 132本&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;AIエージェント数：&lt;/strong&gt; 36個&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;運用コスト：&lt;/strong&gt; 月額100ドル（Claude Code Max料金）&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;浮いた時間：&lt;/strong&gt; 1日あたり30分〜60分&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;彼が作ったのは、単なる「ショートカット」ではありません。Gmailの監視、arXivの論文通知、Discordの履歴からToDoを抽出する仕組み、さらには日程調整の返信ドラフト作成まで。これらをmacOSのcronで自動的に回す、本格的な「個人用バックエンド」です。ここまで来ると、もはや執念ですね。&lt;/p&gt;
-&lt;h2 id=&#34;なぜaiを使う必要があるのか&#34;&gt;なぜ「AI」を使う必要があるのか？&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&#34;Simple cartoon illustration: A split screen. Left side: A simple arrow sorting paper into folders. Right side: A friendly robot character analyzing a document with a magnifying glass and a lightbulb icon.&#34; loading=&#34;lazy&#34; src=&#34;https://minweb.shop/images/claude-code-45-_1.png&#34;&gt;&lt;/p&gt;</description>
+      <description>Claude Codeを活用して日常の雑務45個を自動化した東大院生の全記録。AIによる「思考」を伴う自動化で、日々の面倒な作業を効率化する極意を解説します。</description>
     </item>
     <item>
       <title>Claudeのトークンを80%削減！「原始人プロンプト」活用術</title>
       <link>https://minweb.shop/jp/posts/tech/claude-80/</link>
       <pubDate>Sun, 12 Apr 2026 07:45:56 +0900</pubDate>
       <guid>https://minweb.shop/jp/posts/tech/claude-80/</guid>
-      <description>&lt;p&gt;「Claudeとの会話、長すぎて疲れる」「返信が丁寧すぎて、かえって本質が見えにくい」。そんなふうに感じたことはありませんか？&lt;/p&gt;
-&lt;p&gt;特にClaude Codeでバリバリ開発している人や、APIを触るエンジニアにとって、AIの「礼儀正しさ」は単なるノイズです。今、海外で**「原始人プロンプト（Caveman Prompt）」**という手法が密かにブームになっています。&lt;/p&gt;
-&lt;p&gt;これを使うだけで、&lt;strong&gt;出力トークンを最大80%も削減できる&lt;/strong&gt;んです。なぜ「原始人」になることが最強の効率化なのか。その正体を解説します。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;そもそも原始人プロンプトとは&#34;&gt;そもそも「原始人プロンプト」とは？&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&#34;Simple cartoon illustration: A split screen comparing a robot in a tuxedo (labeled &amp;ldquo;Normal AI&amp;rdquo;) and a simple robot with a club (labeled &amp;ldquo;Caveman AI&amp;rdquo;).&#34; loading=&#34;lazy&#34; src=&#34;https://minweb.shop/images/claude-80-_0.png&#34;&gt;&lt;/p&gt;
-&lt;p&gt;「原始人プロンプト（Caveman Prompt）」は、Claude CodeのコミュニティでJulius Brussee氏が考案したテクニックです。&lt;/p&gt;
-&lt;p&gt;やり方は拍子抜けするほど簡単。システム設定か&lt;code&gt;CLAUDE.md&lt;/code&gt;に、たった一行の英語を書き込むだけ。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;&amp;ldquo;Respond terse like smart caveman. All technical substance stay. Only fluff die. No greetings, no preamble.&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;日本語に訳すとこんな感じ。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;「原始人のように喋れ。中身は全部残せ。無駄だけ消せ。敬語、挨拶、前置き、丁寧な助詞、すべて不要。技術的な核心のみを最短で伝えろ。」&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;誤解しないでほしいのは、これは「オレサマ、オマエ、マルカジリ」みたいなロールプレイング遊びじゃないってこと。目的は、人間らしい丁寧なコミュニケーションという「無駄」を削ぎ落として、情報の密度を限界まで高めることにあります。AIの饒舌さに疲れた時、これが意外と効くんですよ。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;なぜトークンが5分の1になるのか&#34;&gt;なぜトークンが「5分の1」になるのか&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&#34;Simple cartoon illustration: A bar chart showing a long, heavy stack of &amp;ldquo;Fluff&amp;rdquo; blocks next to a tiny, dense stack of &amp;ldquo;Core Data&amp;rdquo; blocks.&#34; loading=&#34;lazy&#34; src=&#34;https://minweb.shop/images/claude-80-_1.png&#34;&gt;&lt;/p&gt;</description>
+      <description>Claudeの応答から無駄を削ぎ落とし、トークン消費量を最大80%削減する「原始人プロンプト」の活用術を解説。AIの饒舌さに疲れたエンジニア必見の、コストを抑えて情報の密度を極限まで高めるための技術的アプローチです。</description>
     </item>
   </channel>
 </rss>

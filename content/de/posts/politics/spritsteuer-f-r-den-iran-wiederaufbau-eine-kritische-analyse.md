@@ -5,6 +5,7 @@ draft: false
 categories: ["politics"]
 tags: ["spritsteuer", "iran", "wiederaufbau", "deutsche politik", "steuereinnahmen", "energiesteuer", "haushaltspolitik", "kritische analyse"]
 slug: "spritsteuer-f-r-den-iran-wiederaufbau-eine-kritische-analyse"
+description: "Sollten deutsche Spritsteuereinnahmen den Wiederaufbau im Iran finanzieren? Eine kritische Analyse der Steuerlast und warum das Geld hierzulande nötig wäre."
 ---
 
 Jedes Mal, wenn Sie an der Zapfsäule stehen und der Endbetrag auf der Anzeige unaufhörlich nach oben klettert, stellt sich unweigerlich eine Frage: Wohin fließt dieses Geld eigentlich? Wir fluchen über die Preise, während die Politik hinter verschlossenen Türen darüber diskutiert, wie sie diese immensen Steuereinnahmen sinnvoll investieren kann.

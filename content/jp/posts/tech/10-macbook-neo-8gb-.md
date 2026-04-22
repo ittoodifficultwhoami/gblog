@@ -5,6 +5,7 @@ draft: false
 categories: ["tech"]
 tags: ["macbook neo", "macbook neo 8gb", "macbook 10万円", "apple製品レビュー", "macbookメモリ8gb", "pcスペック検証", "macbook選定"]
 slug: "10-macbook-neo-8gb-"
+description: "10万円のMacBook Neoは本当に使えるのか？メモリ8GBの性能を徹底検証し、日常使いから動画編集までの実力を本音で解説します。"
 ---
 
 「今のPCが急に壊れた。でも、最新のMacBook Proは高すぎて手が出ない……」。そんな状況で今、密かに話題になっているのが2026年3月に登場した「MacBook Neo」です。

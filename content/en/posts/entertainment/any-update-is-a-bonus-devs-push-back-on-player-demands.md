@@ -5,6 +5,7 @@ draft: false
 categories: ["entertainment"]
 tags: ["video games", "gaming industry", "game development", "peak game", "landfall games", "gaming culture", "live service games", "indie games"]
 slug: "any-update-is-a-bonus-devs-push-back-on-player-demands"
+description: "As players demand endless content, developers are pushing back to clarify that a finished game is a complete product and every future update is a bonus."
 ---
 
 We’re living in the era of the "forever game." From massive online shooters to sprawling survival titles, we’ve been conditioned to expect a steady, unending drip-feed of content. If a game launches today, we assume it will be supported, expanded, and tweaked for the next decade. 

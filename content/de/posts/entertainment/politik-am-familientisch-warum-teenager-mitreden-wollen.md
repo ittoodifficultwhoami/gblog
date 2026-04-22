@@ -5,6 +5,7 @@ draft: false
 categories: ["entertainment"]
 tags: ["politik", "jugendliche", "generation z", "politische bildung", "familienleben", "shell jugendstudie", "diskussionskultur", "politisches interesse"]
 slug: "politik-am-familientisch-warum-teenager-mitreden-wollen"
+description: "Warum Jugendliche am Familientisch politisch mitreden wollen und wie Sie konstruktive Dialoge statt hitziger Streits führen – fundiert und verständnisvoll."
 ---
 
 Stellen Sie sich die Szene vor: Es ist Sonntagnachmittag, der Kaffee steht auf dem Tisch, die Stimmung ist entspannt. Doch kaum kommt ein aktuelles politisches Thema auf den Tisch, kippt die Atmosphäre. Plötzlich schaltet sich Ihre 15- oder 17-jährige Nichte oder Tochter ein – mit Argumenten, die sitzen, und einer Vehemenz, die viele Erwachsene überfordert. 

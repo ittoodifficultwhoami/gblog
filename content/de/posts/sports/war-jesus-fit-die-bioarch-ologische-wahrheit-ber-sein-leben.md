@@ -5,6 +5,7 @@ draft: false
 categories: ["sports"]
 tags: ["historischer jesus", "bioarchäologie", "jesus fitness", "biblische geschichte", "körperliche arbeit", "antike lebensweise", "archäologie", "sports-history"]
 slug: "war-jesus-fit-die-bioarch-ologische-wahrheit-ber-sein-leben"
+description: "War Jesus tatsächlich ein fitter Athlet? Erfahren Sie durch bioarchäologische Erkenntnisse, wie harte körperliche Arbeit sein Leben im ersten Jahrhundert..."
 ---
 
 „War Jesus eigentlich im Gym?“ – Diese Frage klingt im ersten Moment wie ein absurder Internet-Trend oder ein Meme von „Gym-Bros“ auf TikTok. Aber dahinter steckt echtes Interesse an der menschlichen Seite des historischen Jesus. In den sozialen Medien rollt gerade eine Welle von Fitness-Content, der versucht, christliche Werte mit dem Training zu verknüpfen. Doch wie sah die Realität im ersten Jahrhundert aus? Und was verrät uns die Wissenschaft über die körperliche Verfassung des Mannes aus Nazareth?

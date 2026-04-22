@@ -5,6 +5,7 @@ draft: false
 categories: ["health"]
 tags: ["käse gesundheit", "nutri-score kritik", "ernährungstipps", "gesunde ernährung", "milchprodukte", "lebensmittelkunde", "fettgehalt käse"]
 slug: "ist-k-se-ungesund-die-wahrheit-hinter-nutri-score-co-"
+description: "Ist Käse wirklich ungesund oder zu Unrecht verpönt? Erfahren Sie, warum der Nutri-Score oft täuscht und wie die Käse-Matrix Ihre Sicht auf Ernährung verändert."
 ---
 
 Es ist eines der größten Mysterien im Kühlregal. Wir lieben Käse – in Deutschland essen wir mittlerweile stolze 25,4 Kilogramm pro Kopf und Jahr, ein Anstieg von 4,1 % gegenüber dem Vorjahr. Trotzdem plagt viele Gesundheitsbewusste beim Griff zum Emmentaler das schlechte Gewissen. „Zu fett“, „zu viel Salz“, „schlechte Nutri-Score-Bewertung“ – die Vorwürfe sind zahlreich. 

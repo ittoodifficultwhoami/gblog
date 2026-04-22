@@ -5,6 +5,7 @@ draft: false
 categories: ["politics"]
 tags: ["meldepflicht", "bundeswehr", "auslandsaufenthalt", "wdmodg", "wehrdienst", "wehrpflicht", "verteidigungsministerium", "männer im ausland"]
 slug: "meldepflicht-f-r-m-nner-im-ausland-was-du-jetzt-wissen-musst"
+description: "Erfahre, was die Meldepflicht für Männer bei Auslandsaufenthalten ab 90 Tagen seit 2026 wirklich bedeutet und wie du das neue Gesetz unkompliziert befolgst."
 ---
 
 „Muss ich jetzt wirklich beim Militär anfragen, wenn ich für ein Semester ins Ausland will?“ Diese Frage geistert durch Uni-Gruppen und WhatsApp-Verläufe. Seit dem 1. Januar 2026 gilt das Wehrdienst-Modernisierungsgesetz (WDModG). Die Reaktionen darauf? Zwischen „absurd“ und „bitter nötig für unruhige Zeiten“ ist alles dabei.

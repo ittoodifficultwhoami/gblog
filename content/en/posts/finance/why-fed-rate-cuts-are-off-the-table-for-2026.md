@@ -5,6 +5,7 @@ draft: false
 categories: ["finance"]
 tags: ["federal reserve", "interest rates", "economic outlook", "finance", "inflation", "fed policy", "monetary policy", "market analysis"]
 slug: "why-fed-rate-cuts-are-off-the-table-for-2026"
+description: "Discover why the Federal Reserve has officially taken rate cuts off the table for 2026 as stubborn inflation and new economic pressures reshape the outlook."
 ---
 
 If your paycheck feels smaller and every trip to the grocery store or gas station gives you sticker shock, you aren’t imagining things. For months, the buzz was that the Federal Reserve would eventually ride to the rescue with lower interest rates. We were told to just sit tight—that patience was the name of the game.

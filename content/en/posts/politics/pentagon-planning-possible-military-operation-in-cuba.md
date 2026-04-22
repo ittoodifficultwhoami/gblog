@@ -5,6 +5,7 @@ draft: false
 categories: ["politics"]
 tags: ["pentagon", "cuba", "military operation", "us foreign policy", "geopolitics", "international relations", "caribbean security", "us-cuba relations"]
 slug: "pentagon-planning-possible-military-operation-in-cuba"
+description: "Explore the facts behind reports of a potential Pentagon military operation in Cuba as we examine the risks, current geopolitical climate, and real impact."
 ---
 
 If you feel like you’ve been living in a state of perpetual whiplash lately, you aren’t alone. Just when it seems like the headlines couldn't get any more volatile, Washington has shifted its focus to a new, explosive target: Cuba.

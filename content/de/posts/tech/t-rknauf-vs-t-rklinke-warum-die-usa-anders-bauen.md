@@ -5,6 +5,7 @@ draft: false
 categories: ["tech"]
 tags: ["türknauf", "türklinke", "bautechnik", "usa vs deutschland", "haustür", "sicherheitstechnik", "bauweise", "türschloss"]
 slug: "t-rknauf-vs-t-rklinke-warum-die-usa-anders-bauen"
+description: "Warum setzen die USA auf unpraktische Türknäufe, während wir Türklinken bevorzugen? Erfahren Sie die historischen und technischen Gründe für diesen Unterschied."
 ---
 
 Haben Sie sich beim Schauen amerikanischer Filme schon einmal gefragt: „Warum zum Kuckuck haben die dort diese runden Türknäufe, an denen man sich ständig die Finger verrenkt?“ Vor allem, weil man genau weiß, wie unsicher diese Dinger sind. Während wir in Deutschland längst auf elegante, praktische Türklinken setzen, halten die USA hartnäckig an einem Design fest, das eigentlich in ein Museum gehört – und nicht an eine Haustür.

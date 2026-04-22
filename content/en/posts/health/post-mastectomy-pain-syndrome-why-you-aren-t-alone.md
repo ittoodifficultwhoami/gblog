@@ -5,6 +5,7 @@ draft: false
 categories: ["health"]
 tags: ["post-mastectomy pain syndrome", "pmps", "chronic neuropathic pain", "breast cancer recovery", "mastectomy side effects", "nerve pain", "cancer survivorship", "chronic pain management"]
 slug: "post-mastectomy-pain-syndrome-why-you-aren-t-alone"
+description: "If you are suffering from chronic pain after a mastectomy, you aren't alone; learn the truth about Post-Mastectomy Pain Syndrome and how to reclaim your life."
 ---
 
 You survived one of the most frightening diagnoses a person can face. You underwent a mastectomy to remove cancer, did exactly what the doctors ordered, and expected a quick recovery. But instead of healing, you are left with a terrifying new reality: constant, stabbing, electric-shock pain. Simple things—wearing a shirt, sitting in a chair, or hugging a loved one—now feel like torture.

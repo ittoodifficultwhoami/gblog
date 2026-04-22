@@ -5,6 +5,7 @@ draft: false
 categories: ["sports"]
 tags: ["tottenham hotspur", "spurs", "premier league", "brighton", "football news", "spurs collapse", "rutter", "match report"]
 slug: "spurs-collapse-rutter-s-95th-minute-equalizer-stuns-tottenham"
+description: "Tottenham Hotspur’s winless run hits 15 games after a 95th-minute defensive blunder allows Georginio Rutter to snatch a dramatic 2-2 draw for Brighton."
 ---
 
 If you’re a Tottenham fan, you’re probably reading this with your head in your hands, wondering how a football match can feel more like a Greek tragedy than a sport. On April 18, 2026, the 61,544 people packed into the Tottenham Hotspur Stadium witnessed a result that sums up their entire season: a gut-wrenching, 95th-minute collapse that left the club staring into the abyss. 

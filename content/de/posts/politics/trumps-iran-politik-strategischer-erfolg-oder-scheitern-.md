@@ -5,6 +5,7 @@ draft: false
 categories: ["politics"]
 tags: ["iran-politik", "donald trump", "naher osten", "geopolitik", "außenpolitik", "maximum pressure", "internationale beziehungen", "nahostkonflikt"]
 slug: "trumps-iran-politik-strategischer-erfolg-oder-scheitern-"
+description: "War Trumps Maximum-Pressure-Politik gegenüber dem Iran ein strategischer Erfolg oder ein verheerendes Scheitern?"
 ---
 
 Haben Sie sich beim Blick auf Ihre Heizkostenabrechnung oder die Preistafel an der Tankstelle auch schon gefragt: „Wie konnte es eigentlich so weit kommen?“ Die Weltnachrichten wirken fast täglich dramatischer. Viele haben das Gefühl, die Lage im Nahen Osten wird immer unübersichtlicher. Besonders die Iran-Politik von Donald Trump steht im Zentrum der Kritik. Mit der Neuauflage der „Maximum Pressure“-Kampagne im Februar 2025 schlug er einen Weg ein, der sich als verheerend entpuppte.

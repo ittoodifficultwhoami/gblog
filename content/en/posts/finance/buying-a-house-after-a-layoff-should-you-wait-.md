@@ -5,6 +5,7 @@ draft: false
 categories: ["finance"]
 tags: ["buying a house after a layoff", "home buying tips", "mortgage qualification", "debt-to-income ratio", "renting vs buying", "housing market advice"]
 slug: "buying-a-house-after-a-layoff-should-you-wait-"
+description: "Considering buying a home after a layoff? Learn how to evaluate your finances and navigate mortgage lender requirements before committing to a 30-year loan."
 ---
 
 It’s the classic housing market gut punch: you stare at your rent statement, watch thousands of dollars vanish, and feel a sharp sting of regret. You tell yourself, "I’m just throwing money away when I could be building equity."

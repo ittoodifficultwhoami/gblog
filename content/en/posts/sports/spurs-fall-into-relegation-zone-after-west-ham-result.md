@@ -5,6 +5,7 @@ draft: false
 categories: ["sports"]
 tags: ["tottenham hotspur", "spurs", "premier league", "relegation", "football news", "west ham", "epl", "soccer"]
 slug: "spurs-fall-into-relegation-zone-after-west-ham-result"
+description: "Tottenham Hotspur officially enters the relegation zone after a winless streak and recent results, sparking a historic crisis for the North London club."
 ---
 
 If you support Tottenham Hotspur, the last few months have felt like watching a slow-motion car crash. You can’t look away, even though you really want to. For years, the talk around the club was all about how close they were to finally grabbing a trophy. Now? The conversation has shifted to a much darker question: **Are they actually going to get relegated?**

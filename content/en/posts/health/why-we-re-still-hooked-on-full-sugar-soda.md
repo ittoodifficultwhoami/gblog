@@ -5,6 +5,7 @@ draft: false
 categories: ["health"]
 tags: ["sugar addiction", "soda consumption", "health risks", "nutrition science", "sugar-sweetened beverages", "diet soda", "sugar cravings"]
 slug: "why-we-re-still-hooked-on-full-sugar-soda"
+description: "Despite the known health risks, full-sugar soda remains a global favorite because of its unique biological impact on taste receptors and superior mouthfeel."
 ---
 
 If you’ve ever wandered down the soda aisle, you’ve likely felt a twinge of bewilderment. We live in an era where the health risks of sugar are common knowledge. We know that sugar-sweetened beverages (SSBs) trigger rapid insulin spikes, contribute to Type 2 diabetes, damage the liver, and hijack the brain’s dopamine system to create genuine dependency. 

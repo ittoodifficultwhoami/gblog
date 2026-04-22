@@ -5,6 +5,7 @@ draft: false
 categories: ["entertainment"]
 tags: ["free-to-play games", "best free games", "gaming", "ethical gaming", "f2p", "pc gaming", "mobile gaming"]
 slug: "best-free-games-that-don-t-feel-like-free-to-play"
+description: "Discover the best free-to-play games that prioritize high-quality gameplay and player respect over predatory monetization and frustrating pay-to-win mechanics."
 ---
 
 You don't need to drop 70 dollars to play a world-class video game. The industry is cluttered with manipulative tactics, but a handful of developers have proven that you can make millions by treating players like adults instead of walking wallets.

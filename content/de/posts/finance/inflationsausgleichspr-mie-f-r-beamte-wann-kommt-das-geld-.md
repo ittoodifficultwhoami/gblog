@@ -5,6 +5,7 @@ draft: false
 categories: ["finance"]
 tags: ["inflationsausgleichsprämie", "beamte", "besoldung", "öffentlicher dienst", "steuerfreie sonderzahlung", "geld", "finanztipps"]
 slug: "inflationsausgleichspr-mie-f-r-beamte-wann-kommt-das-geld-"
+description: "Erfahren Sie alles zur Inflationsausgleichsprämie für Beamte: Welche Beträge Sie erhalten, wie die Auszahlung erfolgt und warum die Umsetzung so lange dauert."
 ---
 
 „Wo bleibt mein Geld?“ – Diese Frage brennt vielen Beamten und Anwärtern gerade unter den Nägeln. In den Nachrichten hört man ständig von der „steuerfreien Inflationsausgleichsprämie“ und hat das Gefühl, das Geld müsste längst auf dem Konto sein. Die Realität ist aber leider zäher. Die deutsche Beamtenbesoldung ist ein kompliziertes Dickicht aus Gesetzgebungsverfahren, föderalem Flickenteppich und endlosen Debatten.

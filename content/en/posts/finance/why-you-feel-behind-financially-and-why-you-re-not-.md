@@ -5,6 +5,7 @@ draft: false
 categories: ["finance"]
 tags: ["financial anxiety", "money dysmorphia", "personal finance", "financial stress", "money mindset", "financial wellness", "savings tips"]
 slug: "why-you-feel-behind-financially-and-why-you-re-not-"
+description: "Stop feeling like you are failing financially by understanding money dysmorphia, the trap of social media comparisons, and the true reality of median wealth."
 ---
 
 Do you ever lie awake at night staring at the ceiling, mind racing through your bank balance, unpaid bills, and that nagging, hollow feeling that you’re failing at "adulthood"? You aren’t alone. You’re actually part of a massive group dealing with something researchers call **"money dysmorphia."**

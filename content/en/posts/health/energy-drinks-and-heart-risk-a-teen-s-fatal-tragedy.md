@@ -5,6 +5,7 @@ draft: false
 categories: ["health"]
 tags: ["energy drinks", "heart health", "caffeine safety", "teen health", "alani nu lawsuit", "caffeine overdose", "health risks"]
 slug: "energy-drinks-and-heart-risk-a-teen-s-fatal-tragedy"
+description: "A tragic wrongful death lawsuit highlights the hidden dangers of high-caffeine energy drinks and their potential to cause fatal heart risks in teenagers."
 ---
 
 Ever grabbed a neon-colored energy drink from a gas station cooler, checked the calorie count, and assumed it was safe just because it’s on the shelf? You aren't alone. For most of us, these drinks have become a standard "pick-me-up" to slog through a workday, a study session, or a gym grind. I’ve definitely been guilty of chugging one before a flight just to stay awake.

@@ -5,6 +5,7 @@ draft: false
 categories: ["general"]
 tags: ["benvenuti", "in arrivo"]
 slug: "benvenuti"
+description: "Stiamo preparando contenuti di alta qualità su tecnologia, finanza, salute e molto altro; torna presto per scoprire le nostre guide e i nostri approfondimenti."
 ---
 
 Questa pagina è in fase di costruzione. Presto troverete qui articoli accuratamente documentati su tecnologia, finanza, salute, intrattenimento, politica, sport e stile di vita.

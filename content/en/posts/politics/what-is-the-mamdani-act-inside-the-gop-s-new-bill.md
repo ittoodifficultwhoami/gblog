@@ -5,6 +5,7 @@ draft: false
 categories: ["politics"]
 tags: ["mamdani act", "chip roy", "us politics", "immigration policy", "republican legislation", "democratic socialism", "political news", "gop bills"]
 slug: "what-is-the-mamdani-act-inside-the-gop-s-new-bill"
+description: "Explore the details of the controversial Mamdani Act, a new GOP bill targeting ideological figures and immigration policy, and understand its legal..."
 ---
 
 If you follow politics, you’ve noticed the trend: proposals are getting bolder and honestly, a bit surreal. Just when you think you’ve seen the absolute ceiling of legislative ambition, a new bill drops that forces even the most cynical junkies to pause and ask, "Is this actually possible?"

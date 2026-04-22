@@ -5,6 +5,7 @@ draft: false
 categories: ["entertainment"]
 tags: ["familienleben", "jugendpolitik", "diskussionskultur", "teenager", "erziehung", "shell jugendstudie", "gesellschaftspolitik"]
 slug: "politik-am-familientisch-wenn-teenager-mitreden-wollen"
+description: "Wenn Teenager am Familientisch politisch werden, ist das keine Respektlosigkeit, sondern eine fundierte Auseinandersetzung mit ihrer eigenen Zukunft."
 ---
 
 Stell dir die Szene vor: Sonntag, der Braten steht auf dem Tisch, die Stimmung ist entspannt – bis das Gespräch auf Politik kommt. Plötzlich schalten sich die 15- und 17-Jährigen ein. Sie haben eine eigene Meinung, kontern Argumente und lassen sich nicht mehr mit einem „Dazu bist du noch zu jung“ abspeisen.

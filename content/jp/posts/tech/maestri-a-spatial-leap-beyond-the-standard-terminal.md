@@ -5,6 +5,7 @@ draft: false
 categories: ["tech"]
 tags: ["maestri", "terminal emulator", "developer tools", "spatial computing", "coding productivity", "macos apps", "terminal orchestration", "developer workflow"]
 slug: "maestri-a-spatial-leap-beyond-the-standard-terminal"
+description: "Break free from static command lines with Maestri, a spatial terminal for macOS that transforms your workflow into an interactive, fluid orchestration of AI."
 ---
 
 Ever looked at your screen after a long day of coding and felt like you were drowning in a sea of overlapping windows? You’ve got your terminal, a code editor, a browser for docs, and a chat app for your AI assistant—all fighting for the same sliver of space.

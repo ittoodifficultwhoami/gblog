@@ -5,6 +5,7 @@ draft: false
 categories: ["finance"]
 tags: ["married filing separately", "married filing jointly", "tax filing status", "tax planning", "irs tax advice", "financial tips for couples", "income tax strategies"]
 slug: "married-filing-separately-when-is-it-better-than-joint-"
+description: "Discover when filing separately as a married couple can actually save you money by navigating the specific financial scenarios where joint filing isn't ideal."
 ---
 
 "I’m just doing what my accountant told me." 

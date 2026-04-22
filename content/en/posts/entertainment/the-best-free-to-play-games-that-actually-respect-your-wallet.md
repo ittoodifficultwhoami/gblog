@@ -5,6 +5,7 @@ draft: false
 categories: ["entertainment"]
 tags: ["free-to-play games", "gaming", "f2p", "video games", "gaming tips", "path of exile", "warframe", "microtransactions"]
 slug: "the-best-free-to-play-games-that-actually-respect-your-wallet"
+description: "Discover the best free-to-play games that offer premium experiences without aggressive microtransactions, paywalls, or forced ads that drain your wallet."
 ---
 
 If you have ever felt like a mobile game was just a slot machine designed to drain your wallet, you are not crazy. Most free apps rely on timers, paywalls, and aggressive nagging to force you into spending money.

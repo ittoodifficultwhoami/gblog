@@ -5,6 +5,7 @@ draft: false
 categories: ["tech"]
 tags: ["right to repair", "john deere", "agricultural technology", "farming equipment", "antitrust litigation", "tech news", "repair software"]
 slug: "john-deere-settles-right-to-repair-case-for-99-million"
+description: "John Deere has agreed to a $99 million settlement, marking a major victory for the right-to-repair movement and granting farmers access to essential repairs."
 ---
 
 If you’ve ever felt like your modern tractor has more in common with a locked-down smartphone than a piece of reliable farm machinery, you aren’t alone. For years, farmers have stared at broken equipment, unable to fix it themselves because of proprietary software locks. They’ve had to wait days for a specialized technician while their crops waited to be harvested—a nightmare scenario if you ask me.

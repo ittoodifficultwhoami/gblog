@@ -5,6 +5,7 @@ draft: false
 categories: ["entertainment"]
 tags: ["chuck norris", "chuck norris death", "martial arts", "walker texas ranger", "celebrity legacy", "pop culture", "entertainment news"]
 slug: "remembering-chuck-norris-a-legend-s-life-and-legacy"
+description: "Explore the incredible life and lasting legacy of Chuck Norris, moving beyond the internet memes to honor his genuine achievements as a martial arts icon."
 ---
 
 Chuck Norris died on March 19, 2026, at age 86. While the internet is reacting with a mix of genuine grief and the legendary, hyperbolic humor that made him a household name, the real numbers behind his life are far more impressive than the memes ever were.

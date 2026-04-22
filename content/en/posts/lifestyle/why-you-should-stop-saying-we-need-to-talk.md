@@ -5,6 +5,7 @@ draft: false
 categories: ["lifestyle"]
 tags: ["communication skills", "relationship advice", "emotional intelligence", "healthy boundaries", "conflict resolution", "mental well-being", "interpersonal communication"]
 slug: "why-you-should-stop-saying-we-need-to-talk"
+description: "Stop using the phrase we need to talk to prevent unnecessary panic and defensiveness by replacing vague communication with clarity to build psychological..."
 ---
 
 Have you ever received a text that simply said, "We need to talk," and felt your stomach drop into your shoes? 

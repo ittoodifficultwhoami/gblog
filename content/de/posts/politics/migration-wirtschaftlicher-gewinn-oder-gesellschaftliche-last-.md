@@ -5,6 +5,7 @@ draft: false
 categories: ["politics"]
 tags: ["migration", "arbeitsmarkt", "wirtschaft", "demografischer wandel", "gesellschaft", "politik", "fachkräftemangel", "integrationsdebatte"]
 slug: "migration-wirtschaftlicher-gewinn-oder-gesellschaftliche-last-"
+description: "Wirtschaftlicher Gewinn oder gesellschaftliche Last? Erfahren Sie anhand aktueller Fakten, warum Migration für den deutschen Arbeitsmarkt unverzichtbar ist."
 ---
 
 „Müssen wir diese Diskussion eigentlich alle zehn Jahre wieder führen?“ Diesen Satz hört man ständig, sobald das Thema Migration auf den Tisch kommt. Es ist dieses typische Déjà-vu-Gefühl, das viele Deutsche begleitet: Damals waren es Gastarbeiter aus Italien, Spanien oder Griechenland, deren Ankunft die Gemüter erhitzte – heute sind es eben andere Gruppen, die für Unruhe sorgen. Ehrlich gesagt finde ich diese ständige Wiederholung ziemlich ermüdend.

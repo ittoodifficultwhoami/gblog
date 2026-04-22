@@ -5,6 +5,7 @@ draft: false
 categories: ["entertainment"]
 tags: ["she-hulk", "marvel cinematic universe", "mcu", "disney plus", "superhero series", "streaming metrics", "marvel studios", "attorney at law"]
 slug: "why-she-hulk-is-actually-one-of-marvel-s-biggest-hits"
+description: "Despite the vocal online backlash, Marvel considers She-Hulk a major success; discover the streaming metrics and data that prove why this show actually won."
 ---
 
 If you spent any time on social media during the summer of 2022, you saw the polarized discourse surrounding *She-Hulk: Attorney at Law*. For every viewer who found the meta-humor refreshing, there was a chorus of angry voices ready to dissect everything from the CGI to the courtroom antics. 

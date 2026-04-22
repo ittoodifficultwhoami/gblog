@@ -5,6 +5,7 @@ draft: false
 categories: ["entertainment"]
 tags: ["anthropomorphismus", "psychologie", "menschliches verhalten", "hadd", "alltagspsychologie", "kommunikation mit objekten", "verhaltensforschung"]
 slug: "warum-wir-mit-dingen-sprechen-psychologie-hinter-dem-verhalten"
+description: "Warum wir mit leblosen Dingen sprechen und was die Psychologie hinter diesem faszinierenden menschlichen Instinkt verrät, erfahren Sie in diesem Artikel."
 ---
 
 „Verdammt noch mal, du störrisches Ding, jetzt druck endlich das Dokument aus!“ Wer hat sich nicht schon einmal dabei ertappt, wie er seinen Drucker anschreit, als wäre er ein bockiger Teenager? Oder den Saugroboter liebevoll „Robi“ nennt und ihm gut zuredet, wenn er sich unter dem Sofa festgefahren hat?

@@ -5,6 +5,7 @@ draft: false
 categories: ["finance"]
 tags: ["lifestyle inflation", "salary increase", "financial freedom", "personal finance", "wealth building", "career growth", "budget tips"]
 slug: "got-a-massive-salary-jump-how-to-avoid-the-lifestyle-trap"
+description: "Stop lifestyle creep after a major salary jump by using the 50% rule to grow your wealth and achieve true financial freedom instead of just higher monthly..."
 ---
 
 You just landed a massive promotion, or maybe a new role that finally hits that salary number you’ve been chasing for years. You should be popping champagne. Instead, you’re likely staring at your bank account feeling a weird mix of excitement and paralyzing anxiety. 

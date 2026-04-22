@@ -5,6 +5,7 @@ draft: false
 categories: ["finance"]
 tags: ["child spending", "online safety", "credit card debt", "parenting tips", "financial advice", "in-app purchases", "family finance", "digital security"]
 slug: "child-spent-10k-online-here-s-how-to-handle-the-bill"
+description: "Discover a step-by-step guide on how to dispute unauthorized charges and reclaim your money if your child has made accidental purchases on your credit card."
 ---
 
 You open your credit card statement, expecting a routine list of grocery runs and utility bills, and instead, you see a five-figure charge. A $10,000 hole in your bank account because your eight-year-old wanted the latest "legendary" skin, a pile of digital coins, or a fleet of virtual race cars. 

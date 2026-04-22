@@ -5,6 +5,7 @@ draft: false
 categories: ["politics"]
 tags: ["2026 world cup", "fifa controversy", "football politics", "sports economics", "fan engagement", "world cup boycott", "sports industry", "ticket pricing"]
 slug: "72-rejection-why-fans-are-turning-away-from-the-2026-wc"
+description: "With 72% of fans losing interest in the 2026 World Cup, discover why astronomical costs and privacy concerns are alienating the heart of football culture."
 ---
 
 Is it still "the beautiful game" if you can’t afford a ticket—or if the price of admission is your own digital privacy?

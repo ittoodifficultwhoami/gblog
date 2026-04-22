@@ -5,6 +5,7 @@ draft: false
 categories: ["politics"]
 tags: ["pope leo xiv", "geopolitics", "global conflict", "tyranny", "international relations", "politics", "vatican", "current events"]
 slug: "pope-leo-xiv-denounces-global-conflict-and-tyranny"
+description: "Pope Leo XIV challenges the current global landscape by denouncing escalating military conflicts and political tyranny in a high-stakes standoff for peace."
 ---
 
 We are living through a period of pure whiplash. Just when you think the news cycle has finally hit a breaking point, the geopolitical landscape shifts again, and public discourse spirals into new levels of vitriol. If you’re exhausted by watching leaders trade insults while the world grapples with active military conflicts, you aren't alone. Honestly, I think most of us are just about done with the circus.

@@ -5,6 +5,7 @@ draft: false
 categories: ["lifestyle"]
 tags: ["productivity hacks", "digital communication", "communication tips", "time management", "personal organization", "life skills", "reducing digital stress"]
 slug: "stop-forgetting-to-reply-a-simple-trick-to-stay-responsive"
+description: "Tired of accidentally ghosting friends? Discover a simple psychological trick to help you stop forgetting to reply and master your digital communication habits."
 ---
 
 We’ve all been there. Your phone buzzes, you pull it out, and see a text from a friend. You read it, think, "I’ll get to that later," and then… you completely forget. Hours later, you find the notification, feel a pang of guilt, and realize you’ve officially become "that person"—the one who accidentally ghosts everyone they know.

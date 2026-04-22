@@ -5,6 +5,7 @@ draft: false
 categories: ["tech"]
 tags: ["los angeles dodgers", "digital divide", "sports technology", "senior accessibility", "mobile ticketing", "fan experience", "digital exclusion"]
 slug: "the-dodgers-digital-only-policy-excludes-loyal-seniors"
+description: "The Dodgers' mandatory digital ticketing policy is alienating long-time senior fans, raising concerns about accessibility and the real cost of innovation."
 ---
 
 Imagine you’ve been a season ticket holder for the same team for 50 years. You were there during the Nixon administration, you weathered the losing seasons, you cheered through the championships, and you kept your seat through thick and thin. Then, at 82 years old, you’re told your loyalty doesn’t grant you one simple request: a physical piece of paper to get into the stadium.

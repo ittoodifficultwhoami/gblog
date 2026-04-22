@@ -5,6 +5,7 @@ draft: false
 categories: ["finance"]
 tags: ["federal reserve", "interest rates", "inflation", "jerome powell", "monetary policy", "stagflation", "finance", "economy"]
 slug: "why-the-fed-won-t-cut-rates-despite-trump-s-demands"
+description: "Despite political pressure for rate cuts, the Fed is holding steady because interest rates cannot solve the physical supply chain crisis and inflation."
 ---
 
 The Federal Reserve is holding interest rates steady because the price of gas and food is surging, and no amount of interest rate cuts will fix a broken supply chain. Do not let the political shouting match distract you from the fact that this is a physical shortage, not a monetary one.

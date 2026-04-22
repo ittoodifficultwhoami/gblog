@@ -5,6 +5,7 @@ draft: false
 categories: ["politics"]
 tags: ["ukraine", "drone warfare", "military technology", "defense industry", "uav manufacturing", "geopolitics", "innovation"]
 slug: "why-ukraine-s-drone-makers-are-building-factories-abroad"
+description: "Discover why Ukrainian drone innovators are secretly building factories abroad to navigate wartime export bans and sustain rapid, survival-driven production."
 ---
 
 If you’ve been following the news lately, you’re probably feeling a sense of whiplash. One day, you’re reading about major international defense firms partnering with Ukraine; the next, you’re seeing headlines about Ukrainian drone companies secretly building "parallel" factories abroad, bypassing their own government.

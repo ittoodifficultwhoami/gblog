@@ -5,6 +5,7 @@ draft: false
 categories: ["entertainment"]
 tags: ["youtube収益化", "youtube規制", "ai審査", "クリエイター活動休止", "youtubeポリシー", "動画投稿者", "ネットニュース"]
 slug: "youtube-ai-"
+description: "YouTubeのAI審査が強化され収益化停止が相次ぐ今、人気配信者も陥るリスクと新たに刷新されたガイドラインの基準を徹底解説します。"
 ---
 
 「YouTubeで急に収益化が止まった」「お気に入りのチャンネルが突然消えた」。SNSでそんな悲鳴を目にする機会が増えましたよね。

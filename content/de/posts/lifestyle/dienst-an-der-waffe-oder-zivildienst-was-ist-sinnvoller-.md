@@ -5,6 +5,7 @@ draft: false
 categories: ["lifestyle"]
 tags: ["wehrdienst", "zivildienst", "bundeswehr", "gesellschaft", "pflegekräftemangel", "wehrpflicht", "politische debatte", "wdmog"]
 slug: "dienst-an-der-waffe-oder-zivildienst-was-ist-sinnvoller-"
+description: "Wehrdienst oder Zivildienst? Erfahren Sie, ob die neuen Reformen der Bundeswehr sinnvoll sind oder unsere gesellschaftlichen Krisen besser anders gelöst werden."
 ---
 
 Haben Sie sich in den letzten Monaten auch gefragt, warum wir ständig über die Bundeswehr debattieren, während unsere Pflegeheime händeringend Personal suchen? In den Nachrichten dreht sich fast alles um den neuen Wehrdienst von Boris Pistorius. Dabei stellt sich beim Abendessen oder am Stammtisch ganz direkt die Frage: Wäre eine Neuauflage des Zivildienstes nicht viel sinnvoller als der Dienst an der Waffe?

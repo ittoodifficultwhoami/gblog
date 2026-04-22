@@ -5,6 +5,7 @@ draft: false
 categories: ["lifestyle"]
 tags: ["productivity", "time management", "workplace etiquette", "professionalism", "meeting management", "team culture", "business efficiency"]
 slug: "stop-rewarding-chronic-lateness-start-meetings-on-time"
+description: "Stop rewarding chronic lateness and reclaim your team's productivity by learning why starting meetings on time is essential for a professional culture."
 ---
 
 We’ve all been there. You’re sitting in a conference room—or staring at a blank Zoom screen—waiting for "that one person." You know the one. They aren’t just five minutes behind; they are consistently, reliably, and frustratingly late.

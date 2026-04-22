@@ -5,6 +5,7 @@ draft: false
 categories: ["sports"]
 tags: ["nba", "oklahoma city thunder", "2025 nba champions", "shai gilgeous-alexander", "white house visit", "sports politics", "nba news"]
 slug: "why-the-2025-nba-champion-thunder-are-skipping-the-white-house"
+description: "The 2025 NBA champion Thunder are skipping their White House visit to avoid political controversy and protect their players, setting a precedent for businesses."
 ---
 
 The Oklahoma City Thunder are skipping their White House visit this March, even after winning the 2025 NBA Championship. While the front office blames a scheduling conflict, the reality is simpler: the team is ducking a messy political headache. When your best player hails from a country currently in the administration’s crosshairs, dragging the whole roster to D.C. is a PR disaster waiting to happen.

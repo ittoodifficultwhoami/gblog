@@ -13,8 +13,7 @@
       <link>https://minweb.shop/jp/posts/tech/claude-md-100-35/</link>
       <pubDate>Thu, 02 Apr 2026 07:52:27 +0900</pubDate>
       <guid>https://minweb.shop/jp/posts/tech/claude-md-100-35/</guid>
-      <description>&lt;p&gt;Ever feel like you’re writing a constitution for your AI, only to have it ignore half the rules? You spend hours crafting a detailed &lt;code&gt;CLAUDE.md&lt;/code&gt;, meticulously defining every architectural pattern and directory structure, convinced that more is better. Then you send a prompt, and the AI immediately reverts to generic habits, completely ignoring the specific library versions or formatting styles you spent all afternoon codifying.&lt;/p&gt;
-&lt;p&gt;If this sounds familiar, you aren&amp;rsquo;t alone. You’ve fallen victim to the &amp;ldquo;AI Ritual&amp;rdquo;—the tendency to over-engineer prompts to appease an AI that is already smarter than we give it credit for. Honestly, I’ve been guilty of this more times than I care to admit.&lt;/p&gt;</description>
+      <description>CLAUDE.mdを100行から35行へ減らすだけでAIの精度が上がる理由を解説。過剰な指示を削ぎ落とし、AIの注意力を最大化する最適化の秘訣を公式仕様に基づき紹介します。</description>
     </item>
   </channel>
 </rss>

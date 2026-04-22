@@ -5,6 +5,7 @@ draft: false
 categories: ["finance"]
 tags: ["asylrecht", "artikel 16a grundgesetz", "migrationspolitik", "staatsfinanzen", "flüchtlingsdebatte", "soziale kosten", "deutschland politik"]
 slug: "asylrecht-ist-die-abschaffung-von-artikel-16a-sinnvoll-"
+description: "Ist die Abschaffung von Artikel 16a des Grundgesetzes sinnvoll? Eine sachliche Analyse der Zahlen zeigt, welche Rolle das Asylrecht in der Migrationsdebatte..."
 ---
 
 Haben Sie auch das Gefühl, dass sich die Debatte über Asyl und Migration in Deutschland in einem emotionalen Dauerkreislauf dreht? Viele Menschen, mit denen man heute spricht, sind schlicht frustriert. Sie sehen, wie sich der soziale Zusammenhalt verändert und hören von Milliardenkosten für den Staatshaushalt. Da stellt sich zwangsläufig die Frage: Ist das individuelle Grundrecht auf Asyl aus Artikel 16a des Grundgesetzes ein Relikt aus einer anderen Zeit? Angesichts einer „Nachhaltigkeitslücke“ von 19,2 Billionen Euro wirkt der Gedanke an ein „nicht mehr leisten können“ auf viele verlockend.

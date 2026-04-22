@@ -5,6 +5,7 @@ draft: false
 categories: ["tech"]
 tags: ["leonid radvinsky", "onlyfans", "creator economy", "tech news", "billionaire", "business leadership", "digital media"]
 slug: "leonid-radvinsky-dies-at-43-what-s-next-for-onlyfans-"
+description: "Following the death of Leonid Radvinsky at 43, explore how the future of OnlyFans faces a critical transition and what it means for the platform's legacy."
 ---
 
 Leonid Radvinsky died at 43. It is a blunt reminder that even billions in the bank offer zero immunity against biology. Whether you see him as a genius who democratized the creator economy or someone who simply monetized loneliness, his death leaves behind a massive corporate machine and a whole lot of questions about what actually matters when you are gone.

@@ -5,6 +5,7 @@ draft: false
 categories: ["finance"]
 tags: ["apple", "john ternus", "tim cook", "tech news", "ceo transition", "apple leadership", "finance", "business strategy"]
 slug: "john-ternus-named-apple-ceo-as-tim-cook-becomes-chairman"
+description: "Apple veteran John Ternus takes the helm as CEO while Tim Cook transitions to Executive Chairman, marking a strategic new chapter for the tech giant."
 ---
 
 Rarely does the ground shift under your feet quite like this. For fifteen years, Apple and Tim Cook have been inseparable. Whether you’re an investor, a die-hard iPhone user, or just someone watching the tech circus from the sidelines, you’ve got an opinion on his run. Today, that era comes to a calculated, historic close.

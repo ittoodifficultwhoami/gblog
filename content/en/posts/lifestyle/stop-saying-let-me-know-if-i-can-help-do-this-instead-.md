@@ -5,6 +5,7 @@ draft: false
 categories: ["lifestyle"]
 tags: ["emotional support", "how to help a friend", "grief support", "communication tips", "mental health awareness", "empathy", "relationship advice", "personal development"]
 slug: "stop-saying-let-me-know-if-i-can-help-do-this-instead-"
+description: "Stop saying let me know if I can help and learn how to offer meaningful support that reduces cognitive load for those navigating grief or a major crisis."
 ---
 
 We’ve all been there. A friend, colleague, or family member goes through a major loss or a traumatic event, and we want to show we care. We send a quick text: *"So sorry for your loss. Please, let me know if there is anything I can do."*

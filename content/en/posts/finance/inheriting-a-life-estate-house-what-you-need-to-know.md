@@ -5,6 +5,7 @@ draft: false
 categories: ["finance"]
 tags: ["life estate", "estate planning", "property inheritance", "real estate law", "blended family finance", "probate avoidance", "remainderman", "inheritance rights"]
 slug: "inheriting-a-life-estate-house-what-you-need-to-know"
+description: "Understand your rights and responsibilities when inheriting a property with a life estate to ensure a smooth transition of ownership and avoid legal disputes."
 ---
 
 It’s a common puzzle: Your parent wants to provide a home for their spouse—your step-parent—for the rest of their life, but they also want to make sure you eventually inherit the property.

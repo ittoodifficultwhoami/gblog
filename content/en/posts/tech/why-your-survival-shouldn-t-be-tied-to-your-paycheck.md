@@ -5,6 +5,7 @@ draft: false
 categories: ["tech"]
 tags: ["workplace culture", "tech layoffs", "healthcare inequality", "job security", "employee benefits", "corporate responsibility", "american workforce"]
 slug: "why-your-survival-shouldn-t-be-tied-to-your-paycheck"
+description: "Discover why relying on employer-provided benefits creates dangerous instability and explore the historical context of tying your survival to your paycheck."
 ---
 
 If you’ve ever felt like your employer holds your entire life in their hands, you aren't being paranoid. You’re just observing how the American workforce actually functions.

@@ -5,6 +5,7 @@ draft: false
 categories: ["finance"]
 tags: ["ccrc", "medicaid eligibility", "inherited money", "retirement planning", "long-term care", "senior living finance", "probate law"]
 slug: "inherited-money-and-ccrcs-how-to-protect-your-mil-s-future"
+description: "Protect your mother-in-law’s CCRC residency and Medicaid eligibility by learning how to properly manage an inheritance without triggering contract penalties."
 ---
 
 It feels like winning the lottery—a sudden, unexpected inheritance arriving right as your mother-in-law moves into a Continuing Care Retirement Community (CCRC). But in the world of high-stakes senior living, "luck" comes with a complex set of legal and financial strings.

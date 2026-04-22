@@ -5,6 +5,7 @@ draft: false
 categories: ["health"]
 tags: ["gym anxiety", "fitness culture", "gym stories", "workout tips", "fitness motivation", "gym etiquette", "health and wellness", "beginner fitness"]
 slug: "gym-story-saturday-why-your-gym-anxiety-is-normal"
+description: "Feeling intimidated at the gym? Discover why gym anxiety is a universal experience and learn how to navigate fitness culture with confidence and ease."
 ---
 
 If you’ve ever felt like the gym is less of a sanctuary and more of a social experiment gone wrong, you aren’t alone. We’ve all been there: staring at a machine we don’t know how to use, watching someone occupy an entire row of dumbbells for their "private" workout, or wondering if that guy in the leather jacket is actually training or filming an avant-garde music video. Honestly, some of these people act like they’re the only ones who pay a membership fee.

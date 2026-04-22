@@ -5,6 +5,7 @@ draft: false
 categories: ["tech"]
 tags: ["gen z", "digital minimalism", "analog revolution", "offline living", "tech trends", "screen time", "analog technology", "unplugging"]
 slug: "the-5-billion-analog-rebellion-why-gen-z-is-going-offline"
+description: "Discover why Gen Z is driving a $5 billion analog rebellion by ditching smart tech for reliable, simple hardware to escape the exhaustion of constant..."
 ---
 
 Does your smart refrigerator ever stop working because it needs a software update? Does your daily screen time report make you want to throw your phone into a lake? You aren’t alone.

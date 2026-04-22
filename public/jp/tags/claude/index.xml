@@ -13,54 +13,21 @@
       <link>https://minweb.shop/jp/posts/tech/claude-80/</link>
       <pubDate>Sun, 12 Apr 2026 07:45:56 +0900</pubDate>
       <guid>https://minweb.shop/jp/posts/tech/claude-80/</guid>
-      <description>&lt;p&gt;「Claudeとの会話、長すぎて疲れる」「返信が丁寧すぎて、かえって本質が見えにくい」。そんなふうに感じたことはありませんか？&lt;/p&gt;
-&lt;p&gt;特にClaude Codeでバリバリ開発している人や、APIを触るエンジニアにとって、AIの「礼儀正しさ」は単なるノイズです。今、海外で**「原始人プロンプト（Caveman Prompt）」**という手法が密かにブームになっています。&lt;/p&gt;
-&lt;p&gt;これを使うだけで、&lt;strong&gt;出力トークンを最大80%も削減できる&lt;/strong&gt;んです。なぜ「原始人」になることが最強の効率化なのか。その正体を解説します。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;そもそも原始人プロンプトとは&#34;&gt;そもそも「原始人プロンプト」とは？&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&#34;Simple cartoon illustration: A split screen comparing a robot in a tuxedo (labeled &amp;ldquo;Normal AI&amp;rdquo;) and a simple robot with a club (labeled &amp;ldquo;Caveman AI&amp;rdquo;).&#34; loading=&#34;lazy&#34; src=&#34;https://minweb.shop/images/claude-80-_0.png&#34;&gt;&lt;/p&gt;
-&lt;p&gt;「原始人プロンプト（Caveman Prompt）」は、Claude CodeのコミュニティでJulius Brussee氏が考案したテクニックです。&lt;/p&gt;
-&lt;p&gt;やり方は拍子抜けするほど簡単。システム設定か&lt;code&gt;CLAUDE.md&lt;/code&gt;に、たった一行の英語を書き込むだけ。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;&amp;ldquo;Respond terse like smart caveman. All technical substance stay. Only fluff die. No greetings, no preamble.&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;日本語に訳すとこんな感じ。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;「原始人のように喋れ。中身は全部残せ。無駄だけ消せ。敬語、挨拶、前置き、丁寧な助詞、すべて不要。技術的な核心のみを最短で伝えろ。」&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;誤解しないでほしいのは、これは「オレサマ、オマエ、マルカジリ」みたいなロールプレイング遊びじゃないってこと。目的は、人間らしい丁寧なコミュニケーションという「無駄」を削ぎ落として、情報の密度を限界まで高めることにあります。AIの饒舌さに疲れた時、これが意外と効くんですよ。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;なぜトークンが5分の1になるのか&#34;&gt;なぜトークンが「5分の1」になるのか&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&#34;Simple cartoon illustration: A bar chart showing a long, heavy stack of &amp;ldquo;Fluff&amp;rdquo; blocks next to a tiny, dense stack of &amp;ldquo;Core Data&amp;rdquo; blocks.&#34; loading=&#34;lazy&#34; src=&#34;https://minweb.shop/images/claude-80-_1.png&#34;&gt;&lt;/p&gt;</description>
+      <description>Claudeの応答から無駄を削ぎ落とし、トークン消費量を最大80%削減する「原始人プロンプト」の活用術を解説。AIの饒舌さに疲れたエンジニア必見の、コストを抑えて情報の密度を極限まで高めるための技術的アプローチです。</description>
     </item>
     <item>
       <title>国交省のMCPサーバーとは？AIで不動産情報を一瞬で取得</title>
       <link>https://minweb.shop/jp/posts/tech/mcp-ai/</link>
       <pubDate>Mon, 06 Apr 2026 08:15:39 +0900</pubDate>
       <guid>https://minweb.shop/jp/posts/tech/mcp-ai/</guid>
-      <description>&lt;p&gt;「住所を入れたら、その場の地価やハザードマップがパッと出てこないかな……」&lt;/p&gt;
-&lt;p&gt;そんなふうに思ったことはありませんか？これまでの不動産サイトは使いにくいものが多く、APIを使おうにも専門的な知識がないと手が出せませんでした。&lt;/p&gt;
-&lt;p&gt;ところが2026年2月、国土交通省が驚きのプロジェクトを公開しました。それが**「地理空間MCP Server（MLIT Geospatial MCP Server）」**です。界隈ではすでに「神ツール」と噂されています。&lt;/p&gt;
-&lt;p&gt;「お役所仕事でしょ？」と思ったあなた。いい意味で期待を裏切られますよ。なぜこの技術がここまで騒がれているのか、どう活用すればいいのかをサクッと解説します。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;そもそもmcpって何&#34;&gt;そもそも「MCP」って何？&lt;/h2&gt;
-&lt;p&gt;このツールを理解するには、「MCP」を知る必要があります。&lt;/p&gt;
-&lt;p&gt;**MCP（Model Context Protocol）**を一言で言えば、「AIと外部データをつなぐ共通のルール」です。これまでのChatGPTやClaudeに「今の地価を教えて」と聞いても、正確な最新データは返ってきませんでした。&lt;/p&gt;
-&lt;p&gt;以前はAIにデータを使わせるために、サービスごとに専用のプログラムを作る必要がありました。でも、この「MCP」という規格ができたおかげで、一度設定するだけで、どんなAIでも国交省のデータベースにアクセスできるようになったんです。&lt;/p&gt;
-&lt;p&gt;つまり、**「AIが直接、国土交通省の図書館に入って答えを探してきてくれる」**ようになったわけです。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;なぜこれほど話題なのか&#34;&gt;なぜ、これほど話題なのか？&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&#34;Simple cartoon illustration: Three floating icons: a simplified head with an easy-button, a stack of data layers, and a government document with a checkmark.&#34; loading=&#34;lazy&#34; src=&#34;https://minweb.shop/images/-mcp-ai-_0.png&#34;&gt;&lt;/p&gt;
-&lt;p&gt;この「地理空間MCP Server」が画期的な理由は、大きく分けて3つあります。&lt;/p&gt;
-&lt;h3 id=&#34;1-専門知識の壁が消えた&#34;&gt;1. 専門知識の壁が消えた&lt;/h3&gt;
-&lt;p&gt;これまで地図データや空間解析を扱うには、GISソフトの操作や複雑なクエリを書く高度なスキルが不可欠でした。正直、学習コストが高すぎてエンジニア以外にはハードルが高すぎたんです。でも、このツールなら自然言語で指示を出すだけで複雑な空間分析が実行できます。専門的なコマンドを覚える必要はもうありません。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Simple cartoon illustration: A user speaking into a microphone, and a friendly robot transforming complex code icons into a simple speech bubble saying &amp;ldquo;Safe &amp;amp; Affordable.&amp;rdquo;&#34; loading=&#34;lazy&#34; src=&#34;https://minweb.shop/images/-mcp-ai-_1.png&#34;&gt;&lt;/p&gt;</description>
+      <description>国土交通省の地理空間MCP Serverで何ができるのか？AIを使って不動産情報やハザードマップを一瞬で取得・分析する方法を分かりやすく解説します。</description>
     </item>
     <item>
       <title>なぜCLAUDE.mdは100行より35行が最強なのか？公式仕様で解説</title>
       <link>https://minweb.shop/jp/posts/tech/claude-md-100-35/</link>
       <pubDate>Thu, 02 Apr 2026 07:52:27 +0900</pubDate>
       <guid>https://minweb.shop/jp/posts/tech/claude-md-100-35/</guid>
-      <description>&lt;p&gt;Ever feel like you’re writing a constitution for your AI, only to have it ignore half the rules? You spend hours crafting a detailed &lt;code&gt;CLAUDE.md&lt;/code&gt;, meticulously defining every architectural pattern and directory structure, convinced that more is better. Then you send a prompt, and the AI immediately reverts to generic habits, completely ignoring the specific library versions or formatting styles you spent all afternoon codifying.&lt;/p&gt;
-&lt;p&gt;If this sounds familiar, you aren&amp;rsquo;t alone. You’ve fallen victim to the &amp;ldquo;AI Ritual&amp;rdquo;—the tendency to over-engineer prompts to appease an AI that is already smarter than we give it credit for. Honestly, I’ve been guilty of this more times than I care to admit.&lt;/p&gt;</description>
+      <description>CLAUDE.mdを100行から35行へ減らすだけでAIの精度が上がる理由を解説。過剰な指示を削ぎ落とし、AIの注意力を最大化する最適化の秘訣を公式仕様に基づき紹介します。</description>
     </item>
   </channel>
 </rss>

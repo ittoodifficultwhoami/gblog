@@ -5,6 +5,7 @@ draft: false
 categories: ["finance"]
 tags: ["retirement planning", "investment losses", "conservative portfolio", "mutual funds", "bond market volatility", "financial literacy", "investment fees", "wealth management"]
 slug: "why-your-conservative-retirement-fund-lost-21-000"
+description: "Learn how hidden fees and bond market volatility led to a $21,000 loss in a conservative retirement fund and discover how to safeguard your financial future."
 ---
 
 Imagine opening your retirement statement expecting your savings to have grown over the last decade, only to find that $60,000 has shrunk to $39,000. It’s a punch to the gut. You expect a "conservative" fund to be a safe harbor—a place where your money works quietly and reliably, protected from the wild swings of the stock market.

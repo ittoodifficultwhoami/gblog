@@ -5,6 +5,7 @@ draft: false
 categories: ["lifestyle"]
 tags: ["appearance bias", "weight penalty", "halo effect", "body image", "social psychology", "weight discrimination", "societal beauty standards"]
 slug: "the-weight-penalty-why-appearance-bias-rules-our-lives"
+description: "Explore the systemic weight penalty and the Halo Effect to understand how appearance bias influences careers, relationships, and our digital experiences."
 ---
 
 Have you ever felt like you were playing a rigged game without being given the rulebook?

@@ -5,6 +5,7 @@ draft: false
 categories: ["finance"]
 tags: ["college roi", "student debt", "college savings", "higher education costs", "tuition planning", "financial aid", "education investment", "paying for college"]
 slug: "should-you-pay-for-that-expensive-college-a-roi-guide"
+description: "Stop guessing if an expensive college degree is worth the cost by learning how to calculate your child's education ROI through debt and salary projections."
 ---
 
 It’s the conversation every parent dreads. Your daughter walks into the kitchen, eyes bright with excitement, and announces she’s set her heart on a prestigious—and likely very expensive—university. You’re already busy calculating the mortgage, your retirement, and the staggering reality of current tuition rates. (Honestly, I still break into a cold sweat thinking about what college will cost in ten years.)

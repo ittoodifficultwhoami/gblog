@@ -5,6 +5,7 @@ draft: false
 categories: ["politics"]
 tags: ["reddit", "online privacy", "digital surveillance", "ice", "government censorship", "civil liberties", "internet anonymity", "data privacy"]
 slug: "us-government-demands-reddit-identify-ice-critic"
+description: "A recent legal battle between the US government and Reddit highlights the fragile nature of digital privacy as federal agents pursue an anonymous ICE critic."
 ---
 
 When you post a comment online, do you think of yourself as a digital phantom, or do you assume someone is watching? For most of us, the internet feels like a vast, anonymous playground where we can vent our frustrations or critique public figures. But a recent legal battle between Reddit and U.S. Immigration and Customs Enforcement (ICE) is blowing the lid off that illusion. It turns out the veil of online privacy is paper-thin. 

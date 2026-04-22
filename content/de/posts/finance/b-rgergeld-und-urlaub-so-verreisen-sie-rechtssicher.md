@@ -5,6 +5,7 @@ draft: false
 categories: ["finance"]
 tags: ["bürgergeld", "urlaub", "ortsabwesenheit", "jobcenter", "grundsicherung", "reisen", "sozialrecht"]
 slug: "b-rgergeld-und-urlaub-so-verreisen-sie-rechtssicher"
+description: "Dürfen Bürgergeld-Empfänger verreisen? Erfahren Sie, wie Sie Ihre 21 Tage Ortsabwesenheit rechtssicher planen und Ihren Urlaub ohne Probleme beim Jobcenter..."
 ---
 
 „Ich war seit Jahren nicht mehr weg.“ Diesen Satz hört man ständig, wenn es um das Thema Urlaub mit Bürgergeld geht. Die Frustration ist absolut verständlich: Während soziale Medien vor Reisebildern nur so strotzen, sitzen viele Bezieher von Grundsicherung fest. Oft reicht das Geld hinten und vorne nicht, oder die bürokratischen Hürden wirken wie eine unüberwindbare Mauer.

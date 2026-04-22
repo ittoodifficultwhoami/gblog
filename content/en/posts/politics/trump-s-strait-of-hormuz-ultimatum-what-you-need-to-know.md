@@ -5,6 +5,7 @@ draft: false
 categories: ["politics"]
 tags: ["donald trump", "strait of hormuz", "us foreign policy", "middle east conflict", "geopolitics", "oil prices", "iran relations", "international security"]
 slug: "trump-s-strait-of-hormuz-ultimatum-what-you-need-to-know"
+description: "Understand the geopolitical stakes behind Trump’s ultimatum regarding the Strait of Hormuz and how this escalation impacts global oil and regional security."
 ---
 
 If you’ve been checking your phone this week, you’ve likely seen the screenshot currently setting the internet on fire. It’s an Easter Sunday Truth Social post that, even by the standards of modern political discourse, feels like a fever dream. If you’re feeling confused, frustrated, or just plain exhausted by the barrage of notifications, you aren’t alone. I’m right there with you. We’re living through a volatile escalation in a conflict that feels increasingly chaotic despite its massive geopolitical stakes.

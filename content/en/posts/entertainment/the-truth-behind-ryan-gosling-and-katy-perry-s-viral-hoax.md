@@ -5,6 +5,7 @@ draft: false
 categories: ["entertainment"]
 tags: ["ryan gosling", "katy perry", "the onion", "viral hoax", "entertainment news", "project hail mary", "celebrity rumors", "satirical news"]
 slug: "the-truth-behind-ryan-gosling-and-katy-perry-s-viral-hoax"
+description: "Discover the truth behind the viral hoax claiming Ryan Gosling consulted Katy Perry for his space film and explore why this clever satire fooled the internet."
 ---
 
 Have you ever felt that sinking sensation when you see a headline and, for just a fraction of a second, find yourself nodding along—only to realize a moment later you’ve been completely "had"? 

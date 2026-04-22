@@ -5,6 +5,7 @@ draft: false
 categories: ["tech"]
 tags: ["ps5", "playstation 5", "ps5 pro", "sony", "gaming news", "console gaming", "tech news"]
 slug: "sony-increases-ps5-and-pro-prices-what-you-need-to-know"
+description: "Sony has announced significant price hikes across its entire PlayStation 5 lineup; find out what these increases mean for gamers and why costs are rising."
 ---
 
 If you’ve been waiting for the "right time" to buy a PlayStation 5—hoping for a discount or a standard price drop as the console aged—you’re likely feeling a massive sense of whiplash today. We were raised on the golden rule of consumer electronics: gadgets get cheaper the longer they sit on the shelf. You wait a year, the price dips. You wait two years, you get a bundle deal. 

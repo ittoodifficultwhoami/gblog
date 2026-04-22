@@ -5,6 +5,7 @@ draft: false
 categories: ["sports"]
 tags: ["a-league", "melbourne victory", "newcastle jets", "aami park", "eli adams", "australian soccer", "seagull invasion", "viral sports moments"]
 slug: "chaos-at-aami-park-eli-adams-stunner-in-seagull-swarm"
+description: "Discover how Eli Adams’ dramatic stoppage-time goal stole the spotlight during a bizarre seagull swarm that turned an A-League clash into a viral spectacle."
 ---
 
 If you were scrolling through your feed on Friday, April 17, 2026, you probably did a double-take. A clip from the A-League clash between Melbourne Victory and the Newcastle Jets at AAMI Park looked less like a sporting event and more like a scene straight out of a Hitchcock movie. 

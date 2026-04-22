@@ -5,6 +5,7 @@ draft: false
 categories: ["tech"]
 tags: ["gen z", "corporate ai", "workplace technology", "ai adoption", "employee engagement", "digital transformation", "future of work"]
 slug: "why-gen-z-is-sabotaging-corporate-ai-rollouts"
+description: "Gen Z employees aren't just sabotaging AI out of fear; they are reacting to a fundamental disconnect between corporate pressure and ineffective implementation."
 ---
 
 If you feel like your workplace has turned into a digital battlefield, you aren’t imagining things. Walk into any office or skim the Slack channels of a major corporation, and you’ll find a mess. Executives are shoving AI down everyone’s throats, while employees are either ignoring it, breaking it, or just plain exhausted by the whole charade.

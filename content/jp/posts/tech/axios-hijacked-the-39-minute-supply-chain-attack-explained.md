@@ -5,6 +5,7 @@ draft: false
 categories: ["tech"]
 tags: ["axios", "supply chain security", "cybersecurity", "npm", "software vulnerabilities", "javascript", "devsecops", "data breach"]
 slug: "axios-hijacked-the-39-minute-supply-chain-attack-explained"
+description: "Discover how a 39-minute hijacking of the Axios library exposed 600,000 downloads and learn essential lessons for securing your software supply chain today."
 ---
 
 Imagine waking up to news that a core piece of your software stack—a tool used by millions—has turned into a digital Trojan horse. You didn’t touch a single line of code, yet your servers are compromised.

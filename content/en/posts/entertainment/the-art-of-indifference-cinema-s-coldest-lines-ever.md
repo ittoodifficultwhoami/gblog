@@ -5,6 +5,7 @@ draft: false
 categories: ["entertainment"]
 tags: ["cinema", "movie quotes", "film analysis", "pop culture", "movie lines", "sigma energy", "entertainment"]
 slug: "the-art-of-indifference-cinema-s-coldest-lines-ever"
+description: "Explore why cinema’s coldest lines of indifference hit harder than any monologue and how these moments of detachment have become the ultimate power move."
 ---
 
 True power in cinema does not come from a screaming villain or a hero declaring their intent. It comes from indifference. A character who signals they are completely unbothered by an opponent lands harder than any monologue ever could.

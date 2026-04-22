@@ -5,6 +5,7 @@ draft: false
 categories: ["health"]
 tags: ["body silence", "body positivity", "weight stigma", "body neutrality", "mental health", "health at every size", "body shaming", "wellness"]
 slug: "the-case-for-body-silence-why-you-should-stop-commenting"
+description: "Stop commenting on people's bodies to protect their mental and physical well-being by choosing the respectful, scientifically-backed practice of body silence."
 ---
 
 Stop talking about people’s bodies. Even if you think you are being kind, you are crossing a line that has serious consequences for the other person’s health and mental well-being. Practicing **Body Silence** is the most respectful thing you can do for the people around you.

@@ -5,6 +5,7 @@ draft: false
 categories: ["entertainment"]
 tags: ["frühlingsgefühle", "wetter", "outdoor-aktivitäten", "sonnenschein", "freizeitgestaltung", "frühling", "natur", "lifestyle"]
 slug: "endlich-sonne-was-wir-bei-sch-nem-wetter-wirklich-tun"
+description: "Endlich Sonne: Erfahren Sie, warum es uns bei den ersten Sonnenstrahlen nach draußen zieht und wie sich unser Naturverständnis und Outdoor-Konsum heute wandeln."
 ---
 
 „Ist es bei euch auch so grau?“ Diese Frage hört man gerade in jedem Gespräch, egal ob unter Nachbarn oder in den sozialen Medien. Wir alle kennen das: Die Sehnsucht nach Sonne ist riesig, aber der Blick aus dem Fenster zeigt nur Einheitsgrau. Sobald die Wettervorhersage zweistellige Temperaturen verspricht, hält uns nichts mehr drinnen.

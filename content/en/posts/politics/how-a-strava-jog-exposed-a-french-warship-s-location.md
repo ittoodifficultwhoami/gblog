@@ -5,6 +5,7 @@ draft: false
 categories: ["politics"]
 tags: ["strava", "digital exhaust", "military security", "cybersecurity", "gps privacy", "warship tracking", "opsec", "fitness trackers"]
 slug: "how-a-strava-jog-exposed-a-french-warship-s-location"
+description: "A French warship’s location was compromised after a sailor’s public Strava jog, highlighting how personal fitness data creates massive national security risks."
 ---
 
 Your fitness tracker is a massive security risk, and it just exposed a billion-dollar warship. Journalists recently tracked the French aircraft carrier **FS Charles de Gaulle** across the Mediterranean simply by looking at a sailor’s public Strava account. The jogger ran laps on the deck, and because their GPS data was set to public, the entire world could see exactly where the ship was hiding.

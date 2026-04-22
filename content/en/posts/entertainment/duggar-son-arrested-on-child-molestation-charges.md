@@ -5,6 +5,7 @@ draft: false
 categories: ["entertainment"]
 tags: []
 slug: "duggar-son-arrested-on-child-molestation-charges"
+description: "Joseph Duggar, the 31-year-old son of the reality TV family, faces serious child molestation charges in Arkansas, shattering the family's wholesome image."
 ---
 
 ## When Reality TV Meets Harsh Reality

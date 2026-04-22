@@ -5,6 +5,7 @@ draft: false
 categories: ["finance"]
 tags: ["life estate", "inheritance", "estate planning", "property rights", "real estate law", "home ownership", "beneficiary rights"]
 slug: "inheriting-a-house-with-a-life-estate-what-you-should-know"
+description: "Inheriting a home with a life estate can be complex; learn your rights and responsibilities as a remainderman to navigate this legal arrangement confidently."
 ---
 
 It’s a scenario that catches most people off guard: your parent tells you they’re leaving you their house, but there’s a catch. You’ll get the property eventually, but your step-parent gets to live there for the rest of their life. 

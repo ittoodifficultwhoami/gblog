@@ -5,6 +5,7 @@ draft: false
 categories: ["tech"]
 tags: ["employee benefits", "job-linked healthcare", "corporate downsizing", "tech layoffs", "healthcare reform", "workplace security", "labor rights", "epic games"]
 slug: "the-hidden-cost-of-job-linked-benefits-a-tragic-case-study"
+description: "The tragic story of a terminally ill employee losing his benefits reveals the dangerous instability of tying essential health and life insurance to employment."
 ---
 
 If you’ve ever scrolled through social media and felt that sudden, cold pit in your stomach, you know exactly what I’m talking about. It’s that moment when a headline cuts through the noise and forces you to confront a terrifying reality: the systems we rely on to keep us safe are much more fragile than we admit.

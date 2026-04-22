@@ -5,6 +5,7 @@ draft: false
 categories: ["lifestyle"]
 tags: ["texting etiquette", "digital communication", "social anxiety", "healthy relationships", "modern dating", "communication skills", "phone calls vs texting"]
 slug: "when-texting-feels-cold-should-you-make-the-call-"
+description: "When digital communication leads to confusion or anxiety, learn the science behind why texting often fails and how to decide when a phone call is worth it."
 ---
 
 Have you ever stared at your phone, heart rate climbing, trying to figure out if that short, punctuation-free text was playful or just cold? You read it once, then again. You type out a reply, delete it, and start over. 

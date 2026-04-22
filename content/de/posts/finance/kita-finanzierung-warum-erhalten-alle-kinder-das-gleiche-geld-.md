@@ -5,6 +5,7 @@ draft: false
 categories: ["finance"]
 tags: ["kita-finanzierung", "baykibig", "bildungsgerechtigkeit", "kindertagesstätte", "bildungspolitik", "soziale gerechtigkeit", "kinderbetreuung", "kita-finanzierung bayern"]
 slug: "kita-finanzierung-warum-erhalten-alle-kinder-das-gleiche-geld-"
+description: "Warum erhalten alle Kinder in Bayern die gleiche staatliche Förderung? Verstehen Sie das System der kindbezogenen Finanzierung und die Debatte um..."
 ---
 
 „Warum bekommt der Kindergarten im Luxusviertel eigentlich genauso viel Geld wie der in meinem sozial schwächeren Viertel?“ – diese Frage höre ich ständig. Auf den ersten Blick wirkt das komplett ungerecht. Warum sollte eine Kita im reichen Grünwald, das in Gewerbesteuern schwimmt, genauso viel staatliche Förderung erhalten wie eine Einrichtung in einem Stadtteil, der jeden Cent bitter nötig hat? 

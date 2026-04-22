@@ -5,6 +5,7 @@ draft: false
 categories: ["entertainment"]
 tags: ["the drama", "zendaya", "robert pattinson", "a24", "kristoffer borgli", "movie poster", "viral poster", "internet reaction"]
 slug: "why-the-new-the-drama-poster-has-the-internet-spiraling"
+description: "Discover why the gritty, unconventional new poster for The Drama featuring Zendaya and Robert Pattinson has sparked a massive viral reaction across the..."
 ---
 
 If you’ve felt like Zendaya and Robert Pattinson are haunting your social media feed lately, you aren’t losing your mind. We are officially living in the "Year of Zendaya & Pattinson," and the latest spark in this firestorm is that wild new poster for their upcoming A24 flick, *The Drama*.

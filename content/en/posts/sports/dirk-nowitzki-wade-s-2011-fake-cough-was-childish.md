@@ -5,6 +5,7 @@ draft: false
 categories: ["sports"]
 tags: ["dirk nowitzki", "dwyane wade", "nba finals 2011", "dallas mavericks", "miami heat", "nba rivalry", "basketball history"]
 slug: "dirk-nowitzki-wade-s-2011-fake-cough-was-childish"
+description: "Thirteen years later, Dirk Nowitzki and Dwyane Wade reflect on the infamous 2011 Finals coughing scandal that turned a heated rivalry into a personal regret."
 ---
 
 Ever wonder why some sports rivalries feel so personal, even years after the players retire? It’s rarely about the final score. Usually, it’s a single, awkward moment caught on camera that leaves a bad taste in everyone’s mouth for a decade.

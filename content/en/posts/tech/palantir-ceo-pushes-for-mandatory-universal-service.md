@@ -5,6 +5,7 @@ draft: false
 categories: ["tech"]
 tags: ["palantir", "alex karp", "mandatory national service", "universal service", "selective service", "ndaa", "tech policy", "government tracking"]
 slug: "palantir-ceo-pushes-for-mandatory-universal-service"
+description: "Discover why Palantir CEO Alex Karp is advocating for mandatory national service and how new government policies are moving toward automatic draft registration."
 ---
 
 If you feel like the world is moving faster than you can keep up with, and the distance between those in charge and the rest of us is widening, you aren’t imagining it. A conversation is brewing in the halls of power that sounds like something straight out of a dystopian novel, but it’s rapidly becoming government policy.

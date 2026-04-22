@@ -5,6 +5,7 @@ draft: false
 categories: ["entertainment"]
 tags: []
 slug: "project-hail-mary-shatters-amazon-opening-weekend-records"
+description: "Project Hail Mary is a record-breaking sci-fi hit that delivers smart, original storytelling and stunning visuals; find out why this blockbuster is worth..."
 ---
 
 **Project Hail Mary** is the rare blockbuster that actually earns its hype. If you have been looking for a reason to head to the theater, buy a ticket. This is the biggest non-franchise hit since **Oppenheimer**, and it lives up to the reputation.

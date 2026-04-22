@@ -5,6 +5,7 @@ draft: false
 categories: ["politics"]
 tags: ["political consumerism", "political polarization", "voting behavior", "democracy", "political discourse", "bpb", "right-wing extremism", "political participation"]
 slug: "politics-as-a-consumer-choice-where-do-we-draw-the-line-"
+description: "Is politics just a consumer choice? Explore the ethical implications of comparing voting to retail, the law on voter bribery, and where we draw the line today."
 ---
 
 Have you ever felt like politics is just another consumer choice? Like picking a political party is basically the same thing as choosing a mobile phone provider? You look at the plans, weigh the costs, check the coverage, and decide which one fits your lifestyle best.

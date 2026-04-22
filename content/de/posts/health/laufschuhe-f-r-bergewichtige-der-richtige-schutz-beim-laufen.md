@@ -5,6 +5,7 @@ draft: false
 categories: ["health"]
 tags: ["laufschuhe", "laufen mit übergewicht", "gelenkschonend laufen", "laufanfänger", "laufschuhe beratung", "sport mit übergewicht", "laufverletzungen vermeiden"]
 slug: "laufschuhe-f-r-bergewichtige-der-richtige-schutz-beim-laufen"
+description: "Erfahren Sie, worauf es bei Laufschuhen für Übergewichtige ankommt, um Gelenke zu schonen, das Verletzungsrisiko zu minimieren und gesund in den Laufsport zu..."
 ---
 
 Du willst mit dem Laufen anfangen, um fitter zu werden oder Gewicht zu verlieren. Kaum hast du die ersten hundert Meter hinter dir, melden sich die Knie oder die Schienbeine brennen. Die Frustration ist groß, die Motivation im Keller und du fragst dich: „Sind meine Schuhe schuld oder bin ich einfach nicht für das Laufen gemacht?“

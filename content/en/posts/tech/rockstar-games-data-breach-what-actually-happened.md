@@ -5,6 +5,7 @@ draft: false
 categories: ["tech"]
 tags: ["rockstar games", "data breach", "cybersecurity", "gta vi", "gaming news", "tech security", "shinyhunters", "supply chain attack"]
 slug: "rockstar-games-data-breach-what-actually-happened"
+description: "Get the facts on the Rockstar Games data breach and learn how a supply-chain attack on a third-party service compromised data without affecting game..."
 ---
 
 It feels like a scene straight out of a *Grand Theft Auto* heist, but this time, it’s actually happening in the real world. If you’ve spent the last 48 hours refreshing your feed, terrified that hackers will hit "delete" on *GTA VI* and force us to wait until the year 3000 to play it, you aren't alone.

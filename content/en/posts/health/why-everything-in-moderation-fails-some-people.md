@@ -5,6 +5,7 @@ draft: false
 categories: ["health"]
 tags: ["moderation", "abstinence", "food addiction", "cravings", "mindful eating", "willpower", "healthy habits", "nutrition psychology"]
 slug: "why-everything-in-moderation-fails-some-people"
+description: "Stop blaming your willpower for failed moderation and learn why an abstainer mindset might be the key to finally overcoming your food cravings for good."
 ---
 
 If you cannot stop at one cookie, stop blaming your willpower. For about 20 percent of people, the standard advice to eat everything in moderation is not just unhelpful—it is a setup for failure.

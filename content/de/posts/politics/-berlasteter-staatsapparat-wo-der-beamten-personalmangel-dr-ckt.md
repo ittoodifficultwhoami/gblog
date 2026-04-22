@@ -5,6 +5,7 @@ draft: false
 categories: ["politics"]
 tags: ["öffentlicher dienst", "beamtenmangel", "verwaltungsreform", "personalnotstand", "politik deutschland", "staatsapparat", "lehrermangel", "fachkräftemangel"]
 slug: "-berlasteter-staatsapparat-wo-der-beamten-personalmangel-dr-ckt"
+description: "Deutschland leidet unter einem massiven Personalmangel im Staatsapparat: Erfahren Sie, in welchen kritischen Bereichen die Lücken klaffen und warum Sparen..."
 ---
 
 „Wann geht es den Beamten endlich ans Fett?“ – diese Frage liest man dieser Tage in sozialen Netzwerken, in Leserbriefen und an jedem Stammtisch. Der Frust ist spürbar. Während Bürger im Alltag oft vor verschlossenen Türen stehen, monatelang auf Termine warten oder vom Lehrermangel an der Schule ihrer Kinder hören, scheinen die Kosten für den Staatsapparat in die Höhe zu schießen.

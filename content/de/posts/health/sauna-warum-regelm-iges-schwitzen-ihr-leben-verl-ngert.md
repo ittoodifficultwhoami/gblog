@@ -5,6 +5,7 @@ draft: false
 categories: ["health"]
 tags: ["sauna", "gesundheit", "schwitzen", "wellness", "herzgesundheit", "langlebigkeit", "prävention", "stressabbau"]
 slug: "sauna-warum-regelm-iges-schwitzen-ihr-leben-verl-ngert"
+description: "Erfahren Sie, warum regelmäßiges Saunieren weit mehr als Entspannung ist und wie gezieltes Schwitzen nachweislich Ihr Herz stärkt und Ihre Lebenserwartung..."
 ---
 
 Haben Sie sich jemals gefragt, ob Schwitzen in der heißen Kabine mehr ist als nur ein Wellness-Trend? Vielleicht sind Sie früher jedes Wochenende in die Sauna gegangen, haben es aber aus Zeitmangel schleifen lassen. Oder Sie haben die Schwitzkur bisher komplett gemieden – wegen der Nacktheitskultur oder hygienischer Bedenken. Das kann ich sogar verstehen, auch wenn man da oft zu streng mit sich ist.

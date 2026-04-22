@@ -5,6 +5,7 @@ draft: false
 categories: ["finance"]
 tags: ["stagflation", "federal reserve", "interest rates", "economy", "inflation", "monetary policy", "geopolitics", "energy prices"]
 slug: "why-trump-s-demand-for-rate-cuts-won-t-fix-stagflation"
+description: "Discover why slashing interest rates won't resolve today's stagflation as supply-side shocks and energy costs continue to drive inflation beyond the Fed's..."
 ---
 
 The President wants lower interest rates, but the Federal Reserve is going to ignore him. Despite the shouting matches in the news, the White House has trapped itself. They are pushing for lower rates to save the economy, but their own geopolitical decisions are the very reason the economy is stalling.

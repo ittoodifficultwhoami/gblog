@@ -5,6 +5,7 @@ draft: false
 categories: ["health"]
 tags: ["deutsche mentalität", "psychologie", "ordnungsliebe", "alltagspsychologie", "gesellschaft", "preußische tugenden", "persönlichkeitsentwicklung"]
 slug: "warum-nehmen-deutsche-kleinigkeiten-so-pers-nlich-"
+description: "Warum nehmen Deutsche Kleinigkeiten so ernst? Entdecken Sie die historischen und psychologischen Gründe für die deutsche Ordnungsliebe und Regelverliebtheit."
 ---
 
 „Warum ist es so schwer, einfach mal Fünfe gerade sein zu lassen?“ Diese Frage hat sich sicher jeder schon mal gestellt, der an einer roten Ampel belehrt wurde, obwohl weit und breit kein Auto kam. Oder der einen wütenden Zettel am Auto hatte, weil er drei Zentimeter zu weit in der Einfahrt stand. Ehrlich gesagt: Ich finde das bei uns oft einfach nur anstrengend.

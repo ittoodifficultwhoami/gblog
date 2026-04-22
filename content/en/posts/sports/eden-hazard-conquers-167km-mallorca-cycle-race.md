@@ -5,6 +5,7 @@ draft: false
 categories: ["sports"]
 tags: ["eden hazard", "mallorca 312", "cycling", "professional athletes", "sports endurance", "road cycling", "post-football career"]
 slug: "eden-hazard-conquers-167km-mallorca-cycle-race"
+description: "Eden Hazard proves there is life after professional football by conquering the grueling 167km Mallorca 312 cycling race with impressive grit and humor."
 ---
 
 Have you ever finished a grueling workout—lungs burning, legs like lead—and thought, "I’ve earned this," only to reach for a greasy burger and a beer instead of a kale smoothie? You aren't alone. In fact, you’re in the same mental headspace as one of the most talented footballers of his generation: Eden Hazard.

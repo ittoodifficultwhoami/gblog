@@ -5,6 +5,7 @@ draft: false
 categories: ["entertainment"]
 tags: ["the bachelorette", "abc", "taylor frankie paul", "reality tv", "entertainment news", "vetting failures", "television industry"]
 slug: "why-abc-scrapped-the-bachelorette-over-vetting-failures"
+description: "ABC's decision to scrap The Bachelorette highlights a systemic failure in vetting as networks prioritize viral social media fame over basic contestant safety."
 ---
 
 Networks like ABC don’t just flush $20 million down the drain for fun. When they pulled the plug on the 22nd season of The Bachelorette just three days before it hit your screen, it wasn’t just a scheduling change. It was a massive, expensive failure of corporate oversight that proves reality television executives prioritize viral drama over basic safety every single time.

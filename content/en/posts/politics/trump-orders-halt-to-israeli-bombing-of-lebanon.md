@@ -5,6 +5,7 @@ draft: false
 categories: ["politics"]
 tags: ["donald trump", "israel lebanon conflict", "middle east politics", "lebanon bombing", "foreign policy", "geopolitics", "international relations"]
 slug: "trump-orders-halt-to-israeli-bombing-of-lebanon"
+description: "President Trump has ordered an immediate halt to Israeli bombing in Lebanon, marking a major geopolitical shift following months of humanitarian catastrophe."
 ---
 
 If you’ve been watching the news about the conflict in Lebanon, you aren't alone in feeling like you're trying to solve a Rubik’s Cube while it's on fire. The past few weeks have been a blur of shifting alliances, staggering casualty counts, and military maneuvers that feel impossible to track. One moment it’s a regional escalation, the next it’s a diplomatic pivot. Most of us are just left asking: *What is actually happening?*

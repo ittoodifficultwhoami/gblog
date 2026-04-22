@@ -5,6 +5,7 @@ draft: false
 categories: ["lifestyle"]
 tags: ["kindheit", "tod", "trauerbewältigung", "kindliche entwicklung", "sterben erklären", "psychologie", "erziehung", "endlichkeit"]
 slug: "wenn-wir-den-tod-begreifen-wie-kinder-endlichkeit-lernen"
+description: "Erfahren Sie, wie Kinder in verschiedenen Entwicklungsphasen die Endlichkeit begreifen und warum das sogenannte Pfützenspringen ein wichtiger Schutz ist."
 ---
 
 Erinnern Sie sich noch an Ihr allererstes Mal? Nicht an den ersten Kuss oder den ersten Schultag, sondern an den Moment, in dem Sie realisierten, dass das Leben eine Grenze hat. Viele Menschen berichten von einem diffusen Gefühl – einer Mischung aus Verwirrung, unbewusster Angst und einer seltsamen Distanz. Andere können sich an gar nichts erinnern. 

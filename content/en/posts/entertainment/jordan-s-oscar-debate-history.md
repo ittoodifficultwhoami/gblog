@@ -5,6 +5,7 @@ draft: false
 categories: ["entertainment"]
 tags: ["michael b jordan", "oscar win", "best actor", "sinners movie", "oscar debate", "acting career", "academy awards"]
 slug: "jordan-s-oscar-debate-history"
+description: "Explore the controversy behind Michael B. Jordan’s historic Oscar win for Sinners and discover why his career milestone is sparking such a heated Hollywood..."
 ---
 
 Holy Oscars! Did Michael B. Jordan really deserve that Best Actor win for 'Sinners'? If you've been scrolling through social media since the Academy Awards, you've definitely seen the debate heating up.

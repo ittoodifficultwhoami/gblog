@@ -5,6 +5,7 @@ draft: false
 categories: ["health"]
 tags: ["ultra-processed foods", "nutrition", "healthy eating", "nova classification", "processed food", "diet and health", "food science"]
 slug: "the-truth-about-ultra-processed-foods-and-your-health"
+description: "Discover how ultra-processed foods impact your health and learn to identify these industrial products using the NOVA classification system for better nutrition."
 ---
 
 You’re walking down the grocery aisle hunting for a quick meal. You flip a box over and scan the ingredient list, which reads more like a chemistry experiment than a recipe. You’ve heard the term "ultra-processed" floating around, but it feels vague—a nebulous catch-all that doesn't explain why your favorite snack leaves you feeling sluggish or why your weight is so hard to manage. 

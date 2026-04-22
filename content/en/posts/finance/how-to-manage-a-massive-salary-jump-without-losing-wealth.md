@@ -5,6 +5,7 @@ draft: false
 categories: ["finance"]
 tags: ["personal finance", "wealth building", "lifestyle creep", "salary increase", "financial planning", "money management", "high earner tips"]
 slug: "how-to-manage-a-massive-salary-jump-without-losing-wealth"
+description: "Stop lifestyle creep in its tracks by learning how to manage a significant salary jump effectively and build lasting wealth instead of falling into debt."
 ---
 
 You finally landed that massive promotion or the high-paying job you’ve been chasing for years. You log into your banking app, see that direct deposit, and feel a surge of pure adrenaline. You’ve "made it."

@@ -5,6 +5,7 @@ draft: false
 categories: ["entertainment"]
 tags: ["cosplay", "body positivity", "dead by daylight", "budget cosplay", "gaming culture", "huntress cosplay", "diy costume"]
 slug: "how-a-viral-40-huntress-cosplay-redefined-body-positivity"
+description: "Discover how a viral $40 Huntress cosplay challenged industry standards, proving that creativity and body positivity matter more than a massive budget."
 ---
 
 Have you ever wanted to dress up as your favorite video game character, but stopped yourself because you felt you didn’t “look the part”? Maybe you were worried your budget wasn’t big enough or that your body type didn’t match the character design. You aren’t alone. 

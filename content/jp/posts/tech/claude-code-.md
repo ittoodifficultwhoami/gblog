@@ -5,6 +5,7 @@ draft: false
 categories: ["tech"]
 tags: ["claude code", "aiエンジニアリング", "ソフトウェア開発", "開発効率化", "プログラミングツール", "aiコーディング", "ベストプラクティス"]
 slug: "claude-code-"
+description: "Claude Codeを活用して開発速度を最大化するベストプラクティスを解説。CLAUDE.mdの最適化など、現場で圧倒的な成果を出すための運用術を紹介します。"
 ---
 
 「AIが全部やってくれるはずじゃなかったの？」

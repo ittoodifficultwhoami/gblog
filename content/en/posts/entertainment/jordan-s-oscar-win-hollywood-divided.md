@@ -5,6 +5,7 @@ draft: false
 categories: ["entertainment"]
 tags: ["michael b jordan", "oscar win", "hollywood divided", "sinners movie", "best actor controversy", "reddit reactions", "social media debate"]
 slug: "jordan-s-oscar-win-hollywood-divided"
+description: "Michael B. Jordan’s Best Actor win for Sinners sparked a massive Hollywood debate, highlighting the intense divide between long-time fans and skeptics."
 ---
 
 # Michael B. Jordan's Oscar Win: The Victory That Split Hollywood

@@ -5,6 +5,7 @@ draft: false
 categories: ["health"]
 tags: ["erkältung", "gesundheit", "immunsystem", "infekte", "schnupfen", "gesundheitstipps", "erkältungshäufigkeit"]
 slug: "wie-oft-ist-normal-erk-ltungen-richtig-einsch-tzen"
+description: "Wie oft ist eine Erkältung eigentlich normal? Erfahre, was die Zahlen sagen, warum sich die Häufigkeit mit dem Alter ändert und wann du zum Arzt gehen solltest."
 ---
 
 Kennst du das Gefühl? Du wachst auf, es kratzt im Hals, die Nase sitzt zu, und du weißt sofort: Das Wochenende ist gelaufen. Gerade in stressigen Phasen fühlt es sich an, als würde man von einer Erkältung in die nächste stolpern. Manche von euch schreiben uns, sie seien „gefühlt 6 bis 8 Mal im Jahr“ krank, während andere stolz behaupten, nur einmal im Jahr das Bett hüten zu müssen.

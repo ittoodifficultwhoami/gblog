@@ -5,6 +5,7 @@ draft: false
 categories: ["finance"]
 tags: ["soziale ungleichheit", "zinssystem", "zinseszins", "vermögensverteilung", "finanzpolitik", "wirtschaft", "reichtum", "armut"]
 slug: "soziale-ungleichheit-ist-unser-zinssystem-wirklich-schuld-"
+description: "Trägt unser Zinssystem die Schuld an der wachsenden sozialen Ungleichheit in Deutschland oder ist die Realität der Vermögensverteilung deutlich komplexer?"
 ---
 
 Haben Sie sich jemals gefragt, warum „hart arbeiten“ in Deutschland kaum noch etwas mit dem Kontostand zu tun hat? Die Lebenshaltungskosten explodieren, viele treten trotz 40-Stunden-Woche auf der Stelle, während die Vermögen an der Spitze in schwindelerregende Höhen schießen. Es ist frustrierend. Ist der Zins der große Schuldige an dieser sozialen Schieflage?

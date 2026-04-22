@@ -5,6 +5,7 @@ draft: false
 categories: ["lifestyle"]
 tags: ["antinatalismus", "lebensphilosophie", "existenzfragen", "sinn des lebens", "philosophie", "lebensentwurf", "selbstbestimmung", "ethik"]
 slug: "h-tten-wir-vor-der-geburt-gefragt-werden-m-ssen-"
+description: "Hätten wir vor unserer Geburt gefragt werden müssen? Entdecke die philosophischen Argumente hinter der Frage, ob Existenz moralisch vertretbar ist oder nicht."
 ---
 
 „Du wirst geboren, du gehst zur Schule, du gehst arbeiten, du gehst in Rente und dann stirbst du.“ Dieser Satz kursiert oft in Online-Kommentarspalten. Er bringt das Gefühl vieler Menschen auf den Punkt: Man fühlt sich in ein Drehbuch gezwungen, bei dem man weder das Genre noch die Besetzung aussuchen durfte.

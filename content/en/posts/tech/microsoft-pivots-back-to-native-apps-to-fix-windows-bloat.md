@@ -5,6 +5,7 @@ draft: false
 categories: ["tech"]
 tags: ["windows 11", "microsoft", "native apps", "software bloat", "windows development", "tech news", "pc performance"]
 slug: "microsoft-pivots-back-to-native-apps-to-fix-windows-bloat"
+description: "Microsoft is shifting back to native Windows applications to replace resource-heavy web wrappers, aiming to reduce system bloat and improve performance."
 ---
 
 If your computer feels sluggish lately—even with decent hardware—you aren't imagining things. We’ve all been stuck in a frustrating cycle: Microsoft rolls out a "new and improved" version of a core app, and it immediately feels heavier, slower, and disconnected from the rest of the OS.

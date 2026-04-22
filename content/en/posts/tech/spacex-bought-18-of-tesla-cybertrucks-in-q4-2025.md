@@ -5,6 +5,7 @@ draft: false
 categories: ["tech"]
 tags: ["spacex", "tesla", "cybertruck", "elon musk", "ev industry", "corporate governance", "electric vehicles"]
 slug: "spacex-bought-18-of-tesla-cybertrucks-in-q4-2025"
+description: "New data reveals that SpaceX accounted for 18% of all Tesla Cybertruck registrations in Q4 2025, raising questions about internal demand and corporate synergy."
 ---
 
 If you feel like the lines between Elon Musk’s various companies are getting blurry, you aren’t alone. It seems like every time you hear about a major product success for one of his ventures, there’s a catch—or, more specifically, an internal transaction.

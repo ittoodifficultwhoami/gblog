@@ -5,6 +5,7 @@ draft: false
 categories: ["sports"]
 tags: ["wm 2026", "fifa", "dynamic pricing", "ticketpreise", "sportbusiness", "fußballtickets", "wm-tickets"]
 slug: "wm-tickets-f-r-11-000-dollar-fifa-setzt-auf-dynamic-pricing"
+description: "Die FIFA führt zur WM 2026 Dynamic Pricing ein: Erfahren Sie, wie Algorithmen die Ticketpreise auf bis zu 11.000 Dollar treiben und was das für Fans bedeutet."
 ---
 
 Stell dir vor: Du sitzt vor dem Laptop, das Herz klopft, der Countdown auf der FIFA-Webseite läuft ab. Dein Ziel ist ein Ticket für das WM-Finale 2026. Du hast gespart, du bist bereit. Dann öffnet sich das Portal – und anstatt eines fairen Preises starrst du auf eine Summe, die den Gegenwert eines Mittelklassewagens hat: 10.990 US-Dollar.

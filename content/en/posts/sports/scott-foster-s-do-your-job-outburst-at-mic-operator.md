@@ -5,6 +5,7 @@ draft: false
 categories: ["sports"]
 tags: ["scott foster", "nba", "nba referees", "basketball", "sports controversy", "philadelphia 76ers", "boston celtics", "nba playoffs"]
 slug: "scott-foster-s-do-your-job-outburst-at-mic-operator"
+description: "Explore the viral moment when veteran NBA referee Scott Foster snapped at a microphone operator, sparking a heated debate about his conduct and officiating."
 ---
 
 If you’ve ever watched an NBA game and screamed at the TV over a bad call, you aren’t alone. But on April 19, 2026, the roles flipped. During Game 1 of the Eastern Conference quarterfinals between the Sixers and Celtics, it wasn't a player or coach blowing a fuse—it was the ref.

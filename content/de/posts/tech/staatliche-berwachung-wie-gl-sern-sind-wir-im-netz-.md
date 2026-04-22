@@ -5,6 +5,7 @@ draft: false
 categories: ["tech"]
 tags: ["staatliche überwachung", "datenschutz", "internetüberwachung", "netzpolitik", "privatsphäre", "digitale grundrechte", "überwachungsstaat"]
 slug: "staatliche-berwachung-wie-gl-sern-sind-wir-im-netz-"
+description: "Wie gläsern sind wir im Netz wirklich? Erfahren Sie, wie 3.200 Überwachungsbefugnisse und Millionen Datenabfragen den digitalen Alltag in Deutschland prägen."
 ---
 
 Haben Sie sich jemals gefragt, ob Ihr Internetanschluss eigentlich noch Ihnen gehört oder ob er längst zur digitalen Außenstelle des Sicherheitsapparates geworden ist? Wenn Sie durch Ihr Postfach scrollen oder eine Nachricht senden, fühlen Sie sich dann frei – oder haben Sie eher das Gefühl, dass Ihnen jemand über die Schulter schaut? (Ein ziemlich beklemmender Gedanke, wenn man bedenkt, wie viel Zeit wir dort verbringen.)

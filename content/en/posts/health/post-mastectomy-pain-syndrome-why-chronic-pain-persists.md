@@ -5,6 +5,7 @@ draft: false
 categories: ["health"]
 tags: ["post-mastectomy pain syndrome", "pmps", "breast cancer recovery", "chronic pain", "mastectomy surgery", "breast cancer awareness", "surgical complications", "pain management"]
 slug: "post-mastectomy-pain-syndrome-why-chronic-pain-persists"
+description: "Discover why chronic pain persists after breast surgery and learn the truth about Post-Mastectomy Pain Syndrome, a condition affecting up to 50% of patients."
 ---
 
 For many, a mastectomy is strictly about survival. We focus on removing the cancer to guarantee a future, and we celebrate those life-saving results. Rightly so. But there is a silent chapter that begins after the cancer is gone and the hospital discharge papers are signed. For too many women, the hardest part of the journey isn't the diagnosis—it's the debilitating, chronic pain that follows.

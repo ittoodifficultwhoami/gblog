@@ -5,6 +5,7 @@ draft: false
 categories: ["tech"]
 tags: ["gabe newell", "valve", "video game development", "gaming industry", "steam", "game design", "tech leadership"]
 slug: "why-gabe-newell-stepped-back-from-making-valve-games"
+description: "Discover why Gabe Newell intentionally stepped back from Valve’s creative process to prevent his influence as CEO from stifling his team's innovation."
 ---
 
 Ever wonder why, after the massive success of *Portal 2* in 2011, the face of Valve basically vanished from the actual creative process? For years, fans speculated. Some thought he lost interest, others figured he was too busy counting Steam’s massive profits, and the cynics suggested he just stopped caring about making art.

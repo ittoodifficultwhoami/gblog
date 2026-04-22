@@ -5,6 +5,7 @@ draft: false
 categories: ["finance"]
 tags: ["real estate investing", "buying rental property", "landlord negotiation", "property investment tips", "real estate transaction costs", "off-market property", "home buying guide"]
 slug: "why-your-landlord-should-sell-to-you-at-a-discount"
+description: "Learn how to negotiate a discount on your rental property by showing your landlord how they can save thousands in agent commissions and fees through a direct..."
 ---
 
 You can often buy your rental property for less than market value because you are saving your landlord a fortune in transaction costs. Selling to you is not a favor; it is a cleaner, faster business deal for them.

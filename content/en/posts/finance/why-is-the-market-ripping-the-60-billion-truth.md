@@ -5,6 +5,7 @@ draft: false
 categories: ["finance"]
 tags: ["stock market", "finance", "investing", "s&p 500", "nasdaq", "market analysis", "economic trends", "stock market rally"]
 slug: "why-is-the-market-ripping-the-60-billion-truth"
+description: "Discover why global markets are surging to record highs despite economic headwinds by exploring the massive $60 billion stimulus theory driving the rally."
 ---
 
 If you’ve checked your brokerage account lately, you’re likely feeling a strange mix of euphoria and existential dread. Your portfolio is probably hitting record highs, yet the daily news is an absolute disaster. Between ballooning national debt, stubborn inflation, and a geopolitical map that looks like a powder keg, the disconnect feels jarring. 

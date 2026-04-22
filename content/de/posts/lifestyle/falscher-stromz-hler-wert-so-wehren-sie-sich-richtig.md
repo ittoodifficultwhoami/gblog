@@ -5,6 +5,7 @@ draft: false
 categories: ["lifestyle"]
 tags: ["stromrechnung", "stromzähler", "falsch abgelesen", "stromkosten sparen", "nachzahlung strom", "verbraucherschutz", "stromzähler ablesen", "stromabrechnung prüfen"]
 slug: "falscher-stromz-hler-wert-so-wehren-sie-sich-richtig"
+description: "Ist Ihre Stromrechnung zu hoch? Erfahren Sie hier, wie Sie einen falschen Zählerstand erkennen, richtig Einspruch einlegen und teure Abrechnungsfehler..."
 ---
 
 Der Schock sitzt tief: Sie öffnen den Briefumschlag Ihres Stromanbieters, erwarten eine kleine Gutschrift – und blicken stattdessen auf eine Nachzahlung, die das Budget für den nächsten Urlaub komplett sprengt. Erst einmal purer Ärger. Man fühlt sich schutzlos ausgeliefert.

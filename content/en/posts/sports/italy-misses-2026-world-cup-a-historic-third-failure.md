@@ -5,6 +5,7 @@ draft: false
 categories: ["sports"]
 tags: ["italy football", "world cup 2026", "azzurri", "italian national team", "fifa world cup", "soccer news", "football analysis"]
 slug: "italy-misses-2026-world-cup-a-historic-third-failure"
+description: "Italy has officially missed its third consecutive World Cup, marking a historic identity crisis for the four-time champions that demands a deeper analysis."
 ---
 
 How does a nation with four World Cup titles—a country whose entire culture is synonymous with the beautiful game—find itself watching the biggest show on earth from the couch for the third time in a row?

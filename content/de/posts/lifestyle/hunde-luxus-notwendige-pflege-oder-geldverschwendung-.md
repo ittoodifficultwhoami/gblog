@@ -5,6 +5,7 @@ draft: false
 categories: ["lifestyle"]
 tags: ["hunde", "haustiere", "hundepflege", "luxus für hunde", "haustiertrend", "hundezubehör", "tierbedarf", "lifestyle"]
 slug: "hunde-luxus-notwendige-pflege-oder-geldverschwendung-"
+description: "Wo verläuft die Grenze zwischen artgerechter Pflege und purem Luxus? Erfahren Sie, warum der Heimtiermarkt boomt und was Hundehalter heute wirklich brauchen."
 ---
 
 Haben Sie sich jemals gefragt, warum das Hundefutter im Supermarkt mittlerweile eine ganze Wand einnimmt, während unser eigenes Sortiment seit Jahren auf der Stelle tritt? Oder warum der Dackel aus der Nachbarschaft ein luxuriöseres Bett hat als Sie in Ihrer ersten WG-Zeit? 

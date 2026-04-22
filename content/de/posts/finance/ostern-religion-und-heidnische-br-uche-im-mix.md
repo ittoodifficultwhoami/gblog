@@ -5,6 +5,7 @@ draft: false
 categories: ["finance"]
 tags: ["ostern", "osterbräuche", "religionsgeschichte", "heidnische wurzeln", "christentum", "frühlingsfest", "osterhase", "kulturgeschichte"]
 slug: "ostern-religion-und-heidnische-br-uche-im-mix"
+description: "Entdecken Sie den faszinierenden Ursprung von Ostern: Erfahren Sie, wie religiöse Traditionen und heidnische Bräuche im Laufe der Jahrhunderte zu einem Mix..."
 ---
 
 Every year, as the snow melts and the first spring buds emerge, our malls and social media feeds fill with an odd mix of imagery. On one hand, you have solemn church bells ringing for the resurrection of Jesus; on the other, a candy-toting hare dropping off eggs in a basket.

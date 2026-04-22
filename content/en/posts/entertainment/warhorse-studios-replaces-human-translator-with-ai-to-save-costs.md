@@ -5,6 +5,7 @@ draft: false
 categories: ["entertainment"]
 tags: ["warhorse studios", "kingdom come deliverance 2", "game development", "artificial intelligence", "video game industry", "gaming news", "localization", "ai in gaming"]
 slug: "warhorse-studios-replaces-human-translator-with-ai-to-save-costs"
+description: "Warhorse Studios faces backlash after replacing human translators with AI despite record-breaking profits, sparking a debate on industry ethics and quality."
 ---
 
 It’s the kind of irony that feels scripted: a studio famous for its obsessive, historical dedication to the medieval Czech experience is now at the center of a debate about the "modern" way to cut corners. 

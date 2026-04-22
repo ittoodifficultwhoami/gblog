@@ -5,6 +5,7 @@ draft: false
 categories: ["health"]
 tags: ["cancer research", "marriage and health", "cancer risk factors", "health statistics", "relationship status", "oncology", "preventive health"]
 slug: "does-marriage-lower-your-cancer-risk-what-the-data-shows"
+description: "A new analysis of over 4 million U.S. cancer cases reveals a significant link between marital status and cancer risk, but what do these findings really mean?"
 ---
 
 It’s the kind of health news that feels almost unfair. You eat your vegetables, stay active, and keep up with your screenings—but according to a massive new analysis of over 4.2 million U.S. cancer cases, your relationship status is a hidden, high-stakes variable in your health equation.

@@ -5,6 +5,7 @@ draft: false
 categories: ["politics"]
 tags: ["donald trump", "us-politik", "präsidentschaft 2026", "us-wahlen", "gesundheitszustand trump", "amerikanische politik", "politische zukunft"]
 slug: "donald-trump-berlebt-er-politisch-und-gesundheitlich-2026-"
+description: "Wie steht es um die Gesundheit und politische Zukunft von Donald Trump im Jahr 2026? Wir analysieren die medizinischen Fakten und das volatile Umfeld."
 ---
 
 Die Welt schaut mit Sorge auf die Vereinigten Staaten. Schlagzeilen über politische Morde, eskalierende Konflikte im Nahen Osten und eine tief gespaltene Gesellschaft dominieren den Alltag. Im Zentrum dieses Sturms steht Donald Trump. Viele unserer Leser haben uns in den vergangenen Wochen eine brennende Frage gestellt: **„Kann Trump das Jahr 2026 politisch oder körperlich überhaupt überleben?“**

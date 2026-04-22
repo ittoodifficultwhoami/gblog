@@ -5,6 +5,7 @@ draft: false
 categories: ["sports"]
 tags: ["eduardo camavinga", "real madrid", "champions league", "football analysis", "red card", "sports commentary", "soccer tactics"]
 slug: "camavinga-s-86th-minute-red-card-what-went-wrong-"
+description: "Analyze the critical 86th-minute red card that defined Real Madrid's 2026 Champions League exit and explore the lapse in judgment that cost them the season."
 ---
 
 We’ve all been there. You’re locked into a high-stakes match, pulse racing, when suddenly a player makes a decision so baffling—so detached from reality—that your brain just short-circuits. You find yourself screaming at the screen, asking the same question the rest of the world was shouting on April 15, 2026: *What was he thinking?*

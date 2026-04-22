@@ -5,6 +5,7 @@ draft: false
 categories: ["politics"]
 tags: ["donald trump", "joe rogan", "psychedelics", "executive order", "mental health", "psychedelic medicine", "drug policy", "us politics"]
 slug: "trump-and-joe-rogan-s-new-executive-order-on-psychedelics"
+description: "Explore the details of the new Executive Order on psychedelic medicine, how it impacts federal funding and FDA review processes, and what it means for your..."
 ---
 
 If you’ve been scrolling through your social media since April 18, 2026, you’ve seen it: Donald Trump at the Resolute Desk, pen in hand, with Joe Rogan hovering over his shoulder. The optics were loud, the timing was calculated, and the internet exploded. 

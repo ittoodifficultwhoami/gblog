@@ -5,6 +5,7 @@ draft: false
 categories: ["tech"]
 tags: ["robotik", "künstliche intelligenz", "automatisierung", "moravec-paradoxon", "zukunft der arbeit", "technik", "robotik-trends"]
 slug: "warum-roboter-schach-spielen-aber-keine-toiletten-putzen"
+description: "Warum können Roboter komplexe Schachpartien gewinnen, scheitern aber am Toilettenputzen? Entdecken Sie mit Moravecs Paradoxon die Grenzen heutiger Robotik."
 ---
 
 Es ist ein Anblick, der gleichzeitig fasziniert und nervt: In hochmodernen Fabriken in Shanghai oder Japan bauen Roboter in sogenannten „Lights-out“-Anlagen – also Fabriken, in denen kein Mensch mehr das Licht einschalten muss – die nächste Generation von Maschinen. Konzerne wie ABB oder FANUC führen uns seit Jahren vor, wie perfekt Automatisierung funktionieren kann. 

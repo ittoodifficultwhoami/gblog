@@ -5,6 +5,7 @@ draft: false
 categories: ["lifestyle"]
 tags: ["antinatalismus", "lebensphilosophie", "schopenhauer", "lebenssinn", "psychologie", "existenzielle fragen", "persönliche entwicklung"]
 slug: "darf-man-w-tend-ber-die-eigene-geburt-sein-"
+description: "Ist es legitim, wütend über die eigene Geburt zu sein? Wir beleuchten die philosophischen und psychologischen Hintergründe zwischen Lebensbürde und Existenz."
 ---
 
 Haben Sie sich jemals mitten in der Nacht wachgelegen und sich gefragt: „Warum bin ich eigentlich hier? Und wer hat mich überhaupt gefragt, ob ich das wollte?“

@@ -5,6 +5,7 @@ draft: false
 categories: ["sports"]
 tags: ["schulsport", "brustgesundheit", "sport-bh", "bewegung", "körpergefühl", "mädchensport", "bh-beratung"]
 slug: "schulsport-bh-was-du-f-r-deine-brustgesundheit-wissen-musst"
+description: "Erfahre, warum der richtige Sport-BH im Schulsport entscheidend ist, um deine Brustgesundheit zu schützen und unangenehme Bewegungen beim Sport zu vermeiden."
 ---
 
 Hast du dich im Schulsport schon einmal dabei ertappt, wie du deine Arme verschränkt hast, nur um die Bewegung deiner Brust beim Laufen oder Springen zu verbergen? Vielleicht hast du den Sportunterricht sogar ganz geschwänzt, weil sich das Gehopse beim Rennen einfach unangenehm anfühlt.

@@ -5,6 +5,7 @@ draft: false
 categories: ["tech"]
 tags: ["offshore wind", "totalenergies", "renewable energy", "us energy policy", "clean energy", "energy infrastructure", "wind power", "climate policy"]
 slug: "us-pays-totalenergies-1b-to-scrap-offshore-wind-projects"
+description: "The U.S. government is paying TotalEnergies nearly $1 billion to scrap offshore wind projects, marking a major shift in national energy and climate policy."
 ---
 
 The U.S. government just agreed to pay a French energy giant nearly $1 billion to stop building wind farms. If that sounds like a bizarre move that flies in the face of typical economic logic, you are not alone.

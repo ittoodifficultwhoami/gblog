@@ -5,6 +5,7 @@ draft: false
 categories: ["tech"]
 tags: ["anhänger", "anhänger vibriert", "räder auswuchten", "gespann", "tempo 100", "anhänger technik", "pkw anhänger", "reifenunwucht"]
 slug: "neuer-anh-nger-vibriert-ab-80-km-h-das-ist-der-grund"
+description: "Vibriert dein neuer Anhänger ab 80 km/h? Erfahre, warum fehlende Auswuchtung ab Werk die Ursache ist und wie du das Problem mit diesem einfachen Schritt löst."
 ---
 
 „Warum fängt mein nagelneuer Anhänger ab 80 km/h plötzlich an zu vibrieren?“ Das ist der Klassiker in jedem Forum. Du investierst viel Geld in einen hochwertigen Trailer, freust dich auf die erste Fahrt, und dann das: Sobald du die Richtgeschwindigkeit erreichst, fängt alles im Rückspiegel an zu zittern. Das ganze Gespann fühlt sich plötzlich total unruhig an.

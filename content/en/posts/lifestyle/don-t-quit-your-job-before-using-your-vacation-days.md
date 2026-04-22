@@ -5,6 +5,7 @@ draft: false
 categories: ["lifestyle"]
 tags: ["career advice", "vacation days", "job resignation", "employment law", "workplace tips", "pto payout", "professional growth", "work-life balance"]
 slug: "don-t-quit-your-job-before-using-your-vacation-days"
+description: "Don't leave thousands of dollars on the table when you resign by learning why it is essential to use your earned vacation days before you hand in your notice."
 ---
 
 You’ve slogged through the year. You hit your deadlines, kept your cool, and banked every hour of vacation time on your balance sheet. Then, you decide it’s time to move on. You hand your manager your resignation letter and suddenly hit a wall: *What happens to those three weeks of vacation I never took?*

@@ -13,157 +13,28 @@
       <link>https://minweb.shop/jp/posts/tech/claude-code-45/</link>
       <pubDate>Mon, 20 Apr 2026 07:34:32 +0900</pubDate>
       <guid>https://minweb.shop/jp/posts/tech/claude-code-45/</guid>
-      <description>&lt;p&gt;「またこのメールの返信か…」「似たような事務作業で一日が終わる…」&lt;/p&gt;
-&lt;p&gt;パソコンの前に座っているのに、気づけば「作業」に追われ、肝心の研究や創作に手がつけられない。そんなフラストレーションを感じたことはありませんか？&lt;/p&gt;
-&lt;p&gt;いまIT界隈で、東大大学院生のshunyaさん（@shunya_sudo）がZennで公開した**「Claude Codeで日常のタスクを45個自動化した東大院生の全記録」&lt;strong&gt;という記事が話題です。彼は半年かけて、なんと&lt;/strong&gt;45個もの「面倒な雑務」を自動化**してしまいました。正直、ここまでやりきると一種の清々しさすらありますよね。&lt;/p&gt;
-&lt;p&gt;「なぜわざわざそこまで？」と思うかもしれません。メールの仕分けならツールでも十分ですから。ただ、彼の実践には私たちが明日から真似できる「自動化の極意」が詰まっています。&lt;/p&gt;
-&lt;h2 id=&#34;東大院生の執念半年間の全記録&#34;&gt;東大院生の執念：半年間の全記録&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&#34;Simple cartoon illustration: A clean infographic showing a bar chart with 45 bars, a clock showing &amp;ldquo;1 hour saved&amp;rdquo;, and a glowing icon representing a personal backend server.&#34; loading=&#34;lazy&#34; src=&#34;https://minweb.shop/images/claude-code-45-_0.png&#34;&gt;&lt;/p&gt;
-&lt;p&gt;まずは、このプロジェクトがどれほど本格的なものか、数字で見てみましょう。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;自動化したタスク：&lt;/strong&gt; 45個&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;開発期間：&lt;/strong&gt; 6ヶ月&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;スクリプト数：&lt;/strong&gt; 132本&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;AIエージェント数：&lt;/strong&gt; 36個&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;運用コスト：&lt;/strong&gt; 月額100ドル（Claude Code Max料金）&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;浮いた時間：&lt;/strong&gt; 1日あたり30分〜60分&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;彼が作ったのは、単なる「ショートカット」ではありません。Gmailの監視、arXivの論文通知、Discordの履歴からToDoを抽出する仕組み、さらには日程調整の返信ドラフト作成まで。これらをmacOSのcronで自動的に回す、本格的な「個人用バックエンド」です。ここまで来ると、もはや執念ですね。&lt;/p&gt;
-&lt;h2 id=&#34;なぜaiを使う必要があるのか&#34;&gt;なぜ「AI」を使う必要があるのか？&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&#34;Simple cartoon illustration: A split screen. Left side: A simple arrow sorting paper into folders. Right side: A friendly robot character analyzing a document with a magnifying glass and a lightbulb icon.&#34; loading=&#34;lazy&#34; src=&#34;https://minweb.shop/images/claude-code-45-_1.png&#34;&gt;&lt;/p&gt;</description>
+      <description>Claude Codeを活用して日常の雑務45個を自動化した東大院生の全記録。AIによる「思考」を伴う自動化で、日々の面倒な作業を効率化する極意を解説します。</description>
     </item>
     <item>
       <title>AIに全て書かせてみた：NTTデータが挑んだ開発の半年間</title>
       <link>https://minweb.shop/jp/posts/tech/ai-ntt/</link>
       <pubDate>Sat, 18 Apr 2026 07:58:50 +0900</pubDate>
       <guid>https://minweb.shop/jp/posts/tech/ai-ntt/</guid>
-      <description>&lt;p&gt;「AIにコードを書かせてみた」なんて記事は、もう見飽きるほど溢れています。でも、そのほとんどは「補助ツールとして賢く使ってみた」というレベルの話ですよね。&lt;/p&gt;
-&lt;p&gt;じゃあ、もっと極端なことをしたらどうなるのか。&lt;/p&gt;
-&lt;p&gt;「設計からテストまで、人間が1行もコードを書かずにシステムを作ったらどうなるのか？」&lt;/p&gt;
-&lt;p&gt;NTTデータの茂呂範氏率いるチームが、半年間かけてこの問いにガチンコで挑みました。これは単なる生産性向上の記録ではありません。システム開発の「あり方」そのものを根底から覆す、とんでもなく示唆に富んだ実験です。&lt;/p&gt;
-&lt;h3 id=&#34;aiネイティブ開発という実験&#34;&gt;「AIネイティブ開発」という実験&lt;/h3&gt;
-&lt;p&gt;&lt;img alt=&#34;Simple cartoon illustration: A small robot and a human high-five in front of a giant digital bar chart. The chart shows &amp;ldquo;46% Reduction&amp;rdquo; in big bold numbers.&#34; loading=&#34;lazy&#34; src=&#34;https://minweb.shop/images/ai-ntt-_0.png&#34;&gt;&lt;/p&gt;
-&lt;p&gt;2025年10月から半年間、NTTデータの開発チームが商用システムのサブシステム開発で「AIネイティブ開発」を試しました。メンバーは30年以上のベテラン、茂呂氏と若手エンジニア3名の計4人。正直、この布陣で挑むのには少し驚きました。&lt;/p&gt;
-&lt;p&gt;成果は圧巻です。開発の全工程で、人間は設計書、ソースコード、テストケースを1行も書いていません。すべてAI任せです。その結果、従来のやり方と比べて全体の工数を約46％も削減しました。ほぼ半分。これはとんでもない数字です。&lt;/p&gt;
-&lt;h3 id=&#34;なぜnttデータでうまくいったのか&#34;&gt;なぜNTTデータでうまくいったのか？&lt;/h3&gt;
-&lt;p&gt;&lt;img alt=&#34;Simple cartoon illustration: A robot building a wall with bricks labeled &amp;ldquo;Strict Rules.&amp;rdquo; Outside the wall, a stormy cloud represents &amp;ldquo;Ambiguity,&amp;rdquo; which cannot enter.&#34; loading=&#34;lazy&#34; src=&#34;https://minweb.shop/images/ai-ntt-_1.png&#34;&gt;&lt;/p&gt;
-&lt;p&gt;「Web系のスピード感とは違う、公共システムの厳しい現場でそんなことができるのか？」そう思う方もいるはずです。でも、実はその厳格さこそがAIとの相性を高める最大の武器でした。&lt;/p&gt;
-&lt;p&gt;今回採用したのは「Terasoluna（テラソルナ）」です。NTTデータの標準であるSpringベースのフレームワークで、とにかくルールが厳しい。でも、この「厳しい規約」がAIへの指示において、曖昧さを排除する最高の共通言語になってくれたんです。ぶっちゃけ、ここまで相性がいいとは最初は思いもしませんでした。&lt;/p&gt;
-&lt;p&gt;AIは自由度が高いとすぐ迷走しますが、制約（ガードレール）が明確であればあるほど、驚くほどの精度を発揮します。e-taxをはじめとする大規模システムで培われた「品質管理のノウハウ」は、AIによる自動生成と抜群の親和性を誇ります。&lt;/p&gt;
-&lt;h3 id=&#34;ハーネスエンジニアリングaiを使いこなすための武器&#34;&gt;「ハーネスエンジニアリング」：AIを使いこなすための武器&lt;/h3&gt;
-&lt;p&gt;&lt;img alt=&#34;Simple cartoon illustration: An AI gear mechanism connected to three levers labeled &amp;ldquo;Context Control,&amp;rdquo; &amp;ldquo;Guardrails,&amp;rdquo; and &amp;ldquo;Feedback Loop.&amp;rdquo;&#34; loading=&#34;lazy&#34; src=&#34;https://minweb.shop/images/ai-ntt-_2.png&#34;&gt;&lt;/p&gt;</description>
+      <description>NTTデータが挑戦した設計からテストまでコードを1行も書かないAIネイティブ開発。工数約46％削減を実現した「ハーネスエンジニアリング」の全容と、厳しい現場でAIを使いこなすための実践的なノウハウを解説します。</description>
     </item>
     <item>
       <title>Claude Codeで1人マーケ部：炎上の真相とAI活用の現実</title>
       <link>https://minweb.shop/jp/posts/health/claude-code-1-ai/</link>
       <pubDate>Fri, 17 Apr 2026 08:28:48 +0900</pubDate>
       <guid>https://minweb.shop/jp/posts/health/claude-code-1-ai/</guid>
-      <description>&lt;p&gt;「AIを使えば、たった一人でマーケティング部門の仕事を完結できる」。そんな夢のような見出しを目にしたら、あなたはどう思いますか？&lt;/p&gt;
-&lt;p&gt;2026年4月、SNSで一つの記事が大きな話題になりました。SHIFT AIの川合卓也氏が公開した「Claude Codeで1人マーケ部門を作った全記録」です。この記事はあっという間に拡散されましたが、同時に激しい「プチ炎上」も引き起こしました。&lt;/p&gt;
-&lt;p&gt;なぜこれほど議論が白熱したのか。そして、この事例から私たちが本当に学ぶべき「AI活用の現実」とは何か。騒動の裏側にある技術的な真相と、現代のビジネスパーソンが直視すべきAIの限界について解説します。（正直、みんな魔法を期待しすぎなんですよね）&lt;/p&gt;
-&lt;h2 id=&#34;有料級の看板が招いた波紋&#34;&gt;「有料級」の看板が招いた波紋&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&#34;Simple cartoon illustration: A puzzled person looking at a giant megaphone labeled &amp;ldquo;FREE VALUABLE INFO&amp;rdquo; while skeptical crowd members point at a pile of generic, repetitive-looking digital document icons.&#34; loading=&#34;lazy&#34; src=&#34;https://minweb.shop/images/claude-code-1-ai-_0.png&#34;&gt;&lt;/p&gt;
-&lt;p&gt;この記事の主張はシンプルです。「Claude Code」というAIツールを使ってリサーチや記事執筆、デザインなどの21業務を自動化し、毎日の作業を60分まで削ったというもの。これだけ聞くと夢のような話ですが、SNSでは猛反発を食らっていました。&lt;/p&gt;
-&lt;p&gt;なぜここまで批判されたのか。原因は「有料級」という言葉のチョイスと、手法の目新しさにありました。&lt;/p&gt;
-&lt;p&gt;批判の主なポイントは以下の3点です。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;「有料級」のハードルが高すぎた&lt;/strong&gt;：業務を分解して&lt;code&gt;CLAUDE.md&lt;/code&gt;にまとめるのは、AI活用の基本中の基本です。正直、これを「有料級」と呼ぶのは少し無理があるかもしれません。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;「AI Slop」への懸念&lt;/strong&gt;：AIで質の低いコンテンツを大量生産するだけでは、世の中をゴミで溢れさせるのと同じです。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;ビジネスとしての本質&lt;/strong&gt;：表面的な効率化で満足して、肝心の売上や、クライアントとの丁寧なコミュニケーションが疎かになっては本末転倒ですよね。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;効率化の裏には、こうした「甘い罠」が潜んでいます。2026年の今、技術をどう使いこなすかが問われています。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Simple cartoon illustration: A graph showing a tall bar for &amp;ldquo;Single Task Efficiency&amp;rdquo; (20x) next to a very short bar for &amp;ldquo;End-to-End Workflow&amp;rdquo; (1x) due to a large block labeled &amp;ldquo;Human Review Cost.&amp;rdquo;&#34; loading=&#34;lazy&#34; src=&#34;https://minweb.shop/images/claude-code-1-ai-_1.png&#34;&gt;&lt;/p&gt;</description>
+      <description>Claude Codeで一人マーケティングを実現した話題の事例を徹底検証。炎上の真相からMITの研究が示すAI活用の限界と、私たちが直視すべき現実を解説します。</description>
     </item>
     <item>
       <title>AI開発で変わるシステム開発の常識：800万円が3日50万円になる理由</title>
       <link>https://minweb.shop/jp/posts/tech/ai-800-3-50/</link>
       <pubDate>Sat, 21 Mar 2026 12:03:18 +0900</pubDate>
       <guid>https://minweb.shop/jp/posts/tech/ai-800-3-50/</guid>
-      <description>&lt;p&gt;システム開発の現場において、かつて常識とされていた「4ヵ月800万円」というコスト構造が、AI導入により根底から覆されています。CursorやWindsurf、自律型エージェントといったAI開発ツールの浸透は、単なる効率化の域を超え、開発ビジネスの定義そのものを書き換えました。&lt;/p&gt;
-&lt;p&gt;本稿では、現在の開発コスト構造の変容と、SIer業界が直面している構造的な地殻変動について、技術と経済の両面から解説します。&lt;/p&gt;
-&lt;h3 id=&#34;1-開発モデルの変容800万円の安心料と3日の爆速開発&#34;&gt;1. 開発モデルの変容：800万円の「安心料」と3日の「爆速開発」&lt;/h3&gt;
-&lt;p&gt;従来の受託開発における「4ヵ月800万円」の内訳は、エンジニアの工数単価と、要件定義からデバッグまでに要する人月計算に基づいています。しかし、AIツールを活用した開発環境では、この工数は劇的に圧縮されました。&lt;/p&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;項目&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;従来モデル (手動開発)&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;AI活用モデル (Agent併用)&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;要件定義・設計&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;1.0ヶ月&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;0.2ヶ月&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;実装・コーディング&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;2.0ヶ月&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;0.1ヶ月&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;テスト・検証&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;1.0ヶ月&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;0.2ヶ月&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;合計期間&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;4.0ヶ月&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;0.5ヶ月 (約2週間)&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;ここでの最大の変化は、開発における「不確実性への対策費」が不要になりつつある点です。かつて800万円を支えていたのは、エンジニアの技術力に対する報酬だけではなく、仕様変更やバグ修正という不確実性に対する「安心料」としてのバッファでした。しかし、AIがコード生成からテストケース作成までを高速で反復することで、このバッファに依存する必要性は消滅しています。&lt;/p&gt;
-&lt;h3 id=&#34;2-sierの構造的危機と単価の再定義&#34;&gt;2. SIerの構造的危機と「単価」の再定義&lt;/h3&gt;
-&lt;p&gt;SIer業界が抱える課題は、労働集約型ビジネスモデルがAIの演算コストに勝てないという点に集約されます。&lt;/p&gt;
-&lt;p&gt;これまで日本のIT投資において主流だった「人月単価」という指標は、生成AIの出力品質の向上とともに機能不全に陥っています。例えば、GitHub Copilot等のツール導入により、熟練エンジニアの生産性が30%から50%向上するという調査結果（GitHub, 2023年）が示されていますが、これは同時に「同じアウトプットに対して、従来の半分の人員しか必要としない」ことを意味します。&lt;/p&gt;
-&lt;p&gt;実務上の現実はさらにシビアです。単なるコード生成に留まらず、インフラ構成コード（IaC）やドキュメント作成までもが自動化されることで、ジュニアクラスのエンジニアが担ってきたタスクの大半は市場価値を喪失しました。&lt;/p&gt;
-&lt;h3 id=&#34;3-今後の展望構築から運用と継続的品質管理へ&#34;&gt;3. 今後の展望：構築から「運用と継続的品質管理」へ&lt;/h3&gt;
-&lt;p&gt;今後のシステム開発は、初期構築のコストを極限まで下げ、その分を「運用および継続的な品質管理」に投じる形へ移行します。&lt;/p&gt;
-&lt;p&gt;これまでのように4ヶ月かけてシステムを「納品」するビジネスは衰退を免れません。代わって台頭するのは、AIエージェントを自社内に実装し、要件定義の変更に即座に追随できる環境そのものを販売するモデルです。開発現場では、コードを書く能力よりも、AIに対して適切なコンテキストを与え、システム全体を俯瞰して評価する「アーキテクチャの審美眼」が、唯一の差別化要因となります。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Simple cartoon illustration: A split-screen comparison. Left side shows a heavy, slow-moving stone clock labeled &amp;ldquo;4 months.&amp;rdquo; Right side shows a glowing, fast-moving rocket labeled &amp;ldquo;3 days.&amp;rdquo;&#34; loading=&#34;lazy&#34; src=&#34;https://minweb.shop/images/ai-800-3-50-_0.png&#34;&gt;&lt;/p&gt;
-&lt;p&gt;従来のSIerにおける開発コストには、純粋なプログラミング費用の他に、多重下請け構造に伴う管理費や、プロジェクト管理義務という法的責任を担保するための「安心料」が含まれてきた。しかし、2025年現在、市場環境の不確実性が高まり、納期遅延に伴う機会損失が、開発費の増大を遥かに上回る経営リスクへと変容している。&lt;/p&gt;
-&lt;p&gt;富士通が2024年から2025年にかけて実施した社内検証は、この構造的転換を象徴する事例である。従来3人月（約4.5ヵ月）を要していたシステム改修を、AIエージェントの活用によってわずか「4時間」で完結させた。労働集約的なプロセスを前提とした既存の商習慣は、技術的な合理性を失いつつある。&lt;/p&gt;
-&lt;h3 id=&#34;従来型モデルとaiネイティブ開発モデルの比較&#34;&gt;従来型モデルとAIネイティブ開発モデルの比較&lt;/h3&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;項目&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;従来型SIerモデル&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;AIネイティブ開発モデル&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;開発期間&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;4ヵ月&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;3日間&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;コスト構造&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;管理費・責任費用（安心料）&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;技術実装コスト（エンジニア費）&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;主な価値&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;組織的保証・瑕疵担保&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;圧倒的なスピードと適応性&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;リスク管理&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;証跡作成・プロセス管理&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;継続的デリバリー・即時修正&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;主な課題&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;市場の変化に追従できない&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;理解負債の蓄積・脆弱性&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h3 id=&#34;ai時代の負債低コストの裏側に潜む理解負債&#34;&gt;AI時代の負債：低コストの裏側に潜む「理解負債」&lt;/h3&gt;
-&lt;p&gt;AIによる超高速開発は、単なる工数削減以上のパラダイムシフトを強いる。従来は、数ヶ月かけて行われる仕様策定や設計レビューのプロセスそのものが「仕様の理解を深める」という教育的側面を担っていた。しかし、AIが数秒でコードを生成する環境では、設計思想やシステム内部の依存関係を人間が深く咀嚼する時間が失われる。&lt;/p&gt;</description>
+      <description>AI導入によりシステム開発の常識が激変しています。従来の4ヶ月800万円のコスト構造が、AI活用でいかにして3日50万円へと変貌を遂げたのか、その技術背景とSIer業界が直面する構造的な地殻変動を解説します。</description>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,7 @@ draft: false
 categories: ["health"]
 tags: ["mastectomy recovery", "post-mastectomy pain syndrome", "pmps", "breast cancer survivorship", "chronic pain management", "cancer surgery side effects", "women's health"]
 slug: "life-after-mastectomy-understanding-chronic-pmps-pain"
+description: "Struggling with persistent discomfort after surgery? Discover the realities of Post-Mastectomy Pain Syndrome and learn how to recognize and manage symptoms."
 ---
 
 You undergo a mastectomy to save your life. You survive, you recover, and you prepare to move forward. Then, the pain begins—not the healing ache of a surgical wound, but something deeper, sharper, and far more persistent. For many women, this is the hidden, devastating reality of cancer surgery that nobody warns them about.

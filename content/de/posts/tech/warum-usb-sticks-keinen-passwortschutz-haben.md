@@ -5,6 +5,7 @@ draft: false
 categories: ["tech"]
 tags: ["usb-stick", "datensicherheit", "verschlüsselung", "usb-speicher", "passwortschutz", "datenschutz", "hardware-sicherheit", "usb-standards"]
 slug: "warum-usb-sticks-keinen-passwortschutz-haben"
+description: "Erfahren Sie, warum USB-Sticks aus technischen und historischen Gründen meist keinen Passwortschutz bieten und wie die Kompatibilität die Sicherheit..."
 ---
 
 „Warum kann ich meinen USB-Stick nicht einfach wie mein Handy oder mein E-Mail-Konto mit einem Passwort schützen?“ Falls du dich das schon mal frustriert gefragt hast, während du auf diesen kleinen Plastikstick starrst: Du bist nicht allein. Die Antwort ist keine Schikane der Hersteller, sondern eine Mischung aus uralten Standards, knallharten Kostenrechnungen und technischen Stolpersteinen. 

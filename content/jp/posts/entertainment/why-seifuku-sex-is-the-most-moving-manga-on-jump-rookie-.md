@@ -5,6 +5,7 @@ draft: false
 categories: ["entertainment"]
 tags: ["manga", "jump rookie", "seifuku sex", "dapi sasaki", "indie manga", "manga recommendations", "web manga"]
 slug: "why-seifuku-sex-is-the-most-moving-manga-on-jump-rookie-"
+description: "Discover why Dapi Sasaki’s Seifuku Sex, a viral indie manga with a provocative title, is captivating readers with its profound and moving literary narrative."
 ---
 
 Have you ever clicked a link because the title seemed shocking, only to find yourself completely disarmed by a story of quiet, profound humanity?

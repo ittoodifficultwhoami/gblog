@@ -5,6 +5,7 @@ draft: false
 categories: ["finance"]
 tags: ["real estate investing", "buying property", "life estate", "property law", "medicaid look-back", "home buying tips", "estate planning", "real estate risks"]
 slug: "buying-your-elderly-neighbor-s-home-risks-and-realities"
+description: "Thinking of buying your elderly neighbor's home? Learn the complex legal, financial, and emotional risks involved before you commit to this unique investment."
 ---
 
 You look out your window every morning and see the house next door. Maybe it’s a fixer-upper with potential, or maybe you just want to control who moves in once your 105-year-old neighbor eventually moves on. The idea of expanding your own property—or securing a long-term investment—is tempting. You’ve daydreamed about the possibilities: tearing down a fence to combine the lots, turning it into a rental, or just keeping the neighborhood quiet. Honestly, who wouldn't want to avoid a bad neighbor?

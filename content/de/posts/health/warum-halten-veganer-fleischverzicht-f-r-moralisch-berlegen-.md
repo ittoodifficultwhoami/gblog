@@ -5,6 +5,7 @@ draft: false
 categories: ["health"]
 tags: ["veganismus", "ethik", "tierrechte", "fleischverzicht", "moral", "speziesismus", "tierethik", "vegane ernährung"]
 slug: "warum-halten-veganer-fleischverzicht-f-r-moralisch-berlegen-"
+description: "Erfahren Sie, welche philosophischen Prinzipien hinter der veganen Ethik stecken und warum Fleischverzicht für viele eine moralische Notwendigkeit darstellt."
 ---
 
 Es ist ein Thema, das auf kaum einer Familienfeier ohne Zündstoff bleibt. Sie kennen das bestimmt: Man genießt ein Schnitzel, und plötzlich steht eine moralische Anklage im Raum. Die Vorwürfe wiegen schwer, Begriffe wie „Mord“ oder „Ausbeutung“ fallen, die Stimmung kippt sofort.

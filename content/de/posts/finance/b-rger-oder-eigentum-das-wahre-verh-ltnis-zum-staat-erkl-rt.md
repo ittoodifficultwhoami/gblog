@@ -5,6 +5,7 @@ draft: false
 categories: ["finance"]
 tags: ["finanzen", "staat", "steuerrecht", "bürgerrechte", "vermögensschutz", "staat und bürger", "finanzbildung"]
 slug: "b-rger-oder-eigentum-das-wahre-verh-ltnis-zum-staat-erkl-rt"
+description: "Bist du Staatsbürger oder Eigentum des Staates? Erfahre hier, wie das komplexe Verhältnis zwischen Bürger, Recht und Verwaltung wirklich funktioniert."
 ---
 
 Hast du dich jemals gefragt, warum du dich beim Finanzamt wie ein Bittsteller fühlst, während der Staat gleichzeitig so tut, als gehörtest du zu seinem Inventar? Es ist dieses ungemütliche Gefühl: Einerseits heißt es, wir sind der Souverän, wir sind der Staat. Andererseits sackt einem das Herz in die Hose, sobald der Steuerbescheid im Briefkasten liegt oder man die tickende Schuldenuhr des Bundes sieht. (Ehrlich gesagt kriege ich bei diesen Zahlen jedes Mal leichte Kopfschmerzen.)

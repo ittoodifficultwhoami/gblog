@@ -5,6 +5,7 @@ draft: false
 categories: ["entertainment"]
 tags: ["jugendpolitik", "familiendiskussionen", "generationenkonflikt", "politisches engagement", "shell jugendstudie", "gesellschaftliche debatte", "jugend von heute"]
 slug: "jugend-bei-familientreffen-warum-ihr-politischer-senf-z-hlt"
+description: "Diskutieren bei Familientreffen: Warum das politische Engagement junger Menschen kein bloßes Stören ist, sondern eine notwendige Perspektive für unsere Zukunft."
 ---
 
 Das Familienessen am Sonntag. Der Braten steht auf dem Tisch, die Stimmung ist eigentlich entspannt – bis Onkel Herbert oder Tante Erna eine Bemerkung zur aktuellen Migrationspolitik fallen lassen. Und dann passiert es: Die 15- und 17-jährigen Mädchen am Tisch lassen ihre Gabeln sinken, atmen tief durch und steigen in die Diskussion ein.

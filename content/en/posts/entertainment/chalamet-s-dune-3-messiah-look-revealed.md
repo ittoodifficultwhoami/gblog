@@ -5,6 +5,7 @@ draft: false
 categories: ["entertainment"]
 tags: ["chalamet dune 3 messiah", "dune messiah", "paul atreides", "timothée chalamet", "dune movie", "dune 3", "dune part three"]
 slug: "chalamet-s-dune-3-messiah-look-revealed"
+description: "Get your first look at Timothée Chalamet’s dramatic transformation in Dune: Part Three as he embraces his intense new role as the messiah of the desert."
 ---
 
 Hold onto your stillsuits, Dune fans! The internet just exploded with a single Instagram story, and if you're anything like me, your phone has been buzzing non-stop.

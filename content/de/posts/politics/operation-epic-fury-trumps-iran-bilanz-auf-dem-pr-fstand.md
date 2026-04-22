@@ -5,6 +5,7 @@ draft: false
 categories: ["politics"]
 tags: ["donald trump", "iran", "operation epic fury", "nahostpolitik", "militäroperation", "außenpolitik", "atomprogramm", "geopolitik"]
 slug: "operation-epic-fury-trumps-iran-bilanz-auf-dem-pr-fstand"
+description: "Analysieren Sie die militärische Bilanz und die verheerenden Folgen der Operation Epic Fury: Wie effektiv war Trumps Strategie im Iran wirklich zu welchem..."
 ---
 
 Die Schlagzeilen überschlagen sich, die Benzinpreise klettern in schwindelerregende Höhen und in den Kommentarspalten herrscht pures Chaos: Ist der Konflikt mit dem Iran nun vorbei, oder stecken wir mitten in einem Fass ohne Boden? Falls Sie das Gefühl haben, Donald Trumps „Siegeszug“ im Nahen Osten erinnere eher an ein wirres Drehbuch als an eine echte Strategie, dann sind Sie damit definitiv nicht allein. Ehrlich gesagt wirkt das Ganze wie ein schlechter Film, bei dem niemand das Ende kennt.
