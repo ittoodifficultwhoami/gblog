@@ -3,7 +3,7 @@ title: "Project Hail Mary Shatters Amazon Opening Weekend Records"
 date: 2026-03-23T10:48:54+09:00
 draft: false
 categories: ["entertainment"]
-tags: []
+tags: ["project hail mary", "movie reviews", "sci-fi movies", "amazon mgm studios", "box office records", "film industry", "entertainment news"]
 slug: "project-hail-mary-shatters-amazon-opening-weekend-records"
 description: "Project Hail Mary is a record-breaking sci-fi hit that delivers smart, original storytelling and stunning visuals; find out why this blockbuster is worth..."
 ---

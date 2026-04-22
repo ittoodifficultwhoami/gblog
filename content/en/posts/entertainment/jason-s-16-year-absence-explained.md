@@ -3,7 +3,7 @@ title: "Jason's 16-Year Absence Explained"
 date: 2026-03-16T11:06:55+09:00
 draft: false
 categories: ["entertainment"]
-tags: []
+tags: ["friday the 13th", "jason voorhees", "horror movies", "slasher films", "movie history", "camp crystal lake", "horror franchise", "film news"]
 slug: "jason-s-16-year-absence-explained"
 description: "Discover why Jason Voorhees has been absent from the big screen for 16 years and the complex legal battles that have kept the Friday the 13th franchise on ice."
 ---

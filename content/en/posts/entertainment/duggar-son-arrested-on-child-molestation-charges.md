@@ -3,7 +3,7 @@ title: "Duggar Son Arrested on Child Molestation Charges"
 date: 2026-03-19T10:56:01+09:00
 draft: false
 categories: ["entertainment"]
-tags: []
+tags: ["duggar family", "joseph duggar", "19 kids and counting", "reality tv news", "tlc", "celebrity scandal", "crime news"]
 slug: "duggar-son-arrested-on-child-molestation-charges"
 description: "Joseph Duggar, the 31-year-old son of the reality TV family, faces serious child molestation charges in Arkansas, shattering the family's wholesome image."
 ---
