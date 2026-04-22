@@ -29,19 +29,5 @@
       <guid>https://minweb.shop/jp/posts/tech/ai/</guid>
       <description>生成AIブームは情弱ビジネスか、それとも革命か。甘い言葉に惑わされず、数字と実態からAIを正しく使いこなすための現実的な戦略を徹底検証します。</description>
     </item>
-    <item>
-      <title>ChatGPTが重い時！会話をリセットする「引き継ぎプロンプト」活用術</title>
-      <link>https://minweb.shop/jp/posts/tech/chatgpt/</link>
-      <pubDate>Sun, 29 Mar 2026 07:50:00 +0900</pubDate>
-      <guid>https://minweb.shop/jp/posts/tech/chatgpt/</guid>
-      <description>ChatGPTの回答が鈍くなる「コンテキストの腐敗」を防ぎ、賢く会話をリセットしてAIのパフォーマンスを最大化する引き継ぎプロンプト活用術を解説。</description>
-    </item>
-    <item>
-      <title>Claude Codeでグロース業務を一人で回す！AIチーム活用術</title>
-      <link>https://minweb.shop/jp/posts/lifestyle/claude-code-ai/</link>
-      <pubDate>Fri, 27 Mar 2026 22:40:45 +0900</pubDate>
-      <guid>https://minweb.shop/jp/posts/lifestyle/claude-code-ai/</guid>
-      <description>dely社の小川大介氏がClaude Codeを駆使し、AIエージェントチームを編成してグロース業務を一人で完遂する画期的な手法と活用術を解説します。</description>
-    </item>
   </channel>
 </rss>
