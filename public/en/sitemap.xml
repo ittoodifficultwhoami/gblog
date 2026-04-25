@@ -2,12 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://minweb.shop/en/posts/finance/how-to-negotiate-your-medical-bill-and-save-thousands/</loc>
-    <lastmod>2026-04-24T06:51:23+09:00</lastmod>
-  </url>
-  <url>
     <loc>https://minweb.shop/en/</loc>
-    <lastmod>2026-04-24T06:51:23+09:00</lastmod>
+    <lastmod>2026-04-25T06:37:23+09:00</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="jp"
@@ -22,8 +18,12 @@
       href="https://minweb.shop/en/" />
   </url>
   <url>
+    <loc>https://minweb.shop/en/posts/tech/new-cars-must-have-impaired-driving-tech-by-2027/</loc>
+    <lastmod>2026-04-25T06:37:23+09:00</lastmod>
+  </url>
+  <url>
     <loc>https://minweb.shop/en/posts/</loc>
-    <lastmod>2026-04-24T06:51:23+09:00</lastmod>
+    <lastmod>2026-04-25T06:37:23+09:00</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="jp"
@@ -36,6 +36,10 @@
       rel="alternate"
       hreflang="en"
       href="https://minweb.shop/en/posts/" />
+  </url>
+  <url>
+    <loc>https://minweb.shop/en/posts/finance/how-to-negotiate-your-medical-bill-and-save-thousands/</loc>
+    <lastmod>2026-04-24T06:51:23+09:00</lastmod>
   </url>
   <url>
     <loc>https://minweb.shop/en/posts/lifestyle/beat-the-ats-how-to-properly-use-keywords-in-your-resume/</loc>
