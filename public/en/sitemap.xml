@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://minweb.shop/en/</loc>
-    <lastmod>2026-04-25T06:55:31+09:00</lastmod>
+    <lastmod>2026-05-04T23:12:25+09:00</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="jp"
@@ -19,7 +19,7 @@
   </url>
   <url>
     <loc>https://minweb.shop/en/posts/</loc>
-    <lastmod>2026-04-25T06:55:31+09:00</lastmod>
+    <lastmod>2026-05-04T23:12:25+09:00</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="jp"
@@ -32,6 +32,10 @@
       rel="alternate"
       hreflang="en"
       href="https://minweb.shop/en/posts/" />
+  </url>
+  <url>
+    <loc>https://minweb.shop/en/posts/tech/why-ai-is-getting-dumber-the-crisis-of-junk-data/</loc>
+    <lastmod>2026-05-04T23:12:25+09:00</lastmod>
   </url>
   <url>
     <loc>https://minweb.shop/en/posts/lifestyle/simple-life-hacks-that-make-a-big-impact/</loc>

@@ -6,8 +6,16 @@
     <description>Recent content in Artificial Intelligence on MinWeb</description>
     <generator>Hugo -- 0.147.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Apr 2026 06:36:48 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 23:12:25 +0900</lastBuildDate>
     <atom:link href="https://minweb.shop/en/tags/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why AI Is Getting Dumber: The Crisis of Junk Data</title>
+      <link>https://minweb.shop/en/posts/tech/why-ai-is-getting-dumber-the-crisis-of-junk-data/</link>
+      <pubDate>Mon, 04 May 2026 23:12:25 +0900</pubDate>
+      <guid>https://minweb.shop/en/posts/tech/why-ai-is-getting-dumber-the-crisis-of-junk-data/</guid>
+      <description>&lt;p&gt;Have you ever asked an AI a question, only to get an answer that sounded confidently, hilariously wrong? Maybe it told you to put glue on your pizza to make the cheese stick, or suggested you eat a small rock every day for your health. Honestly, I’ve seen some models suggest things that would probably get you hospitalized.&lt;/p&gt;
+&lt;p&gt;If these blunders left you scratching your head, you aren’t alone. We are witnessing a strange, digital version of the &amp;ldquo;telephone game.&amp;rdquo; As AI models grow, they are running out of the high-quality, human-written information they need to learn. In their desperation to keep growing, they’ve started feeding on their own outputs, scrapings from the darkest corners of the internet, and recycled synthetic content.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Allbirds Pivots to AI: Stock Soars 300% After GPU Shift</title>
       <link>https://minweb.shop/en/posts/tech/allbirds-pivots-to-ai-stock-soars-300-after-gpu-shift/</link>
